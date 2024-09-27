@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 1,
+    "question": "Skoç tipi bir kazanda yakıtın yakıldığı bölüme ne ad verilir?",
+    "options": [
+      "1) Cehennemlik",
+      "2) Ocak",
+      "3) Şamot",
+      "4) Duman sandığı",
+      "5) Külhan"
+    ],
+    "correctAnswer": "5) Külhan"
+  },
+  {
+    "id": 2,
+    "testIndex": 1,
+    "question": "Kondenser tutyalarının değişim işlemi için yüzde kaçının aşınması gerekir?",
+    "options": [
+      "1) %15",
+      "2) %40",
+      "3) %60",
+      "4) %75",
+      "5) %50"
+    ],
+    "correctAnswer": "5) %50"
+  },
+  {
+    "id": 3,
+    "testIndex": 1,
+    "question": "Kelebek valf için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "1) Genellikle 10 bar basınca ve 65°C sıcaklığa kadar kullanılırlar",
+      "2) Büyük çaplı olarak imal edilebilirler",
+      "3) 90°'Iik açma / kapama yaparlar",
+      "4) Debi ayar valfı olarak kullanılabilirler",
+      "5) Yukarıdakilerin hepsi doğrudur"
+    ],
+    "correctAnswer": "5) Yukarıdakilerin hepsi doğrudur"
+  },
+  {
+    "id": 4,
+    "testIndex": 1,
+    "question": "Bir telemotor donanımındaki havanın etkisi ve alınma yeri aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Hiçbir etkisi yoktur hava alınmaz",
+      "2) Dümeni vidaya tutar köprü üstündeki pompadan alınır",
+      "3) Dümen dolabını kilitler yağ deposunun kapağından alınır",
+      "4) Dümen yekesini kilitler, yekeden risiver'den (alıcıdan) alınır",
+      "5) Derce üzerindeki rilif valf atar rilif valfın girişinden alınır"
+    ],
+    "correctAnswer": "4) Dümen yekesini kilitler, yekeden risiver'den (alıcıdan) alınır"
+  },
+  {
+    "id": 5,
+    "testIndex": 1,
+    "question": "Kazan saçlarının bakım ve onarımında aşağıdakilerden hangisi yapılmamalıdır?",
+    "options": [
+      "1) Krom saçlar galvaniz boyayla boyanmak",
+      "2) Kazan saçları yırtık ve çatlak olmamalı",
+      "3) Krom ve paslanmaz kazan saçlan boyanmamalı",
+      "4) Kazan saçları birleşme yerlerine yanmaz amyant fitil konmalı",
+      "5) Kazan saçları kısır ve pastan temizlenmiş olmalı"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 6,
+    "testIndex": 1,
+    "question": "Aşağıdakilerden hangisi ile balast alma işlemi yapılmamalıdır?",
+    "options": [
+      "1) Balast tulumbaları ile",
+      "2) Seviye farkı ile",
+      "3) Yangın tulumbaları ile",
+      "4) Seyyar ecekterler ile",
+      "5) Sabit idaktörleri"
+    ],
+    "correctAnswer": "4) Seyyar ecekterler ile"
+  },
+  {
+    "id": 7,
+    "testIndex": 1,
+    "question": "Sintine separatörleriyle sintine basarken slaç solenoidinin açıklaması için aşağıdaki şartlardan hangisi gereklidir?",
+    "options": [
+      "1) Numune suyun 0 ppm olması gerekir",
+      "2) Numune suyun 14 ppm olması gerekir",
+      "3) Numune suyun 16 ppm olması gerekir",
+      "4) Numune suyun 20 ppm olması gerekir",
+      "5) Slaç solenoidinin açılmasının ppm'le bir ilgisi yoktur"
+    ],
+    "correctAnswer": "5) Slaç solenoidinin açılmasının ppm'le bir ilgisi yoktur"
+  },
+  {
+    "id": 8,
+    "testIndex": 1,
+    "question": "Evaporeyterlerde saf su elde etme işlemi aşağıdaki işlemlerden hangisi ile gerçekleştirilir?",
+    "options": [
+      "1) Deniz suyunun ısıtılması ile",
+      "2) Deniz suyunun sıkıştırılması ile",
+      "3) Deniz suyunun buharlaştırılıp yoğuşturulması ile",
+      "4) Deniz suyunu bir filitreden geçirerek",
+      "5) Deniz suyunun ısıtılıp soğutulması ile"
+    ],
+    "correctAnswer": "3) Deniz suyunun buharlaştırılıp yoğuşturulması ile"
+  },
+  {
+    "id": 9,
+    "testIndex": 1,
+    "question": "Aşağıdakilerden hangisi güverte yardımcısı değildir?",
+    "options": [
+      "1) Evaporator",
+      "2) Tov vinci",
+      "3) Baş ırgat",
+      "4) Kreynler",
+      "5) Mataforlar"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 10,
+    "testIndex": 1,
+    "question": "Devreye alındıktan bir süre sonra verdisi azalan bir santrifüj pompada aşağıdakilerden hangisi buna neden değildir?",
+    "options": [
+      "1) Pompa hava yapmıştır",
+      "2) Glend somunu biraz gevşemiştir",
+      "3) Impeller kanatları çok kirlenmiştir",
+      "4) Aşınma ringi erozyona uğramıştır",
+      "5) Emme devresinde kavitasyon olmuştur"
+    ],
+    "correctAnswer": "2) Glend somunu biraz gevşemiştir"
+  },
+  {
+    "id": 11,
+    "testIndex": 1,
+    "question": "Bir boru devresinde akımı düzenlemek için en uygun valf aşağıdakilerden hangisidir?",
+    "options": [
+      "1) İğne valf",
+      "2) Sülüs valf",
+      "3) Piston valf",
+      "4) Musluk valf",
+      "5) Kelebek valf"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 12,
+    "testIndex": 1,
+    "question": "Uzun süre kullanılmayacak bir kazanın kuru olarak korunmasına karar verilirse nem ve oksijen alıcı olarak aşağıdakilerden hangilerini kullanmak uygun olur?",
+    "options": [
+      "1) Sodyum klorür - Deniz kumu",
+      "2) Sönmemiş kireç - Taş kömürü",
+      "3) Sönmüş kireç - Mangal kömürü",
+      "4) Kalsiyum sülfat - Linyit kömürü",
+      "5) Demir çimentosu - Suni gübre"
+    ],
+    "correctAnswer": "3) Sönmüş kireç - Mangal kömürü"
+  },
+  {
+    "id": 13,
+    "testIndex": 1,
+    "question": "1/2\" erkek x 3/8\" dişi olan bağlantı elemanına ne ad verilir?",
+    "options": [
+      "1) Manşon",
+      "2) Nipel",
+      "3) Redüksiyon",
+      "4) Adaptör",
+      "5) Yüksük"
+    ],
+    "correctAnswer": "4) Adaptör"
+  },
+  {
+    "id": 14,
+    "testIndex": 1,
+    "question": "Onarım görmüş pistonlu bir pompadan gelen inleme seslerinin nedeni aşağıdakilerden hangisi olabilir?",
+    "options": [
+      "1) Aşırı ısınmış piston segmanları",
+      "2) Silindir gömleğinde paslanma",
+      "3) Emme devresindeki hava",
+      "4) Aşırı sıkı segmanlar",
+      "5) Pistonun yüksek hızı"
+    ],
+    "correctAnswer": "4) Aşırı sıkı segmanlar"
+  },
+  {
+    "id": 15,
+    "testIndex": 1,
+    "question": "Ekonomayzerin görevi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Kazandan çıkan buharı daha fazla ısıtmak",
+      "2) Baca gazlarını soğutmak",
+      "3) Kazana verilen suyu daha fazla ısıtmak",
+      "4) Suyun içindeki oksijeni ayırmak",
+      "5) Kullanılan buharı yoğuşturmak"
+    ],
+    "correctAnswer": "3) Kazana verilen suyu daha fazla ısıtmak"
+  },
+  {
+    "id": 16,
+    "testIndex": 1,
+    "question": "Aşağıdakilerden hangisi dreyn sisteminin amaçlarından değildir?",
+    "options": [
+      "1) Sistemin verimli çalışmasını sağlamak",
+      "2) Buhar devrelerinde korozyonu önlemek",
+      "3) Boru devrelerini yüksek ısıdan korumak",
+      "4) Malzemenin hasar görmesini önlemek",
+      "5) Sistemdeki su kaybını önlemek"
+    ],
+    "correctAnswer": "3) Boru devrelerini yüksek ısıdan korumak"
+  },
+  {
+    "id": 17,
+    "testIndex": 1,
+    "question": "Aşağıdakilerden hangisi santrifüj pompalar için bir dezavantajdır?",
+    "options": [
+      "1) Raks yapmazlar",
+      "2) Yüksek hıza ve yüke uygundurlar",
+      "3) Tasarımları basittir",
+      "4) Değişen hız ve basınca hassastırlar",
+      "5) Aynı kapasite ile çalışan diğerlerinden daha ufak ve hafifletirler"
+    ],
+    "correctAnswer": "4) Değişen hız ve basınca hassastırlar"
+  },
+  {
+    "id": 18,
+    "testIndex": 1,
+    "question": "Vakumlu bir evaporaörde deniz suyunun evapotörde buharlaşma sıcaklığı aşağıdakilerden hangileridir?",
+    "options": [
+      "1) 75 C",
+      "2) 65 C",
+      "3) 60 C",
+      "4) 45 C",
+      "5) 35 C"
+    ],
+    "correctAnswer": "4) 45 C"
+  },
+  {
+    "id": 19,
+    "testIndex": 1,
+    "question": "Gemi içme suyu sistemlerinde kullanılan hisroforların pnömatik tankiarma aşağıdakilerden hangisi sağlanmaz ise sistem çalışmaz?",
+    "options": [
+      "1) Doymuş buhar",
+      "2) Hava",
+      "3) Kızgın buhar",
+      "4) Propan gazı",
+      "5) Metan gazı"
+    ],
+    "correctAnswer": "2) Hava"
+  },
+  {
+    "id": 20,
+    "testIndex": 1,
+    "question": "Su borulu bir kazanda seyfti valf atmadan önce onun atabileceğini haber veren valf aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Blodra valf",
+      "2) Sniftin valf",
+      "3) Gardiyan valf",
+      "4) Brayn valf",
+      "5) Sentinel valf"
+    ],
+    "correctAnswer": "5) Sentinel valf"
+  }
+]

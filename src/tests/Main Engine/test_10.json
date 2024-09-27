@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 9,
+    "question": "Kapalı bir soğutma devresinde en yüksek basınç nerededir?",
+    "options": [
+      "1) Silindir ceketi çıkışındadır",
+      "2) Genişleme tankının girişindedir",
+      "3) Soğutucunun girişindedir",
+      "4) Soğutucunun çıkışındadır",
+      "5) Soğutma pompasının çıkışındadır"
+    ],
+    "correctAnswer": "5) Soğutma pompasının çıkışındadır"
+  },
+  {
+    "id": 2,
+    "testIndex": 9,
+    "question": "Bir dizel makinesinden alınan örnek yağın analizinde, bulunan hangi nörtleştirme değeri yağlama yağının değiştirilmesini gerektirir?",
+    "options": [
+      "1) 0,5 - 0,6 mg (KOH) / g (Yağ)",
+      "2) 0,4 - 0,5 mg (KOH) / g (Yağ)",
+      "3) 0,2 - 0,3 mg (KOH) / g (Yağ)",
+      "4) 0,6 - 0,8 mg (KOH) / g (Yağ)",
+      "5) 1,0 - 2,0 mg (KOH) / g (Yağ)"
+    ],
+    "correctAnswer": "5) 1,0 - 2,0 mg (KOH) / g (Yağ)"
+  },
+  {
+    "id": 3,
+    "testIndex": 9,
+    "question": "Grafit gibi katı organik yağlayıcılar, bir miktar sıvı yağ eklenerek aşağıda belirtilenlerden hangisinde kullanılırlar?",
+    "options": [
+      "1) Yüksek sıcaklıklara konu olan makine yağı yataklarında",
+      "2) Genel servis pompalarının antifriksiyon yataklarında",
+      "3) Dalgalanan yüklere konu olan yataklarda",
+      "4) Dizel makinelerinin palamar yataklarında",
+      "5) Ara şaft yataklarında"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 4,
+    "testIndex": 9,
+    "question": "Aşağıda verilenlerden hangisinin yataklarının yağlanmasında gres tabancası kullanılır?",
+    "options": [
+      "1) Yoğuşum pompasının yatakları",
+      "2) Ana krankşaft yatakları",
+      "3) Rotorşaft yatakları",
+      "4) Gacın pin yatakları",
+      "5) Pistonlu fitsuyu pompasının yatakları"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 5,
+    "testIndex": 9,
+    "question": "Gres yağlayıcıların tozlarla kirletilmesine müsaade edilmemesinin sebebi nedir?",
+    "options": [
+      "1) Tozlar yatakların korrozyonuna neden olur",
+      "2) Yataklardan aşırı bir şekilde yağ kaçakları oluşur",
+      "3) Tozlar gresle karıştıkları zaman çok aşındırıcı olurlar",
+      "4) Gres yanıcı bir hale gelir",
+      "5) Gres patlayıcı oluşturur"
+    ],
+    "correctAnswer": "3) Tozlar gresle karıştıkları zaman çok aşındırıcı olurlar"
+  },
+  {
+    "id": 6,
+    "testIndex": 9,
+    "question": "Dizel makinelerinin karter yağlarının analizleri sonucu bulunan, hangi konradson karbon artığı değeri, yağlama yağının değiştirilmesini gerektirir?",
+    "options": [
+      "1) %0,5 - %0,7",
+      "2) %0,3 - %0,4",
+      "3) %0,1 - %0,2",
+      "4) %1,0 - %2,0",
+      "5) %0,01 - %0,03"
+    ],
+    "correctAnswer": "4) %1,0 - %2,0"
+  },
+  {
+    "id": 7,
+    "testIndex": 9,
+    "question": "Belirli sıcaklıklarda, örneğin 120�C ile 150�C arasında maksimum kimyasal denge ve ayrışmaya direnç gösteren sabun gresi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Kireç sabunlu gresler",
+      "2) Kalsiyum sabunlu gresler",
+      "3) Sodyum sabunlu gresler",
+      "4) Lityum sabunlu gresler",
+      "5) Vanatyum sabunlu gresler"
+    ],
+    "correctAnswer": "4) Lityum sabunlu gresler"
+  },
+  {
+    "id": 8,
+    "testIndex": 9,
+    "question": "Bir dizel makinesinin soğutma sisteminde en düşük basınç nerede bulunur?",
+    "options": [
+      "1) Ceket suyu çıkışında",
+      "2) Soğutma suyu pompasının çıkış tarafında",
+      "3) Genişleme tankının atmosferik çıkışında",
+      "4) Soğutucunun çıkışında",
+      "5) Soğutucunun girişinde"
+    ],
+    "correctAnswer": "3) Genişleme tankının atmosferik çıkışında"
+  },
+  {
+    "id": 9,
+    "testIndex": 9,
+    "question": "Bilyalı yatakları gres tabancası ile yağladıktan sonra yapılması gereken nedir?",
+    "options": [
+      "1) Yatak dreyni açık olarak makinenin kısa bir süre çalıştırılması gerekir",
+      "2) Yataktaki hava cebini dengelemek için yatağın dreyni kapatılır ve küçük bir miktar gres ilave edilmelidir",
+      "3) Analiz için yataktan bir miktar gres alınmalıdır",
+      "4) Hiçbir işlem yapılmamalıdır",
+      "5) 3 ve 4 uygulanmalıdır"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 10,
+    "testIndex": 9,
+    "question": "Greslere ilişkin \"Baz veya alkalin\" sözcüğünün anlamı nedir?",
+    "options": [
+      "1) Gresin yük altındaki yapısıdır",
+      "2) Gresin yumuşayacağı veya eriyeceği sıcaklık derecesidir",
+      "3) Yapımında kullanılan sabunun türüdür",
+      "4) Yağlayıcı olarak gresin etkisiz olduğu sıcaklık derecesidir",
+      "5) Gresin çalışabileceği maksimum sıcaklık derecesidir"
+    ],
+    "correctAnswer": "3) Yapımında kullanılan sabunun türüdür"
+  },
+  {
+    "id": 11,
+    "testIndex": 9,
+    "question": "Gücü 7800 bhp saat olan bir süzer makinesinde, özgül silindir yağı tüketimi 0,80 gr/kWe-saat olduğuna göre makinenin bir saatteki silindir yağı tüketimi ne kadar olacaktır ?",
+    "options": [
+      "1) 4856,6 gram",
+      "2) 4756,6 gram",
+      "3) 4656,6 gram",
+      "4) 4556,6 gram",
+      "5) 4456,6 gram"
+    ],
+    "correctAnswer": "3) 4656,6 gram"
+  },
+  {
+    "id": 12,
+    "testIndex": 9,
+    "question": "Blok şeklindeki tutya anotların, korrozyon önleyici yağ ile değiştirilmesinin sebeplerinden biri, aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Tutya anotlar yavaş yavaş aşınır ve çinko partikülleri dizel makinesinin soğutma yüzeyinde yığılır",
+      "2) Korrozyondan koruyucu yağ kullanılması, soğutucu maddenin ısı transferini geliştirir",
+      "3) Tutya bloklar aşırı ısınma oluşturma eğilimindedirler",
+      "4) Soğutma sistemi, kimyasal pil oluşumu için mutlak surette temiz olmalıdır",
+      "5) 2 ve 3 olmalıdır"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 13,
+    "testIndex": 9,
+    "question": "Sıkıştırmak gres kaplarında, gres yatağa ne şekilde girer?",
+    "options": [
+      "1) Gravite (cazibe) akımı ile",
+      "2) Yay basıncı ile",
+      "3) Basınç tabancası ile",
+      "4) Basınçlı hava ile",
+      "5) 3 ve 4 ile"
+    ],
+    "correctAnswer": "2) Yay basıncı ile"
+  },
+  {
+    "id": 14,
+    "testIndex": 9,
+    "question": "Dizel makinelerinde kullanılan yağlama yağlarına, kurutma kağıdı yardımıyla uygulanan \"Basit nokta deneyi\" ile aşağıda belirtilenlerden hangisi saptanır?",
+    "options": [
+      "1) Yağlama yağının yakıt ile kirlenme yüzdesi",
+      "2) Yağlama yağının yaklaşık olarak vizkositesi",
+      "3) Yağlama yağının yaklaşık olarak kirlenme noktası",
+      "4) TBN değeri",
+      "5) TAN değeri"
+    ],
+    "correctAnswer": "3) Yağlama yağının yaklaşık olarak kirlenme noktası"
+  },
+  {
+    "id": 15,
+    "testIndex": 9,
+    "question": "Ana makine olarak kullanılan ağır devirli yüksek güçlü dizel makinelerinde, deniz suyu doğrudan nereyi soğutur?",
+    "options": [
+      "1) Silindir başlıklarını",
+      "2) Egzoz valflarını",
+      "3) Süperşarj havasını",
+      "4) Enjektörleri",
+      "5) Egzoz manifoldunu"
+    ],
+    "correctAnswer": "3) Süperşarj havasını"
+  },
+  {
+    "id": 16,
+    "testIndex": 9,
+    "question": "Ağır devirli, yüksek güçlü MAN & Burmeisier Wein makinelerinde özgül silindir yağı tüketimi 0,58 gr. / bhp-saat olduğuna göre kilovat-saat basma silindir yağı tüketimi aşağıda verilenlerden hangisi olacaktır?",
+    "options": [
+      "1) 0,96 gr/kWe - saat",
+      "2) 0,89 gr/kWe - saat",
+      "3) 0,85 gr/kWe - saat",
+      "4) 0,80 gr/kWe - saat",
+      "5) 0,77 gr/kWe - saat"
+    ],
+    "correctAnswer": "5) 0,77 gr/kWe - saat"
+  },
+  {
+    "id": 17,
+    "testIndex": 9,
+    "question": "Alçak devirli yataklar istisna edilirse rulman yatakların boş hacimleri, uygun gres ile ne kadar doldurulmalıdır?",
+    "options": [
+      "1) 1/4'ten azı",
+      "2) 1/3 ile 1/2 kadarı",
+      "3) 1/2 ile 3/4 kadarı",
+      "4) 3/4'ten fazlası",
+      "5) 4/4' ü"
+    ],
+    "correctAnswer": "2) 1/3 ile 1/2 kadarı"
+  },
+  {
+    "id": 18,
+    "testIndex": 9,
+    "question": "Bilyalı veya rulman yataklarda, uygun bir yağlama sağlamak ve yüksek yatak sıcaklığından kaçınmak için gres miktarı yaklaşık ne kadar olmalıdır?",
+    "options": [
+      "1) Yataktaki boş hacimin %10-%15'i",
+      "2) Yataktaki boş hacimin %35-%40'ı",
+      "3) Yataktaki boş hacimin %50-%60'ı",
+      "4) Yataktaki boş hacimin %60-%70'i",
+      "5) Yataktaki boş hacimin %70-%80'i"
+    ],
+    "correctAnswer": "2) Yataktaki boş hacimin %35-%40'ı"
+  },
+  {
+    "id": 19,
+    "testIndex": 9,
+    "question": "Yatak yağındaki grafit veya grafit gresleri ne gibi bir etki yapar?",
+    "options": [
+      "1) Alçak sıcaklık sızdırmazcısı olarak",
+      "2) Nem veya rutubet bariyeri olarak",
+      "3) Yatak yüzeylerindeki pürüzleri doldurarak düzgün yüzey sağlar",
+      "4) Yataktan aldığı ısıyı götüren bir soğutucu olarak",
+      "5) 1 ve 2'yi sağlar"
+    ],
+    "correctAnswer": "3) Yatak yüzeylerindeki pürüzleri doldurarak düzgün yüzey sağlar"
+  },
+  {
+    "id": 20,
+    "testIndex": 9,
+    "question": "Özgül silindir yağı tüketimi 0.80 gram/kWe-saat olan bir makine, saatte 7200 gr yağ tüketmektedir. Bu makinenin gücü kaç bhp olmalıdır?",
+    "options": [
+      "1) 12 160 bhp",
+      "2) 12 060 bhp",
+      "3) 12 260 bhp",
+      "4) 12 360 bhp",
+      "5) 12 460 bhp"
+    ],
+    "correctAnswer": "2) 12 060 bhp"
+  }
+]

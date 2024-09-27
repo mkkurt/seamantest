@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 11,
+    "question": "Bir dizel makinesi ilk hareket sırasında düzgün olarak dönüyor, fakat yakıt verildiğinde derhal stop ediyorsa, hata hangi sistemdedir?",
+    "options": [
+      "1) Yağlama sisteminde",
+      "2) Marş devresinde",
+      "3) Ateşleme devresinde",
+      "4) Basınçlı hava devresinde",
+      "5) Yakıt sisteminde"
+    ],
+    "correctAnswer": "5) Yakıt sisteminde"
+  },
+  {
+    "id": 2,
+    "testIndex": 11,
+    "question": "Çalışmakta olan bir dizel makinesinde bir silindirin aşırı yükte çalıştığını anlamanın en pratik yolu aşağıda verilenlerden hangisidir?",
+    "options": [
+      "1) Silindir egzozları siyah duman bakımından denetlenir",
+      "2) O silindirde yanma vuruntusu duyulmaya çalışılır",
+      "3) Her bir silindir yalıtılır ve enjektör gözden geçirilir",
+      "4) Silindirin egzoz sıcaklığı sık sık denetlenir",
+      "5) Egzoz sıcaklıkları her iki saatte bir başı denetlenir"
+    ],
+    "correctAnswer": "4) Silindirin egzoz sıcaklığı sık sık denetlenir"
+  },
+  {
+    "id": 3,
+    "testIndex": 11,
+    "question": "İki zamanlı bir dizel makinesinde tümüyle veya kısmen tıkanmış egzoz portları aşağıda belirtilenlerden hangisine neden olur?",
+    "options": [
+      "1) Makinenin aşırı hızına",
+      "2) Makinenin stop etme arızasına",
+      "3) Makine genel veriminin yükselmesine",
+      "4) Makine silindir rilif valflarının atmasına",
+      "5) Sıkıştırma basıncının yükselmesine"
+    ],
+    "correctAnswer": "4) Makine silindir rilif valflarının atmasına"
+  },
+  {
+    "id": 4,
+    "testIndex": 11,
+    "question": "Dört zamanlı, 1000 beygirgücünde bir dizel makinesi normal krank hızı, normal çevre hızı ve normal yakıt basıncında ilk hareket yapamıyorsa, arıza sebebi ne olabilir?",
+    "options": [
+      "1) Camlaşmış layenerler veya pistonlar",
+      "2) Yüksek yağlama yağı basıncı",
+      "3) Aşırı kompresyon oranı",
+      "4) Aşınmış valf yuvaları ve valflar",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "4) Aşınmış valf yuvaları ve valflar"
+  },
+  {
+    "id": 5,
+    "testIndex": 11,
+    "question": "Dizel makinelerinde her bir silindirin performansı genel olarak egzoz gazının analizi ile saptanır. Bu analiz aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Kimyasal analiz",
+      "2) Kızılötesi analiz",
+      "3) Pirometre göstergesi",
+      "4) Kalorimetrik analiz",
+      "5) Fiziksel analiz"
+    ],
+    "correctAnswer": "2) Kızılötesi analiz"
+  },
+  {
+    "id": 6,
+    "testIndex": 11,
+    "question": "Çalışmayan bir dizel makinesinde ilk hareket havası valfının (starting valfın) kaçırıldığının anlaşılması için hangi yöntem kullanılır?",
+    "options": [
+      "1) İlk hareket havası valfının kemi denetlenir",
+      "2) Silindir kontrol musluğu açılarak hava akımı denetlenir",
+      "3) Hava kompresörü stop edilir ve tüm sistemdeki basınç düşümü denetlenir",
+      "4) Kaçan veya sızan hava nedeniyle her bir hava besleme hattının ılık olup olmadığı izlenir",
+      "5) X - X - X"
+    ],
+    "correctAnswer": "2) Silindir kontrol musluğu açılarak hava akımı denetlenir"
+  },
+  {
+    "id": 7,
+    "testIndex": 11,
+    "question": "Eğer bir dizel makinesi, normal hızda dönüyor fakat ilk hareketi sağlamıyorsa, bunun sebebi geç püskürtme olabilir. Diğer bir neden ise aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Aşırı yakıt basıncı",
+      "2) Yüksek yağlama yağı viskozitesi",
+      "3) Uygun olmayan yakıt püskürtme",
+      "4) Aşırı yüksek ilk hareket havası basıncı",
+      "5) Alçak yağlama yağı viskozitesi"
+    ],
+    "correctAnswer": "3) Uygun olmayan yakıt püskürtme"
+  },
+  {
+    "id": 8,
+    "testIndex": 11,
+    "question": "Dört zamanlı bir dizel makinesinde, normale göre düşük kompresyon basıncı ve yüksek egzoz sıcaklığı, aşağıdakilerden hangisini belirtir?",
+    "options": [
+      "1) Erken yakıt püskürtme taymingini",
+      "2) Kaçıran veya sızdıran valfları",
+      "3) Hava girişinin tıkandığını",
+      "4) Düşük soğutma suyu sıcaklığını",
+      "5) Kompresyon oranının büyüdüğünü"
+    ],
+    "correctAnswer": "2) Kaçıran veya sızdıran valfları"
+  },
+  {
+    "id": 9,
+    "testIndex": 11,
+    "question": "Uzun bir süre hafif yüklerde ve alçak sıcaklıklarda çalıştırılan dizel makinelerinde, aşağıda belirtilenlerden hangisi oluşur?",
+    "options": [
+      "1) Yüksek ceket suyu sıcaklıkları",
+      "2) Aşırı ortalama basınçlar",
+      "3) Giriş ve egzoz valflarında karbon oluşumu",
+      "4) Piston ve silindirlerin aşırı ısınması",
+      "5) Yakıtla kirlendiği için yağlama yağı viskozitesinin yükselmesi"
+    ],
+    "correctAnswer": "3) Giriş ve egzoz valflarında karbon oluşumu"
+  },
+  {
+    "id": 10,
+    "testIndex": 11,
+    "question": "Soğuk dizel makinelerinde krankşaft ilk hareket hızının yetersiz olmasının en çok rastlanılan sebebi nedir?",
+    "options": [
+      "1) Düşük yağlama yağı viskozitesi",
+      "2) Yüksek yağlama yağı viskozitesi",
+      "3) Yakıtın normale göre geç püskürtülmesi",
+      "4) Yakıtın normale göre erken püskürtülmesi",
+      "5) Püskürtme basıncının normale göre yüksek olması"
+    ],
+    "correctAnswer": "2) Yüksek yağlama yağı viskozitesi"
+  },
+  {
+    "id": 11,
+    "testIndex": 11,
+    "question": "Çalışmakta olan bir dizel makinesinde ilk hareket havası valfının kaçırıldığının belirtisi nedir?",
+    "options": [
+      "1) İlk hareket havası valfından gelen gürültü",
+      "2) İlk hareket havası kompresörünün devamlı operasyonu",
+      "3) İlk hareket havası sisteminde sıfır basınç",
+      "4) Silindir başlığında aşırı ısınmış startin valf besleme borusu",
+      "5) X - X - X"
+    ],
+    "correctAnswer": "4) Silindir başlığında aşırı ısınmış startin valf besleme borusu"
+  },
+  {
+    "id": 12,
+    "testIndex": 11,
+    "question": "Dizel makinelerinin egzoz gazlarında karbon monoksit oluşumuna nasıl engel olunur?",
+    "options": [
+      "1) Egzoz borusuna su püskürtülerek",
+      "2) Egzoz sistemini karbon artıklarından temizleyerek",
+      "3) Uygun yanma ve süpürme sağlayarak",
+      "4) Makinenin hafif yüklerinden kaçınarak",
+      "5) Yukardakilerin tümünü uygulayarak"
+    ],
+    "correctAnswer": "3) Uygun yanma ve süpürme sağlayarak"
+  },
+  {
+    "id": 13,
+    "testIndex": 11,
+    "question": "Bir dizel makinesi için, soğuk havalardaki ilk hareket sorunları bakımından en duyarlı yada hassas olan ilk hareket sistemi hangisidir?",
+    "options": [
+      "1) Basınçlı hava ile ilk hareket sistemi",
+      "2) Haydrolik marş motorlu sistem",
+      "3) Elektrik marş motorlu sistem",
+      "4) Havalı marş motoru sistemi",
+      "5) Yardımcı benzin motorlu ilk hareket sistemi"
+    ],
+    "correctAnswer": "3) Elektrik marş motorlu sistem"
+  },
+  {
+    "id": 14,
+    "testIndex": 11,
+    "question": "Bir dizel makinesi ilk hareket havası ile normal krank hızına erişiyor, ancak ateşleme yapmıyorsa, bu aşağıda belirtilenlerden hangisinin sonucudur?",
+    "options": [
+      "1) Alçak yağlama yağı basıncının",
+      "2) Alçak ilk hareket havası basıncının",
+      "3) Aşırı ilk hareket havası basıncının",
+      "4) Yüksek yağlama yağı basıncının",
+      "5) Yakıt sistemindeki havanın"
+    ],
+    "correctAnswer": "5) Yakıt sistemindeki havanın"
+  },
+  {
+    "id": 15,
+    "testIndex": 11,
+    "question": "Eğer bir dizel makinesinin egzoz sıcaklığı anormal şekilde yüksek ise, sebep nedir?",
+    "options": [
+      "1) Makinenin yükü çok hafiftir",
+      "2) Yakıt püskürtme taymingi çok erkendir",
+      "3) Makine aşırı yükte çalışmaktadır",
+      "4) Kompresyon oranı çok küçüktür",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "3) Makine aşırı yükte çalışmaktadır"
+  },
+  {
+    "id": 16,
+    "testIndex": 11,
+    "question": "Bir gemi dizel makinesinin kapatılmadan önce - Eğer mümkünse - bir kaç dakika boşta çalıştırılması zorunluluğunun sebebi nedir?",
+    "options": [
+      "1) Kapama sırasında gavörnör gücünün yükselmesi",
+      "2) Yakıt püskürtme nozullarının temizlendiğinden emin olmak",
+      "3) Yakıt püskürtme borusunda basınç oluşmasını önlemek",
+      "4) Yerel aşırı ısınma nedeniyle hasara engel olmak",
+      "5) Ölü hacimdeki atık gazları azaltmak"
+    ],
+    "correctAnswer": "4) Yerel aşırı ısınma nedeniyle hasara engel olmak"
+  },
+  {
+    "id": 17,
+    "testIndex": 11,
+    "question": "İlk hareket yapamayan bir dizel makinesinin sorunu nedir?",
+    "options": [
+      "1) Uygun olmayan püskürtme taymingi",
+      "2) Alçak egzoz karşı basıncı",
+      "3) Egzoz valflarının açma miktarı",
+      "4) Krankların aşırı dönme hızı",
+      "5) Yüksek ilk hareket havası basıncı"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 18,
+    "testIndex": 11,
+    "question": "Dizel makinelerinin egzoz sistemlerindeki yanma ürünlerinin, çiyleşme noktalarının altına kadar soğutulması, makinede ne gibi bir sorun oluşturur?",
+    "options": [
+      "1) Makinenin karşı basıncı yükselir",
+      "2) Makinede sülfürik asit korrozyonu oluşur",
+      "3) Makinede ısıl şok meydana gelir",
+      "4) Türboblover kanatlarında nem vuruntusu başlar",
+      "5) Makinenin genel verimi azalır"
+    ],
+    "correctAnswer": "2) Makinede sülfürik asit korrozyonu oluşur"
+  },
+  {
+    "id": 19,
+    "testIndex": 11,
+    "question": "Türboşarjlı bir dizel makinesinin egzoz sisteminin görevi nedir?",
+    "options": [
+      "1) Türboşarjerlere güç sağlar",
+      "2) Verimli besleme sistemlerine ısı enerjisi sağlar",
+      "3) Atık ısı kazanlarını besler",
+      "4) Maksimum basıncı yükseltir",
+      "5) 4 dışında tümüdür"
+    ],
+    "correctAnswer": "4) Maksimum basıncı yükseltir"
+  },
+  {
+    "id": 20,
+    "testIndex": 11,
+    "question": "İki zamanlı dizel makinelerinin egzoz portlarında karbonumsu atıkların birikmesinin sebebi nedir?",
+    "options": [
+      "1) Yüksek püskürtme basıncı",
+      "2) Yüksek kompresyon basıncı",
+      "3) Yüksek yanma basıncı",
+      "4) İlk hareket havası borusunun aşırı ısınması",
+      "5) Aşırı egzoz sıcaklığı"
+    ],
+    "correctAnswer": "5) Aşırı egzoz sıcaklığı"
+  }
+]

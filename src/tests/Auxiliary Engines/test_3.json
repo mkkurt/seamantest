@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 2,
+    "question": "Bir gasketin iyi bir sızdırmazlık elemanı olabilmesi için aşağıdaki hangi yeteneğe sahip olması gerekir?",
+    "options": [
+      "1) Sertleşme",
+      "2) Uzama",
+      "3) Daralma",
+      "4) Esneme",
+      "5) Genleşme"
+    ],
+    "correctAnswer": "4) Esneme"
+  },
+  {
+    "id": 2,
+    "testIndex": 2,
+    "question": "Valf sit yarası ne ile alıştırılır?",
+    "options": [
+      "1) Yağ ile",
+      "2) Fuel oil ile",
+      "3) Su ile",
+      "4) Alıştırma macunu ile",
+      "5) Gasket macunu ile"
+    ],
+    "correctAnswer": "4) Alıştırma macunu ile"
+  },
+  {
+    "id": 3,
+    "testIndex": 2,
+    "question": "Disçarcından su girişine kaçak oluşan bir santrifüj pompanın olası arızası aşağıdakilerden hangisi olabilir?",
+    "options": [
+      "1) Salmastra aşınmıştır",
+      "2) Mili aşınmıştır",
+      "3) Aşınma ringi bozulmuştur",
+      "4) Impeller kanatları kirlenmiştir",
+      "5) Difuzörü aşnmuştır"
+    ],
+    "correctAnswer": "3) Aşınma ringi bozulmuştur"
+  },
+  {
+    "id": 4,
+    "testIndex": 2,
+    "question": "Su borulu bir kazanda sönen bir atomizörün yeniden yakılmasında kızgın ocak duvarlarından yararlanılması aşağıdakilerden hangisine sebep olabilir?",
+    "options": [
+      "1) Ocak tepmesine",
+      "2) Erhiter yangınına",
+      "3) Eksik yanmaya",
+      "4) Yakıt pompası regülatör arızasına",
+      "5) Yukarıdakilerin tümüne"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 5,
+    "testIndex": 2,
+    "question": "Açılarak iç basıncı kontrol eden valf aşağıdakilerden hangisidir?",
+    "options": [
+      "1) İğne valf",
+      "2) Gate valf",
+      "3) Trotıl valf",
+      "4) Rilif valf",
+      "5) Redysun valf"
+    ],
+    "correctAnswer": "4) Rilif valf"
+  },
+  {
+    "id": 6,
+    "testIndex": 2,
+    "question": "Aşağıdaki malzemelerden hangisi tatlı su devrelerinde kullanılmamalıdır?",
+    "options": [
+      "1) Çelik",
+      "2) PVC",
+      "3) Galvaniz",
+      "4) Bakır",
+      "5) Krom"
+    ],
+    "correctAnswer": "4) Bakır"
+  },
+  {
+    "id": 7,
+    "testIndex": 2,
+    "question": "Vakumlu besleme suyu devresinde yoğuşum pompası ile buster pompası arasında aşağıdakillerden hangisi vardır?",
+    "options": [
+      "1) Erecekter kondenseri",
+      "2) Dreyn kuleri",
+      "3) Vakum tankı",
+      "4) Deaeratör",
+      "5) Besleme pompası"
+    ],
+    "correctAnswer": "3) Vakum tankı"
+  },
+  {
+    "id": 8,
+    "testIndex": 2,
+    "question": "Kazanda bulunan disüperhiterin görevi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Suyun ısısını yükseltir",
+      "2) Buharın basmanı yükseltir",
+      "3) Buharın basıncını düşürür",
+      "4) Buhar ısısını düşürür",
+      "5) Buharın ısısını yükseltir"
+    ],
+    "correctAnswer": "4) Buhar ısısını düşürür"
+  },
+  {
+    "id": 9,
+    "testIndex": 2,
+    "question": "Hangisi devir hareketli pompa değildir?",
+    "options": [
+      "1) Pervane pompa",
+      "2) Dişli pompa",
+      "3) Vidalı pompa",
+      "4) Loblu pompa",
+      "5) Pistonlu pompa"
+    ],
+    "correctAnswer": "5) Pistonlu pompa"
+  },
+  {
+    "id": 10,
+    "testIndex": 2,
+    "question": "Bir gemide mataforaların görevi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Demirin fundo ve virası",
+      "2) Yük alma ve boşaltma",
+      "3) Halatların virası",
+      "4) Usturmaçalara desteklik",
+      "5) Can filikalarının indirilmesi ve alınması"
+    ],
+    "correctAnswer": "5) Can filikalarının indirilmesi ve alınması"
+  },
+  {
+    "id": 11,
+    "testIndex": 2,
+    "question": "Konderser borularının kışır temizliğinde aşağıdakilerden hangisi kullanılır?",
+    "options": [
+      "1) Sülfirik asitli su",
+      "2) Sodalı su",
+      "3) Deterjanlı su",
+      "4) Sirkeli su",
+      "5) Hidroklorik asitli su"
+    ],
+    "correctAnswer": "5) Hidroklorik asitli su"
+  },
+  {
+    "id": 12,
+    "testIndex": 2,
+    "question": "Aşağıdaki borulardan hangisi su boralis bir kazanın dışında yer alır?",
+    "options": [
+      "1) Buhar üretici borular",
+      "2) Aşağı akış boruları",
+      "3) Süperhiter boruları",
+      "4) Su duvarı boruları",
+      "5) Bölme duvarı boruları"
+    ],
+    "correctAnswer": "2) Aşağı akış boruları"
+  },
+  {
+    "id": 13,
+    "testIndex": 2,
+    "question": "Ana yardımcı türbinlerden kazana taşınan yağ aşağıdakilerden hangisine neden olur?",
+    "options": [
+      "1) Kazan taşması",
+      "2) Kazan köpürmesi",
+      "3) Ocak tepmesi",
+      "4) Eksik yanma",
+      "5) Aşırı yanma"
+    ],
+    "correctAnswer": "2) Kazan köpürmesi"
+  },
+  {
+    "id": 14,
+    "testIndex": 2,
+    "question": "Yoğuşum pompaları hava emerse kondenserin vakumu düşer. Bu nedenle aşağıdaki yöntemlerden hangisi pompaya uygulanır?",
+    "options": [
+      "1) Çift salmastra",
+      "2) Uzun glend baskısı",
+      "3) Façunalı sahnasta kutusu",
+      "4) Yoğuşum suyu siil'i",
+      "5) Gövde üzerine çift hava ventili"
+    ],
+    "correctAnswer": "4) Yoğuşum suyu siil'i"
+  },
+  {
+    "id": 15,
+    "testIndex": 2,
+    "question": "Spindılı diskine bağlı olmayan valf aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Rilif valf",
+      "2) Stop çek valf",
+      "3) Kelebek valf",
+      "4) Emme devresinde kavitasyon",
+      "5) Basma devresinde çekiçleme"
+    ],
+    "correctAnswer": "2) Stop çek valf"
+  },
+  {
+    "id": 16,
+    "testIndex": 2,
+    "question": "Bir geminin karinasına bağlı kinistin valfın tipi aşağıdakilerden hangisi olabilir?",
+    "options": [
+      "1) Geyt valf",
+      "2) Glob valf",
+      "3) Piston valf",
+      "4) İğne valf",
+      "5) Kelebek valf"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 17,
+    "testIndex": 2,
+    "question": "Bir santrifüj pompa tasarım kapasitesi üzerinde çalıştmlırsa aşağıdakilerden hangisi meydana gelir?",
+    "options": [
+      "1) Pompa keysinde aşırı titreşim",
+      "2) Pompa keysinde aşırı ısınma",
+      "3) Impellerde aşırı radyal sırast (itme)",
+      "4) Emme devresinde kavitasyon",
+      "5) Basma devresinde çekiçleme"
+    ],
+    "correctAnswer": "3) Impellerde aşırı radyal sırast (itme)"
+  },
+  {
+    "id": 18,
+    "testIndex": 2,
+    "question": "Elektrikli bir pompayı onarmamız gerektiğinde öncelikli emniyet kuralı aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Elektrik besleme şalteri üzerine ikaz etiketi asılır",
+      "2) Alet edevatlar olay yerine getirilir",
+      "3) Arıza kayıt defterine not alınır",
+      "4) Onarım süresi belirlenir",
+      "5) Onarımla ilgili dokümanlar araştırılır"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 19,
+    "testIndex": 2,
+    "question": "Skoç tipi bir kazanda çökmesini önlemek için ne tür bir yapı geliştirilmiştir?",
+    "options": [
+      "1) Külhan dairesel kesitlidir ve kıvrımlı saçtan yapılmıştır",
+      "2) Külhan kare kesitlidir ve düz saçtan yapılmıştır",
+      "3) Külhan içine dikey olarak payandalar yerleştirilmiştir",
+      "4) Külhan takviye çemberleri ile donatılmıştır",
+      "5) Külhan kazanın arka aynasına masuralar ile bağlanmıştır"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 20,
+    "testIndex": 2,
+    "question": "Demir alırken elektrik kesildiğinde aşağıdaki olaylardan hangisi oluşur?",
+    "options": [
+      "1) Mıknatıslı bir fren devreye girer",
+      "2) Demir geri düşer",
+      "3) Demir elle güverteye alınır",
+      "4) Elektrik kesilmez",
+      "5) Demir vinçle güverteye alınır"
+    ],
+    "correctAnswer": "1"
+  }
+]

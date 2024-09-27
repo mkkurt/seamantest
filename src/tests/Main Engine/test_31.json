@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 30,
+    "question": "Kem şaftın görevi nedir?",
+    "options": [
+      "1) Valfların hareketlerini düzenler",
+      "2) Motorun ilk hareketini sağlar",
+      "3) Krank şafta hareket verir",
+      "4) Volandan aldığı hareketi enjektöre iletir",
+      "5) Pistonları hareket ettirir"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 2,
+    "testIndex": 30,
+    "question": "Su borulu sazanlarda Brayn valfı aşağıdaki amaçlardan hangisi için kullanılır?",
+    "options": [
+      "1) Buhar dramının havasını almak",
+      "2) Buhar dramında yüzey blöfü yapmak",
+      "3) Su dramında dip blöfü yapmak",
+      "4) Buhar basıncını düşürmek",
+      "5) Besleme suyunun miktarını kontrol etmek"
+    ],
+    "correctAnswer": "2) Buhar dramında yüzey blöfü yapmak"
+  },
+  {
+    "id": 3,
+    "testIndex": 30,
+    "question": "Akaryakıtla fayraph bir kazanın yakıt devresinde bulunan inspekşın tankın (kontrol tankı) faydası aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Streynerlerin tıkandığını gösterir",
+      "2) Yakıt ısıtma borularının delinip delinmediğini gösterir",
+      "3) Yakıtta su olup olmadığını gösterir",
+      "4) Yakıtta hava olup olmadığını gösterir",
+      "5) Yakıtın viskozitesinin kontrolünü sağlar"
+    ],
+    "correctAnswer": "2) Yakıt ısıtma borularının delinip delinmediğini gösterir"
+  },
+  {
+    "id": 4,
+    "testIndex": 30,
+    "question": "Bir türbinde karbon pakinlerin klerensleri çok ufak ise (örneğin 0,0025mm) aşağıdakilerden hangisi oluşabilir?",
+    "options": [
+      "1) Türbinden inleme sesi gelir",
+      "2) Buhar kaçakları artar",
+      "3) Türbin keysi aşırı ısınır",
+      "4) Türbinin devri düşer",
+      "5) Türbin titreşime başlar"
+    ],
+    "correctAnswer": "5) Türbin titreşime başlar"
+  },
+  {
+    "id": 5,
+    "testIndex": 30,
+    "question": "Silindirlere havanın portlardan verildiği ve egzoz gazlarının kaverdeki (kapaktaki) supap ya da supaplardan atıldığı dizel makinelere ne isim verilir?",
+    "options": [
+      "1) Trank pistonlu makine",
+      "2) Kroshetli makine",
+      "3) Sömi dizel makine",
+      "4) Tek etkili makine",
+      "5) Doğru akımlı makine"
+    ],
+    "correctAnswer": "5) Doğru akımlı makine"
+  },
+  {
+    "id": 6,
+    "testIndex": 30,
+    "question": "Dizel motorlarında valf overlepi veya supap çakışması ne şekilde tanımlanabilir?",
+    "options": [
+      "1) Alt ölü noktadan önce emme supabının açılması",
+      "2) Üst ölü noktadan sonra egzoz supabının açılması",
+      "3) Üst ölü noktadan sonra egzoz supabının kapanması",
+      "4) Egzoz strokunun sonuna doğru, üst ölü nokta civarında emme ve egzoz supaplarının bir süre birlikte açık kalması",
+      "5) Alt ölü noktadan sonra emme supabının kapanması"
+    ],
+    "correctAnswer": "4) Egzoz strokunun sonuna doğru, üst ölü nokta civarında emme ve egzoz supaplarının bir süre birlikte açık kalması"
+  },
+  {
+    "id": 7,
+    "testIndex": 30,
+    "question": "İki zamanlı dizel makinelerinde havanın silindirlere verilmesini sağlayan pencerelere ne ad verilir?",
+    "options": [
+      "1) Egzoz portları",
+      "2) Emme portları",
+      "3) Süpürme portları",
+      "4) Yakıt portları",
+      "5) İlk hareket havası portları"
+    ],
+    "correctAnswer": "3) Süpürme portları"
+  },
+  {
+    "id": 8,
+    "testIndex": 30,
+    "question": "Dört zamanlı dizel makinelerinde emme ve egzoz supaplarının normal klerensleri aşağıdaki değerlerden hangisidir?",
+    "options": [
+      "1) 1,00 - 2,00 mm",
+      "2) 2,00 - 3,00 mm",
+      "3) 3,00 - 4,00 mm",
+      "4) 0,30 - 1,00 mm",
+      "5) 0,20 - 0,25 mm"
+    ],
+    "correctAnswer": "4) 0,30 - 1,00 mm"
+  },
+  {
+    "id": 9,
+    "testIndex": 30,
+    "question": "Skoç tipi bir kazanda kışır (kazan taşı) aşağıdaki hangi kısımda görülmez?",
+    "options": [
+      "1) Cehennemlik tabanı",
+      "2) Cehennemlik tavanı",
+      "3) Alev borularının dış yüzeyleri",
+      "4) Külhanın su tarafı yüzeyi",
+      "5) Alt sıra payanda borularının dış yüzeyleri"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 10,
+    "testIndex": 30,
+    "question": "Aşağıdakilerden hangisi dizel motorlarında yağlama yağram görevi değildir?",
+    "options": [
+      "1) Motorun soğutulmasına katkı",
+      "2) Mekanik aşınmaları önleme",
+      "3) Asitlerden gelen aşınmayı önleme",
+      "4) Enjektör iğne valfını yağlama ve soğutma",
+      "5) Yatakların korunması"
+    ],
+    "correctAnswer": "4) Enjektör iğne valfını yağlama ve soğutma"
+  },
+  {
+    "id": 11,
+    "testIndex": 30,
+    "question": "Aşağıdakilerden hangisi valf hareket mekanizmasında kullanılmaz?",
+    "options": [
+      "1) Kem şaft",
+      "2) Puş rod",
+      "3) Enjektör",
+      "4) Roker arm",
+      "5) Emme valfı"
+    ],
+    "correctAnswer": "3) Enjektör"
+  },
+  {
+    "id": 12,
+    "testIndex": 30,
+    "question": "Normal işletme koşullarında yüksek basınç türbininin yataklarınını terk eden yağın sıcaklığı kaç derece olmalıdır?",
+    "options": [
+      "1) 25°C",
+      "2) 35°C",
+      "3) 55°C",
+      "4) 75°C",
+      "5) 80°C"
+    ],
+    "correctAnswer": "3) 55°C"
+  },
+  {
+    "id": 13,
+    "testIndex": 30,
+    "question": "Körtis türbinlerinde kullanılan sabit (hareketsiz) kanatların görevi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Buharın basıncını düşürerek hız kazandırır",
+      "2) Buharın hızını azaltır",
+      "3) Buharın yönünü değiştirir",
+      "4) Buharın basıncını yükseltir",
+      "5) Yukarıdakilerin tümünü sağlar"
+    ],
+    "correctAnswer": "3) Buharın yönünü değiştirir"
+  },
+  {
+    "id": 14,
+    "testIndex": 30,
+    "question": "Süperşarj tanımlaması aşağıda belirtilen ifadelerden hangisine uymaktadır?",
+    "options": [
+      "1) Doğal emişli makinelere göre makine silindirlerine daha az hava verilmesidir",
+      "2) Daha fazla miktarda basınçlı hava doldurulmasıdır",
+      "3) Makinenin yakıt tüketiminin çoğaltılmasıdır",
+      "4) Makine gücünün azaltılmasıdır",
+      "5) Makine veriminin azaltılmasıdır"
+    ],
+    "correctAnswer": "2) Daha fazla miktarda basınçlı hava doldurulmasıdır"
+  },
+  {
+    "id": 15,
+    "testIndex": 30,
+    "question": "Çalışmakta olan bir motorun gayıtında tutmuş bir startin valf aşağıdaki problemlerden hangisine sebep olabilir?",
+    "options": [
+      "1) Yangın",
+      "2) Vuruntu",
+      "3) Siyah duman",
+      "4) Karter patlaması",
+      "5) Tekleme"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 16,
+    "testIndex": 30,
+    "question": "De Laval türbinleri çoğu zaman kaç beygir gücünde yapılırlar?",
+    "options": [
+      "1) 1000 hp",
+      "2) 800 hp",
+      "3) 400 hp",
+      "4) 100 hp",
+      "5) 50 hp"
+    ],
+    "correctAnswer": "5) 50 hp"
+  },
+  {
+    "id": 17,
+    "testIndex": 30,
+    "question": "Rato türbinleri en az kaç aksiyon veya De Lava türbinden oluşur?",
+    "options": [
+      "1) En az iki reaksiyon kademesinden",
+      "2) En az iki Körtis kademesinden",
+      "3) En az iki De Laval türbininden",
+      "4) İki reaksiyon kademesi ile bir Körtis türbininden",
+      "5) İki Rato kademesi ile bir Körtis türbininden"
+    ],
+    "correctAnswer": "3) En az iki De Laval türbininden"
+  },
+  {
+    "id": 18,
+    "testIndex": 30,
+    "question": "Kontrollü süperhiterlerin buhınduğu kazan türü aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Kalın su borulu heder türü kazan",
+      "2) İnce su borulu heder türü kazan",
+      "3) Ters alev borulu skoç türü kazan",
+      "4) İki dramlı D türü su borulu kazan",
+      "5) Üç dramlı A türü su borulu kazan"
+    ],
+    "correctAnswer": "4) İki dramlı D türü su borulu kazan"
+  },
+  {
+    "id": 19,
+    "testIndex": 30,
+    "question": "Kapatılan bir buhar türbini limanda kaç günde bir yağlanmalıdır?",
+    "options": [
+      "1) 2 günde bir",
+      "2) 4 günde bir",
+      "3) 5 günde bir",
+      "4) 7 günde bir",
+      "5) 10 günde bir"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 20,
+    "testIndex": 30,
+    "question": "Bir dizel makinesine süperşarj uygulandığı zaman makinenin özgül yakıt tüketimi ne olur?",
+    "options": [
+      "1) Artar",
+      "2) Azalır",
+      "3) Değişmez",
+      "4) Bazen azalır, bazen artar",
+      "5) Süperşarjın yakıt sarfiyatı ile ilişkisi yoktur"
+    ],
+    "correctAnswer": "2) Azalır"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 15,
+    "question": "Seyir sırasında alçak basınç türbininin birinci pinyon dişlisi hasar gördüğünden devir düşürme donanımından çıkarılmıştır. Bu durumda ana makine hangi manevrayı yapabilir?",
+    "options": [
+      "1) Sadece azaltılmış hız ile ileri hareket",
+      "2) Sadece azaltılmış hız ile geri hareket",
+      "3) Azaltılmış hız ileri ve tamyol geri hareket",
+      "4) Azaltılmış hız ile tornistan ve tam yol ileri hareket",
+      "5) Yarım yol ile ileri ve geri hareket"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 2,
+    "testIndex": 15,
+    "question": "Gravite yağlama sistemi ile donatılmış bir gemide, eğer yağlama yağı pompasının çıkış (disçarç) basıncı kaybolmuşsa ilk olay ne olacaktır?",
+    "options": [
+      "1) Tüm yatakların yağ basıncı kaybolacaktır",
+      "2) Alarm sesi duyulacaktır",
+      "3) Trotul derhal kapanacaktır",
+      "4) Yataklara ve dişlilere yağlama yağı gravite tankının taşıntısından sağlanacaktır",
+      "5) Yukardakilerin herhangi biri"
+    ],
+    "correctAnswer": "2) Alarm sesi duyulacaktır"
+  },
+  {
+    "id": 3,
+    "testIndex": 15,
+    "question": "Pervane görevi yapmakta olan bir buhar türbininde titreşimle birlikte gürüldeme sesinin duyulması neyin belirtisidir?",
+    "options": [
+      "1) Makinenin aşırı yükünün",
+      "2) Türbine su yürümesinin",
+      "3) Vakumun zayıflamasının",
+      "4) Labirent ringlerin arızalanmasının",
+      "5) Karbon pakinlerin arızalanmasının"
+    ],
+    "correctAnswer": "2) Türbine su yürümesinin"
+  },
+  {
+    "id": 4,
+    "testIndex": 15,
+    "question": "Eğer bir türbin yatağı aşırı ısınma belirtisi gösteriyorsa yapılması gereken nedir?",
+    "options": [
+      "1) Türbin stop edilmelidir",
+      "2) Türbinin hızı derhal azaltılmalıdır",
+      "3) Yağlama pompasının çıkış basıncı artırılmalıdır",
+      "4) Yağlama yağı soğutucuna sağlanan deniz suyu miktarı artırılmalıdır",
+      "5) Türbin stop edilerek derhal tornagir makinesine bağlanmalıdır"
+    ],
+    "correctAnswer": "2) Türbinin hızı derhal azaltılmalıdır"
+  },
+  {
+    "id": 5,
+    "testIndex": 15,
+    "question": "Türboşarjer bloverinin temizlenmesinde nelerden yararlanılır?",
+    "options": [
+      "1) Motorin püskürtme sisteminden yararlanılır",
+      "2) Su püskürtme sisteminden yararlanılır",
+      "3) Kabuk granüllerinden faydalanılır",
+      "4) Karbon tetra klorürden faydalanılır",
+      "5) 1 ve 2'den yararlanılır"
+    ],
+    "correctAnswer": "5) 1 ve 2'den yararlanılır"
+  },
+  {
+    "id": 6,
+    "testIndex": 15,
+    "question": "Seyir sırasında pervane görevi yapan türbin şiddetli bir biçimde titreşime başlarsa, vardiya sorumlusu olarak ne yapmanız gerekir?",
+    "options": [
+      "1) Makinenin devir sayısı, titreşimin başladığı devir sayısının üzerine çıkarılır",
+      "2) Makinenin devcir sayısı, titreşimin başladığı devir sayısının biraz altında tutulur",
+      "3) Makinenin tüm nozul grubu valfları açılır",
+      "4) Türbin stop edilir",
+      "5) Türbinin devir sayısı derhal, titreşimin durduğu devir sayısına kadar düşürülür"
+    ],
+    "correctAnswer": "5) Türbinin devir sayısı derhal, titreşimin durduğu devir sayısına kadar düşürülür"
+  },
+  {
+    "id": 7,
+    "testIndex": 15,
+    "question": "Makine krankşaftından hareket alarak çalıştırılan bir blover yardımıyla oluşturulan aşırı doldurma aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Türboşarjerli aşırı doldurma",
+      "2) Mekanik süperşarj",
+      "3) Kısmi süperşarj",
+      "4) Doğru akımlı süpürme",
+      "5) Ters akımlı süpürme"
+    ],
+    "correctAnswer": "2) Mekanik süperşarj"
+  },
+  {
+    "id": 8,
+    "testIndex": 15,
+    "question": "Egzoz portları veya egzoz gazları ile çalışan ve basmçlı hava sağlayan aşırı doldurucu aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Aşırı süperşarj",
+      "2) Türboşarj",
+      "3) Kısmi süperşarj",
+      "4) Mekanik süperşarj",
+      "5) Skavencin"
+    ],
+    "correctAnswer": "2) Türboşarj"
+  },
+  {
+    "id": 9,
+    "testIndex": 15,
+    "question": "Türboşarjer gaz türbinin kanatlarında kurum katmanları oluştuğu zaman yapılması gereken aşağıdakilerden hangisi olmalıdır?",
+    "options": [
+      "1) Çalışmakta iken gaz türbinine motorin püskürtülür",
+      "2) Çalışmakta iken gaz türbinine su püskürtülür",
+      "3) Çalışmakta olan gaz türbinine dizel oil püskürtülür",
+      "4) Çalışmakta olan gaz türbinine kabuk granül püskürtülür",
+      "5) 2 ve 4 uygulanır"
+    ],
+    "correctAnswer": "5) 2 ve 4 uygulanır"
+  },
+  {
+    "id": 10,
+    "testIndex": 15,
+    "question": "Bir arıza durumunda sadece yüksek basınç türbini ile çalıştırmada ne yapılmalıdır?",
+    "options": [
+      "1) Alçak basınç türbininin glend sızdırmazhk stimi stop edilir",
+      "2) Yüksek basınç türbininin buhar giriş flencine kör kapak konur",
+      "3) Yüksek basınç ve alçak basınç türbinleri arasındaki değiştirme borusunda bulunan valf kapatılır",
+      "4) Yüksek basınç türbininin egzozlu ek bir boru ile ana kondensere verilir",
+      "5) 1 ve 2 sağlanır"
+    ],
+    "correctAnswer": "4) Yüksek basınç türbininin egzozlu ek bir boru ile ana kondensere verilir"
+  },
+  {
+    "id": 11,
+    "testIndex": 15,
+    "question": "Eğer tonagir makinesi devrede iken, türbine buhar verilirse ne olur?",
+    "options": [
+      "1) Türbin düzgün olmayan bir şekilde ısınacaktır",
+      "2) Tornagir makinesi ve dişli donanımı hasar görecektir",
+      "3) Tornagir makinesinin esnek kaplini kesilecektir",
+      "4) Yüksek basınç türbininin birinci pinyonunda aşırı diş gerilmesi oluşacaktır",
+      "5) Alçak basınç türbininin birinci girvilinde aşırı diş gerilmeleri oluşacaktır"
+    ],
+    "correctAnswer": "2) Tornagir makinesi ve dişli donanımı hasar görecektir"
+  },
+  {
+    "id": 12,
+    "testIndex": 15,
+    "question": "Gemi dizel makinelerinde süperşarj havasının sıcaklığı hangi sınırlar arasındadır?",
+    "options": [
+      "1) 60 - 70°C",
+      "2) 50 - 60°C",
+      "3) 70 - 80°C",
+      "4) 15 - 25°C",
+      "5) 25 - 50°C"
+    ],
+    "correctAnswer": "5) 25 - 50°C"
+  },
+  {
+    "id": 13,
+    "testIndex": 15,
+    "question": "Aşağıdakilerden hangisi türbine su yürüdüğünün belirtisidir?",
+    "options": [
+      "1) Kondenser vakumunun kaybolması",
+      "2) YB türbininin stim sandığında yüksek buhar basıncı",
+      "3) Yoğuşumlarm tuzluluğunun artması",
+      "4) Türbinde gürültü ve titreşim",
+      "5) Türbin yatak sıcaklıklarının azalması"
+    ],
+    "correctAnswer": "4) Türbinde gürültü ve titreşim"
+  },
+  {
+    "id": 14,
+    "testIndex": 15,
+    "question": "Aşağıdakilerden hangisi türboşarjın yararlarındandır?",
+    "options": [
+      "1) Mekanik verimin yükselmesi",
+      "2) Mekanik verimin değişmemesi",
+      "3) Özgül yakıt tüketiminin sabit kalması",
+      "4) Makine tarafından üretilen gücün azalması",
+      "5) Saatte tüketilen yakıt miktarının çoğalması"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 15,
+    "testIndex": 15,
+    "question": "Genel olarak tüm dizel makinelerinde süperşarj havası basıncının sayısal değeri kaç bar sınırları içinde değişmektedir?",
+    "options": [
+      "1) 1,15 - 1,35 bar",
+      "2) 1,35 - 1,55 bar",
+      "3) 1,55 - 1,75 bar",
+      "4) 1,55 - 6,00 bar",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "4) 1,55 - 6,00 bar"
+  },
+  {
+    "id": 16,
+    "testIndex": 15,
+    "question": "Türboşarjlı bir dizel makinesinde, süperşarj havasının sıcaklığının normal değer üzerine çıkması aşağıdaki olaylardan hangisine neden olur ?",
+    "options": [
+      "1) Makinenin ürettiği güç artar",
+      "2) Makine normal gücünü üretmeyi sürdürür",
+      "3) Dumanlı egzoz oluşur",
+      "4) Makinenin devir sayısı azalır",
+      "5) 3 ve 4 oluşur"
+    ],
+    "correctAnswer": "5) 3 ve 4 oluşur"
+  },
+  {
+    "id": 17,
+    "testIndex": 15,
+    "question": "Bir türbin ana makinede, aşağıdakilerden hangisi titreşime neden olabilir?",
+    "options": [
+      "1) Birinci kademedeki yüksek buhar basıncı",
+      "2) Rotorların düzgün ısıtılmaması",
+      "3) Ana kondenserde yüksek vakum",
+      "4) Türbinlerde üretilen itme",
+      "5) Erecekterlerden doymuş buhar yerine kızgın buhar geçirilmesi"
+    ],
+    "correctAnswer": "2) Rotorların düzgün ısıtılmaması"
+  },
+  {
+    "id": 18,
+    "testIndex": 15,
+    "question": "Devir düşürücülü bir türbin makinede ana ve stendbay yağlama yağı pompalarının stop etmesi sonucu aşağıdakilerden hangisi oluşur?",
+    "options": [
+      "1) Gravite tanktaki yağlama yağı, türbin ve dişliler stop edinceye dek onlara zaman sağlar",
+      "2) Devir düşürücü donanımın dişlileri derhal bozulacaktır",
+      "3) Türbin rotorşaft yatakları derhal bozulacaktır",
+      "4) Yatak ve dişlilere yağlama yağı bir el pompası ile sağlanacaktır",
+      "5) Makine hemen stop edilmelidir"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 19,
+    "testIndex": 15,
+    "question": "Türboşarjlı bir dizel makinesinin giriş manifoldunda hava sıcaklığının normal değerin üzerinde olmasının sebebi nedir?",
+    "options": [
+      "1) Giriş filtresinin tıkanması",
+      "2) Piston ile Iayner arasından gaz kaçakları",
+      "3) Arızalı hava soğutucusu",
+      "4) Hatalı egzoz valfları",
+      "5) Hatalı giriş valfları"
+    ],
+    "correctAnswer": "3) Arızalı hava soğutucusu"
+  },
+  {
+    "id": 20,
+    "testIndex": 15,
+    "question": "Normal veya aşırı olmayan süperşarjda bir dizel makinesinin gücü hangi oranlarda artar?",
+    "options": [
+      "1) %100 - %120",
+      "2) %75 - %100",
+      "3) %50 - %60",
+      "4) %30 - %40",
+      "5) %10 - %20"
+    ],
+    "correctAnswer": "3) %50 - %60"
+  }
+]

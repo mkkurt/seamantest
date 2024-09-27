@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 1,
+    "question": "Aşağıdakilerden hangisi Deniz İş Kanunu sürelerine uymak zorunda değildir?",
+    "options": [
+      "1) 3. mühendis",
+      "2) Süvari",
+      "3) Kamarot",
+      "4) Güverte lostromosu (reis)",
+      "5) Birden fazla mühendis olan gemilerde baş mühendis"
+    ],
+    "correctAnswer": "5) Birden fazla mühendis olan gemilerde baş mühendis"
+  },
+  {
+    "id": 2,
+    "testIndex": 1,
+    "question": "Aşağıdakilerden hangisi kaptanın hizmet sözleşmesinin sona erme sebeplerinden değildir?",
+    "options": [
+      "1) Geminin kaybı",
+      "2) Geminin bayrak çekme hakkının kaybı",
+      "3) Feshi ihbar",
+      "4) Donatan ücret ödememesi",
+      "5) Geminin isim değiştirmesi"
+    ],
+    "correctAnswer": "2) Geminin bayrak çekme hakkının kaybı"
+  },
+  {
+    "id": 3,
+    "testIndex": 1,
+    "question": "Aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "1) Hizmet sözleşmesi belli bir süre için yapılabilir",
+      "2) Hizmet sözleşmesi süresiz yapılabilir",
+      "3) Hizmet sözleşmesi belli bir sefer için yapılabilir",
+      "4) Hizmet sözleşmesi belli bir sefer için yapılmışsa fesih ihbarıyla sona erer",
+      "5) Hizmet sözleşmesi belli bir sefer için yapılmışsa varma limanında yükün boşaltılmasıyla sona erer"
+    ],
+    "correctAnswer": "4) Hizmet sözleşmesi belli bir sefer için yapılmışsa fesih ihbarıyla sona erer"
+  },
+  {
+    "id": 4,
+    "testIndex": 1,
+    "question": "Deniz iş Kanunu,",
+    "options": [
+      "1) Bütün yabancı gemi adamlarına uygulanır",
+      "2) Aynı zamanda hem TC hem de yabancı devlet vatandaşı olanlara uygulanır",
+      "3) Mütekabiliyet esaslarına göre, Türk gemi adamlarına aynı mahiyette haklar tanıyan devletlerin uyruğunda olup bu Kanun kapsamına giren gemilerde çalışan gemi adamlarına uygulanır",
+      "4) Bükreş sözleşmesine göre sadece bu anlaşmaya taraf devlet vatandaşlarına uygulanır",
+      "5) Mütekabiliyet esaslarına göre, sadece Avrupa devletleri vatandaşlarına uygulanır"
+    ],
+    "correctAnswer": "3) Mütekabiliyet esaslarına göre, Türk gemi adamlarına aynı mahiyette haklar tanıyan devletlerin uyruğunda olup bu Kanun kapsamına giren gemilerde çalışan gemi adamlarına uygulanır"
+  },
+  {
+    "id": 5,
+    "testIndex": 1,
+    "question": "Aşağıdakilerden hangisi kaptanın yolculuk başlamadan önceki işlemlerinden değildir?",
+    "options": [
+      "1) Yerli ve yabancı mevzuata riayet etmek",
+      "2) Donatana bilgi vermek",
+      "3) Geminin yola çıkabilmesi için gerekli tüm resmi muameleleri yapmak",
+      "4) Gümrük, polis, vergi ve kambiyo hükümlerine riayet etmek",
+      "5) Ambar temizliği"
+    ],
+    "correctAnswer": "4) Gümrük, polis, vergi ve kambiyo hükümlerine riayet etmek"
+  },
+  {
+    "id": 6,
+    "testIndex": 1,
+    "question": "Aşağıdakilerden hangisi çatmanın çeşitleri arasında sayılmaz?",
+    "options": [
+      "1) Müşterek kusurlu çatma",
+      "2) Kusursuz çatma",
+      "3) Kusurlu çatma",
+      "4) Tek taraflı kusurlu çatma",
+      "5) Kusurlu olarak denizde sabit bir cisme çatma"
+    ],
+    "correctAnswer": "5) Kusurlu olarak denizde sabit bir cisme çatma"
+  },
+  {
+    "id": 7,
+    "testIndex": 1,
+    "question": "Gemi ve deniz ile ilgili aşağıdaki harç ve resimlerden hangisi liman başkanlıklarınca alınmaz?",
+    "options": [
+      "1) Yola Elverişlilik belgesi harcı",
+      "2) Gemi Tasdikname harcı",
+      "3) Ölçme Belgesi harcı",
+      "4) Denize Elverişlilik belgesi harcı",
+      "5) Liman işgal resmi"
+    ],
+    "correctAnswer": "5) Liman işgal resmi"
+  },
+  {
+    "id": 8,
+    "testIndex": 1,
+    "question": "Aşağıdaki hallerden hangisinde sapma haklı sayılabilmektedir?",
+    "options": [
+      "1) Başka bir yük teslim almak amacıyla",
+      "2) Can ve mal kurtarmak amacıyla",
+      "3) Aktarma yapmak amacıyla",
+      "4) Yakıt almak amacıyla",
+      "5) Su almak amacıyla"
+    ],
+    "correctAnswer": "2) Can ve mal kurtarmak amacıyla"
+  },
+  {
+    "id": 9,
+    "testIndex": 1,
+    "question": "Aşağıdakilerden hangisi kaptanın haklarından değildir?",
+    "options": [
+      "1) Kendi hesabına yük taşıma",
+      "2) Ücret",
+      "3) Tedavi ve ilaç masrafları",
+      "4) Ücretli izin",
+      "5) Bağlama limanına dönüş masrafları"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 10,
+    "testIndex": 1,
+    "question": "Yolcu motoru,",
+    "options": [
+      "1) Tam boyu 35 metrenin altında olan ve yolcu taşıyan sadece limanda çalışan ticari tekneleri ifade eder",
+      "2) Tam boyu 25 metrenin altında olan ve yolcu taşıyan sadece limanda çalışan tekneleri ifade eder",
+      "3) Tam boyu 40 metrenin altında olan ve yolcu taşıyan, liman veya 100 mil ile sınırlı seferi bölgelerinde çalışan ticari tekneleri ifade eder",
+      "4) Tam boyu 30 metrenin altında olan ve 100 mil ile sınırlı liman seferi bölgelerinde çalışan ticari tekneleri ifade eder",
+      "5) Tam boyu 40 metrenin altındaki Türk karasularında yolcu taşıyan tekneleri ifade eder"
+    ],
+    "correctAnswer": "3) Tam boyu 40 metrenin altında olan ve yolcu taşıyan, liman veya 100 mil ile sınırlı seferi bölgelerinde çalışan ticari tekneleri ifade eder"
+  },
+  {
+    "id": 11,
+    "testIndex": 1,
+    "question": "Kıdem tazminatı Deniz İş Kanununa tabi gemi adamlarının hizmet akitlerinin,",
+    "options": [
+      "1) İşveren tarafından bu kanun 14. maddesinin 1. bendinde gösterilen sebepler dışında",
+      "2) Gemi adamı tarafından bu kanunun 14. maddesinin 2. ve 3. bentleri uyarınca",
+      "3) Muvazzaf askerlik hizmeti dolayısıyla",
+      "4) Bağlı bulundukları kanunla kurulu kurum veya sandıklardan yaşlılık, emeklilik veya malüllük aylığı yahut toptan ödeme almak amacıyla",
+      "5) İşveren tarafından bu kanunun 14. maddesindeki sebepler dahilinde feshedilmesi durumunda işçi kıdem tazminatına hak kazanır"
+    ],
+    "correctAnswer": "5) İşveren tarafından bu kanunun 14. maddesindeki sebepler dahilinde feshedilmesi durumunda işçi kıdem tazminatına hak kazanır"
+  },
+  {
+    "id": 12,
+    "testIndex": 1,
+    "question": "Fesih yetkisi sebebin öğrenilmesinden itibaren aşağıdaki hangi sürede kullanılmalıdır?",
+    "options": [
+      "1) 6 ay",
+      "2) 1 yıl",
+      "3) 10 gün",
+      "4) 6  iş günü",
+      "5) 10 iş günü"
+    ],
+    "correctAnswer": "4) 6  iş günü"
+  },
+  {
+    "id": 13,
+    "testIndex": 1,
+    "question": "Aşağıdakilerin hangisi \"Kaptanın\" özel hukuka ilişkin görev ve yetkilerine girmez?",
+    "options": [
+      "1) Gemiye yüklenen yüke ilişkin konişmento ve manifestoları imzalamak",
+      "2) Gemisini denize, yola ve yüke elverişli kılmaz",
+      "3) Yüklemeyi istifi denizcilik usullerine göre yapmak",
+      "4) Şahsi sicil ve nüfus memurluğu görevi yapmak",
+      "5) Gemiyi dikkatlice sevk ve idare etmek"
+    ],
+    "correctAnswer": "4) Şahsi sicil ve nüfus memurluğu görevi yapmak"
+  },
+  {
+    "id": 14,
+    "testIndex": 1,
+    "question": "TK.md.829'a göre \"Gemi Tasdiknamesine ve Bayrak Şahadetnamesine\" gerek olmaksızın Türk Bayrağı çekebilecek gemiler,",
+    "options": [
+      "1) Ticari olmayan gemilerdir",
+      "2) 50 Grt.'dan küçük gemilerdir",
+      "3) 50 Grt.'dan küçük ticaret gemilerdir",
+      "4) 18 Grt.'dan küçük gemilerdir",
+      "5) Liman içi sefer yapan küçük yolcu gemileri / motorlarıdır"
+    ],
+    "correctAnswer": "4) 18 Grt.'dan küçük gemilerdir"
+  },
+  {
+    "id": 15,
+    "testIndex": 1,
+    "question": "Aşağıdakilerden hangisi müşterek avarya hallerinden değildir?",
+    "options": [
+      "1) Geminin karaya oturtulması",
+      "2) Denize yük vesaire atılması",
+      "3) Geminin hafifletilmesi",
+      "4) Güvertedeki yükün gemiye de hasar vererek aniden denize düşmesi",
+      "5) Geminin yüzdürülmesi"
+    ],
+    "correctAnswer": "4) Güvertedeki yükün gemiye de hasar vererek aniden denize düşmesi"
+  },
+  {
+    "id": 16,
+    "testIndex": 1,
+    "question": "MARPOL 73/78 Sözleşmesinin EK-V (Gemilerden atılan çöpler ile deniz kirlenmesini önleyici kurallar)'i gereği Özel Alan kapsamına giren denizlerin tümü aşağıdaki paragraflardan hangisinde bulunmaktadır?",
+    "options": [
+      "1) Akdeniz, Karadeniz, Baltık, Körfez, Kuzey Denizi, Antartika ve Karayip",
+      "2) Akdeniz, Karadeniz, Baltık, Hint Okyanusu, Kuzey Denizi, Antartika ve Karayip",
+      "3) Akdeniz, Karadeniz, Baltık, Körfez, Kuzey Denizi ve Karayip",
+      "4) Akdeniz, Karadeniz, Baltık, Körfez, Kuzey Denizi ve Antartika",
+      "5) Akdeniz, Karadeniz, Baltık, Körfez, Kuzey Denizi, Atlantik Okyanusu, Antartika ve Karayip"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 17,
+    "testIndex": 1,
+    "question": "Gemide işin bir haftadan fazla süreyle tatil edilmesini gerektiren zorlayıcı sebepler ortaya çıktığında bu süreye rastlayan hafta tatili ücreti, ne kadardır?",
+    "options": [
+      "1) Tam gün",
+      "2) 10 saat karşılığı",
+      "3) 2 gün",
+      "4) Yarım gün",
+      "5) 1,5 gün"
+    ],
+    "correctAnswer": "4) Yarım gün"
+  },
+  {
+    "id": 18,
+    "testIndex": 1,
+    "question": "Aşağıdakilerden hangisi yağ kirliliği temizleme metotlarından olup yağın tekrar toplanamaması durumunda kullanılması belli bir izin gerektiren bir yöntemdir?",
+    "options": [
+      "1) Kepçe kova ve benzeri bir metotla yağın temizlenme çabası",
+      "2) Emici keçelerle geri toplama metodu",
+      "3) Yağın kenarına şamandıralar yerleştirme",
+      "4) Yağ ıslah ediciler kullanarak temizleme metodu",
+      "5) Yağ döküntüsünün çevresine su sıkmak"
+    ],
+    "correctAnswer": "4) Yağ ıslah ediciler kullanarak temizleme metodu"
+  },
+  {
+    "id": 19,
+    "testIndex": 1,
+    "question": "500 rusum tonilatodan büyük gemilerin \"Denize Elverişlilik\" denetini yapmaya, aşağıdaki kuruluşların hangisi yetkilidir?",
+    "options": [
+      "1) Yüksek okul mezunu liman başkanlıkları",
+      "2) Bölge müdürlükleri Sörvey kurulları",
+      "3) Liman Başkanlıkları",
+      "4) Marmara Bölge Müdürlüğü sörvey kurulu",
+      "5) Devlet Denetleme Kumlu"
+    ],
+    "correctAnswer": "4) Marmara Bölge Müdürlüğü sörvey kurulu"
+  },
+  {
+    "id": 20,
+    "testIndex": 1,
+    "question": "Yolculuk geminin zayi ile bittiği takdirde aşağıdakilerden hangisi 'Varma yeri\" kabul edilir?",
+    "options": [
+      "1) Yolculuğun bittiği yer",
+      "2) Yükün emniyet altına alındığı yer",
+      "3) Konişmentoda varma yeri olarak belirtilen yer \"varma yeri\" olarak kalmakta devam eder",
+      "4) Bağlama limanı",
+      "5) Donatanın merkezinin bulunduğu yer"
+    ],
+    "correctAnswer": "1"
+  }
+]

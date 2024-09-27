@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 24,
+    "question": "Fuel oil ısıtıcısında sıcaklığın otomatik olarak düzenlenmesini sağlayan cihaz hangisidir?",
+    "options": [
+      "1) Termostat",
+      "2) Presostat",
+      "3) Viskozimetre",
+      "4) Viskozite regülatörü",
+      "5) Transmitter"
+    ],
+    "correctAnswer": "4) Viskozite regülatörü"
+  },
+  {
+    "id": 2,
+    "testIndex": 24,
+    "question": "Dizel makinelerinde bir kilogram sıvı yakıtın yakılması için, kuramsal olarak ne kadar havaya gereksinim vardır?",
+    "options": [
+      "1) 16,5 kg",
+      "2) 15,5 kg",
+      "3) 14,5 kg",
+      "4) 13,5 kg",
+      "5) 12,5 kg"
+    ],
+    "correctAnswer": "3) 14,5 kg"
+  },
+  {
+    "id": 3,
+    "testIndex": 24,
+    "question": "Tutuşma gecikmesinin hemen ardından silindirde meydana gelen olay nedir?",
+    "options": [
+      "1) Kontrollü yanma",
+      "2) Yavaş yanma",
+      "3) Kontrolsüz yanma",
+      "4) Hızlı basınç yükselmesi",
+      "5) 3 ve 4"
+    ],
+    "correctAnswer": "5) 3 ve 4"
+  },
+  {
+    "id": 4,
+    "testIndex": 24,
+    "question": "Dizel makinelerinin silindirleri içinde yakıtın kendiliğinden tutuşturulması ne ile sağlanır?",
+    "options": [
+      "1) Kızdırma bujisi ile",
+      "2) Yakıtın ısıtılması ile",
+      "3) Sıkıştırma sıcaklığı ile",
+      "4) Tutuşma gecikmesi süreci ile",
+      "5) Püskürtme gecikmesi ile"
+    ],
+    "correctAnswer": "3) Sıkıştırma sıcaklığı ile"
+  },
+  {
+    "id": 5,
+    "testIndex": 24,
+    "question": "Gemi dizel makinelerinde yüksek kükürt içerikli yakıt kullanılmasının sonucu ne oluşur?",
+    "options": [
+      "1) Püskürtme gecikmesi oluşur",
+      "2) Yağlama yağı incelir",
+      "3) Ön yanma oluşur",
+      "4) Korrozyon meydana gelir",
+      "5) Nitrik asit oluşur"
+    ],
+    "correctAnswer": "4) Korrozyon meydana gelir"
+  },
+  {
+    "id": 6,
+    "testIndex": 24,
+    "question": "Gemi dizel makinelerinde fuel oiller minimum kaç dereceye kadar ısıtılırlar?",
+    "options": [
+      "1) 50°C",
+      "2) 60°C",
+      "3) 70°C",
+      "4) 90°C",
+      "5) 110°C"
+    ],
+    "correctAnswer": "4) 90°C"
+  },
+  {
+    "id": 7,
+    "testIndex": 24,
+    "question": "Yeterli olmayan hava ile yanmada, silindir yanma ürünleri hangi bileşenlerden oluşur?",
+    "options": [
+      "1) CO2, N2, H2O ve O2",
+      "2) CO, N2, kurum ve H2O",
+      "3) CO2,H2O, S02, NO2",
+      "4) CO2, N2",
+      "5) H2SO4 ve HNO3"
+    ],
+    "correctAnswer": "2) CO, N2, kurum ve H2O"
+  },
+  {
+    "id": 8,
+    "testIndex": 24,
+    "question": "Gemi dizel makinelerinde kullanılan fuel oillerde kül içeriği ağırlıksal olarak %0,1 dir. Eğer kül içeriği bu değerin üzerine çıkarsa, izlenen olaylardan hangisi oluşur?",
+    "options": [
+      "1) Silindir yüzeyi camlaşır",
+      "2) Valf aşınmaları çoğalır",
+      "3) Aşırı miktarda yağlama yağı pompalanır",
+      "4) Yakıt tüketimi çoğalır",
+      "5) Yakıt tüketimi azalır"
+    ],
+    "correctAnswer": "2) Valf aşınmaları çoğalır"
+  },
+  {
+    "id": 9,
+    "testIndex": 24,
+    "question": "İyi bir püskürtme sağlamak amacıyla fuel oillerin ısıtılması gereklidir. Gemi dizellerinde fuel oiller maksimum kaç dereceye kadar ısıtılırlar?",
+    "options": [
+      "1) 150°C",
+      "2) 130°C",
+      "3) 110°C",
+      "4) 90°C",
+      "5) 80°C"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 10,
+    "testIndex": 24,
+    "question": "Yanmanın hızlı basınç yükselmesi periyodunda, basıncın krank açısına göre değişimi, ağır devirli makinelerde kaç bardır?",
+    "options": [
+      "1) 2 - 3 Bar",
+      "2) 4 - 5 Bar",
+      "3) 5 - 6 Bar",
+      "4) 6-7 Bar",
+      "5) 7-8 Bar"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 11,
+    "testIndex": 24,
+    "question": "Bir kilogram sıvı yakıtı yakmak için gerekli teorik hava miktarı 0,82 mol olan bir makinede yakıt 1,6 hava fazlası ile yakıldığında, kullanılan havanın hacmi kaç m3 olacaktır?",
+    "options": [
+      "1) 30,01 m3",
+      "2) 28,02 m3",
+      "3) 27,02 m3",
+      "4) 32,02 m3",
+      "5) 31,01 m3"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 12,
+    "testIndex": 24,
+    "question": "Gemi dizel makinelerinde kullanılan sıvı yakıtların kendiliğinden tutuşma sıcaklıkları yaklaşık olarak kaç derece selsiyüs dolayındadır?",
+    "options": [
+      "1) 200°C",
+      "2) 250°C",
+      "3) 300°C",
+      "4) 360°C",
+      "5) 400°C"
+    ],
+    "correctAnswer": "4) 360°C"
+  },
+  {
+    "id": 13,
+    "testIndex": 24,
+    "question": "Yüksek devirli dizel makinelerinde fazla hava katsayısının maksimum sayısal değeri ne kadardır?",
+    "options": [
+      "1) 2,2",
+      "2) 2,0",
+      "3) 1,7",
+      "4) 1,6",
+      "5) 1,3"
+    ],
+    "correctAnswer": "3) 1,7"
+  },
+  {
+    "id": 14,
+    "testIndex": 24,
+    "question": "Doğal gazın kullanıldığı üç yakıtlı (Try fuel) makinelerinde, sıkıştırma sonunda silindirdeki yakıt ne ile tutuşturulur?",
+    "options": [
+      "1) Sıkıştırma sıcaklığı ile",
+      "2) Kızdırma bujisi ile",
+      "3) Ateşleme bujisi ile",
+      "4) Kızgın noktalarla",
+      "5) 1 ve 2 ile"
+    ],
+    "correctAnswer": "3) Ateşleme bujisi ile"
+  },
+  {
+    "id": 15,
+    "testIndex": 24,
+    "question": "Diğer yakıt püskürtme sistemleriyle kıyaslandığında, birleşik enjektörler nasıl çalışırlar?",
+    "options": [
+      "1) Hemen hemen tutuşma gecikmesiz",
+      "2) Hemen hemen sıfır püskürtme gecikmesi ile",
+      "3) Hemen hemen hareketsiz parçalarla",
+      "4) Hemen hemen denetimsiz",
+      "5) Hemen hemen arızasız"
+    ],
+    "correctAnswer": "2) Hemen hemen sıfır püskürtme gecikmesi ile"
+  },
+  {
+    "id": 16,
+    "testIndex": 24,
+    "question": "Yanma hesaplarında 1 kg sıvı yakıtın yakılması için gerekli teorik oksijen miktarı 0,1083 mol bulunmuştur. Bu değere göre 1 kg sıvı yakıtı yakmak için gerekli hava miktarı kaç mol olacaktır?",
+    "options": [
+      "1) 0,7157 mol",
+      "2) 0,6157 mol",
+      "3) 0,5157 mol",
+      "4) 0,4157 mol",
+      "5) 0,3157 mol"
+    ],
+    "correctAnswer": "3) 0,5157 mol"
+  },
+  {
+    "id": 17,
+    "testIndex": 24,
+    "question": "İyi bir atomizasyon için minimum yakıt püskürtme basıncı neye bağlıdır?",
+    "options": [
+      "1) Silindirdeki hava türbülansı derecesine",
+      "2) Makine silindirlerinde yanma oluşan yanma basıncına",
+      "3) Püskürtülen yakıt miktarına",
+      "4) Tutuşma gecikmesi sürecine",
+      "5) Püskürtme gecikmesi sürecine"
+    ],
+    "correctAnswer": "2) Makine silindirlerinde yanma oluşan yanma basıncına"
+  },
+  {
+    "id": 18,
+    "testIndex": 24,
+    "question": "Dizel makineleri silindirlerinde tam yanma oluştuğu zaman, yanma ürünlerinde aşağıdaki gazlardan hangisi bulunmaz?",
+    "options": [
+      "1)) CO2",
+      "2) N2",
+      "3) H2O",
+      "4) CO",
+      "5) O3"
+    ],
+    "correctAnswer": "4) CO"
+  },
+  {
+    "id": 19,
+    "testIndex": 24,
+    "question": "Yakıt püskürtme sistemleri, yakıtı ölçme ve püskürtme dışmda aşağıda belirtilenlerden hangilerini sağlamalıdır?",
+    "options": [
+      "1) Yanma odasında türbülans (girdap) sağlamalıdır",
+      "2) Silindirin süpürülmesine yardımcı olmalıdır",
+      "3) Yakıtı uygun zamanda silindire püskürtmelidir",
+      "4) Silindirde yakıt penetrasyonu en aza indirmelidir",
+      "5) Yukardakilerin tümünü sağlamalıdır"
+    ],
+    "correctAnswer": "3) Yakıtı uygun zamanda silindire püskürtmelidir"
+  },
+  {
+    "id": 20,
+    "testIndex": 24,
+    "question": "Ağır devirli gemi dize! makinelerinde fazla hava katsayısının maksimum sayısal değeri ne kadardır?",
+    "options": [
+      "1) 2,4",
+      "2) 2,2",
+      "3) 2,0",
+      "4) 1,7",
+      "5) 1,4"
+    ],
+    "correctAnswer": "3) 2,0"
+  }
+]

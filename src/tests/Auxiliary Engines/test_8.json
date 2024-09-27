@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 7,
+    "question": "Bir gemide dabıl botum tanklarına alınan safra ile aşağıdakilerden hangisi düzenlenir?",
+    "options": [
+      "1) Geminin sintineleri yıkanır",
+      "2) Geminin su gereksinimini karşılanır",
+      "3) Geminin çektiği su ve dengesi düzenlenir",
+      "4) Geminin hızı düzenlenir",
+      "5) Geminin rotası düzenlenir"
+    ],
+    "correctAnswer": "3) Geminin çektiği su ve dengesi düzenlenir"
+  },
+  {
+    "id": 2,
+    "testIndex": 7,
+    "question": "Aşağıdakilerden hangisi yakıt alım 'double bottom' valflarının arızası sonucu yakıtın taşmasının sebebidir?",
+    "options": [
+      "1) Valf kaverinin çatlak olması",
+      "2) Valf kapalı olduğu halde bir adet devre flenç saplamasının gevşek olması",
+      "3) Valf sıpındıl salmastrasının yakıt kaçırması",
+      "4) Valf diskinin sıpıdıldan kurtularak yuvasına yan oturup sıkıldığı halde açık kalması",
+      "5) Valf hendılının kırık olması"
+    ],
+    "correctAnswer": "4) Valf diskinin sıpıdıldan kurtularak yuvasına yan oturup sıkıldığı halde açık kalması"
+  },
+  {
+    "id": 3,
+    "testIndex": 7,
+    "question": "Bir santrifüj pompanın operasyonu için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "1) Devreye alınırken çıkış valfı tamamen kapatılır",
+      "2) Gövde sıvı ile doldurulur",
+      "3) Giriş valfı açık tutulur",
+      "4) Devreye alınırken daima havası alınır",
+      "5) Yukarıdakilerin tümü yapılır"
+    ],
+    "correctAnswer": "5) Yukarıdakilerin tümü yapılır"
+  },
+  {
+    "id": 4,
+    "testIndex": 7,
+    "question": "Gemi jeneratörlerinin arızası nedeni ile önemli sistemlerin beslenmesini ve aynı zamanda geminin aydınlatılmasını sağlayan jeneratörlere ne ad verilir?",
+    "options": [
+      "1) Yardımcı jeneratör",
+      "2) Şaft jeneratörü",
+      "3) Emercensi jeneratör",
+      "4) Akümülatör",
+      "5) Manyeto"
+    ],
+    "correctAnswer": "3) Emercensi jeneratör"
+  },
+  {
+    "id": 5,
+    "testIndex": 7,
+    "question": "Gemilerde soğutma sistemlerinde kullanılan soğutucu akışkan aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Freon",
+      "2) Halon",
+      "3) Propan",
+      "4) Metan",
+      "5) Karbon dioksit"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 6,
+    "testIndex": 7,
+    "question": "Vakumlu fid suyu sisteminde buster pompaları çoğu zaman hangi türden pompalardır?",
+    "options": [
+      "1) Dişli pompa",
+      "2) Vidalı pompa",
+      "3) Paletli pompa",
+      "4) Diyaframlı pompa",
+      "5) Santrifüj pompa"
+    ],
+    "correctAnswer": "5) Santrifüj pompa"
+  },
+  {
+    "id": 7,
+    "testIndex": 7,
+    "question": "Gemilerde filika motorları kaç günde bir tornaçark edilir?",
+    "options": [
+      "1) Her gün",
+      "2) Gün aşırı",
+      "3) Haftada bir",
+      "4) Ayda bir",
+      "5) Filika boyandıktan sonra"
+    ],
+    "correctAnswer": "3) Haftada bir"
+  },
+  {
+    "id": 8,
+    "testIndex": 7,
+    "question": "Yüksek basınçlı devrelerde tek yön akım sağlayan valfa verilen ad aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Glob valf",
+      "2) Geyt valf",
+      "3) Kelebek valf",
+      "4) Lift çek valf",
+      "5) İğne valf"
+    ],
+    "correctAnswer": "4) Lift çek valf"
+  },
+  {
+    "id": 9,
+    "testIndex": 7,
+    "question": "Konderser ve kulelerde soğutma amacıyla deniz suyunun dolaştırıldığı devre aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Yağlama devresi",
+      "2) Yakıt devresi",
+      "3) Serküleytin devresi",
+      "4) Balast devresi",
+      "5) Sintine devresi"
+    ],
+    "correctAnswer": "3) Serküleytin devresi"
+  },
+  {
+    "id": 10,
+    "testIndex": 7,
+    "question": "Düzgün ve devamlı bir akım sağlayabilmek için tek etkili pompaların boru devreleri üzerine aşağıdakilerden hangisi donatılır?",
+    "options": [
+      "1) Bir basınç ölçer",
+      "2) Bir sıcaklık ölçer",
+      "3) Bir hava hücresi",
+      "4) Bir vakum hücresi",
+      "5) Bir akım düzenleyici"
+    ],
+    "correctAnswer": "3) Bir hava hücresi"
+  },
+  {
+    "id": 11,
+    "testIndex": 7,
+    "question": "İçinde bir impelleri olan pompa aşağıdaki tiplerden hangisidir?",
+    "options": [
+      "1) Dişli pompa",
+      "2) Vidalı pompa",
+      "3) Santrifüj pompa",
+      "4) Loblu pompa",
+      "5) Diyaframlı pompa"
+    ],
+    "correctAnswer": "3) Santrifüj pompa"
+  },
+  {
+    "id": 12,
+    "testIndex": 7,
+    "question": "Soğutulacak hacim akışkan veya evaporator gibi kısımların sıcaklığının belirli değerler arasında kalmasını temin eden kumanda kontrol cihazı aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Kompresör",
+      "2) Termostat",
+      "3) Manyetik valf",
+      "4) Brülör",
+      "5) Evaporator"
+    ],
+    "correctAnswer": "2) Termostat"
+  },
+  {
+    "id": 13,
+    "testIndex": 7,
+    "question": "Alev borulu kazanlarda Brayn valfının bulunduğu yer aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Kazan ön aynasının üst tarafında",
+      "2) Külhan altındaki adam deliğine yakın bir yerde",
+      "3) Seyfti valfının hemen yanında",
+      "4) Kazan arka aynasında tesviye şişesine yakın bir yerde",
+      "5) Duman sandığının apteyke bağlandığı yerde"
+    ],
+    "correctAnswer": "4) Kazan arka aynasında tesviye şişesine yakın bir yerde"
+  },
+  {
+    "id": 14,
+    "testIndex": 7,
+    "question": "Hangi renk kodu deniz suyu devresini gösterir?",
+    "options": [
+      "1) Sarı",
+      "2) Mavi",
+      "3) Yeşil",
+      "4) Kırmızı",
+      "5) Siyah"
+    ],
+    "correctAnswer": "3) Yeşil"
+  },
+  {
+    "id": 15,
+    "testIndex": 7,
+    "question": "Gemi dabıl botum tanklarında yakıtı alarak diğer tanklara veya dinlendirme tanklarına veren pompalara ne ad verilir?",
+    "options": [
+      "1) Transfer veya aktarma pompası",
+      "2) Sintine pompası",
+      "3) Balast pompası",
+      "4) Servis pompası",
+      "5) Yangın pompası"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 16,
+    "testIndex": 7,
+    "question": "Tam açık yada kapak kullanılması gereken valf aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Lift çek valf",
+      "2) Çalpara çek valf",
+      "3) Manyetik valf",
+      "4) İğne valf",
+      "5) Geyt valf"
+    ],
+    "correctAnswer": "5) Geyt valf"
+  },
+  {
+    "id": 17,
+    "testIndex": 7,
+    "question": "Bir gemide olası bir akaryakıt yangınına aşağıdakilerden hangisi ile müdahale edilir?",
+    "options": [
+      "1) Su",
+      "2) CO2 (karbon dioksit)",
+      "3) Inter gaz veya buhar",
+      "4) Köpük",
+      "5) Yukarıdakilerin tümü"
+    ],
+    "correctAnswer": "4) Köpük"
+  },
+  {
+    "id": 18,
+    "testIndex": 7,
+    "question": "İçme suyunu geminin her tarafındaki lavabo ve sebillere verebilmek için kullanılan sistemlerin adı nedir?",
+    "options": [
+      "1) Sintine sistemi",
+      "2) Safra ve balast sistemi",
+      "3) İçme suyu hidrofor sistemi",
+      "4) Deniz suyu servis sistemi",
+      "5) Besleme suyu sistemi"
+    ],
+    "correctAnswer": "3) İçme suyu hidrofor sistemi"
+  },
+  {
+    "id": 19,
+    "testIndex": 7,
+    "question": "Disçarcından su girişine kaçak oluşan bir santrifüj pompanın olası arızası aşağıdakilerden hangisi olabilir?",
+    "options": [
+      "1) Salmastrası aşınmıştır",
+      "2) Mili aşınmıştır",
+      "3) Aşınma ringi bozulmuştur",
+      "4) Impeller kanatları kirlenmiştir",
+      "5) Difrözü aşınmıştır"
+    ],
+    "correctAnswer": "3) Aşınma ringi bozulmuştur"
+  },
+  {
+    "id": 20,
+    "testIndex": 7,
+    "question": "Gemilerin baş taraflarında bulunan ve demirin funda veya vira edilmesi için kullanılan makineye verilen isim aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Halat ırgatı",
+      "2) Kıç ırgat",
+      "3) Demir ırgat",
+      "4) Matafora",
+      "5) Vinç"
+    ],
+    "correctAnswer": "3) Demir ırgat"
+  }
+]

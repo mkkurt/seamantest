@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 36,
+    "question": "Çeşitli buhar türbinlerinin genel verimleri aşağıdaki hangi değerler arasında değişmektedir?",
+    "options": [
+      "1) %50 - %55",
+      "2) %32 - %38",
+      "3) %45 - %50",
+      "4) %35 - %45",
+      "5) %18 - %24"
+    ],
+    "correctAnswer": "2) %32 - %38"
+  },
+  {
+    "id": 2,
+    "testIndex": 36,
+    "question": "Modern kazanlarda kullanılan seyfti valflar, aşağıdakilerden hangisi değildir?",
+    "options": [
+      "1) Ağırlıklı seyfti valf",
+      "2) Manivelalı seyfti valf",
+      "3) Manivelalı ve ağırlıklı seyfti valf",
+      "4) Yaylı seyfti valf",
+      "5) İğne uçlu seyfti valf"
+    ],
+    "correctAnswer": "4) Yaylı seyfti valf"
+  },
+  {
+    "id": 3,
+    "testIndex": 36,
+    "question": "Bir ya da birkaç nozul ile çevresinde bir sıra hareketli kanat bulunan türbinler aşağıda verilenlerden hangisidir?",
+    "options": [
+      "1) De Laval türbini",
+      "2) Körtis türbini",
+      "3) Basit aksiyon türbini",
+      "4) Reaksiyon türbini",
+      "5) Radyal türbin"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 4,
+    "testIndex": 36,
+    "question": "Kazan suyu yüzeyindeki köpük, yağ vb. nin toplanarak kazan dışına atıldığı kabın adı nedir?",
+    "options": [
+      "1) Kolektör",
+      "2) Brayn kepçesi",
+      "3) Siklon separatörü",
+      "4) Hotvel",
+      "5) Kronometrik valf"
+    ],
+    "correctAnswer": "2) Brayn kepçesi"
+  },
+  {
+    "id": 5,
+    "testIndex": 36,
+    "question": "İki zamanlı tek etkili dizel motorlarında bir iş çevrimi nasıl oluşur?",
+    "options": [
+      "1) Pistonun 4 strokunda",
+      "2) Pistonun 2 strokunda",
+      "3) Pistonun 1 strokunda",
+      "4) 720°'lik krank açısında",
+      "5) 280°'lik krank açısında"
+    ],
+    "correctAnswer": "2) Pistonun 2 strokunda"
+  },
+  {
+    "id": 6,
+    "testIndex": 36,
+    "question": "Dizel motorlarının iş çevriminde aşağıdakilerden hangisi bulunmaz?",
+    "options": [
+      "1) Emme",
+      "2) Basma",
+      "3) Sıkıştırma",
+      "4) Yanma ve genişleme",
+      "5) Egzoz"
+    ],
+    "correctAnswer": "2) Basma"
+  },
+  {
+    "id": 7,
+    "testIndex": 36,
+    "question": "Kazanlarda yakıtı hava ile karıştırıp ocağa püskürten cihaz aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Atomizör",
+      "2) Atemperatör",
+      "3) Aspiratör",
+      "4) Blover",
+      "5) Separatör"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 8,
+    "testIndex": 36,
+    "question": "Silindirlere havanın portlardan verildiği ve egzoz gazlarının kaverdeki (kapaktaki) supap ya da supaplardan atıldığı dizel makinelere ne isim verilir?",
+    "options": [
+      "1) Trank pistonlu makine",
+      "2) Kroshetli makine",
+      "3) Sömi dizel makine",
+      "4) Tek etkili makine",
+      "5) Doğru akımlı makine"
+    ],
+    "correctAnswer": "5) Doğru akımlı makine"
+  },
+  {
+    "id": 9,
+    "testIndex": 36,
+    "question": "İki zamanlı ve dört zamanlı dizel makineleri arasındaki en önemli fark aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Sıkıştırma basıncının sayısal değeri",
+      "2) Yanma basıncının sayısal değeri",
+      "3) Yakıtın silindirlere püskürtülme şekli",
+      "4) Havanın silindirlere giriş ve egzoz gazlarının silindirden atılışı",
+      "5) Egzoz basınçlarının farklı oluşu"
+    ],
+    "correctAnswer": "4) Havanın silindirlere giriş ve egzoz gazlarının silindirden atılışı"
+  },
+  {
+    "id": 10,
+    "testIndex": 36,
+    "question": "Aşağıdakilerden hangisi skoç tipi bir kazanın bölümlerinden değildir?",
+    "options": [
+      "1) Cehennemlik",
+      "2) Külhan",
+      "3) Duman sandığı",
+      "4) Buhar su dramı",
+      "5) Alev ve duman boruları"
+    ],
+    "correctAnswer": "4) Buhar su dramı"
+  },
+  {
+    "id": 11,
+    "testIndex": 36,
+    "question": "İki zamanlı motor tanımlamasına aşağıda belirtilenlerden hangisi uymaktadır?",
+    "options": [
+      "1) Krank şaftın 2 tam devrinde bir iş çevrimi oluşturan makine",
+      "2) Krank şaftın 1 tam devrinde bir iş çevrimi oluşturan makine",
+      "3) Krank şaftın 3 tam devrinde bir iş çevrimi oluşturan makine",
+      "4) Krank şaftın 4 tam devrinde bir iş çevrimi oluşturan makine",
+      "5) Krank şaftın yarım devrinde bir iş çevrimi oluşturan makine"
+    ],
+    "correctAnswer": "2) Krank şaftın 1 tam devrinde bir iş çevrimi oluşturan makine"
+  },
+  {
+    "id": 12,
+    "testIndex": 36,
+    "question": "Mazot hiterleri fuel oil sıcaklığım hangi sınırlar içinde tutmak zorundadır?",
+    "options": [
+      "1) 60°C - 70°C",
+      "2) 70°C - 80°C",
+      "3) 80°C - 100°C",
+      "4) 90°C - 150°C",
+      "5) 50°C - 60°C"
+    ],
+    "correctAnswer": "4) 90°C - 150°C"
+  },
+  {
+    "id": 13,
+    "testIndex": 36,
+    "question": "Titreşim hasarını önlemek için dizel makinelerinin yakıt besleme devrelerinde neler kullanılır?",
+    "options": [
+      "1) Ağır görev için kısa, saydam plastik boru",
+      "2) Metal olmayan esnek ve onaylanmış boyda bir boru",
+      "3) Tüm bağlantılar için kaynaklı flençler",
+      "4) Genişleme ilmekli alüminyum boru devresi",
+      "5) Pirinç boru devresi"
+    ],
+    "correctAnswer": "2) Metal olmayan esnek ve onaylanmış boyda bir boru"
+  },
+  {
+    "id": 14,
+    "testIndex": 36,
+    "question": "Tek etkili makine tanımı aşağıdakilerden hangisinde verilmektedir?",
+    "options": [
+      "1) Pistonun her iki yüzünde de iş oluşturan makine",
+      "2) Pistonun sadece bir yüzünde iş oluşturan makine",
+      "3) Pistonun sadece alt yüzeyinde iş oluşturan makine",
+      "4) Pistonun yanal yüzlerinde iş oluşturan makine",
+      "5) Pistonun her tarafında iş oluşturan makine"
+    ],
+    "correctAnswer": "2) Pistonun sadece bir yüzünde iş oluşturan makine"
+  },
+  {
+    "id": 15,
+    "testIndex": 36,
+    "question": "Süpürme havasının portlardan verildiği ve egzoz gazlarının portlardan atıldığı dizel makinelerine, süpürme yöntemi bakımından ne isim verilir?",
+    "options": [
+      "1) Doğru akım süpürmeli makineler",
+      "2) Basit portlu süpürmeli makineler",
+      "3) Karşıt pistonlu makineler",
+      "4) Karşıt silindirli makineler",
+      "5) Radyal makineler"
+    ],
+    "correctAnswer": "2) Basit portlu süpürmeli makineler"
+  },
+  {
+    "id": 16,
+    "testIndex": 36,
+    "question": "Aşağıdaki valflardan hangisi ile bir Parsons türbininde güç ayarı yapılır?",
+    "options": [
+      "1) Trotul valf",
+      "2) Gardiyan valf",
+      "3) Blodra valf",
+      "4) Nozul grubu",
+      "5) Redyusin valf"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 17,
+    "testIndex": 36,
+    "question": "Krank şafttan dişli veya zincir donanımı ile hareket alarak silindirleri aşırı dolduran süperşarj türü aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Türboşarj",
+      "2) Kısmi süperşarj",
+      "3) Süperşarj",
+      "4) Mekanik süperşarj",
+      "5) Aşırı süperşarj"
+    ],
+    "correctAnswer": "4) Mekanik süperşarj"
+  },
+  {
+    "id": 18,
+    "testIndex": 36,
+    "question": "6 silindirli, dört zamanlı bir dizel motorunda piston yağ kanalları tıkanırsa egzoz dumanının rengi ne olur?",
+    "options": [
+      "1) Siyah",
+      "2) Mavi",
+      "3) Beyaz",
+      "4) Gri",
+      "5) Kahverengi"
+    ],
+    "correctAnswer": "2) Mavi"
+  },
+  {
+    "id": 19,
+    "testIndex": 36,
+    "question": "Port ve helis kontrollü bir yakıt püskürtme pompasının bakımı yapılırken pompa plecerinin değiştirilmesi gerekirse, aşağıdakilerden hangisi uygulanmalıdır?",
+    "options": [
+      "1) Deliveri çek valf değiştirilmelidir",
+      "2) Pompa silindiri veya barılı ile birlikte yenilenmelidir",
+      "3) Püskürtme borusu (kamçı) değiştirilmelidir",
+      "4) Yakıt kemi değiştirilmelidir",
+      "5) Kem takipçisi veya folloveri değiştirilmelidir"
+    ],
+    "correctAnswer": "2) Pompa silindiri veya barılı ile birlikte yenilenmelidir"
+  },
+  {
+    "id": 20,
+    "testIndex": 36,
+    "question": "Bir dizel makinesine süperşarj uygulandığı zaman makinenin özgül yakıt tüketimi ne olur?",
+    "options": [
+      "1) Artar",
+      "2) Azalır",
+      "3) Değişmez",
+      "4) Bazen azalır, bazen artar",
+      "5) Süperşarjın yakıt sarfiyatı ile ilişkisi yoktur"
+    ],
+    "correctAnswer": "2) Azalır"
+  }
+]

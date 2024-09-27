@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 6,
+    "question": "Dizel makinelerinde yakıt püskürtme pompasının plenceri barılı içinde yakıtı sıkıştırmaya başlaması ile art yanmaya kadar, yakıt püskürtme sistemi ve silindirde oluşan olaylar sırası ile hangileridir?",
+    "options": [
+      "1) Tutuşma gecikmesi-hızlı yanma-yavaş yanma-art yanma",
+      "2) Püskürtme gecikmesi-kontrolsüz yanma-kontrollü yanma-tutuşma gecikmesi",
+      "3) Püskürtme gecikmesi-tutuşma gecikmesi-ani basınç yükselmesi-yavaş yanma-art yanma",
+      "4) Hızlı basınç yükselmesi-yavaş yanma-art yanma-tutuşma gecikmesi",
+      "5) Tutuşma gecikmesi-püskürtme gecikmesi-yavaş yanma-art yanma-hızlı yanma"
+    ],
+    "correctAnswer": "3) Püskürtme gecikmesi-tutuşma gecikmesi-ani basınç yükselmesi-yavaş yanma-art yanma"
+  },
+  {
+    "id": 2,
+    "testIndex": 6,
+    "question": "İşletmecilerin, gemi dizel makinelerinde kullanılan yakıtların yoğunluklarının bilmesi niçin gereklidir?",
+    "options": [
+      "1) Yakıtın uygun bir şekilde separe edilmesi için",
+      "2) Gravite diskinin seçimi için",
+      "3) Tutuşma gecikmesinin tespiti için",
+      "4) Püskürtme gecikmesinin saptanması için",
+      "5) 1 ve 2 için"
+    ],
+    "correctAnswer": "5) 1 ve 2 için"
+  },
+  {
+    "id": 3,
+    "testIndex": 6,
+    "question": "Distile yakıtlarda suyun, hacim olarak izin verilen maksimum miktarı ne kadar olmalıdır?",
+    "options": [
+      "1) % 0,50",
+      "2) % 0,40",
+      "3) % 0,30",
+      "4) % 0,20",
+      "5) %0,10"
+    ],
+    "correctAnswer": "3) % 0,30"
+  },
+  {
+    "id": 4,
+    "testIndex": 6,
+    "question": "Dizel makinelerinde kullanılmakta olan fuel oillerde suyun, hacim olarak izin verilen maksimum miktarı ne kadardır?",
+    "options": [
+      "1) %4",
+      "2) %3",
+      "3) %2",
+      "4) %1",
+      "5) %0,1"
+    ],
+    "correctAnswer": "4) %1"
+  },
+  {
+    "id": 5,
+    "testIndex": 6,
+    "question": "Damıtma ürünü yakıtlarda mum kristallerinin oluşmaya başladığı sıcaklık derecesi, aşağıda verilenlerden hangisidir?",
+    "options": [
+      "1) Tutuşma noktası",
+      "2) Kendiliğinden parlama noktası",
+      "3) Kristalleşme noktası",
+      "4) Bulut noktası",
+      "5) Akma noktası"
+    ],
+    "correctAnswer": "4) Bulut noktası"
+  },
+  {
+    "id": 6,
+    "testIndex": 6,
+    "question": "Eğer yapısı %45 setan ve %55 alfam etilnaftalen olan bir karışımın tutuşma gecikmesi, dizel örnek yakıtının tutuşma gecikmesi ile aynı bulunmuşsa, o dizel yakıtı izlenenlerden hangisi ile tanımlanabilir?",
+    "options": [
+      "1) Setan sayısı %55",
+      "2) Setan sayısı %45",
+      "3) Oktan sayısı %55",
+      "4) Oktan sayısı %45",
+      "5) Alfametil naftalen %45"
+    ],
+    "correctAnswer": "2) Setan sayısı %45"
+  },
+  {
+    "id": 7,
+    "testIndex": 6,
+    "question": "DMX distile yakıtı için, İSO 8217 standartlarında bulut noktası maksimum kaç derecedir?",
+    "options": [
+      "1) -20°C",
+      "2) -24°C",
+      "3) -18°C",
+      "4) -16°C",
+      "5) -12°C"
+    ],
+    "correctAnswer": "4) -16°C"
+  },
+  {
+    "id": 8,
+    "testIndex": 6,
+    "question": "Genel olarak ağır fuel oillerin kül içeriği, ağırlıksal olarak %0,1'dir. Eğer kül içeriği bu değerin üzerine çıkarsa, izlenen olaylardan hangisi oluşur?",
+    "options": [
+      "1) Valf aşınmaları çoğalır",
+      "2) Layner yüzeyi camlaşır",
+      "3) Aşırı miktarda yağ pompalanır",
+      "4) Yakıt tüketimi çoğalır",
+      "5) Yakıt tüketimi azalır"
+    ],
+    "correctAnswer": "2) Layner yüzeyi camlaşır"
+  },
+  {
+    "id": 9,
+    "testIndex": 6,
+    "question": "Alçak setan sayısına sahip olan dizel yakıtları aşağıda belirtilenlerden hangisine neden olur?",
+    "options": [
+      "1) Soğuk havalarda ilk hareket yeteneğinin gelişmesine",
+      "2) Aşırı yakıt tüketimine",
+      "3) Tutuşma gecikmesinin kısalmasına",
+      "4) Makinenin daha yumuşak çalışmasına",
+      "5) Üretilen güç miktarının çoğalmasına"
+    ],
+    "correctAnswer": "2) Aşırı yakıt tüketimine"
+  },
+  {
+    "id": 10,
+    "testIndex": 6,
+    "question": "Dizel yakıtlarının tutuşma niteliği, onun hangi özelliği ile belirtir?",
+    "options": [
+      "1) Oktan sayısı ile",
+      "2) Setan sayısı ile",
+      "3) Viskozitesi ile",
+      "4) Hava-yakıt oranı ile",
+      "5) Asfalten miktarı ile"
+    ],
+    "correctAnswer": "2) Setan sayısı ile"
+  },
+  {
+    "id": 11,
+    "testIndex": 6,
+    "question": "Dizel yakıtlarının setan sayılarını yükseltmek için kullanılan katkı maddelerine örnek aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Aseton peroksit",
+      "2) Etil nitrat",
+      "3) Amil nitrat",
+      "4) İzo-amil nitrat",
+      "5) Tümü"
+    ],
+    "correctAnswer": "5) Tümü"
+  },
+  {
+    "id": 12,
+    "testIndex": 6,
+    "question": "Atık yakıtlarda bulunan yabancı maddelerden hangisi egzoz valflarında korrozyon ve oyuklara neden olur?",
+    "options": [
+      "1) Karbon",
+      "2) Vanadyum",
+      "3) Kalsiyum",
+      "4) Hidrojen",
+      "5) Nitrojen"
+    ],
+    "correctAnswer": "2) Vanadyum"
+  },
+  {
+    "id": 13,
+    "testIndex": 6,
+    "question": "Gemi dizel makinelerinde kullanılan fuel oillerin yoğunlukları hangi değerler arasında değişmektedir?",
+    "options": [
+      "1) 1020 - 1040 kg/m3",
+      "2) 1020 - 1030 kg/m3",
+      "3) 991 - 1010 kg/m3",
+      "4) 981- 991 kg/m3",
+      "5) 971 - 981 kg/m3"
+    ],
+    "correctAnswer": "3) 991 - 1010 kg/m3"
+  },
+  {
+    "id": 14,
+    "testIndex": 6,
+    "question": "Yüksek devirli dizel makinelerinde, kontrolsüz yanma veya ani basınç yükselmesi periyodunda, yanma basıncının krank açısı türünden artış miktarı ne kadardır?",
+    "options": [
+      "1) 2-3 bar/°krank",
+      "2) 3-4 bar/°krank",
+      "3) 4-5 bar/°krank",
+      "4) 5-6 bar/°krank",
+      "5) 6 - 8 bar/°krank"
+    ],
+    "correctAnswer": "5) 6 - 8 bar/°krank"
+  },
+  {
+    "id": 15,
+    "testIndex": 6,
+    "question": "Devir sayısı 1000 rpm olan bir dizel makinesinde tutuşma gecikmesi 14� olarak tespit edilmiştir. Bu açı saniye türünden aşağıdakilerden hangisine uymaktadır?",
+    "options": [
+      "1) 0,0032 saniye",
+      "2) 0,0017 saniye",
+      "3) 0,0024 saniye",
+      "4) 0,0015 saniye",
+      "5) 0,0011 saniye"
+    ],
+    "correctAnswer": "3) 0,0024 saniye"
+  },
+  {
+    "id": 16,
+    "testIndex": 6,
+    "question": "Yüksek kükürt içerikli yakıtı sürekli olarak kullanan bir gemi dizel makinesinde sonuç ne olacaktır?",
+    "options": [
+      "1) Yakıt püstürtme pompaları tıkanacaktır",
+      "2) Silindir laynerinin aşınması hızlanacaktır",
+      "3) Giriş valfı sıpındılında korrozyon oluşacaktır",
+      "4) Pistonlarda reçine yığılmaları görülecektir",
+      "5) Laynerlerde camsı görüntü oluşacaktır"
+    ],
+    "correctAnswer": "2) Silindir laynerinin aşınması hızlanacaktır"
+  },
+  {
+    "id": 17,
+    "testIndex": 6,
+    "question": "Dizel yakıtları için tutuşma niteliği iyi olmayan ve setan sayısının tespitinde baz olarak alman karbonlu hidrojen aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Asfalten",
+      "2) Alfametil maftalen",
+      "3) İzoamil nitrat",
+      "4) Trisodyum fosfat",
+      "5) Seten"
+    ],
+    "correctAnswer": "2) Alfametil maftalen"
+  },
+  {
+    "id": 18,
+    "testIndex": 6,
+    "question": "Ağır devirli, yüksek güçlü gemi dizel makinelerinde yakıtın %90'ını buharlaştıracak sıcaklık aşağıda verilenlerden hangisidir?",
+    "options": [
+      "1) 388°C",
+      "2) 378 °C",
+      "3) 358°C",
+      "4) 368 °C",
+      "5) 348°C"
+    ],
+    "correctAnswer": "3) 358°C"
+  },
+  {
+    "id": 19,
+    "testIndex": 6,
+    "question": "Setan sayısının önemi nedir?",
+    "options": [
+      "1) Setan sayısı püskürtme gecikmesini etkiler",
+      "2) Setan sayısı yakıtın viskozitesini belirtir",
+      "3) Yüksek setan sayılı yakıt tutuşma gecikmesi periyodunu küçültür",
+      "4) Setan sayısının yanma olayında çok küçük de olsa bir etkisi yoktur",
+      "5) Setan sayısı yakıtların ısı değerleri ile ters orantılıdır"
+    ],
+    "correctAnswer": "3) Yüksek setan sayılı yakıt tutuşma gecikmesi periyodunu küçültür"
+  },
+  {
+    "id": 20,
+    "testIndex": 6,
+    "question": "Tutuşma gecikmesi süreci bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "1) Tutuşma gecikmesi süreci kompresyon oranının artmasıyla azalır",
+      "2) Tutuşma gecikmesi süreci devir sayısı ile doğru orantılıdır",
+      "3) Tutuşma gecikmesi periyodu yanma havasının yoğunluğu arttıkça çoğalır",
+      "4) Tutuşma gecikmesi periyodu devir sayısı ve kompresyon oranı ile ters orantılıdır",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "4) Tutuşma gecikmesi periyodu devir sayısı ve kompresyon oranı ile ters orantılıdır"
+  }
+]

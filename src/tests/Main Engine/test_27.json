@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 26,
+    "question": "Kroshetli makinelerde sliper ile gayıtı nasıl yağlanır?",
+    "options": [
+      "1) Çarpma ile",
+      "2) Cebri olarak",
+      "3) Damlalıklı yağdanlık ile",
+      "4) Özel pistonlu pompa ile",
+      "5) Çemberle"
+    ],
+    "correctAnswer": "2) Cebri olarak"
+  },
+  {
+    "id": 2,
+    "testIndex": 26,
+    "question": "Gemilerde yapılan kullanılmış yağa ilişkin basit deney aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Parafin deneyi",
+      "2) Kurutma kağıdı deneyi",
+      "3) Denge deneyi",
+      "4) Spektrografi deneyi",
+      "5) Yakıt deneyi"
+    ],
+    "correctAnswer": "2) Kurutma kağıdı deneyi"
+  },
+  {
+    "id": 3,
+    "testIndex": 26,
+    "question": "Bazı kroshetli dizel makinelerinde kroshet pin yatakları nasıl yağlanır?",
+    "options": [
+      "1) Özel bir pistonlu pompa ile",
+      "2) Doğrudan yağlama sisteminden",
+      "3) Kemşaft yağlama sisteminden",
+      "4) Konnektin rodun içindeki kanaldan",
+      "5) Ana yataklardan verilen yağ ile"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 4,
+    "testIndex": 26,
+    "question": "Gemi dizel makinelerinde yağlama yağı sıcaklığı aşırı yüksek olduğu zaman, aşağıda görülenlerden hangisi oluşur?",
+    "options": [
+      "1) Viskozite yükselir",
+      "2) Yağ oksitlenir ve karbon birikintileri oluşur",
+      "3) Yağın yağlama özellikleri gelişir",
+      "4) Makine yağlama yağı tüketimi azalır",
+      "5) Yağın yağlama özelliklerinde bir değişim olmaz"
+    ],
+    "correctAnswer": "2) Yağ oksitlenir ve karbon birikintileri oluşur"
+  },
+  {
+    "id": 5,
+    "testIndex": 26,
+    "question": "Dizel makinelerinde kullanılan yağlama yağı pompası aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Volüt türü pompa",
+      "2) Santrifüj pompa",
+      "3) Diyaframlı pompa",
+      "4) Dişli pompa",
+      "5) Pistonlu pompa"
+    ],
+    "correctAnswer": "4) Dişli pompa"
+  },
+  {
+    "id": 6,
+    "testIndex": 26,
+    "question": "Basınçlı ilk hareket havası üreten kompresörler, genel olarak hangi türdendir?",
+    "options": [
+      "1) Egzoz gazlan ile çalıştırılan türboşarjer",
+      "2) Ruts (roots) bloveri türünden hava pompası",
+      "3) Santrifüj hava kompresörü",
+      "4) Çok kademeli pistonlu hava kompresörü",
+      "5) Lob türü hava pompası"
+    ],
+    "correctAnswer": "4) Çok kademeli pistonlu hava kompresörü"
+  },
+  {
+    "id": 7,
+    "testIndex": 26,
+    "question": "Makine yağlama yağının denenmesinde basit nokta deneyi ile aşağıdakiierden hangisi saptanır?",
+    "options": [
+      "1) Yağlama yağının yakıt ile kirlenmesi",
+      "2) Yağlama yağının yaklaşık viskozitesi",
+      "3) Yağlama yağının kirlenmesi",
+      "4) TBN değeri",
+      "5) TAN değeri"
+    ],
+    "correctAnswer": "3) Yağlama yağının kirlenmesi"
+  },
+  {
+    "id": 8,
+    "testIndex": 26,
+    "question": "Çoğu gemi dizel makinesinde krankpin yatakları basınçlı yağlama yağını nereden alır?",
+    "options": [
+      "1) Yağlama yağı kulerinden",
+      "2) Kroshet pin yataklarından",
+      "3) Krankşaft içindeki dairesel kanallardan",
+      "4) Doğrudan yağlama yağı pompasından",
+      "5) Hiçbirinden"
+    ],
+    "correctAnswer": "3) Krankşaft içindeki dairesel kanallardan"
+  },
+  {
+    "id": 9,
+    "testIndex": 26,
+    "question": "Yüksek güçlü, kroshetli makinelerin silindir yağlarının en önemli özelliklerinden biri nedir?",
+    "options": [
+      "1) Layner ve segmanlardaki sürtünmeyi önlemek",
+      "2) Layner ve segmanlardaki aşınmayı yok etmek",
+      "3) Yanma asitlerini nörtleştirmek",
+      "4) Silindiri temizlemek",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "3) Yanma asitlerini nörtleştirmek"
+  },
+  {
+    "id": 10,
+    "testIndex": 26,
+    "question": "Aşırı yağlama yağı sıcaklığı nedeniyle yağın oksitlenmesi, dizel makinesi için neden zararlı olmaktadır?",
+    "options": [
+      "1) Yağ köpürür",
+      "2) Büyük miktarda yağ tüketilir",
+      "3) Yağlama yağı viskozitesi daima düşer",
+      "4) Çoğu zaman paslandırıcı yan ürünler oluşur",
+      "5) Bir değişiklik olmaz"
+    ],
+    "correctAnswer": "4) Çoğu zaman paslandırıcı yan ürünler oluşur"
+  },
+  {
+    "id": 11,
+    "testIndex": 26,
+    "question": "Dizel makinelerinin parçalarının aşınmasından gelen metal partikülleri veya tanecikleri yağlama yağında nelere sebep olabilir?",
+    "options": [
+      "1) Aşındırıcı partiküllere",
+      "2) Metal oksitlerine",
+      "3) Paslandırıcı asitlere",
+      "4) Katalizör oluşumuna",
+      "5) Yukardakiİerin tümüne"
+    ],
+    "correctAnswer": "2) Metal oksitlerine"
+  },
+  {
+    "id": 12,
+    "testIndex": 26,
+    "question": "Bir makinenin yağlama yağı analiz raporundaki nötrleştirme sayısı neyi belirtir?",
+    "options": [
+      "1) Yanmayan mineral ve metalik katıların miktarını",
+      "2) Analiz edilen örneği nötrleştirmek için kullanılan miligram potasyum hidroksiti",
+      "3) Analiz edilen örmekte ne tür bir asitin bulunduğunu",
+      "4) İşletme sırasında, yağ tarafından ne kadar külfürik asit emildiğini",
+      "5) Operasyon sırasında, yağ tarafından ne kadar organik asitlerin emildiğini"
+    ],
+    "correctAnswer": "2) Analiz edilen örneği nötrleştirmek için kullanılan miligram potasyum hidroksiti"
+  },
+  {
+    "id": 13,
+    "testIndex": 26,
+    "question": "Deniz suyu ile soğutulan dizel makinelerine örnek, aşağıda belirtilenlerden hangisidir?",
+    "options": [
+      "1) Küçük güçlü, yüksek devirli bot makineleri",
+      "2) Gücü bin kW üzerinde olan makineler",
+      "3) Trank pistonlu makinelerin tümü",
+      "4) Kroshetli makinelerin bir bölümü",
+      "5) Sürat teknelerinin dizel motorları"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 14,
+    "testIndex": 26,
+    "question": "Eğer analiz raporu, yağlama yağında aşırı kromat içeriği gösteriyorsa, anlamı nedir?",
+    "options": [
+      "1) Havanın filtrasyonu yetersizdir",
+      "2) Yağlama yağına makinenin soğutma suyu karışmaktadır",
+      "3) Yağlama yağına yakıt karışmaktadır",
+      "4) Piston segmanları aşırı bir şekilde aşınmıştır",
+      "5) Silindir layneri aşırı bir biçimde aşınmıştır"
+    ],
+    "correctAnswer": "2) Yağlama yağına makinenin soğutma suyu karışmaktadır"
+  },
+  {
+    "id": 15,
+    "testIndex": 26,
+    "question": "Dizel makinelerinde yağlama yağının verildiği ilk önemli kısım hangisidir?",
+    "options": [
+      "1) Silindirler",
+      "2) Krankşaft ana yataklar",
+      "3) Gacın pin yatakları",
+      "4) Krank pin yatakları",
+      "5) Kemşaft yatakları"
+    ],
+    "correctAnswer": "2) Krankşaft ana yataklar"
+  },
+  {
+    "id": 16,
+    "testIndex": 26,
+    "question": "Yüksek güçlü, kroshetli makinelerin silindirleri nasıl yağlanır?",
+    "options": [
+      "1) Lubrikeyter ile",
+      "2) Yağ otomatiği ile",
+      "3) Mekanik yağdanlıkla",
+      "4) Lübrikatör ile",
+      "5) Yukardakilerin tümüyle"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümüyle"
+  },
+  {
+    "id": 17,
+    "testIndex": 26,
+    "question": "Ağır devirli, yüksek güçlü gemi dizel makinelerinde doğrudan deniz suyu ile soğutulan kısım hangisidir?",
+    "options": [
+      "1) Silindir başlıkları",
+      "2) Egzoz valfları",
+      "3) Süperşarj havası soğutucusu",
+      "4) Enjektörler",
+      "5) Silindir ceketleri"
+    ],
+    "correctAnswer": "3) Süperşarj havası soğutucusu"
+  },
+  {
+    "id": 18,
+    "testIndex": 26,
+    "question": "Eğer kullanılan yağlama yağının analiz raporu yüksek oranda aşınmadan gelen demir metali gösteriyorsa, bunun anlamı nedir?",
+    "options": [
+      "1) Yatak korrozyonu",
+      "2) Havanın yeterli olmayan filtrasyonu",
+      "3) Aşırı segman ve silindir layneri aşınması",
+      "4) Yağlama yağının aşırı soğutulması",
+      "5) O-ringlerin aşınması"
+    ],
+    "correctAnswer": "3) Aşırı segman ve silindir layneri aşınması"
+  },
+  {
+    "id": 19,
+    "testIndex": 26,
+    "question": "Dizel makinelerinde, genelde normal olarak hangi tür yağlama yağları kullanılır?",
+    "options": [
+      "1) Deterjansız yağlama yağları",
+      "2) Kesme yağları",
+      "3) Yüksek nitelikli bitkisel yağlar",
+      "4) Yüksek nitelikli hayvansal yağlar",
+      "5) Deterjan yağlar"
+    ],
+    "correctAnswer": "5) Deterjan yağlar"
+  },
+  {
+    "id": 20,
+    "testIndex": 26,
+    "question": "Çalışmakta olan bir makinede yüksek soğutucu sıcaklığının sebebi nedir?",
+    "options": [
+      "1) Soğutma pompasının aşırı bir şekilde aşınmış olması",
+      "2) Yeterli olmayan soğutucu",
+      "3) Soğutma sisteminde hava",
+      "4) Tatlı su kuleri borularında deniz canlılarının oluşumu",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümü"
+  }
+]

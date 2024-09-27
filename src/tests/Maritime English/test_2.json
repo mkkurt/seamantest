@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 1,
+    "question": "A propulsion diesel engine is normally shut down by .........................",
+    "options": [
+      "1) Shutting off the air supply",
+      "2) Overspeeding the engine",
+      "3) Securing the fuel supply",
+      "4) Securing the ignition system",
+      "5) All above"
+    ],
+    "correctAnswer": "3) Securing the fuel supply"
+  },
+  {
+    "id": 2,
+    "testIndex": 1,
+    "question": "A cracked cylinder head on a diesel engine could be indicated by:",
+    "options": [
+      "1) Excessive lube oil consumption",
+      "2) Water draining from the fuel leakoff valves",
+      "3) Excessive fuel oil consumption",
+      "4) Excessive cooling water consumption",
+      "5) Combustion gases venting at the expansion tank"
+    ],
+    "correctAnswer": "5) Combustion gases venting at the expansion tank"
+  },
+  {
+    "id": 3,
+    "testIndex": 1,
+    "question": "What kind of bolts would you use on a saltwater line?",
+    "options": [
+      "1) Cold rolled",
+      "2) Brass",
+      "3) Cast iron",
+      "4) Plastic",
+      "5) All of the above"
+    ],
+    "correctAnswer": "2) Brass"
+  },
+  {
+    "id": 4,
+    "testIndex": 1,
+    "question": "Cavitation, the forming and bursting of vapor filled cavities or bubbles will result in .............................",
+    "options": [
+      "1) A loss of thrust",
+      "2) Erosion of the blade surface",
+      "3) Vibrations in the afterbody of the ship",
+      "4) Noise",
+      "5) All above"
+    ],
+    "correctAnswer": "5) All above"
+  },
+  {
+    "id": 5,
+    "testIndex": 1,
+    "question": "The thermostatic expansion valve of R-22 or R-134 a refrigeration system controls the:",
+    "options": [
+      "1) Back pressure in the evaporator coils",
+      "2) Temperature in the refrigerated space",
+      "3) Superheat in the refrigerant leaving the evaporator",
+      "4) Refrigerant pressure in high side",
+      "5) Temperature in the condenser"
+    ],
+    "correctAnswer": "3) Superheat in the refrigerant leaving the evaporator"
+  },
+  {
+    "id": 6,
+    "testIndex": 1,
+    "question": "Studs and nuts intended for use in main steam line flanges and fittings are marked with an \"H\" or a \"T\" to show they are:",
+    "options": [
+      "1) Heat resistant",
+      "2) Hard finished",
+      "3) Half threaded",
+      "4) Corrosion resistant",
+      "5) Fire proof"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 7,
+    "testIndex": 1,
+    "question": "\"Water hammer\" is caused by:",
+    "options": [
+      "1) Hitting water pipe with hammer",
+      "2) Too much water in pipe line system",
+      "3) Water in steam lines",
+      "4) Steam in water lines",
+      "5) Few amount of water in pipe line system"
+    ],
+    "correctAnswer": "3) Water in steam lines"
+  },
+  {
+    "id": 8,
+    "testIndex": 1,
+    "question": "What harmful consequence can result from sludge in the lube oil system of a trunk piston diesel engine?",
+    "options": [
+      "1) Clogged oil pump suction screens",
+      "2) Increased oil temperature",
+      "3) Stuck piston rings",
+      "4) Any of the above",
+      "5) None of the above"
+    ],
+    "correctAnswer": "4) Any of the above"
+  },
+  {
+    "id": 9,
+    "testIndex": 1,
+    "question": "The removal of contaminating impurities from lubricating oil will ................",
+    "options": [
+      "1) Increase engine wear",
+      "2) Decrease engine wear",
+      "3) Increase possible breakdowns",
+      "4) Decrease possible breakdowns",
+      "5) 2 and 4"
+    ],
+    "correctAnswer": "5) 2 and 4"
+  },
+  {
+    "id": 10,
+    "testIndex": 1,
+    "question": ".............................. protects the pump shafts from erosion, corrosion and wear",
+    "options": [
+      "1) Wearing rings",
+      "2) Renewable sleeves",
+      "3) A hardened metal coating",
+      "4) Internally flooded lantern rings",
+      "5) Lantern rings"
+    ],
+    "correctAnswer": "2) Renewable sleeves"
+  },
+  {
+    "id": 11,
+    "testIndex": 1,
+    "question": "It shall be the responsibility of the ................ to prepare the boilers for inspection.",
+    "options": [
+      "1) Chief Engineer",
+      "2) 2nd Engineer",
+      "3) Boatswain",
+      "4) 2nd officer",
+      "5) Any above organization"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 12,
+    "testIndex": 1,
+    "question": "Which valve is normally closed when charging an R-22 or R-134 a refrigeration system through the high side?",
+    "options": [
+      "1) The thermal expansion valve",
+      "2) The dehydrator inlet valve",
+      "3) The suction line valve",
+      "4) Both the thermal expansion valve and dehydrator inlet valve",
+      "5) The liquid line king valve"
+    ],
+    "correctAnswer": "5) The liquid line king valve"
+  },
+  {
+    "id": 13,
+    "testIndex": 1,
+    "question": "The air supplied to the cylinders by a turbocharger is often reduced in volume by a/an:",
+    "options": [
+      "1) Air compressor",
+      "2) Diffuser",
+      "3) Filter",
+      "4) Venturi",
+      "5) Aftercooler"
+    ],
+    "correctAnswer": "5) Aftercooler"
+  },
+  {
+    "id": 14,
+    "testIndex": 1,
+    "question": "When operating at high or low speed in the use of nozzles in a turbine, attention and precaution must be taken that ........................",
+    "options": [
+      "1) The nozzles in use should be wide open",
+      "2) Operation with a few nozzles as it's economical",
+      "3) The nozzles not in use must be tightly closed",
+      "4) All above",
+      "5) Only 1 and 2"
+    ],
+    "correctAnswer": "4) All above"
+  },
+  {
+    "id": 15,
+    "testIndex": 1,
+    "question": "The valve which is always partially open when the evaporator is in operation is the:",
+    "options": [
+      "1) Vapor valve",
+      "2) Continuous blowdown valve",
+      "3) Bottom blowdown valve",
+      "4) Surface blowdown valve",
+      "5) Fresh water valve"
+    ],
+    "correctAnswer": "2) Continuous blowdown valve"
+  },
+  {
+    "id": 16,
+    "testIndex": 1,
+    "question": "Insufficient refrigerant in a refrigeration plant on board a ship may result in:",
+    "options": [
+      "1) High discharge pressure",
+      "2) Frosting of the crankcase",
+      "3) High temperature of the overboard water",
+      "4) Low suction pressure",
+      "5) Low temperature of the sea water"
+    ],
+    "correctAnswer": "4) Low suction pressure"
+  },
+  {
+    "id": 17,
+    "testIndex": 1,
+    "question": "An electric heater built into the cylinder water jacket would be used to:",
+    "options": [
+      "1) Raise lube oil viscosity for easier starting in cold weather",
+      "2) Increase air inlet temperature",
+      "3) Increase compression ratio",
+      "4) Increase jacketwater temperature for easier starting in cold weather",
+      "5) Heating compressed air"
+    ],
+    "correctAnswer": "4) Increase jacketwater temperature for easier starting in cold weather"
+  },
+  {
+    "id": 18,
+    "testIndex": 1,
+    "question": "An advantage of aluminum pistons compared to cast iron pistons is:",
+    "options": [
+      "1) Greater high temperature strength",
+      "2) Greater weight per cubic meter",
+      "3) Increased resistance to wear",
+      "4) Low temperature strength",
+      "5) Better heat conductivity"
+    ],
+    "correctAnswer": "5) Better heat conductivity"
+  },
+  {
+    "id": 19,
+    "testIndex": 1,
+    "question": "Sediment collects in a tubular purifier:",
+    "options": [
+      "1) On top cover",
+      "2) In drain line",
+      "3) On sides of bowl",
+      "4) On the discs",
+      "5) None of above"
+    ],
+    "correctAnswer": "3) On sides of bowl"
+  },
+  {
+    "id": 20,
+    "testIndex": 1,
+    "question": "If one cylinder was getting more fuel then others the effect will be ...............",
+    "options": [
+      "1) That cylinder's being overloaded",
+      "2) The exhaust valve's being overheated",
+      "3) Average compression",
+      "4) Incomplete combustion",
+      "5) Complate combustion"
+    ],
+    "correctAnswer": "3) Average compression"
+  }
+]

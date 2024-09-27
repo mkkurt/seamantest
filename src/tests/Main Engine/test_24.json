@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 23,
+    "question": "Yüksek devirli bir dizel makinesinin işletme devir sayısı 1600 rpm'dir. Geminin pervanesinin devir sayısı 400 rpm olduğuna göre, devir düşürme oranı ne kadardır?",
+    "options": [
+      "1) 8/1",
+      "2) 6/1",
+      "3) 4/1",
+      "4) 10/1",
+      "5) 5/1"
+    ],
+    "correctAnswer": "3) 4/1"
+  },
+  {
+    "id": 2,
+    "testIndex": 23,
+    "question": "Bir başka adı da dönüşüm teçhizatı olan sistem aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Damıtma sistemi",
+      "2) Kraking sistemi",
+      "3) Dinlendirme sistemi",
+      "4) Isıtma sistemi",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "2) Kraking sistemi"
+  },
+  {
+    "id": 3,
+    "testIndex": 23,
+    "question": "Marine fuel oillerin özelliklerinden çekici olanlar, aşağıda verilenlerden hangisidir?",
+    "options": [
+      "1) Alevlenme noktası ve yüksek viskozite",
+      "2) Alçak alevlenme noktası ve yüksek viskozite",
+      "3) Alçak ısı değeri ve yüksek kükürt içeriği",
+      "4) Yüksek ısı değeri ve alçak kükürt içeriği",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "4) Yüksek ısı değeri ve alçak kükürt içeriği"
+  },
+  {
+    "id": 4,
+    "testIndex": 23,
+    "question": "Ham petrolden türlü ürünlerin elde edilmesinde kullanılan ve atmosfere kapalı olan tankın adı nedir?",
+    "options": [
+      "1) Damıtma kulesi",
+      "2) Damıtma tankı",
+      "3) Dinlendirme tankı",
+      "4) Servis tankı",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 5,
+    "testIndex": 23,
+    "question": "Gemi dizel makinelerinde tutuşma gecikmesinin standart boyu, krank açısı cinsinden kaç derecedir?",
+    "options": [
+      "1) 25°K",
+      "2) 20°K",
+      "3) 16°K",
+      "4) 13°K",
+      "5) 10°K"
+    ],
+    "correctAnswer": "4) 13°K"
+  },
+  {
+    "id": 6,
+    "testIndex": 23,
+    "question": "Devir düşürücü dişli donanımlar bakımından en önemli olan nedir?",
+    "options": [
+      "1) Devir düşürme oranıdır",
+      "2) Donanımın üst keysinin alt keyse sıkıca bağlı olmasıdır",
+      "3) Dişlilere temiz işletme basmç ve sıcaklığında yağ verilmesidir",
+      "4) Çahşan ve çalıştıran şaftların laynmda olmasıdır",
+      "5) 1 ve 2'dir"
+    ],
+    "correctAnswer": "3) Dişlilere temiz işletme basmç ve sıcaklığında yağ verilmesidir"
+  },
+  {
+    "id": 7,
+    "testIndex": 23,
+    "question": "Setan sayısının önemi nedir?",
+    "options": [
+      "1) Setan sayısı püskürtme gecikmesini etkiler",
+      "2) Setan sayısı yakıtın viskozitesini belirtir",
+      "3) Yüksek setan sayılı yakıt tutuşma gecikmesi süresini azaltır",
+      "4) Setan sayısının yanma olayında çok küçük bir etkisi vardır",
+      "5) Setan sayısı yakıtların ısı değerleri ile ters orantılıdır"
+    ],
+    "correctAnswer": "3) Yüksek setan sayılı yakıt tutuşma gecikmesi süresini azaltır"
+  },
+  {
+    "id": 8,
+    "testIndex": 23,
+    "question": "Pervane görevi yapan buhar türbinlerinde tornagir makineleri nereye bağlanır?",
+    "options": [
+      "1) Yüksek basınç türbininin pinyon şaftına",
+      "2) Yüksek basmç türbininin srast yatağı tarafına",
+      "3) Alçak basınç türbininin pinyon şaftına",
+      "4) Alçak basmç türbininin rotor şaftına",
+      "5) Ara şaftlardan herhangi birine"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 9,
+    "testIndex": 23,
+    "question": "Yüksek veya orta devirli makinelerle donatılmış gemilerde, makine ile redüksiyon donanımı arasında bulunması gereken nedir?",
+    "options": [
+      "1) Hidrolik kaplin",
+      "2) Elektromanyetik kaplin",
+      "3) Esnek kaplin",
+      "4) Fleksibıl kaplin",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümü"
+  },
+  {
+    "id": 10,
+    "testIndex": 23,
+    "question": "Kademeli olarak yükseltilen kaynama veya buharlaşma sıcaklığına göre ham petrolden elde edilen ikinci ürün hangisidir?",
+    "options": [
+      "1) Naftalar",
+      "2) Benzinler",
+      "3) Lamba petrolü",
+      "4) Gas oil",
+      "5) Diesel oil"
+    ],
+    "correctAnswer": "2) Benzinler"
+  },
+  {
+    "id": 11,
+    "testIndex": 23,
+    "question": "Ham petrolün damıtılmasında kullanılan damıtma kulelerinde ısıtıcı olarak ne kullanılır?",
+    "options": [
+      "1) Su buharı",
+      "2) Kızgın gazlar",
+      "3) Kaynatılmış yağ",
+      "4) Sıcak su",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "5) 1 ve 2"
+  },
+  {
+    "id": 12,
+    "testIndex": 23,
+    "question": "Devir düşürücülü dizel makinelerinde hidrolik kaplin kullanılmasının sebebi nedir?",
+    "options": [
+      "1) Makinenin ürettiği torktur",
+      "2) Makinenin ürettiği titreşimlerin redüksiyon donanımı dişlilerine aktarılmasının önlenmesidir",
+      "3) Makine krankşaftının laynında çalıştırılmasının sağlanmasıdır",
+      "4) Makine tesisi genel veriminin yükseltilmesidir",
+      "5) Yukardakilerin tümüdür"
+    ],
+    "correctAnswer": "2) Makinenin ürettiği titreşimlerin redüksiyon donanımı dişlilerine aktarılmasının önlenmesidir"
+  },
+  {
+    "id": 13,
+    "testIndex": 23,
+    "question": "Dizel makinelerinde kullanılan yakıtların kirlenmesi, çoğu zaman aşağıdakilerden hangisine neden olur?",
+    "options": [
+      "1) Gavörnörün hatalı çalışmasına",
+      "2) Yakıt püskürtme sisteminin hatalı çalışmasına",
+      "3) Yüksek egzoz sıcaklıklarına",
+      "4) Alçak giriş sıcaklıklarına",
+      "5) Kompresyon basıncının azalmasına"
+    ],
+    "correctAnswer": "2) Yakıt püskürtme sisteminin hatalı çalışmasına"
+  },
+  {
+    "id": 14,
+    "testIndex": 23,
+    "question": "Devir düşürücü donanımın yağlama devresinde bulunacak pislik ve metal partikülleri veya parçacıkları, aşağıda belirtilen problemlerden hangisine neden olacaktır?",
+    "options": [
+      "1) Yağlama yağının havalandırılmasına",
+      "2) Yağlama yağı sıcaklığının yükselmesine",
+      "3) Şaftın tam yükte çalışamamasına",
+      "4) Yağlama yağında çamur oluşumuna",
+      "5) Yukardakilerin herhangi birine"
+    ],
+    "correctAnswer": "4) Yağlama yağında çamur oluşumuna"
+  },
+  {
+    "id": 15,
+    "testIndex": 23,
+    "question": "Alçak setan sayısına sahip dizel yakıtları aşağıda belirtilenlerden hangisine neden olur?",
+    "options": [
+      "1) Soğuk hayalarda ilk hareket yeteneğinin gelişmesine",
+      "2) Aşırı yakıt tüketimine",
+      "3) Tutuşma gecikmesinin kısalmasına",
+      "4) Makinenin daha yumuşak çalışmasına",
+      "5) Üretilen güç miktarının çoğalmasına"
+    ],
+    "correctAnswer": "2) Aşırı yakıt tüketimine"
+  },
+  {
+    "id": 16,
+    "testIndex": 23,
+    "question": "Yüksek devirli bir dizel tesisinde, tek kademeli bir devir düşürme donanımında pinyon ve girvilden oluşan iki dişli pervaneyi 200 rpm de çevirmektedir. Pinyon dişlinin çapı 10 inç (254 mm) olduğuna ve 2800 rpm de çalıştığına göre, girvilin çapı ne kadar olacaktır?",
+    "options": [
+      "1) 4556 mm",
+      "2) 3556 mm",
+      "3) 2556 mm",
+      "4) 5556 mm",
+      "5) 6556 mm"
+    ],
+    "correctAnswer": "2) 3556 mm"
+  },
+  {
+    "id": 17,
+    "testIndex": 23,
+    "question": "Dizel makinelerinde çok sık sözü edilen \"Yanma niteliğini\" iyileştirici kimyasal aşağıda belirtilen kavramlardan hangisini ilgilendirir?",
+    "options": [
+      "1) Setan sayısını",
+      "2) Oktan sayısını",
+      "3) Isı değerini",
+      "4) Tutuşma indeksi sayısını",
+      "5) Seten sayısını"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 18,
+    "testIndex": 23,
+    "question": "Denizlerin Kirlenmesi ve Kirliliğin Önlenmesi Sözleşmesine göre, dizel yakıtlarında olması gereken maksimum ağırlıksal kükürt oranı ne olmalıdır?",
+    "options": [
+      "1) %6",
+      "2) %7",
+      "3) %5",
+      "4) %8",
+      "5) %4"
+    ],
+    "correctAnswer": "3) %5"
+  },
+  {
+    "id": 19,
+    "testIndex": 23,
+    "question": "Bir makinede tutuşma gecikmesinin süresi krank açısı türünden 13 derece olduğu ve yakıt silindirlere üst ölü noktadan 15 derece önce püskürtüldüğüne göre, silindirde kendiliğinden tutuşma ne zaman oluşacaktır?",
+    "options": [
+      "1) Üst ölü noktada",
+      "2) Üst ölü noktadan 2 derece sonra",
+      "3) Üst ölü noktadan 2 derece önce",
+      "4) Üst ölü noktadan 4 derece sonra",
+      "5) Üst ölü noktadan 4 derece önce"
+    ],
+    "correctAnswer": "3) Üst ölü noktadan 2 derece önce"
+  },
+  {
+    "id": 20,
+    "testIndex": 23,
+    "question": "Ham petrolün damıtılması sonucu elde edilen ve gemi dizel makinelerinde kullanılan yakıtlar hangileridir?",
+    "options": [
+      "1) Diesel oil",
+      "2) Gasoil",
+      "3) Solar oil",
+      "4) Fuel oil",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümü"
+  }
+]

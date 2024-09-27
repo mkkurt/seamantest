@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 37,
+    "question": "Strok hacimi 10 000 cm3 olan bir silindire tam yükte püskürtülecek yakıt miktarı kaç cm3 olacaktır?",
+    "options": [
+      "1) 5 cm3",
+      "2) 2 cm3",
+      "3) 2,5 cm3",
+      "4) 0,5 cm3",
+      "5) 0,1 cm3"
+    ],
+    "correctAnswer": "4) 0,5 cm3"
+  },
+  {
+    "id": 2,
+    "testIndex": 37,
+    "question": "Yüksek güçlü, ağır devirli gemi dizel makinelerinde aşağıda verilen yakıtlardan hangisi yaygın olarak kullanılır?",
+    "options": [
+      "1) Motorin",
+      "2) Gaz yağı",
+      "3) Diesel oil",
+      "4) Solar oil",
+      "5) Fuel oil"
+    ],
+    "correctAnswer": "5) Fuel oil"
+  },
+  {
+    "id": 3,
+    "testIndex": 37,
+    "question": "Dizel jeneratörlerde emme-egzoz valf ayarları senteleri neye göre yapılır?",
+    "options": [
+      "1) Volandaki üst ölü nokta işaretlerine bakılarak",
+      "2) Roker armların hareketine bakılarak",
+      "3) Karter kapağı açılarak piston kolu hareketine göre",
+      "4) Kem şaft dişlisine bakılarak",
+      "5) Puşrodların hareketlerine bakılarak"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 4,
+    "testIndex": 37,
+    "question": "Karşıt pistonlu dizel makinelerine uygulanan süpürme yönteminin adı nedir?",
+    "options": [
+      "1) Tek pistonlu doğru akımlı süpürme",
+      "2) 2 pistonlu doğru akımlı süpürme",
+      "3) Port ve valflı süpürme",
+      "4) Ters akımlı süpürme",
+      "5) İlmek süpürme"
+    ],
+    "correctAnswer": "2) 2 pistonlu doğru akımlı süpürme"
+  },
+  {
+    "id": 5,
+    "testIndex": 37,
+    "question": "Yüksek güçlü, ağır devirli makinelerin silindirlerinin yağlanmasında aşağıdakilerden hangisi kullanılmaz?",
+    "options": [
+      "1) Lübrikeyter",
+      "2) Mekanik yağdanlık",
+      "3) Lübrikatör",
+      "4) Yağ otomatiği",
+      "5) Püskürtme pompası"
+    ],
+    "correctAnswer": "5) Püskürtme pompası"
+  },
+  {
+    "id": 6,
+    "testIndex": 37,
+    "question": "Volan hız dalgalanmalarını aşağıdakilerden hangisi ile azaltır?",
+    "options": [
+      "1) Sabit indeks (rak) ayarı sağlayarak",
+      "2) Kinetik enerji yüklenerek",
+      "3) Eşit egzoz basıncı sürdürerek",
+      "4) Eşit kem şaft hızı sağlayarak",
+      "5) Titreşimleri söndürerek"
+    ],
+    "correctAnswer": "2) Kinetik enerji yüklenerek"
+  },
+  {
+    "id": 7,
+    "testIndex": 37,
+    "question": "Dizel makinelerinde normale göre çok daha fazla yağ tüketilmesinin nedeni ne olabilir?",
+    "options": [
+      "1) Kirli yağlama yağı filtresi",
+      "2) Çok aşınmış piston segmanları",
+      "3) Yüksek yağlama yağı viskozitesi",
+      "4) Düşük yağlama yağı sıcaklığı",
+      "5) Düşük yağ basıncı"
+    ],
+    "correctAnswer": "2) Çok aşınmış piston segmanları"
+  },
+  {
+    "id": 8,
+    "testIndex": 37,
+    "question": "Trank pistonlu makinelerde konnektin rot veya piston kolunun üst tarafındaki yatağa verilen isim aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Palamar yatağı",
+      "2) Krank pin yatağı",
+      "3) Gacın pin burcu",
+      "4) Kroshet pin yatağı",
+      "5) Kem şaft yatağı"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 9,
+    "testIndex": 37,
+    "question": "Bir enjektörün iğne valfı ve iğne valf silindiri aşırı bir biçimde aşındığı zaman, aşağıda belirtilenlerden hangisi uygulanmalıdır?",
+    "options": [
+      "1) Sadece iğne valf değiştirilmelidir",
+      "2) Sadece iğne valf silindiri değiştirilmelidir",
+      "3) Bir başka iğne valf silindire alıştınlmalıdır",
+      "4) Her ikisi de yeni bir takım ile değiştirilmelidir",
+      "5) Makine aşınmış takımla çalıştırılmaya devam edilmelidir"
+    ],
+    "correctAnswer": "4) Her ikisi de yeni bir takım ile değiştirilmelidir"
+  },
+  {
+    "id": 10,
+    "testIndex": 37,
+    "question": "İki parçadan yapılan pistonlarda segmanları taşıyan bölümün yapımında aşağıda belirtilen malzemelerden hangisi kullanılır?",
+    "options": [
+      "1) Dökme demir",
+      "2) Dövme alüminyum",
+      "3) Dökme çelik",
+      "4) Dövme çelik",
+      "5) Türlü bronzlar"
+    ],
+    "correctAnswer": "3) Dökme çelik"
+  },
+  {
+    "id": 11,
+    "testIndex": 37,
+    "question": "Konnektin rot veya piston kolunu krank şafta bağlayan yatağın adı nedir?",
+    "options": [
+      "1) Kroshet pin yatağı",
+      "2) Palamar yatağı",
+      "3) Kem şaft yatakları",
+      "4) Krank pin yatağı",
+      "5) Gacın pin yatağı"
+    ],
+    "correctAnswer": "4) Krank pin yatağı"
+  },
+  {
+    "id": 12,
+    "testIndex": 37,
+    "question": "Gavernörlerde servomotorun rolü nedir?",
+    "options": [
+      "1) Püskürtülen yakıt miktarını kontrol etmek",
+      "2) Gavernör ağırlıklarına hareket vermek",
+      "3) Yakıtın geri dönüşünü önlemek",
+      "4) Yakıtın püskürtme basıncını arttırmak",
+      "5) Gavernör emrini rak koluna iletmek"
+    ],
+    "correctAnswer": "5) Gavernör emrini rak koluna iletmek"
+  },
+  {
+    "id": 13,
+    "testIndex": 37,
+    "question": "Dizel makinelerinde normalden düşük kompresyon basıncının nedeni, aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Giriş valfları yuvalarına iyi oturmamaktadır",
+      "2) Silindir layneri o-ringleri kaçırmaktadır",
+      "3) Yakıt geç püskürtülmektedir",
+      "4) Yakıt erken püskürtülmektedir",
+      "5) Pistonlar üzerine karbon birikintileri vardır"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 14,
+    "testIndex": 37,
+    "question": "Hangi renk kodu yağ devresini göstermektedir?",
+    "options": [
+      "1) Sarı",
+      "2) Kırmızı",
+      "3) Mavi",
+      "4) Yeşil",
+      "5) Siyah"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 15,
+    "testIndex": 37,
+    "question": "Overholler sırasında yüksek güçlü ve ağır devirli iki zamanlı bir dizel makinesinin silindir Iaynerinden en fazla kaç ölçü alınmalıdır?",
+    "options": [
+      "1) 3 ölçü",
+      "2) 4 ölçü",
+      "3) 5 ölçü",
+      "4) 2 ölçü",
+      "5) 10 ölçü"
+    ],
+    "correctAnswer": "5) 10 ölçü"
+  },
+  {
+    "id": 16,
+    "testIndex": 37,
+    "question": "Aşağıdakilerden hangisi soğutma sistemi elemanlarından değildir?",
+    "options": [
+      "1) Genleşme tankı - kuler - termostat",
+      "2) Genleşme tankı - termostat - tutya",
+      "3) Genleşme tankı - deniz suyu pompası - termostat",
+      "4) Genleşme tankı - filtre - kuler",
+      "5) Ana veya yardımcı kondenser"
+    ],
+    "correctAnswer": "5) Ana veya yardımcı kondenser"
+  },
+  {
+    "id": 17,
+    "testIndex": 37,
+    "question": "Bir dizel makinesi silindirine püskürtülen vakit miktarı öncelikle neye bağlıdır?",
+    "options": [
+      "1) Enjektör nozulundaki deliklerin ölçüsüne",
+      "2) Yakıt püskürtme pompasının zamanlamasına",
+      "3) Yakıt püskürtme pompasının sağladığı basınca",
+      "4) Yanma odasının şekline",
+      "5) Silindirdeki yanma basıncına"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 18,
+    "testIndex": 37,
+    "question": "Yüksek güçlü, ağır devirli gemi dizel motorlarının ilk hareketleri ne ile yapılır?",
+    "options": [
+      "1) Elektrikli marş motoru ile",
+      "2) Yardımcı benzin motoru ile",
+      "3) Basınçlı hava ile",
+      "4) El veya bir kol ile",
+      "5) Tornagir makinesi veya tornaçark ile"
+    ],
+    "correctAnswer": "3) Basınçlı hava ile"
+  },
+  {
+    "id": 19,
+    "testIndex": 37,
+    "question": "Yağ kontrol segmanlan yuvalarının iç kısmına açılan yağ frengileri (yağlama yağı delikleri) tıkanırsa, aşağıdakilerden hangisi meydana gelir?",
+    "options": [
+      "1) Yağ kontrol segmanlan yuvalarına düzgün oturmaz ve hızla aşınır",
+      "2) Yeterli olmayan yağlama nedeniyle piston aşırı ısınır",
+      "3) Silindir duvarlarında aşırı miktarda yağ kalır",
+      "4) Makine egzozunda uçuk kahverengi duman görünür",
+      "5) Makine egzozunda uçuk gri duman görünür"
+    ],
+    "correctAnswer": "3) Silindir duvarlarında aşırı miktarda yağ kalır"
+  },
+  {
+    "id": 20,
+    "testIndex": 37,
+    "question": "Doğru akımlı dizel motorlarında süpürme portları egzoz valflarına göre ne zaman açılır?",
+    "options": [
+      "1) Egzoz valflarından önce",
+      "2) Egzoz valfiarıyla aynı anda",
+      "3) Egzoz valflarından sonra",
+      "4) Önce açılır ve önce kapanır",
+      "5) Önce açılır ve sonra kapanır"
+    ],
+    "correctAnswer": "3) Egzoz valflarından sonra"
+  }
+]

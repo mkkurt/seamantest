@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 3,
+    "question": "In a diesel engine closed cooling system, the flow of fresh water through the fresh water and lube oil coolers is controlled by the:",
+    "options": [
+      "1) Speed of the engine",
+      "2) Speed of the pump impeller",
+      "3) Automatic temperature regulator",
+      "4) Suction pressure regulator",
+      "5) Governor"
+    ],
+    "correctAnswer": "3) Automatic temperature regulator"
+  },
+  {
+    "id": 2,
+    "testIndex": 3,
+    "question": "As freon leaves the expansion valve:",
+    "options": [
+      "1) Pressure decreases - volume increases",
+      "2) Volume decreases - pressure increases",
+      "3) Volume increases - pressure increases",
+      "4) Pressure increases � volume decreases",
+      "5) None of the above"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 3,
+    "testIndex": 3,
+    "question": "What type of gauge reads pressure and vacuum?",
+    "options": [
+      "1) Duplex",
+      "2) Simplex",
+      "3) Both 2 and 3",
+      "4) Compound",
+      "5) Bourdon tube"
+    ],
+    "correctAnswer": "4) Compound"
+  },
+  {
+    "id": 4,
+    "testIndex": 3,
+    "question": "What is the advantage of using a hydraulic starting system for an emergency diesel?",
+    "options": [
+      "1) The system is inexpensive",
+      "2) High pressure lines are not required",
+      "3) It is compact",
+      "4) Faster cranking speeds are obtained",
+      "5) None of the above"
+    ],
+    "correctAnswer": "4) Faster cranking speeds are obtained"
+  },
+  {
+    "id": 5,
+    "testIndex": 3,
+    "question": "The low pressure side of a refrigeration system is from the:",
+    "options": [
+      "1) Expansion valve to compressor",
+      "2) Compressor to expansion valve",
+      "3) Expansion valve to the evaporator",
+      "4) Condenser to the expansion valve",
+      "5) None of the above"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 6,
+    "testIndex": 3,
+    "question": "An over speeding diesel engine could best be stopped by:",
+    "options": [
+      "1) Disconnecting the battery cables from the stating motor",
+      "2) Blocking the air intake and securing the fuel supply",
+      "3) A raining the hydraulic fluid from the governor sump",
+      "4) Blocking the flow of cooling air to the radiator",
+      "5) Both 3 and 4"
+    ],
+    "correctAnswer": "2) Blocking the air intake and securing the fuel supply"
+  },
+  {
+    "id": 7,
+    "testIndex": 3,
+    "question": "Most gauges in the fire room are:",
+    "options": [
+      "1) Manometers",
+      "2) Thermocouples",
+      "3) Dual purpose",
+      "4) Thermometers",
+      "5) Bourdon tube - type"
+    ],
+    "correctAnswer": "5) Bourdon tube - type"
+  },
+  {
+    "id": 8,
+    "testIndex": 3,
+    "question": "The oil level in the compressor should be checked:",
+    "options": [
+      "1) While the compressor is in operation",
+      "2) Just before starting the compressor",
+      "3) After a long period of operation",
+      "4) For both 2 and 3",
+      "5) None of the above"
+    ],
+    "correctAnswer": "4) For both 2 and 3"
+  },
+  {
+    "id": 9,
+    "testIndex": 3,
+    "question": "The dehydrator on a refrigeration plant is used to:",
+    "options": [
+      "1) Add moisture to the system",
+      "2) Remove moisture from the system",
+      "3) Remove air from the system",
+      "4) Remove oil from the system",
+      "5) Both 3 and 4"
+    ],
+    "correctAnswer": "2) Remove moisture from the system"
+  },
+  {
+    "id": 10,
+    "testIndex": 3,
+    "question": "The colis in the evaporator are attached to the header by:",
+    "options": [
+      "1) Pipe nipples",
+      "2) Union type fittings",
+      "3) Welding",
+      "4) Bolted flances",
+      "5) Both 3 and 4"
+    ],
+    "correctAnswer": "2) Union type fittings"
+  },
+  {
+    "id": 11,
+    "testIndex": 3,
+    "question": "....................... is the first signal of lube - oil trouble.",
+    "options": [
+      "1) Lube oil gravity tank low level alarm goes off",
+      "2) Low lube oil sump level",
+      "3) Low outlet temperature from lube oil coolers",
+      "4) No flow throught bull's eye from gravity tank observed",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "3) Low outlet temperature from lube oil coolers"
+  },
+  {
+    "id": 12,
+    "testIndex": 3,
+    "question": "The turbocharger of an auxilliary diesel engine is most effected by",
+    "options": [
+      "1) Air inlet manifold pressure",
+      "2) Engine speed",
+      "3) Exhaust temperature",
+      "4) Engine load",
+      "5) None of the above"
+    ],
+    "correctAnswer": "4) Engine load"
+  },
+  {
+    "id": 13,
+    "testIndex": 3,
+    "question": "What would cause white smoke after you just started the diesel?",
+    "options": [
+      "1) Too week battery power",
+      "2) Water in the fuel",
+      "3) Water in the gas",
+      "4) Water in the oil",
+      "5) Salt water in cooling water"
+    ],
+    "correctAnswer": "2) Water in the fuel"
+  },
+  {
+    "id": 14,
+    "testIndex": 3,
+    "question": "Minor freon leaks can be detected by the use of a device called:",
+    "options": [
+      "1) A freon visible leak detector",
+      "2) A freon audible leak detector",
+      "3) The blue oven flame detector",
+      "4) Halide torch",
+      "5) None of the above"
+    ],
+    "correctAnswer": "4) Halide torch"
+  },
+  {
+    "id": 15,
+    "testIndex": 3,
+    "question": "The bulb for the TEV (thermostatic expansion valve) is located:",
+    "options": [
+      "1) In the middle of the evaporator coils",
+      "2) Near the evaporator coil outlet",
+      "3) Near the evaporator coil inlet",
+      "4) On the bottom row of the evaporator",
+      "5) None of the above"
+    ],
+    "correctAnswer": "2) Near the evaporator coil outlet"
+  },
+  {
+    "id": 16,
+    "testIndex": 3,
+    "question": "Regardless of the geographical location of on oil spill, you should notify the .................",
+    "options": [
+      "1) Local police department",
+      "2) Local fire department",
+      "3) Corps of Engineers",
+      "4) Coast Guard",
+      "5) The pilot"
+    ],
+    "correctAnswer": "4) Coast Guard"
+  },
+  {
+    "id": 17,
+    "testIndex": 3,
+    "question": "The TEV (thermostatic expansion valve) is located between:",
+    "options": [
+      "1) The receiver and the king valve",
+      "2) The king valve and solenoid",
+      "3) Both 1 and 2",
+      "4) The solenoid valve and evaporator",
+      "5) The charging valve and solenoid"
+    ],
+    "correctAnswer": "4) The solenoid valve and evaporator"
+  },
+  {
+    "id": 18,
+    "testIndex": 3,
+    "question": "The valve which is always partially open when the evaporator is in operation is the:",
+    "options": [
+      "1) Vapor valve",
+      "2) Continuous blowdown valve",
+      "3) Bottom blowdown valve",
+      "4) Surface blowdown valve",
+      "5) Bottom blowup valve"
+    ],
+    "correctAnswer": "2) Continuous blowdown valve"
+  },
+  {
+    "id": 19,
+    "testIndex": 3,
+    "question": "Cylinder liner are generally used on diesel engines because:",
+    "options": [
+      "1) Liners may be easily replaced after the cylinder watls show wear",
+      "2) Liners provide a more efficient coding system",
+      "3) Rubbing speeds are reduced through the use of liners",
+      "4) Liners provide a beter lubricating surface",
+      "5) None of the above"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 20,
+    "testIndex": 3,
+    "question": "Worn bearings, rings, and valves all contribute to:",
+    "options": [
+      "1) Poor reversal",
+      "2) Quiet operation",
+      "3) Hard starting",
+      "4) High pressure",
+      "5) None of the above"
+    ],
+    "correctAnswer": "3) Hard starting"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 3,
+    "question": "150 GRT üzerindeki petrol tankerleri ile 400 GRT üzerindeki tüm gemilere Uluslar arası Denizin Petrolle Kirlenmesini Önleme Belgesi (IOPP) verilir. Bu sertifika kaç yılda bir yenilenir?",
+    "options": [
+      "1) 1 yıl",
+      "2) 2 yıl",
+      "3) 3 yıl",
+      "4) 4 yıl",
+      "5) 5 yıl"
+    ],
+    "correctAnswer": "5) 5 yıl"
+  },
+  {
+    "id": 2,
+    "testIndex": 3,
+    "question": "1969 Gemilerin Tonaj Ölçümleri Uluslar arası Sözleşmesi'ne göre, askeri gemiler ve boyu.........metreden daha az olan gemiler, Sözleşme kapsamı dışında tutulmuşlardır. Noktalı yerlere aşağıdakilerden uygun olanı seçiniz.",
+    "options": [
+      "1) 10 metre",
+      "2) 15 metre",
+      "3) 18 metre",
+      "4) 24 metre",
+      "5) 34 metre"
+    ],
+    "correctAnswer": "4) 24 metre"
+  },
+  {
+    "id": 3,
+    "testIndex": 3,
+    "question": "IMO tarafından yapılan sözleşmeler, genel olarak aşağıdaki gibi dört temel grup altında incelenecek olursa, International Convention on Civil Liabillity for Oil Pollution Damage (CLC) 1969 sözleşmesi, aşağıdaki sınıflandırmalardan hangisi ya da hangilerine dahil olur ?(I) Denizcilik Güvenliği(II) Deniz Kirliliği (III) Sorumluluk ve Tazminat (IV) Diğer Konular",
+    "options": [
+      "1) I",
+      "2) II",
+      "3) III",
+      "4) IV",
+      "5) II ve III"
+    ],
+    "correctAnswer": "3) III"
+  },
+  {
+    "id": 4,
+    "testIndex": 3,
+    "question": "400 GRT'dan büyük yük gemileri için makine daireleri sintinelerinde oluşan kirlenmeyi önlemek üzere EK-1 gereği bu gemilerde bulunması gerekmeyen eçhize (teçhizat) aşağıdakilerden hangisidir?",
+    "options": [
+      "1) IOPP sertifikası",
+      "2) Yüklü su hattı üzerinde balast tahliyesi cihazı",
+      "3) Petrol atıklarını izleme ve kontrol cihazı",
+      "4) Sintine separatörü, 15 ppm alarm otomatik stop aleti",
+      "5) Atıklar için slop tank"
+    ],
+    "correctAnswer": "2) Yüklü su hattı üzerinde balast tahliyesi cihazı"
+  },
+  {
+    "id": 5,
+    "testIndex": 3,
+    "question": "Aynı menfaatin aynı rizikolara karşı birden çok sigortacılara sigorta ettirilmesine ne denir?",
+    "options": [
+      "1) Aşkın sigorta",
+      "2) Çifte sigorta",
+      "3) Güvenceli sigorta",
+      "4) Teşvik sigortası",
+      "5) Tedbir sigortası"
+    ],
+    "correctAnswer": "2) Çifte sigorta"
+  },
+  {
+    "id": 6,
+    "testIndex": 3,
+    "question": "Yaşam mahalindeki tüm elektrik ve su borularının, uygun izole edilmesini sağlamak amacıyla gerekli olan teknik düzenlemeler ve kuralları belirleyen uluslar arası denizcilik sözleşmesi, aşağıdakilerden hangisidir ?",
+    "options": [
+      "1) SOLAS",
+      "2) SAR",
+      "3) IMO",
+      "4) MARPOL",
+      "5) COLREG"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 7,
+    "testIndex": 3,
+    "question": "IMO tarafından yapılan sözleşmeler, genel olarak aşağıdaki gibi dört temel grup altında incelenecek olursa Special Trade Passenger Ships Agreement (STP), 1971 sözleşmesi, yukarıdaki sınıflandırmalardan hangisi yada hangilerine dahil olur?(I) Maritime Safety (Denizcilik Güvenliği)(II) Marine Pollution (Deniz Kirliliği)(III) Liability and Compensation (Sorumluluk ve Tazminat)(IV) Other Subjects (Diğer Konular)",
+    "options": [
+      "1) I",
+      "2) II",
+      "3) III",
+      "4) IV",
+      "5) I ve III"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 8,
+    "testIndex": 3,
+    "question": "\"Use of and familiarization with the International Dangerous Goods (IMDG) Code\" adı verilen ve tehlikeli yüklerle ilgili olan hususların ilgili gemiadamları tarafından bilinmesine yönelik düzenlemeler, aşağıdaki uluslar arası denizcilik sözleşmelerinden hangisinin kapsamında ele alınmıştır ?",
+    "options": [
+      "1) SOLAS code",
+      "2) STCW code",
+      "3) IBC code",
+      "4) ISM code",
+      "5) BCH code"
+    ],
+    "correctAnswer": "2) STCW code"
+  },
+  {
+    "id": 9,
+    "testIndex": 3,
+    "question": "IMO tarafından yapılan sözleşmeler, genel olarak aşağıdaki gibi dört temel grup altında incelenecek olursa, International Maritime Satellite Organisation (INMARSAT), 1976 sözleşmesi, aşağıdaki sınıflandırmalardan hangisi ya da hangilerine dahil olur ?(I) Maritime Safety (Denizcilik Güvenliği)(II) Marine Pollution (Deniz Kirliliği)(III) Liability and Compensation (Sorumluluk ve Tazminat)(IV) Other Subjects (Diğer Konular)",
+    "options": [
+      "1) I",
+      "2) II",
+      "3) III",
+      "4) IV",
+      "5) I ve III"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 10,
+    "testIndex": 3,
+    "question": "Aşağıdakilerin hangisi TTK.md.851/1’ne göre gemi\nsicil kaydının terkini (silinmesi) için şart değildir?",
+    "options": [
+      "1) Malikin talebi",
+      "2) Kurtarılamayacak şekilde batması",
+      "3) Tamir kabul etmez hale gelmesi",
+      "4) Türk Bayrağını çekme hakkını kaybetmesi",
+      "5) Navlun getirecek surette yolcu veya yük taşıma kabiliyetini zayi etmesi (kaybetmesi)"
+    ],
+    "correctAnswer": "5) Navlun getirecek surette yolcu veya yük taşıma kabiliyetini zayi etmesi (kaybetmesi)"
+  },
+  {
+    "id": 11,
+    "testIndex": 3,
+    "question": "I. LDC 1972 II. MARPOL 78 III. SFV 1977IV. MARPOL 73V. OPRC1990Yukarıdakilerden hangisi ya da hangileri, karadaki tesisler tarafından atılan atıklarla denizlerin kirletilmesini önlemek amacıyla yapılmış ve 30 Ağustos 1975'te yürürlüğe girmiş olan Uluslar arası denizcilik sözleşmesine ait kısaltmadır?",
+    "options": [
+      "1) II, IV",
+      "2) II",
+      "3) III",
+      "4) I, II, IV",
+      "5) I"
+    ],
+    "correctAnswer": "5) I"
+  },
+  {
+    "id": 12,
+    "testIndex": 3,
+    "question": "Gemilerden kaynaklanan kirliliğin önlenmesi uluslar arası sözleşmesi (MARPOL 73/78) gereği 400 GRT' dan büyük yük gemileri için makine daireleri sintinelerinde oluşan kirlenmeyi önlemek üzere EK-1 uyarınca bulunması gereken aşağıdaki maddelerden hangisine gerek yoktur?",
+    "options": [
+      "1) IOPP sertifikası",
+      "2) Petrol kayıt kitapçığı",
+      "3) Balastın denize verilmesinin güverteden durdurulması",
+      "4) Petrol atıklarını toplama tankı",
+      "5) Sintine separatörü"
+    ],
+    "correctAnswer": "3) Balastın denize verilmesinin güverteden durdurulması"
+  },
+  {
+    "id": 13,
+    "testIndex": 3,
+    "question": "(I) Savaş Gemileri, (II) Boyu 24 metreden kısa olan gemiler, (III) 150 GRT' dan küçük yaşlı gemiler, (IV) Ticari yatlar, (V) Balıkçı GemileriYukarıdaki gemi türlerinden hangisi ya da hangileri, Load Line 1966 sözleşmesinin hükümlerini yerine getirmek zorunda değildir?",
+    "options": [
+      "1) I, II, III, IV, V",
+      "2) III",
+      "3) I, II, IV",
+      "4) I, II, III, V",
+      "5) I, III, IV, V"
+    ],
+    "correctAnswer": "4) I, II, III, V"
+  },
+  {
+    "id": 14,
+    "testIndex": 3,
+    "question": "(I) 500 GRT' dan küçük tüm yolcu gemileri MARPOL sözleşmesinin hükümlerinden muaftır. (II) 400 GRT' dan küçük tüm tankerler, MARPOL sözleşmesinin hükümlerinden muaftır. (III) 400 GRT' dan küçük tüm kuruyük gemileri MARPOL sözleşmesinin hükümlerimden muaftır. (IV) 300GRT' dan küçük tüm kimyasal tankerler, MARPOL sözleşmesinin hükümlerimden muaftır.MARPOL Sözleşmesinin kapsamı gereği, yukarıdaki ifadelerden hangisi veya hangileri doğru değildir?",
+    "options": [
+      "1) I, IV",
+      "2) II, III",
+      "3) III",
+      "4) III, IV",
+      "5) I, II, IV"
+    ],
+    "correctAnswer": "5) I, II, IV"
+  },
+  {
+    "id": 15,
+    "testIndex": 3,
+    "question": "(I) Yaşam mahallerinin fiziki durumu ile ilgili düzenlemeler, (II) Kazaları önleme konusundaki düzenlemeler, (III) Gemideki çeşitli alarm düzenekleri ile ilgili düzenlemeler, (IV) Telsiz teçhizatları ve donanımların fiziki durumu ile ilgili düzenlemeler, (V) Yükleme sınırı ve markası ile ilgili düzenlemeler.Yukarıdaki düzenlemelerden hangisi ya da hangileri Uluslar arası Denizde Can ve Mal Emniyeti sözleşmesinin temel amacına hizmet eder ?",
+    "options": [
+      "1) I, III, IV",
+      "2) II, IV",
+      "3) III, IV, V",
+      "4) II",
+      "5) I, II, III, IV, V"
+    ],
+    "correctAnswer": "5) I, II, III, IV, V"
+  },
+  {
+    "id": 16,
+    "testIndex": 3,
+    "question": "Aşağıdakilerden hangisi gemilerin büyüklüklerinin, hacimlerinin ölçümleri ile ilgili uluslar arası kuralları içerir?",
+    "options": [
+      "1) MARPOL 73/78",
+      "2) SOLAS 74",
+      "3) LOADLINE 66",
+      "4) TONNAGE 69",
+      "5) STCW 78"
+    ],
+    "correctAnswer": "4) TONNAGE 69"
+  },
+  {
+    "id": 17,
+    "testIndex": 3,
+    "question": "MARPOL 73/78 EK-IV'da belirtilen hava kirliliğinin önlenmesine dair kurallar gereği kaç GRT ve üzeri gemi, sabit ve yüzer sondaj platformları, sörvey ve denetime tabidir?",
+    "options": [
+      "1) 150GRT",
+      "2) 200GRT",
+      "3) 300GRT",
+      "4) 400GRT",
+      "5) 500GRT"
+    ],
+    "correctAnswer": "4) 400GRT"
+  },
+  {
+    "id": 18,
+    "testIndex": 3,
+    "question": "Gemilerden kaynaklanan kirliliğin önlenmesi uluslar arası sözleşmesi (MARPOL 73/78) 'in EK-IV' ünde belirtilen gemilerden çıkan pis sularla (tuvalet, revir, hastane ve canlı hayvan) ilgili denizlerin kirlenmesini önleyici kurallar, aşağıda belirtilen gemilere uygulanmaz?",
+    "options": [
+      "1) 200 GRT' un altında 10 kişi veya daha az kişi taşıyan bütün gemiler",
+      "2) 250 GRT' un altında 15 kişi veya daha az kişi taşıyan bütün gemiler",
+      "3) 300 GRT' un altında 20 kişi veya daha az kişi taşıyan bütün gemiler",
+      "4) 350 GRT' un altında 25 kişi veya daha az kişi taşıyan bütün gemiler",
+      "5) 400 GRT' un altında 30 kişi veya daha az kişi taşıyan bütün gemiler"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 19,
+    "testIndex": 3,
+    "question": "Gemilerden kaynaklanan kirliliğin önlenmesi uluslar arası sözleşmesi (MARPOL 73/78) in EK-VI' sı, hangi maddelerle denizlerin kirletilmesinin önlenmesine ilişkin alınacak tedbirleri kapsar?",
+    "options": [
+      "1) Petrol ile deniz kirlenmesini önleyici kurallar",
+      "2) Dökme zehirli sıvı maddelerle deniz kirlenmesini önleyici kurallar",
+      "3) Ambalajlı bir şekilde veya konteynerlerde, portatif tanklarda veya kara ve demiryolu tank vagonlarında deniz yolu ile taşınan zararlı maddelerle deniz kirlenmesini önleyici kurallar",
+      "4) Gemilerden çıkan pis sularla (tuvalet, revir, hastane ve canlı hayvan) deniz kirlenmesini önleyici kurallar",
+      "5) Gemilerden kaynaklanan hava kirliliğinin önlenmesine ait kurallar"
+    ],
+    "correctAnswer": "5) Gemilerden kaynaklanan hava kirliliğinin önlenmesine ait kurallar"
+  },
+  {
+    "id": 20,
+    "testIndex": 3,
+    "question": "\"Serbest Pratika\" aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Temiz patenta",
+      "2) Serbest geçiş",
+      "3) Transit geçiş",
+      "4) Uğraksız geçiş",
+      "5) Liman giriş müsadesi"
+    ],
+    "correctAnswer": "1"
+  }
+]

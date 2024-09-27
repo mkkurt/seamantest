@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 41,
+    "question": "Motorların p-V diyagramlarında pozitif alan neyi belirler?",
+    "options": [
+      "1) Silindirlerde yanma sonucu oluşan işi",
+      "2) Motorun arıza durumunu",
+      "3) Motorun ortalama endike basıncını",
+      "4) Aşırı doldurma yüzdesini",
+      "5) Motordaki kayıpları"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 2,
+    "testIndex": 41,
+    "question": "Krank şaft deflekşınları kaç saatte bir kontrol edilirler?",
+    "options": [
+      "1) 1000 saatte bir",
+      "2) 2000 saatte bir",
+      "3) 3000 saatte bir",
+      "4) 4500 saatte bir",
+      "5) 5750 saatte bir"
+    ],
+    "correctAnswer": "3) 3000 saatte bir"
+  },
+  {
+    "id": 3,
+    "testIndex": 41,
+    "question": "Yüksek güçlü, ağır devirli bir makinede, eğer enjektör meme deliklerinin çevresinde karbon birikintileri oluştuğu anlaşılırsa, aşağıdakilerden hangisi uygulanarak daha fazla birikinti oluşması önlenir?",
+    "options": [
+      "1) Yakıt püskürtme basıncı yükseltilir",
+      "2) Yakıtın ön ısıtma sıcaklığı arttırılır",
+      "3) Regülatörde yük sınırı azaltılır",
+      "4) Enjektör soğutma suyu sıcaklığı yükseltilir",
+      "5) Enjektör soğutma suyu sıcaklığı azaltılır"
+    ],
+    "correctAnswer": "4) Enjektör soğutma suyu sıcaklığı yükseltilir"
+  },
+  {
+    "id": 4,
+    "testIndex": 41,
+    "question": "Bir türbinin üst keysinin kaldırılmasında kanatların hasar görmemesini aşağıdaki hangi donanım sağlar?",
+    "options": [
+      "1) Aybolt ve sapanlar",
+      "2) Krikolar",
+      "3) Gayıtpinler",
+      "4) Rotor gayıtı",
+      "5) Esnek kaplin"
+    ],
+    "correctAnswer": "3) Gayıtpinler"
+  },
+  {
+    "id": 5,
+    "testIndex": 41,
+    "question": "6 silindirli bir dizel makinesinin silindirlerinden alınan p-V diyagramları yardımı ile silindirlerde üretilen güçler sırasıyla 790, 800, 810, 805, 795 ve 800 hp olarak bulunmuştur. Makinenin mekanik verimi 0,90 olduğuna göre sürtünme gücü ne kadardır?",
+    "options": [
+      "1) 680 hp",
+      "2) 580 hp",
+      "3) 480 hp",
+      "4) 430 hp",
+      "5) 380 hp"
+    ],
+    "correctAnswer": "3) 480 hp"
+  },
+  {
+    "id": 6,
+    "testIndex": 41,
+    "question": "Aşağıdakilerden hangisi hız basamaklı aksiyon türbininin özelliği değildir?",
+    "options": [
+      "1) Nozulları genişlemeli olup, buharın giriş tarafından türbin keysine bağlıdır",
+      "2) Hareketsiz kanatları sadece buharın yönünü değiştirirler",
+      "3) Buharın hızı sabit ve hareketli kanatlarda devamlı düşer",
+      "4) Buharın basıncı sabit ve hareketli kanatlarda değişmez",
+      "5) Rotor şaft kanatları düşey eksenlerine göre simetriktir"
+    ],
+    "correctAnswer": "3) Buharın hızı sabit ve hareketli kanatlarda devamlı düşer"
+  },
+  {
+    "id": 7,
+    "testIndex": 41,
+    "question": "Dizel motorunda endike güç ile fren gücü arasındaki oran nedir?",
+    "options": [
+      "1) %15",
+      "2) %5",
+      "3) %20",
+      "4) %10",
+      "5) %25"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 8,
+    "testIndex": 41,
+    "question": "Curtis-Parsons türbininin tipi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Aksiyon/reaksiyon kombinasyonu",
+      "2) Reaksiyon/reaksiyon kombinasyonu",
+      "3) Aksiyon/aksiyon kombinasyonu",
+      "4) Reaksiyon türbini",
+      "5) Aksiyon türbini"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 9,
+    "testIndex": 41,
+    "question": "Yakıtın silindire püskürtülmesi ile ilk alevin görüldüğü an arasındaki zaman aralığının adı nedir?",
+    "options": [
+      "1) Yavaş yanma",
+      "2) Hızlı yanma",
+      "3) Tutuşma gecikmesi",
+      "4) Kontrollü yanma",
+      "5) Tutuşma zamanı"
+    ],
+    "correctAnswer": "3) Tutuşma gecikmesi"
+  },
+  {
+    "id": 10,
+    "testIndex": 41,
+    "question": "Bir dizel makinesinde yüksek basınç borusunun (kamçının) değiştirilmesinde nelere dikkat edilir?",
+    "options": [
+      "1) Çapı eşit olmak koşulu ile her boru kullanılır",
+      "2) Burulma titreşimlerinin sabit olmasına dikkat edilir",
+      "3) Orijinal boru ile aynı boy ve çapta boru kullanılır",
+      "4) Boru çapı veya boyu önemli değildir",
+      "5) Herhangi dayanıklı bir boru bu görevi yapabilir"
+    ],
+    "correctAnswer": "3) Orijinal boru ile aynı boy ve çapta boru kullanılır"
+  },
+  {
+    "id": 11,
+    "testIndex": 41,
+    "question": "Soğuk bir dizel makinesinde, ilk hareket ve düşük devirde çalışma sırasında vuruntu oluşuyor, fakat makine normal işletme devir sayısı ve sıcaklığına eriştiğinde kesiliyorsa, neden aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Bir silindirdeki hatalı yanmadır",
+      "2) Bir silindirdeki mekanik hatadır",
+      "3) Yüksek püskürtme basıncıdır",
+      "4) Anormal ve çekinilecek bir durum yoktur",
+      "5) Silindirlerdeki düşük kompresyon basıncıdır"
+    ],
+    "correctAnswer": "4) Anormal ve çekinilecek bir durum yoktur"
+  },
+  {
+    "id": 12,
+    "testIndex": 41,
+    "question": "Dizel makinelerinde normale göre daha uzun tutuşma gecikmesi süreci hangi olaya neden olur?",
+    "options": [
+      "1) Silindire daha az yakıt girmesine",
+      "2) Sıkıştırma basıncının azalmasına",
+      "3) Yakıtın daha iyi yanmasına",
+      "4) Yanma basıncının daha çabuk yükselmesine",
+      "5) Yukarıda verilenlerin tümüne"
+    ],
+    "correctAnswer": "3) Yakıtın daha iyi yanmasına"
+  },
+  {
+    "id": 13,
+    "testIndex": 41,
+    "question": "Sarmış bir kol yatağı için aşağıdakilerden hangisi yapılır?",
+    "options": [
+      "1) Krank yüzeyi temizlenir, yağlama kanalı kontrol edilir ve yeni yatak donatılır",
+      "2) Yatak zımpara ile temizlenir, yağ kanalı kontrol edilip yerine bağlanır",
+      "3) Beyaz metal kalınlığı daha fazla olan bir yatakla değiştirilir",
+      "4) Beyaz metal kalınlığı daha az olan bir yatakla değiştirilir",
+      "5) Yağlanarak temizlenir"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 14,
+    "testIndex": 41,
+    "question": "Aşağıdakilerden hangisi bir basit aksiyon türbinidir?",
+    "options": [
+      "1) Bir sıra hareketli, bir sıra sabit kanat",
+      "2) Basınç düşmesinin hareketli kanatta olduğu türbin",
+      "3) Bir veya birkaç nozul ve bir sıra hareketli kanat",
+      "4) Bir takım nozul, bir takım sabit kanat",
+      "5) Harp gemilerinde sıkça kullanılan türbin"
+    ],
+    "correctAnswer": "3) Bir veya birkaç nozul ve bir sıra hareketli kanat"
+  },
+  {
+    "id": 15,
+    "testIndex": 41,
+    "question": "İki zamanlı bir dizel makinesinin hava giriş portlarında biriken karbon artıklarının temizlenmesinde dikkat edilmesi gereken şey nedir?",
+    "options": [
+      "1) Silindire karbonumsu atıkların dökülmemesi",
+      "2) Karbon partiküllerinin giriş valflarının yüzeylerinde birikmemesi",
+      "3) Karbon artıklarının silindir ceketine girmemesi",
+      "4) Karbon partiküllerinin yağlama yağına girmemesi",
+      "5) Yukarıdakilerin tümü"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 16,
+    "testIndex": 41,
+    "question": "Doğal emişli dört stroklu dizel makinelerinde sıkıştırma sonu basıncının sayısal değeri hangi sınırlar arasındadır?",
+    "options": [
+      "1) 0 - 10 bar",
+      "2) 100 - 150 bar",
+      "3) 30 - 40 bar",
+      "4) 200 - 300 bar",
+      "5) 300 - 450 bar"
+    ],
+    "correctAnswer": "3) 30 - 40 bar"
+  },
+  {
+    "id": 17,
+    "testIndex": 41,
+    "question": "Strok hacmi 0,2882 m3, ortalama endike basıncı 5,85 at, devir sayısı 150 rpm olan 7 silindirli, iki zamanlı, tek etkili bir dizel makinesinin endike gücü aşağıdakilerden hangisidir?",
+    "options": [
+      "1) 3582ihp",
+      "2) 3682ihp",
+      "3) 3882ihp",
+      "4) 3992ihp",
+      "5) 4200ihp"
+    ],
+    "correctAnswer": "3) 3882ihp"
+  },
+  {
+    "id": 18,
+    "testIndex": 41,
+    "question": "Neden yüksek devirli dizel motorlarının büyük gemilerin pervanelerini doğrudan tahrik etmesi tercih edilmez?",
+    "options": [
+      "1) Gücü düşük olacağından",
+      "2) Pervaneler çabuk aşınacağından",
+      "3) Pervane verimi düşeceğinden",
+      "4) Gemiye gereğinden fazla hız yaptıracağından",
+      "5) Hiçbiri"
+    ],
+    "correctAnswer": "3) Pervane verimi düşeceğinden"
+  },
+  {
+    "id": 19,
+    "testIndex": 41,
+    "question": "Dizel makinelerinde fren beygir gücünün (Ne), endike beygir gücüne (Ni) oranı neyi belirler?",
+    "options": [
+      "1) Isıl verimi",
+      "2) Mekanik verimi",
+      "3) Fren ısıl verimini",
+      "4) Hacimsel verimi",
+      "5) Dolgu verimini"
+    ],
+    "correctAnswer": "2) Mekanik verimi"
+  },
+  {
+    "id": 20,
+    "testIndex": 41,
+    "question": "Dört stroklu dizel makinelerinde yağ segmanlarının sıyırıcı tırnaklarının yukarı gelecek şekilde yuvalarına takılması, aşağıda belirtilenlerden hangisine neden olur?",
+    "options": [
+      "1) İnce bir yağ katmanı oluşur",
+      "2) Kalın bir yağ filmi meydana gelir",
+      "3) Egzozda mavi duman görülür",
+      "4) Kompresyon daha iyi olur",
+      "5) Kompresyon basıncı yükselir"
+    ],
+    "correctAnswer": "3) Egzozda mavi duman görülür"
+  }
+]

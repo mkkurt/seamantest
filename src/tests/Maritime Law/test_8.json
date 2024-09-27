@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "testIndex": 7,
+    "question": "Aşağıdakilerden hangisi kalitenin tanımı olabilir?",
+    "options": [
+      "1) Çok kıymetlilik ve pahalı olmak",
+      "2) Kullanıma ve amaca uygunluk",
+      "3) Kontrol altında tutulmak",
+      "4) Üreticiye ve işyerine uygunluk",
+      "5) Nitelikte belirsizlik"
+    ],
+    "correctAnswer": "2) Kullanıma ve amaca uygunluk"
+  },
+  {
+    "id": 2,
+    "testIndex": 7,
+    "question": "Hangisi ISM Kod’nun hedeflerinden değildir?",
+    "options": [
+      "1) Denizde güvenliğin sağlanması",
+      "2) İnsan yaralanmaları ve ölümlerin önlenmesi",
+      "3) Denizcilikle ilgili teknolojilerin geliştirilmesi",
+      "4) Çevreye, özellikle de denizlere verilecek zararlardan kaçınılması",
+      "5) Mülkiyete (yüke, gemiye ve kıyılara) gelecek zararların önlenmesidir"
+    ],
+    "correctAnswer": "3) Denizcilikle ilgili teknolojilerin geliştirilmesi"
+  },
+  {
+    "id": 3,
+    "testIndex": 7,
+    "question": "İlk kurulan MoU hangisidir?",
+    "options": [
+      "1) Paris MoU",
+      "2) Londra MoU",
+      "3) Portekiz MoU",
+      "4) Washington MoU",
+      "5) İspanya MoU"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 4,
+    "testIndex": 7,
+    "question": "Güvenlik Yönetimi Sisteminin kurulması, etkin uygulanması ve gelişimi belirli şartlara bağlıdır. Aşağıdakilerden hangisi bunlardan biri değildir?",
+    "options": [
+      "1) Üst yönetimin ciddi taahhüdü",
+      "2) Uygun kaynakların sağlanması",
+      "3) Şirket filosundaki gemi sayısının yeterliliği",
+      "4) Deniz ve kara personelinin ortak katılımı",
+      "5) Gerçekçi zamanlama ve planlama"
+    ],
+    "correctAnswer": "3) Şirket filosundaki gemi sayısının yeterliliği"
+  },
+  {
+    "id": 5,
+    "testIndex": 7,
+    "question": "Kalite güvencesi sistemi ile kalite kontrol arasında ne ilişki vardır?",
+    "options": [
+      "1) Her ikisi de aynıdır",
+      "2) Kalite kontrol kalite güvencesini de kapsar",
+      "3) Kalite kontrol nihahi ürünle, kalite güvence ise üretimin tüm aşamalarıyla ilgilenir",
+      "4) Her ikisi de ISO 9000 sistemlerinin farklı isimleridir",
+      "5) Kalite güvence hizmet, kalite kontrol ise üretim sektöründe kullanılır"
+    ],
+    "correctAnswer": "3) Kalite kontrol nihahi ürünle, kalite güvence ise üretimin tüm aşamalarıyla ilgilenir"
+  },
+  {
+    "id": 6,
+    "testIndex": 7,
+    "question": "Süresi belli olmayan hizmet akitlerinde deneme süresi en çok ne kadardır?",
+    "options": [
+      "1) 15 gün",
+      "2) 1 ay",
+      "3) 21 gün",
+      "4) 3 ay",
+      "5) 6 ay"
+    ],
+    "correctAnswer": "2) 1 ay"
+  },
+  {
+    "id": 7,
+    "testIndex": 7,
+    "question": "Gemilerin taşıyabileceği max yük miktarını ve su üzerinde batabileceği max draftı belirlemek maksadıyla gemilerin nasıl ölçümlendirileceğinin belirlendiği uluslararası sözleşmenin kısa adı ve tarihi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) LL",
+      "2) SOLAS",
+      "3) LDC",
+      "4) LLMC",
+      "5) TONNAGE"
+    ],
+    "correctAnswer": "5) TONNAGE"
+  },
+  {
+    "id": 8,
+    "testIndex": 7,
+    "question": "SOLAS'ın yangın ile alakalı olan bölümü hangisidir?",
+    "options": [
+      "1) Bölüm II-1",
+      "2) Bölüm II-2",
+      "3) Bölüm I",
+      "4) Bölüm V",
+      "5) Bölüm III"
+    ],
+    "correctAnswer": "2) Bölüm II-2"
+  },
+  {
+    "id": 9,
+    "testIndex": 7,
+    "question": "P&I Club teminat tarihleri aşağıdakilerin hangisidir?",
+    "options": [
+      "1) 10 Ocak - 10 Ocak",
+      "2) 20 Şubat - 20 Şubat",
+      "3) 10 Ocak - 20 Şubat",
+      "4) 10 ocak 10 subat",
+      "5) 20 Şubat - 10 Ocak"
+    ],
+    "correctAnswer": "2) 20 Şubat - 20 Şubat"
+  },
+  {
+    "id": 10,
+    "testIndex": 7,
+    "question": "SOLAS 74 Konvansiyonu kural 1/11(a) uyarınca bir geminin bakım/tutumundan aşağıdakilerden hangisi sorumludur?",
+    "options": [
+      "1) Mürettebat",
+      "2) Bayrak Devleti",
+      "3) Liman Devleti",
+      "4) Donatan",
+      "5) Gemi Kaptanı"
+    ],
+    "correctAnswer": "4) Donatan"
+  }
+]

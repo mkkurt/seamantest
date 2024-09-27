@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 4,
+    "question": "SOLAS Sözleşmesinin ana gayelerinden birisi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Gemi adamlarının vardiya standartlarını belirlemek",
+      "2) Balıkçı gemilerinin personelinin eğitim standardını belirlemek",
+      "3) Gemi teçhizatı için minimum standardı belirlemek",
+      "4) IMO'nun gücünü ortaya koymak",
+      "5) Deniz kirlenmesini önlemek"
+    ],
+    "correctAnswer": "3) Gemi teçhizatı için minimum standardı belirlemek"
+  },
+  {
+    "id": 2,
+    "testIndex": 4,
+    "question": "\"SOLAS 74 Konvansiyonu uyarınca 1.7.1986'dan sonra inşa edilen bütün gemilerde en az............................dümen/yeke donanımı olması gerekir.\" ifadesinde noktalı yerlere uygun olan aşağıdakilerden hangisidir?",
+    "options": [
+      "1) 1",
+      "2) 2",
+      "3) 3",
+      "4) 4",
+      "5) 5"
+    ],
+    "correctAnswer": "2) 2"
+  },
+  {
+    "id": 3,
+    "testIndex": 4,
+    "question": "Aşağıdakilerden hangisi gemilerin farklı koşul ve bölgelerde yüklendiklerinde draft ve freebord yükseklikleri ile ilgili uluslar arası kuralları içerir?",
+    "options": [
+      "1) MARPOL 73/78",
+      "2) SOLAS 74",
+      "3) LOADLINE 66",
+      "4) TONNAGE 69",
+      "5) STCW 78"
+    ],
+    "correctAnswer": "3) LOADLINE 66"
+  },
+  {
+    "id": 4,
+    "testIndex": 4,
+    "question": "Yağ Kirliliğinin genişlemesinin önlenmesi için aşağıdakilerden hangisi yapılmamalıdır?",
+    "options": [
+      "1) Yağın kenarlarına şamandıralar konulmalıdır",
+      "2) Yağın kenarlarına su sıkarak genişlemesi önlenmelidir",
+      "3) Keçe ve yağ emici bezler uygulanmalıdır",
+      "4) Yağ birikintisi çerçevelenip sınırlandırılmalıdır",
+      "5) Her şeyden önce yağ ıslah ediciler uygulanmalıdır"
+    ],
+    "correctAnswer": "5) Her şeyden önce yağ ıslah ediciler uygulanmalıdır"
+  },
+  {
+    "id": 5,
+    "testIndex": 4,
+    "question": "Gemilerde çalışacak olan gemi adamlarının vardiya düzenlerinin nasıl olacağım belirleyen uluslar arası denizcilik sözleşmesi, aşağıdakilerden hangisi ya da hangileridir?(I) SOLAS(II) COLREG (III) MARPOL(IV) STCW(V) FAL",
+    "options": [
+      "1) I",
+      "2) II",
+      "3) III",
+      "4) IV",
+      "5) V"
+    ],
+    "correctAnswer": "4) IV"
+  },
+  {
+    "id": 6,
+    "testIndex": 4,
+    "question": "IOPP nedir?",
+    "options": [
+      "1) Sudaki yağ karışım miktarı",
+      "2) Sudaki zehirli madde karışım miktarı",
+      "3) Uluslar arası Pis Su Arıtma Cihazı Belgesi",
+      "4) Uluslar arası Denizin Petrolle Kirlenmesini Önleme Belgesi",
+      "5) Tanker Taşıma Belgesi"
+    ],
+    "correctAnswer": "4) Uluslar arası Denizin Petrolle Kirlenmesini Önleme Belgesi"
+  },
+  {
+    "id": 7,
+    "testIndex": 4,
+    "question": "SOLAS 74 Konvansiyonu içeriği uyarınca gemilere verilen uluslar arası sertifikalar ve bunlarla ilgili sörvey ve denetlemeler konusunda sorumlu aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Klas kurumları",
+      "2) IMO",
+      "3) Kıyı emniyeti",
+      "4) Bayrak devleti",
+      "5) Liman devleti"
+    ],
+    "correctAnswer": "4) Bayrak devleti"
+  },
+  {
+    "id": 8,
+    "testIndex": 4,
+    "question": "IMO tarafından yapılan sözleşmeler, genel olarak aşağıdaki gibi dört temel grup altında incelenecek olursa, International Convention on Standarts of Training, Certification and Watchkeeping for Fishing Vessel Persommel (STCW-F), 1995 sözleşmesi, aşağıdaki sınıflandırmalardan hangisi ya da hangilerine dahil olur ?(I) Maritime Safety (Denizcilik Güvenliği)(II) Marine Pollution (Deniz Kirliliği)(III) Liability and Compensation (Sorumluluk ve Tazminat)(IV) Other Subjects (Diğer Konular)",
+    "options": [
+      "1) I",
+      "2) II",
+      "3) III",
+      "4) IV",
+      "5) I ve III"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 9,
+    "testIndex": 4,
+    "question": "Bir gemide çalışacak olan gemi adamlarının sayısının, yeterliliklerinin ve sertifikalarının neler olacağı belirlenirken aşağıdaki uluslar arası sözleşmelerden hangisinin kurallarına bakılmalıdır?",
+    "options": [
+      "1) COLREG",
+      "2) MARPOL",
+      "3) STCW",
+      "4) SOLAS",
+      "5) MIN SAFE MANNING"
+    ],
+    "correctAnswer": "3) STCW"
+  },
+  {
+    "id": 10,
+    "testIndex": 4,
+    "question": "(I) Özel bir alan içinde olmayan tankerler, (II) Sahilden en yakın mesafesi 50 milden fazla olan tankerler, (III) Atık yağ (oil) içeriği her 1 mil için 30 litreyi aşmayan tankerler, (IV) Sahilden en yakın mesafesi 12 milden fazla olan tankerler, (V) Atık sintinesi içindeki katı atık (oil) miktarı 15 ppm'i aşmayan 400 Grt' dan küçük kuruyük gemileri, (VI) Atık yağ (oil) içeriği her 1 mil için 15 litreyi aşmayan tankerler.MARPOL 73/78 Annex-I' e göre, yukarıdakilerden hangisi ya da hangileri gemilerin denizleri kirletmesini önleyici değildir?",
+    "options": [
+      "1) IV, VI",
+      "2) III",
+      "3) II",
+      "4) I, III",
+      "5) V"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 11,
+    "testIndex": 4,
+    "question": "Uluslar arası Denizin Petrolle Kirlenmesini Önleme Belgesi (IOPP)' ne sahip olan gemilerin MARPOL 73/78 Ek-I e göre periyodik sörveyleri kaç yılda bir yapılır?",
+    "options": [
+      "1) 1",
+      "2) 2",
+      "3) 3",
+      "4) 4",
+      "5) 5"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 12,
+    "testIndex": 4,
+    "question": "Aşağıdaki sözleşmelerden hangisi ya da hangileri, denizde çatışma meydana gelmesi vb. gibi durumlara karşı, gemilerin taşıdığı can ve malın emniyetini sağlamak amacıyla düzenlenmiştir?(I) SOLAS(II) COLREG(III) MARPOL(IV) STCW(V)    LL(VI)    FAL",
+    "options": [
+      "1) II",
+      "2) V",
+      "3) I",
+      "4) VI",
+      "5) III, VI"
+    ],
+    "correctAnswer": "3) I"
+  },
+  {
+    "id": 13,
+    "testIndex": 4,
+    "question": "Gemilerdeki kuru kumanyalıklar, soğuk kumanyalıklar ve kuzinelerdeki kumanya saklama dolapları ile bunların genel fiziki durumlarının, hastalık unsuru oluşturmayacak biçimde olması ve sağlık koşullarına uygun olması amacıyla gerekli düzenlemeler getiren uluslar arası kuralları içeren denizcilik sözleşmesine ait kısaltma aşağıdakilerden hangisidir?",
+    "options": [
+      "1) ISM",
+      "2) FAL",
+      "3) SOLAS",
+      "4) CLC",
+      "5) FUND"
+    ],
+    "correctAnswer": "3) SOLAS"
+  },
+  {
+    "id": 14,
+    "testIndex": 4,
+    "question": "MARPOL 73/78 Sözleşmesinin EK-1V \n(Gemilerden çıkan pis sulardan denizlerin kirlenmesinin önlenmesi)'ü \ngereği gemilerde bulunması gereken eçhizelerin tümü aşağıdaki \nparagraflardan hangisinde belirtilmiştir?",
+    "options": [
+      "1) Arıtma tesisleri, parçalama ve dezenfekte tesisleri, boru hattı ve standart kıyı bağlama tesisatı",
+      "2) Arıtma tesisleri, parçalama ve dezenfekte tesisleri, toplama tankı, boru hattı ve standart kıyı bağlama tesisatı",
+      "3) Arıtma tesisleri, parçalama ve dezenfekte tesisleri, toplama tankı ve boru hattı",
+      "4) Parçalama ve dezenfekte tesisleri, toplama tankı, boru hattı ve standart kıp bağlama tesisatı",
+      "5) Hiçbiri"
+    ],
+    "correctAnswer": "2) Arıtma tesisleri, parçalama ve dezenfekte tesisleri, toplama tankı, boru hattı ve standart kıyı bağlama tesisatı"
+  },
+  {
+    "id": 15,
+    "testIndex": 4,
+    "question": "SOLAS 78 protokolünün getirdiği önemli yeniliklerden birisi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Liman Devleti kontrolü gerekliliklerin önemi",
+      "2) ARPA kullanımı",
+      "3) Zimni kabul",
+      "4) Seperatör kullanımı",
+      "5) Hiçbiri"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 16,
+    "testIndex": 4,
+    "question": "Gittikleri limanlarda gemilerden istenen bilgiler doğrultusunda, doküman boyutlarındaki çeşitlilikleri ve gemide harcanan kağıt miktarını azaltmak ayrıca farklı dillere tercüme sorununu ortadan kaldırmak; bu sayede de gemilerin limanlara giriş çıkış işlemleri ile ilgili bürokrasiyi azaltarak dolaşımlarını hızlandırmak amacıyla, 1965 yılında yapılmış olan uluslar arası sözleşmenin kısa adı, aşağıdakilerden hangisidir?",
+    "options": [
+      "1) SFV",
+      "2) PAL",
+      "3) MTF",
+      "4) FAL",
+      "5) FMT"
+    ],
+    "correctAnswer": "4) FAL"
+  },
+  {
+    "id": 17,
+    "testIndex": 4,
+    "question": "SOLAS 74/78 Sözleşmesinin içerisinde yer alan düzenleme aşağıdakilerden hangisi değildir?",
+    "options": [
+      "1) Klas kurumlarının standartları",
+      "2) Çift gövdeli tankerlerde emniyet sistemi",
+      "3) IMO numarasına ait zorunluluk",
+      "4) Korozyonun önlenmesi",
+      "5) Giriş kaportalarının standardı"
+    ],
+    "correctAnswer": "2) Çift gövdeli tankerlerde emniyet sistemi"
+  },
+  {
+    "id": 18,
+    "testIndex": 4,
+    "question": "\"Specification of minimum Standard of \ncompetence in crisis management and human behaviour\" olarak adlandırılan\n ve geminin dizayn yapısı, emniyet kuralları, acil durum planları ve \nprosedürleri, ....gibi konuların belirlenmesi ve bilinmesi ile ilgili \ndüzenlemeler, aşağıdaki uluslar arası denizcilik sözleşmelerinden \nhangisinin kapsamında ele alınmaktadır?",
+    "options": [
+      "1) SOLAS",
+      "2) STCW",
+      "3) COLREG",
+      "4) ISM",
+      "5) SAR"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 19,
+    "testIndex": 4,
+    "question": "IMO tarafından yapılan sözleşmeler, genel olarak aşağıdaki gibi dört temel grup altında incelerecek olursa, Athens Convention relating to Carriage of Passengers and their Lagguage by Sea (PAL), 1974 sözleşmesi, yukarıdaki sınıflandırmalardın hangisi ya da hangilerine dahil olur?(I) Denizcilik Güvenliği(II) Deniz Kirliliği(III) Sorumluluk ve Tazminat(IV) Diğer Konular",
+    "options": [
+      "1) I",
+      "2) II",
+      "3) III",
+      "4) IV",
+      "5) II ve III"
+    ],
+    "correctAnswer": "3) III"
+  },
+  {
+    "id": 20,
+    "testIndex": 4,
+    "question": "Bir gemide, can güvenliğine ilişkin bulundurulması zorunlu olan teçhizatın belirlenmesinde, aşağıdaki uluslar arası sözleşmelerden hangisi en çok etkilidir?",
+    "options": [
+      "1) MARPOL",
+      "2) SOLAS",
+      "3) STCW",
+      "4) COLREG",
+      "5) SAR"
+    ],
+    "correctAnswer": "2) SOLAS"
+  }
+]

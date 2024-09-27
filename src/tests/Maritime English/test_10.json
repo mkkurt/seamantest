@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "testIndex": 9,
+    "question": "Which of the following isn't a component of a water tube boiler?",
+    "options": [
+      "1) burner",
+      "2) header",
+      "3) downcomer",
+      "4) steam drum",
+      "5) booster pump"
+    ],
+    "correctAnswer": "5) booster pump"
+  },
+  {
+    "id": 2,
+    "testIndex": 9,
+    "question": "The power produced in the cylinder is called ..........................",
+    "options": [
+      "1) Cycle",
+      "2) Combustion",
+      "3) Break horse power(BHP)",
+      "4) Indicated horse power(IHP)",
+      "5) RPM"
+    ],
+    "correctAnswer": "4) Indicated horse power(IHP)"
+  },
+  {
+    "id": 3,
+    "testIndex": 9,
+    "question": "With a reciprocating pump, failure to deliver liquid may be caused by ..................",
+    "options": [
+      "1) Pump not being primed",
+      "2) Discharge head too high",
+      "3) Liquid plunger packing worn",
+      "4) Any of the above",
+      "5) Only 1 and 2"
+    ],
+    "correctAnswer": "3) Liquid plunger packing worn"
+  },
+  {
+    "id": 4,
+    "testIndex": 9,
+    "question": "If a centrifugal pump is noisy with excessive vibration during its operation, the cause would most likely be due to ........................",
+    "options": [
+      "1) Bent shaft",
+      "2) Worn wearing rings",
+      "3) Reverse rotation",
+      "4) Excessive sealing water pressure",
+      "5) 2 and 3"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 5,
+    "testIndex": 9,
+    "question": "Which of the below can be generatede on board?I-fuel oilII-steamIII-electrical energyIV-distiilled water",
+    "options": [
+      "1) I-II-III",
+      "2) I-II-IV",
+      "3) II-III-IV",
+      "4) III",
+      "5) I-III"
+    ],
+    "correctAnswer": "3) II-III-IV"
+  },
+  {
+    "id": 6,
+    "testIndex": 9,
+    "question": ".................. is used as a fire extinguisher in case of fires resulted from electrical equipment.",
+    "options": [
+      "1) Soda acid",
+      "2) CO2",
+      "3) Sand",
+      "4) Foam",
+      "5) 3 and 4"
+    ],
+    "correctAnswer": "2) CO2"
+  },
+  {
+    "id": 7,
+    "testIndex": 9,
+    "question": "Supposing a fire caused by short electric circuit within the equipments is categorized as a ...................... fire and will be extinguished via ..................",
+    "options": [
+      "1) Class A / foam",
+      "2) Class C / chemical powder",
+      "3) Class C / CO2",
+      "4) Class B / foam",
+      "5) Class A / chemical powder"
+    ],
+    "correctAnswer": "2) Class C / chemical powder"
+  },
+  {
+    "id": 8,
+    "testIndex": 9,
+    "question": "The coils in the evaporator are attached to the header by:",
+    "options": [
+      "1) Pipe nipples",
+      "2) Union type fittings",
+      "3) Welding",
+      "4) Bolted flanges",
+      "5) Both 3 and 4"
+    ],
+    "correctAnswer": "2) Union type fittings"
+  },
+  {
+    "id": 9,
+    "testIndex": 9,
+    "question": "What term is used to describe the loss of combustion pressure due to worn rings and liner?",
+    "options": [
+      "1) Blowback",
+      "2) Blowdown",
+      "3) Both 1 and 2",
+      "4) Blowup",
+      "5) Blow by"
+    ],
+    "correctAnswer": "5) Blow by"
+  },
+  {
+    "id": 10,
+    "testIndex": 9,
+    "question": "Every mechanical governor has ......................... as its basic element.",
+    "options": [
+      "1) Power piston",
+      "2) Control rack",
+      "3) Weights acted on by centrifugal force",
+      "4) Isochronous droop spring",
+      "5) Piston"
+    ],
+    "correctAnswer": "3) Weights acted on by centrifugal force"
+  },
+  {
+    "id": 11,
+    "testIndex": 9,
+    "question": "When vacuum is lost on a turbo generator the trip is actuated by .............",
+    "options": [
+      "1) Sentinel valve",
+      "2) Back pressure",
+      "3) Slugs of water",
+      "4) Overspeed trip",
+      "5) 1 and 2"
+    ],
+    "correctAnswer": "3) Slugs of water"
+  },
+  {
+    "id": 12,
+    "testIndex": 9,
+    "question": "Which below can be named as device for controlling speeds of turbines?",
+    "options": [
+      "1) Throttle valve",
+      "2) Overspeed trip",
+      "3) Speed requlating governor",
+      "4) All above",
+      "5) Only 1 and 2"
+    ],
+    "correctAnswer": "4) All above"
+  },
+  {
+    "id": 13,
+    "testIndex": 9,
+    "question": "\"The quantity of oil in separated water is controlled by a control unit\" What sentence below has the same meaning?",
+    "options": [
+      "1) Control unit controls the oil quantity and separate it",
+      "2) The quantity of oil is separeted and controlled by control unit",
+      "3) The oil quantity in water is separated by control unit",
+      "4) Control unit controls the oil quantity in separated water",
+      "5) Separated water in oil is controlled by control unit"
+    ],
+    "correctAnswer": "3) The oil quantity in water is separated by control unit"
+  },
+  {
+    "id": 14,
+    "testIndex": 9,
+    "question": "What is not included in the category of deck machinery?",
+    "options": [
+      "1) Windlass",
+      "2) Hatch over",
+      "3) Bow thruster",
+      "4) Steam generator",
+      "5) Lifeboat engine"
+    ],
+    "correctAnswer": "4) Steam generator"
+  },
+  {
+    "id": 15,
+    "testIndex": 9,
+    "question": "Any automatic sprinkler, fire detection and fire alarm system shall be capable of immediate operation at all times and no action by the crew shall be necessary to set it in operation. Each section of sprinklers shall include means for giving a visual and audible alarm automatically whenever any sprinkler comes into operation. Sprinklers shall be grouped into separate sections, each of which shall contain not more than 200 sprinklers. Each section shall be capable of being isolated my one stop valve only. A gauge indicating the pressure in the system shall be provided at each section stop valve and a central station. The sprinklers shall be resistant to corrosion by marine atmosphere. In accommodation and service spaces the sprinklers shall come into operation within the temperature range from 68�C to 79�C. A list or plan shall be displayed at each unit and suitable instructions for testing and maintenance shall be available. Sprinklers shall be placed in an overhead position to maintain an average application rate of not less than 51/m2/mm over the area covered by the sprinklers. According to the passage, it isn't true that;",
+    "options": [
+      "1) The sprinklers can be affected by marine atmosphere",
+      "2) They will be in an overhead position to maintain the average application",
+      "3) The pressure in the system is displayed by a pressure gauge",
+      "4) Sprinkler system is used either fixed or mobile on board",
+      "5)  The system shall be divided into sections"
+    ],
+    "correctAnswer": "4) Sprinkler system is used either fixed or mobile on board"
+  },
+  {
+    "id": 16,
+    "testIndex": 9,
+    "question": "A floating ship displaces water equal to its weight.which word can be used from the underlined word?",
+    "options": [
+      "1) Flooding",
+      "2) Afloat",
+      "3) Rolling",
+      "4) Pitching",
+      "5) Mooring"
+    ],
+    "correctAnswer": "2) Afloat"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 43,
+    "question": "Dizel jeneratörlerde enjektörlerin test edilmesi kaç çalışma saatinde bir yapılmalıdır?",
+    "options": [
+      "1) 1200 saat",
+      "2) 2000 saat",
+      "3) 500 saat",
+      "4) 1000 saat",
+      "5) 3000 saat"
+    ],
+    "correctAnswer": "3) 500 saat"
+  },
+  {
+    "id": 2,
+    "testIndex": 43,
+    "question": "Bir dizel makineden alman kapalı p-V diyagramı alanı normalden küçüktür. Bunun olası sonuçları aşağıdakilerden hangisi olabilir?",
+    "options": [
+      "1) Yüksek egzoz gaz sıcaklığı görülür",
+      "2) Makinede aşırı ısınma başlar",
+      "3) Makine gücünde azalma görülür",
+      "4) Maksimum yanma basınçları artar",
+      "5) Bir etkisi yoktur"
+    ],
+    "correctAnswer": "3) Makine gücünde azalma görülür"
+  },
+  {
+    "id": 3,
+    "testIndex": 43,
+    "question": "Dizel makinelerinde enjektörlerin iyi püskürtmemesi sonucu aşağıdakilerden hangisi oluşur?",
+    "options": [
+      "1) Beyaz duman",
+      "2) Gri-siyah duman",
+      "3) Sarı duman",
+      "4) Renksiz duman",
+      "5) Mavimsi duman"
+    ],
+    "correctAnswer": "2) Gri-siyah duman"
+  },
+  {
+    "id": 4,
+    "testIndex": 43,
+    "question": "Rato türbininde dami pistonun görevi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Rotor şaftın dinamik dengesini sağlamak",
+      "2) Radyal sırastı önlemek",
+      "3) Eksenel sırastı önlemek",
+      "4) Rotor kanatlarının titreşimini önlemek",
+      "5) Rato türbininde dami piston bulunmaz"
+    ],
+    "correctAnswer": "5) Rato türbininde dami piston bulunmaz"
+  },
+  {
+    "id": 5,
+    "testIndex": 43,
+    "question": "Dizel motorlarında yanmayı aşağıdakilerden hangisi en iyi ifade eder?",
+    "options": [
+      "1) Yakıttan enerji temin etmektir",
+      "2) Yanmanın üç safhada tamamlanmasıdır",
+      "3) Yanma olayının yanma odasında gerçekleşmesidir",
+      "4) Tutuşan yakıtın en az 5 saniye yanmaya devam etmesidir",
+      "5) Art yanmanın olmamasıdır"
+    ],
+    "correctAnswer": "4) Tutuşan yakıtın en az 5 saniye yanmaya devam etmesidir"
+  },
+  {
+    "id": 6,
+    "testIndex": 43,
+    "question": "Dört zamanlı bir dizel makinesinde valf taymingi nelerden etkilenir?",
+    "options": [
+      "1) Devir sayısı ve meyil açısından",
+      "2) Silindir çapından",
+      "3) Piston strokundan",
+      "4) Piston ortalama hızından",
+      "5) Kompresyon oranından"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 7,
+    "testIndex": 43,
+    "question": "İki kademeli bir devir düşürücü devir düşürme sayısı, tek kademelinin kaç katıdır?",
+    "options": [
+      "1) 4,5",
+      "2) 3",
+      "3) 1,5",
+      "4) 1,125",
+      "5) 2,25"
+    ],
+    "correctAnswer": "5) 2,25"
+  },
+  {
+    "id": 8,
+    "testIndex": 43,
+    "question": "Dört strokiu dizel makinelerinde yağ segmanlarıın sıyırıcı tırnaklarının yukarı gelecek şekilde yuvalarına takılması, aşağıda belirtilenlerden hangisine neden olur?",
+    "options": [
+      "1) İnce bir yağ katmanı oluşur",
+      "2) Kalın bir yağ filmi meydana gelir",
+      "3) Egzozda mavi duman görülür",
+      "4) Kompresyon daha iyi olur",
+      "5) Kompresyon basıncı yükselir"
+    ],
+    "correctAnswer": "3) Egzozda mavi duman görülür"
+  },
+  {
+    "id": 9,
+    "testIndex": 43,
+    "question": "Buhar separatörü kazanın neresinde bulunur?",
+    "options": [
+      "1) Su dramında",
+      "2) Buhar dramında",
+      "3) Ekonomayzerde",
+      "4) Cehennemlikte",
+      "5) Buhar çıkışında"
+    ],
+    "correctAnswer": "2) Buhar dramında"
+  },
+  {
+    "id": 10,
+    "testIndex": 43,
+    "question": "Motorlarda tayming diyagramları neyi gösterir?",
+    "options": [
+      "1) Püskürtme basıncını",
+      "2) Yanma sonu basıncını",
+      "3) Sıkıştırma sonu basıncını",
+      "4) Olayların başlangıç ve bitiş açılarını",
+      "5) Overlep değerini"
+    ],
+    "correctAnswer": "4) Olayların başlangıç ve bitiş açılarını"
+  },
+  {
+    "id": 11,
+    "testIndex": 43,
+    "question": "Dört strokiu bir dizel makinesinin teorik diyagramından kuramsal ortalama basınç 14,6 bar olarak hesaplanmıştır. Bu makinede iyilik derecesi 0,93 ve mekanik verim 0,88 olduğuna göre, efektif ortalama basınç hangi değeri alacaktır?",
+    "options": [
+      "1) 16,33 bar",
+      "2) 12,33 bar",
+      "3) 11,33 bar",
+      "4) 14,33 bar",
+      "5) 13,33 bar"
+    ],
+    "correctAnswer": "2) 12,33 bar"
+  },
+  {
+    "id": 12,
+    "testIndex": 43,
+    "question": "Aşağıdakilerden hangisi sırast yatakların elemanı değildir?",
+    "options": [
+      "1) Pinler",
+      "2) Kolar",
+      "3) Ring",
+      "4) Ayar pleytleri",
+      "5) Pedler"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 13,
+    "testIndex": 43,
+    "question": "Aşağıdaki ifadelerden hangisi dizel makinelerinde kullanılan yağlama yağlarının görevlerinden değildir?",
+    "options": [
+      "1) Makineyi temizleme",
+      "2) Sürtünme ve dolayısıyla aşınmayı önleme",
+      "3) Makinenin soğutulmasını sağlama",
+      "4) Sıkıştırma basıncını yükseltme",
+      "5) Yanma sırasında oluşan asitleri nötrleştirme"
+    ],
+    "correctAnswer": "4) Sıkıştırma basıncını yükseltme"
+  },
+  {
+    "id": 14,
+    "testIndex": 43,
+    "question": "Tornistan türbininin alçak basınç türbini ile aynı keys içinde olması halinde hangi tür manevra valfı kullanılır?",
+    "options": [
+      "1) Tek portlu, tek pistonlu",
+      "2) 2 portlu, 2 pistonlu",
+      "3) 3 portlu, 2 pistonlu",
+      "4) 3 portlu, tek pistonlu",
+      "5) 2 portlu, 3 pistonlu"
+    ],
+    "correctAnswer": "4) 3 portlu, tek pistonlu"
+  },
+  {
+    "id": 15,
+    "testIndex": 43,
+    "question": "Dizel jeneratörlerde alternatörün sabit devirde dönmesini sağlayan üniteye ne ad verilir?",
+    "options": [
+      "1) Diyot",
+      "2) Konjektör",
+      "3) Gavernör",
+      "4) Voltaj regülatörü",
+      "5) Yağ pompası"
+    ],
+    "correctAnswer": "3) Gavernör"
+  },
+  {
+    "id": 16,
+    "testIndex": 43,
+    "question": "Günde 60 ton yakıt sarfiyatı olan 20.000 hp gücündeki bir dizel ana makinenin özgül yakıt harcamı nedir?",
+    "options": [
+      "1) 145 g/hp.saat",
+      "2) 135 g/hp. saat",
+      "3) 125 g/hp.saat",
+      "4) 105 g/hp.saat",
+      "5) 115 g/hp.saat"
+    ],
+    "correctAnswer": "3) 125 g/hp.saat"
+  },
+  {
+    "id": 17,
+    "testIndex": 43,
+    "question": "Motorlarda güç azalması halinde akla gelebilecek ilk arıza aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Yatak sarması",
+      "2) İyi yanma olmaması",
+      "3) Piston sıkışması",
+      "4) Meme deliklerinin tıkanması",
+      "5) Pompa plencerinin sıkışması"
+    ],
+    "correctAnswer": "2) İyi yanma olmaması"
+  },
+  {
+    "id": 18,
+    "testIndex": 43,
+    "question": "Türbin keysinin giderek büyüyen bir çapa ve konik bir şekle sahip olduğu türbin aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Basit impals türbini",
+      "2) Hız basamaklı impals türbini",
+      "3) Basınç basamaklı impals türbini",
+      "4) Hız ve basınç basamaklı impals türbini",
+      "5) Reaksiyon türbini"
+    ],
+    "correctAnswer": "5) Reaksiyon türbini"
+  },
+  {
+    "id": 19,
+    "testIndex": 43,
+    "question": "2160 kW gücünde olan bir buhar türbininin verimi 0,8 dir. Buharın türbine giriş ve çıkış antaipileri sırasıyla 3240 ve 2700 kj/kg olduğuna göre, bu türbinin buhar sarfiyatı aşağıdakilerden hangisidir?",
+    "options": [
+      "1) 15 ton/saat",
+      "2) 18 ton/saat",
+      "3) 20 ton/saat",
+      "4) 22 ton/saat",
+      "5) 25 ton/saat"
+    ],
+    "correctAnswer": "2) 18 ton/saat"
+  },
+  {
+    "id": 20,
+    "testIndex": 43,
+    "question": "Motorlarda zayıf yay diyagramları neden çizilir?",
+    "options": [
+      "1) Ortalama endike basıncı belirlemek için",
+      "2) Olayların başlangıç ve bitiş açılarını belirlemek için",
+      "3) Bazı arızaları saptamak için",
+      "4) Pozitif alanı belirlemek için",
+      "5) Maksimum basıncı belirlemek için"
+    ],
+    "correctAnswer": "3) Bazı arızaları saptamak için"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 18,
+    "question": "Port ve helis kontrollü bir yakıt püskürtme pompasının bakımı yapılırken pompa plecerinin değiştirilmesi gerekirse, aşağıdakilerden hangisi uygulanmalıdır?",
+    "options": [
+      "1) Deliveri çek valf değiştirilmelidir",
+      "2) Pompa silindiri veya barılı ile birlikte yenilenmelidir",
+      "3) Püskürtme borusu (kamçı) değiştirilmelidir",
+      "4) Yakıt kemi değiştirilmelidir",
+      "5) Kem takipçisi veya folloveri değiştirilmelidir"
+    ],
+    "correctAnswer": "2) Pompa silindiri veya barılı ile birlikte yenilenmelidir"
+  },
+  {
+    "id": 2,
+    "testIndex": 18,
+    "question": "Bir dizel yakıtının tutuşma niteliği, aşağıdakilerden hangisi tarafından belirtilir?",
+    "options": [
+      "1) Setan sayısı",
+      "2) Uçuculuk",
+      "3) Viskozite indeksi",
+      "4) Oktan sayısı",
+      "5) Alfametilnaftelen"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 3,
+    "testIndex": 18,
+    "question": "Her mekanik gavörnörün temel elemanı nedir?",
+    "options": [
+      "1) Servomotor pistonu",
+      "2) İğne (nidıl) valf",
+      "3) Rak kolu",
+      "4) Merkezkaç kuvvet tarafından etkilenen ağırlıklar",
+      "5) Gavörnör yayı"
+    ],
+    "correctAnswer": "4) Merkezkaç kuvvet tarafından etkilenen ağırlıklar"
+  },
+  {
+    "id": 4,
+    "testIndex": 18,
+    "question": "Yakıt püskürtme pompası ve enjektörün bir keys içinde bulunduğu püskürtücünün adı nedir?",
+    "options": [
+      "1) Sabit basınçlı enjektör",
+      "2) Birleşik enjektör",
+      "3) Mekanik enjektör",
+      "4) Havalı enjektör",
+      "5) Açık enjektör"
+    ],
+    "correctAnswer": "2) Birleşik enjektör"
+  },
+  {
+    "id": 5,
+    "testIndex": 18,
+    "question": "Hem mekanik ve hem de hidrolik gavörnörlerde, aşağıdakilerden hangisi bulunur?",
+    "options": [
+      "1) Servomotor silindiri",
+      "2) Servomotor pistonu",
+      "3) Birincil dengeleme cihazı",
+      "4) Gavörnör ağırlıkları",
+      "5) İkincil dengeleme cihazı"
+    ],
+    "correctAnswer": "4) Gavörnör ağırlıkları"
+  },
+  {
+    "id": 6,
+    "testIndex": 18,
+    "question": "Bir yakıt püskürtme pompasında plencerin aşırı aşınmasına karşın barıl fevkalade bir durumda ise yapılması gereken ne olmalıdır?",
+    "options": [
+      "1) Plencer ve barılı yeniden alıştırılmalıdır",
+      "2) Barıla (silindire) yeni bir plencer yarleştirilmelidir",
+      "3) Plencer ve barıl yeni bir takım ile değiştirilmelidir",
+      "4) Püskürtme pompası tümü ile değiştirilmelidir",
+      "5) Püskürtme pompası, püskürtme boru ve enjektör birlikte değiştirilmelidir"
+    ],
+    "correctAnswer": "3) Plencer ve barıl yeni bir takım ile değiştirilmelidir"
+  },
+  {
+    "id": 7,
+    "testIndex": 18,
+    "question": "Silindire püskürtülen yakıt miktarı ne ile denetlenir?",
+    "options": [
+      "1) Kemşaft ile",
+      "2) Ana yay ile",
+      "3) Rak pozisyonu ile",
+      "4) Meme delik çapı ile",
+      "5) Meme delik boyu ile"
+    ],
+    "correctAnswer": "3) Rak pozisyonu ile"
+  },
+  {
+    "id": 8,
+    "testIndex": 18,
+    "question": "Geminizin seyiri sırasında, eğer dupleks streynerin bir ünitesi tıkanırsa, ilk önce yapılması gereken şey nedir?",
+    "options": [
+      "1) Makine derhal kapatılır",
+      "2) Hemen streynerin temiz tarafına geçilir",
+      "3) Yakıt pompası stop edilir",
+      "4) Streynerin baypas valfı açılır",
+      "5) Başka bir streyner devreye alınarak yola devam edilir"
+    ],
+    "correctAnswer": "2) Hemen streynerin temiz tarafına geçilir"
+  },
+  {
+    "id": 9,
+    "testIndex": 18,
+    "question": "Bir dizel makinesinin silindirlerine püskürtülen yakıt ne ile tutuşturulur?",
+    "options": [
+      "1) Buji ile",
+      "2) Elektrik distribütörü yardımıyla",
+      "3) Sıkıştırma sırasında oluşan ısı ile",
+      "4) Enjektör memesinden sağlanan ısı ile",
+      "5) Egzoz gazlarından alınan ısı ile"
+    ],
+    "correctAnswer": "3) Sıkıştırma sırasında oluşan ısı ile"
+  },
+  {
+    "id": 10,
+    "testIndex": 18,
+    "question": "Yakıt püskürtme pompalarında oluşan sorunların ana kaynağı çoğu zaman nedir?",
+    "options": [
+      "1) Yanlış ayarlama",
+      "2) Kirli yakıt",
+      "3) Yetersiz yağlama",
+      "4) Yeterli olmayan sıkıştırma basıncı",
+      "5) Aşırı makine titreşimi"
+    ],
+    "correctAnswer": "2) Kirli yakıt"
+  },
+  {
+    "id": 11,
+    "testIndex": 18,
+    "question": "Bir dizel makinesinin yakıt püskürtme devresindeki hava aşağıdakilerden hangisine neden olabilir?",
+    "options": [
+      "1) Yüksek yağlama yağı sıcaklığına",
+      "2) Pistonların hasar görmesine",
+      "3) Mavi dumana",
+      "4) Tutuşma arızalarına",
+      "5) Siyah dumana"
+    ],
+    "correctAnswer": "4) Tutuşma arızalarına"
+  },
+  {
+    "id": 12,
+    "testIndex": 18,
+    "question": "Dizel yakıtlarında setan sayısı miktarı neyi belirtir?",
+    "options": [
+      "1) Yakıtın tutuşma niteliğini",
+      "2) Yakıtın ısı değerini",
+      "3) Yakıtın alevlenme noktasını",
+      "4) Tüketilen yakıt miktarını",
+      "5) Yakıtın uçuculuğunu"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 13,
+    "testIndex": 18,
+    "question": "Sabit hızlı gavörnör veya regülatörler nereye donatılır?",
+    "options": [
+      "1) Ana makineye",
+      "2) Türbojeneratörlere",
+      "3) Ana fidsuyu pompasına",
+      "4) Türbofit pompasına",
+      "5) Ana yoğuşum pompasına"
+    ],
+    "correctAnswer": "2) Türbojeneratörlere"
+  },
+  {
+    "id": 14,
+    "testIndex": 18,
+    "question": "Dört stroklu bir makinede yakıt (diesel oil, fuel oi� vb.) silindirlere ne zaman püskürtülür?",
+    "options": [
+      "1) Giriş strokunda",
+      "2) Egzoz strokunda",
+      "3) Sıkıştırma başlangıcında",
+      "4) Sıkıştırma stroku sonuna doğru",
+      "5) Egzoz strokunun ortalarında"
+    ],
+    "correctAnswer": "4) Sıkıştırma stroku sonuna doğru"
+  },
+  {
+    "id": 15,
+    "testIndex": 18,
+    "question": "Ağır devirli, iki stroklu bir dizel makinesi hafif ve ağır fuel oillerle çalışmaktadır. Makine ağır devirli çalıştığı zaman, yeterli ısıtılmamış ağır fuel oil ile çalışmada ne renk egzoz oluşur?",
+    "options": [
+      "1) Beyaz",
+      "2) Siyah",
+      "3) Mavi",
+      "4) Sarı",
+      "5) Saydam"
+    ],
+    "correctAnswer": "2) Siyah"
+  },
+  {
+    "id": 16,
+    "testIndex": 18,
+    "question": "Eğer bir yakıt püskürtme pompasının plencer ve barılı (silindiri) aşırı aşınmış veya hasar görmüşse ne yapılmalıdır?",
+    "options": [
+      "1) Tüm pompa değiştirilmelidir",
+      "2) Püskürtme pompası ve püskürtme valfı birlikte değiştirilmelidir",
+      "3) Plencer ve barıl (silindir) birlikte değiştirilmelidir",
+      "4) Ya banıl (silindir) ya da plencer değiştirilmelidir",
+      "5) Çıkma barıl veya çıkma plencer kullanılmalıdır"
+    ],
+    "correctAnswer": "3) Plencer ve barıl (silindir) birlikte değiştirilmelidir"
+  },
+  {
+    "id": 17,
+    "testIndex": 18,
+    "question": "Dizel makinelerinin yüksek basınçlı yakıt devresinde conta olarak hangi malzeme kullanılmalıdır?",
+    "options": [
+      "1) Fiber",
+      "2) Levha asbestos",
+      "3) Neopren",
+      "4) Yumuşak bakır",
+      "5) Yapay kauçuk"
+    ],
+    "correctAnswer": "4) Yumuşak bakır"
+  },
+  {
+    "id": 18,
+    "testIndex": 18,
+    "question": "Solit incekşın türünden püskürtme uygulanan dizel makinelerinde, pompa disçarç veya çıkış valfı nasıl açılır?",
+    "options": [
+      "1) Kemin hareketi ile",
+      "2) Pnömatik etki ile",
+      "3) Puşrodun hareketi ile",
+      "4) Plencer helisi ile",
+      "5) Hidrolik basıncı ile"
+    ],
+    "correctAnswer": "5) Hidrolik basıncı ile"
+  },
+  {
+    "id": 19,
+    "testIndex": 18,
+    "question": "Bir dizel makinesinde yakıt püskürtme pompaları bir bağlantı veya link donanımı yardımı ile nereye bağlanırlar?",
+    "options": [
+      "1) Kemşafta",
+      "2) Krankşafta",
+      "3) Valf hareket mekanizmasına",
+      "4) Gavörnöre",
+      "5) Volan veya flayvile"
+    ],
+    "correctAnswer": "4) Gavörnöre"
+  },
+  {
+    "id": 20,
+    "testIndex": 18,
+    "question": "Bazı dizel makinelerine donatılan aşırı hız tripleri otomatik olarak ne ile hareket ederler?",
+    "options": [
+      "1) Yay kuvveti",
+      "2) Hidrolik basıncı",
+      "3) Servomotor",
+      "4) Merkezkaç kuvvet",
+      "5) Mekanik bağlantı"
+    ],
+    "correctAnswer": "4) Merkezkaç kuvvet"
+  }
+]

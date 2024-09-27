@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 1,
+    "question": "Basınçlı ilk hareket havası üreten kompresörler, genel olarak hangi türdendir?",
+    "options": [
+      "1) Egzoz gazları ile çalıştırılan türboşarjer",
+      "2) Ruts (roots) bloveri türünden hava pompası",
+      "3) Santrifüj hava kompresörü",
+      "4) Çok kademeli pistonlu hava kompresörü",
+      "5) Lob türü hava pompası"
+    ],
+    "correctAnswer": "4) Çok kademeli pistonlu hava kompresörü"
+  },
+  {
+    "id": 2,
+    "testIndex": 1,
+    "question": "Bir dizel jeneratör makinesi serbest olarak dönüyor, fakat düzgün ateşleme yapmıyorsa, sebep ne olabilir?",
+    "options": [
+      "1) Aşırı sıkıştırma basıncı",
+      "2) Yakıtta su",
+      "3) Yüksek yakıt basıncı",
+      "4) Aşırı yük",
+      "5) Aşırı sıkıştırma sıcaklığı"
+    ],
+    "correctAnswer": "2) Yakıtta su"
+  },
+  {
+    "id": 3,
+    "testIndex": 1,
+    "question": "Türboşarjer gaz türbinlerinin temizlenmesinde ne kullanılır?",
+    "options": [
+      "1) Sadece su",
+      "2) Sadece diesel oil",
+      "3) Su ve granül",
+      "4) Gas oil",
+      "5) Fuel oil"
+    ],
+    "correctAnswer": "3) Su ve granül"
+  },
+  {
+    "id": 4,
+    "testIndex": 1,
+    "question": "Dizel oillerle çalıştırılan gemi dizel makinelerinde yağlama yağının yakıt ile kirletilmesi aşağıdakilerden hangisine neden olur?",
+    "options": [
+      "1) Viskozite azalır",
+      "2) Akma noktası düşer",
+      "3) Alevlenme noktası yükselir",
+      "4) Viskozite yükselir",
+      "5) Bulut noktası oluşur"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 5,
+    "testIndex": 1,
+    "question": "Dizel makinelerinin parçalarının aşınmasından gelen metal partikülleri veya tanecikleri yağlama yağında nelere sebep olabilir?",
+    "options": [
+      "1) Aşındırıcı partiküllere",
+      "2) Metal oksitlerine",
+      "3) Paslandırıcı asitlere",
+      "4) Katalizör oluşumuna",
+      "5) Yukardakilerin tümüne"
+    ],
+    "correctAnswer": "2) Metal oksitlerine"
+  },
+  {
+    "id": 6,
+    "testIndex": 1,
+    "question": "Dizel makinesinin ilk harekete getirilmesinden ne kadar önce yağlama yağı pompasının çalıştırılması makine yapımcıları tarafından önerilmektedir?",
+    "options": [
+      "1) 10 saat önce",
+      "2) 08 saat önce",
+      "3) 06 saat önce",
+      "4) 4 saat önce",
+      "5) 02 saat önce"
+    ],
+    "correctAnswer": "3) 06 saat önce"
+  },
+  {
+    "id": 7,
+    "testIndex": 1,
+    "question": "Bir dizel makinesinin krank veblerinden sancak-iskele yönünde ölçülen deflekşın aşağıda belirtilenlerden hangisidir?",
+    "options": [
+      "1) Yatay deflekşın",
+      "2) Negatif deflekşın",
+      "3) Pozitif deflekşın",
+      "4) Dikey deflekşın",
+      "5) Nötr deflekşın"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 8,
+    "testIndex": 1,
+    "question": "İki parçadan yapılan pistonlarda, segmanları taşıyan bölüm hangi malzemeden yapılır?",
+    "options": [
+      "1) Dökme demir",
+      "2) Dökme alüminyum",
+      "3) Dökme çelik",
+      "4) Dövme çelik",
+      "5) Bronz"
+    ],
+    "correctAnswer": "3) Dökme çelik"
+  },
+  {
+    "id": 9,
+    "testIndex": 1,
+    "question": "Dört zamanlı bir dizel motorunun valf ayarı aşağıdaki hangi periyotta yapılmalıdır?",
+    "options": [
+      "1) Egzoz",
+      "2) Genişleşme/iş",
+      "3) Emme",
+      "4) Sıkıştırma sonunda",
+      "5) Overlep"
+    ],
+    "correctAnswer": "4) Sıkıştırma sonunda"
+  },
+  {
+    "id": 10,
+    "testIndex": 1,
+    "question": "Dört zamalı bir makinede egzoz stroku alt ölü noktadan 30° önce başlamakta ve üst ölü noktadan 20° sonra sona ermektedir. Bu durumda egzoz stroku krank açısı türünden kaç derecelik bir süre içinde oluşmaktadır?",
+    "options": [
+      "1) 230°",
+      "2) 235°",
+      "3) 245°",
+      "4) 255°",
+      "5) 265°"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 11,
+    "testIndex": 1,
+    "question": "Atık yakıt kullanılan gemi dizel makinelerinde birbirlerine seri bağlı iki separatör kullanılır. Bu separatörlerin bağlanış düzeni aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Purifayer + Purifayer",
+      "2) Purifayer + klarifayer + purifayer",
+      "3) Klarifayer + klarifayer",
+      "4) Purifayer + klarifayer",
+      "5) Klarifayer + purifayer"
+    ],
+    "correctAnswer": "4) Purifayer + klarifayer"
+  },
+  {
+    "id": 12,
+    "testIndex": 1,
+    "question": "Dizel makinelerinde kullanılan yağlama yağı pompası aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Volüt türü pompa",
+      "2) Santrifüj pompa",
+      "3) Diyaframlı pompa",
+      "4) Dişli pompa",
+      "5) Pistonlu pompa"
+    ],
+    "correctAnswer": "4) Dişli pompa"
+  },
+  {
+    "id": 13,
+    "testIndex": 1,
+    "question": "Eğer, çalışmakta olan bir dizel makinesinin ceket suyu sıcaklığı hızlı olarak yükselirse, bunun sebebi ne olabilir?",
+    "options": [
+      "1) Kaba su sistemindeki deniz suyu streyneri tıkanmıştır",
+      "2) Omurga türü soğutucu, deniz canlıları ile tıkanmıştır",
+      "3) Genişleme tankı taşmaktadır",
+      "4) Soğutucuda aşırı yüksek deniz suyu hızı",
+      "5) Yukardakilerin herhangi biri"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 14,
+    "testIndex": 1,
+    "question": "Yakıt püskürtme sistemleri, yakıtı ölçme ve püskürtme dışında aşağıda belirtilenlerden hangilerini sağlamalıdır?",
+    "options": [
+      "1) Yanma odasında türbülans (girdap) sağlamalıdır",
+      "2) Silindirin süpürülmesine yardımcı olmalıdır",
+      "3) Yakıtı uygun zamanda silindire püskürtmelidir",
+      "4) Silindirde yakıt penetrasyonunu en aza indirmelidir",
+      "5) Yukardakilerin tümünü sağlamalıdır"
+    ],
+    "correctAnswer": "3) Yakıtı uygun zamanda silindire püskürtmelidir"
+  },
+  {
+    "id": 15,
+    "testIndex": 1,
+    "question": "Bir gemi makinesinin çalışması sırasında egzozda mavi duman görülmesinin nedeni aşağıda belirtilenlerden hangisi olabilir?",
+    "options": [
+      "1) Makine silindirlerine su girmektedir",
+      "2) Yakıt püskürtme iyi değildir",
+      "3) Silindirde zayıf yanma meydana gelmektedir",
+      "4) Makine yağ yakmaktadır",
+      "5) Silindir kaver contası kaçırmaktadır"
+    ],
+    "correctAnswer": "4) Makine yağ yakmaktadır"
+  },
+  {
+    "id": 16,
+    "testIndex": 1,
+    "question": "Deniz suyu ile soğutulan dizel makinelerine örnek, aşağıda belirtilenlerden hangisidir?",
+    "options": [
+      "1) Küçük güçlü, yüksek devirli bot makineleri",
+      "2) Gücü bin kW üzerinde olan makineler",
+      "3) Trank pistonlu makinelerin tümü",
+      "4) Kroshetli makinelerin bir bölümü",
+      "5) Sürat teknelerinin dizel motorları"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 17,
+    "testIndex": 1,
+    "question": "Krank şaft veb deplesmanını ölçmek için hangi cihaz kullanılır?",
+    "options": [
+      "1) Filer geyç",
+      "2) Sentil",
+      "3) İç kompas",
+      "4) Defiekşın geyiç",
+      "5) Derinlik mikrometresi"
+    ],
+    "correctAnswer": "4) Defiekşın geyiç"
+  },
+  {
+    "id": 18,
+    "testIndex": 1,
+    "question": "Bir gemi dizel makinesinin kapatılmadan önce-Eğer mümkünse-bir kaç dakika boşta çalıştırılması zorunluluğunun sebebi nedir?",
+    "options": [
+      "1) Kapama sırasında gavörnör gücünün yükselmesi",
+      "2) Yakıt püskürtme nozullarının temizlendiğinden emin olmak",
+      "3) Yakıt püskürtme borusunda basınç oluşmasını önlemek",
+      "4) Yerel aşırı ısınma nedeniyle hasara engel olmak",
+      "5) Ölü hacimdeki atık gazları azaltmak"
+    ],
+    "correctAnswer": "4) Yerel aşırı ısınma nedeniyle hasara engel olmak"
+  },
+  {
+    "id": 19,
+    "testIndex": 1,
+    "question": "Stroku 305 mm olan ve 900 rpm'de çalıştırılan bir makinenin ortalama piston hızı aşağıdakilerden hangisidir?",
+    "options": [
+      "1) 10,15 m/s",
+      "2) 9,15 m/s",
+      "3) 7,45 m/s",
+      "4) 12,34 m/s",
+      "5) 10,00 m/s"
+    ],
+    "correctAnswer": "2) 9,15 m/s"
+  },
+  {
+    "id": 20,
+    "testIndex": 1,
+    "question": "Aşağıdakilerden hangisi valf overlepinin yararları arasındadır?",
+    "options": [
+      "1) Yanma odasının duvarlarının temizlenmesi",
+      "2) Atık gaz miktarının azaltılması",
+      "3) Kompresyon segmanlarının soğutulması",
+      "4) Yağ segmanlarının soğutulması",
+      "5) Piston kafası çatlamasının önlenmesi"
+    ],
+    "correctAnswer": "2) Atık gaz miktarının azaltılması"
+  }
+]

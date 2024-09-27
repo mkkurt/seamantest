@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 20,
+    "question": "Normal yük altında çalışan bir dizel makinesinde egzoz manifoldunun tıkalı olduğu nasıl anlaşılır?",
+    "options": [
+      "1) Düşük yanma basıncı ve alçak egzoz sıcaklığından",
+      "2) Düşük yanma basıncı ve yüksek egzoz gazı sıcaklığından",
+      "3) Yüksek yanma basıncı ve düşük egzoz gazı sıcaklığından",
+      "4) Yüksek yanma basıncı ve alçak egzoz gazı sıcaklığından",
+      "5) Yüksek yanma basıncı ve normal egzoz gazı sıcaklığından"
+    ],
+    "correctAnswer": "2) Düşük yanma basıncı ve yüksek egzoz gazı sıcaklığından"
+  },
+  {
+    "id": 2,
+    "testIndex": 20,
+    "question": "Klas kuruluşlarına göre emercensi dizellerin ilk hareket sistemleri en az kaç ilk hareket oluşturacak yeterlik veya kapasitede olmalıdır?",
+    "options": [
+      "1) Birbirini izleyen 3 ilk hareket",
+      "2) Birbirini izleyen 6 ilk hareket",
+      "3) Yük altında birbirini izleyen 9 ilk hareket",
+      "4) Her biri 5 saniyelik 12 ilk hareket",
+      "5) Her biri 3 saniyelik 15 ilk hareket"
+    ],
+    "correctAnswer": "2) Birbirini izleyen 6 ilk hareket"
+  },
+  {
+    "id": 3,
+    "testIndex": 20,
+    "question": "Dört zamanlı bir dizel makinesinde egzoz karşı basıncındaki herhangi bir yükselme neye sebep olur?",
+    "options": [
+      "1) Makine güç üretiminin azalmasına",
+      "2) Egzoz gazı gürültüsünen azalmasına",
+      "3) Ortalama endike basıncın artmasına",
+      "4) Silindirlerin iyi bir şekilde süpürülmesine",
+      "5) Endike ortalama basıncın yükselmesine"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 4,
+    "testIndex": 20,
+    "question": "Dizel makinelerinde aşınmadan gelen metal partikülleri, hangi oluşuma neden olur?",
+    "options": [
+      "1) Aşındırıcı partiküllere",
+      "2) Metal oksitlerine",
+      "3) Paslandırıcı asitlere",
+      "4) Katalizör oluşumuna",
+      "5) Yukardakilerin herhangi birine"
+    ],
+    "correctAnswer": "4) Katalizör oluşumuna"
+  },
+  {
+    "id": 5,
+    "testIndex": 20,
+    "question": "Türboşarjlı dizel makinelerinde her bir silindirin egzoz gazı, birbirlerinden bağımsız olarak türbin rotor kanatlarına verilir. Bu sistem aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Sabit basınç sistemi",
+      "2) Darbe veya pals sistemi",
+      "3) İmpals sistemi",
+      "4) Değişken basmç sistemi",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "2) Darbe veya pals sistemi"
+  },
+  {
+    "id": 6,
+    "testIndex": 20,
+    "question": "Korrozyonu en aza indirmek için fuel oil streynerlerinin diskleri, ara parçaları ve sıyırıcıları hangi malzemeden yapılır?",
+    "options": [
+      "1) Pirinç",
+      "2) Bakır",
+      "3) Monel metal",
+      "4) Paslanmaz çelik",
+      "5) 3 ve 4"
+    ],
+    "correctAnswer": "5) 3 ve 4"
+  },
+  {
+    "id": 7,
+    "testIndex": 20,
+    "question": "Bir dizel makinesinde ilk hareketten hemen önce daima denetlenmesi gereken nedir?",
+    "options": [
+      "1) Hava filtreleri",
+      "2) Yakıt streynerleri",
+      "3) Karter yağı seviyesi",
+      "4) Pirometrelerin gösterdikleri",
+      "5) Dey tanktaki yakıt seviyesi"
+    ],
+    "correctAnswer": "3) Karter yağı seviyesi"
+  },
+  {
+    "id": 8,
+    "testIndex": 20,
+    "question": "Eğer kullanılan yağın analiz raporu yüksek oranda aşınmış demir metali içeriği gösteriyorsa, nedeni hangisidir?",
+    "options": [
+      "1) Hava filtresi yetersizdir",
+      "2) Bir yatağın korrozyonu",
+      "3) Aşırı segman ve silindir layneri aşınması",
+      "4) Yağlama yağının aşırı soğutulması",
+      "5) O-ringlerin aşınması"
+    ],
+    "correctAnswer": "3) Aşırı segman ve silindir layneri aşınması"
+  },
+  {
+    "id": 9,
+    "testIndex": 20,
+    "question": "Uzun bir süre hafif yükler ve düşük sıcaklıklarda çalışan dizel makinelerinde sonuç ne olur?",
+    "options": [
+      "1) Giriş ve egzoz portlarmda karbonumsu maddeler oluşur",
+      "2) Ceket suyu sıcaklıkları yükselir",
+      "3) Piston ve silindirler aşırı ısınır",
+      "4) Yakıt ile kirletilmesi sonucu yağlama yağı viskozitesi yükselir",
+      "5) Ortalama basınçlar önemli şekilde yükselir"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 10,
+    "testIndex": 20,
+    "question": "Yüksek egzoz karşı basıncı aşağıda verilenlerin hangisine neden olur?",
+    "options": [
+      "1) Türşarjer veriminin yükselmesine",
+      "2) Makine güç üretiminin artmasına",
+      "3) Enjektörlerde kurum birikiminin çoğalmasına",
+      "4) Silindirlerde süpürmenin iyileşmesine",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "3) Enjektörlerde kurum birikiminin çoğalmasına"
+  },
+  {
+    "id": 11,
+    "testIndex": 20,
+    "question": "Türboşarjlı dizel makinelerinde egzoz sisteminin görevi nedir?",
+    "options": [
+      "1) Süperşarjer hava soğutucularına güç temin etmek",
+      "2) Türboşarjere güç sağlamak",
+      "3) Silindirin süpürülme etkisini azaltmak",
+      "4) Türboşarjeri soğutmak",
+      "5) Egzoz karşı basıncının yükselmesini sağlamak"
+    ],
+    "correctAnswer": "2) Türboşarjere güç sağlamak"
+  },
+  {
+    "id": 12,
+    "testIndex": 20,
+    "question": "Dizel makinelerinde egzoz sistemi çoğu zaman egzoz gazlarını gidermek için dizayn edilir. Başka bir dizayn sebebi nedir?",
+    "options": [
+      "1) Egzoz karşı basıncı sağlamak",
+      "2) Egzoz karşı basıncını yükseltmek",
+      "3) Egzoz duman emisyonunu önlemek",
+      "4) Pistonlu süperşarjere güç sağlamak",
+      "5) Egzoz gazlarının gürültüsünü azaltmak"
+    ],
+    "correctAnswer": "5) Egzoz gazlarının gürültüsünü azaltmak"
+  },
+  {
+    "id": 13,
+    "testIndex": 20,
+    "question": "Kroshetli bir makinede bakımdan sonra, ilk hareketin bir parçası olarak makine tornagir ile döndürülür. Sonraki ilk hareket parçası veya adımı ne olmalıdır?",
+    "options": [
+      "1) Tüm hava sisteminin dreynleri açılmalıdır",
+      "2) Endikatör valflarının tümü açılmalıdır",
+      "3) Makine sıcak tutulmalıdır",
+      "4) Düzgün bir yağlama yağı akımı sağlamak olmalıdır",
+      "5) Yukardakilerin tümü sağlanmalıdır"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümü sağlanmalıdır"
+  },
+  {
+    "id": 14,
+    "testIndex": 20,
+    "question": "Bir dizel makinesinde egzoz portlarının kısmen tıkalı olmasını, aşağıdakilerden hangisine neden olur?",
+    "options": [
+      "1) Makinenin aşırı ısınmasına",
+      "2) Yüksek egzoz gazı sıcaklığına",
+      "3) Makinenin yavaşlamasına",
+      "4) Endike ortalama basıncın küçülmesine",
+      "5) Yukardakilerin tümüne"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümüne"
+  },
+  {
+    "id": 15,
+    "testIndex": 20,
+    "question": "Tornaçark operasyonu başlamadan önce silindirdeki yükü azaltmak için açılması gereken ne olmalıdır?",
+    "options": [
+      "1) Yakıt devresi",
+      "2) Genişleme tankı",
+      "3) Silindir test valfları",
+      "4) Kinistin valf",
+      "5) Sintine kinistini"
+    ],
+    "correctAnswer": "3) Silindir test valfları"
+  },
+  {
+    "id": 16,
+    "testIndex": 20,
+    "question": "Yardımcı bir dizel makinesinin ilk hareketi sağlayamamasının sebebi aşağıdakilerden hangisi olabilir?",
+    "options": [
+      "1) Egzoz karşı basıncının düşük olması",
+      "2) Yağlama yağı sıcaklığının yüksek olması",
+      "3) Yeterli olmayan ilk hareket devir sayısı",
+      "4) Aşırı yakıt püskürtme",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "3) Yeterli olmayan ilk hareket devir sayısı"
+  },
+  {
+    "id": 17,
+    "testIndex": 20,
+    "question": "Doğrudan tornistanlı, ana makinelerde, genel olarak hangi ilk hareket sistemi kullanılır?",
+    "options": [
+      "1) Hidrolik ilk hareket motoru (hidrator)",
+      "2) Elektrikli ilk hareket sistemi (marş motoru)",
+      "3) Doğrudan basınçlı hava sistemi",
+      "4) Basınçlı havalı marş motoru",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümü"
+  },
+  {
+    "id": 18,
+    "testIndex": 20,
+    "question": "Türboşarjlı iki stroklu bir dizel makinesinin egzoz sisteminin görevi nedir?",
+    "options": [
+      "1) Egzoz gazları ve dumanı boşaltmak",
+      "2) Türboşarjere enerji sağlamak",
+      "3) Makine dairesi gürültüsünü azaltmak",
+      "4) Atık ısı kazanlarına enerji sağlamak",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümü"
+  },
+  {
+    "id": 19,
+    "testIndex": 20,
+    "question": "Dizel makinelerinin yüksek basınçlı yakıt devresinde hangi tür gasket veya conta olarak hangi malzeme kullanılır?",
+    "options": [
+      "1) Fiber",
+      "2) Levha asbestos",
+      "3) Neopren",
+      "4) Yumuşak bakır",
+      "5) Klingerit"
+    ],
+    "correctAnswer": "4) Yumuşak bakır"
+  },
+  {
+    "id": 20,
+    "testIndex": 20,
+    "question": "Dizel makinesi basınçlı ilk hareket havası ile dönüyor, fakat ateşleme yapmıyorsa, bu sorun nereden kaynaklanmaktadır?",
+    "options": [
+      "1) Düşük yağlama yağı sıcaklığından",
+      "2) İlk hareket havasının düşük sıcaklığından",
+      "3) Yakıt püskürtme sistemindeki havadan",
+      "4) İlk hareket havası sistemindeki sudan",
+      "5) İlk hareket havası sistemindeki yağdan"
+    ],
+    "correctAnswer": "3) Yakıt püskürtme sistemindeki havadan"
+  }
+]

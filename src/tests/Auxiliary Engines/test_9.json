@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 8,
+    "question": "Ters alev borulu kazanlarda duman ve yanma gazlarının takip ettiği yol aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Ocak - külhan - süperhiter - borular - duman sandığı - baca",
+      "2) Külhan - cehennemlik - alev ve payanda boruları - baca",
+      "3) Külhan - cehennemlik - alev boruları - duman sandığı - baca",
+      "4) Cehennemlik - alev boruları - külhan - baca",
+      "5) üperhiter - disüperhiter - alev boruları - baca"
+    ],
+    "correctAnswer": "3) Külhan - cehennemlik - alev boruları - duman sandığı - baca"
+  },
+  {
+    "id": 2,
+    "testIndex": 8,
+    "question": "Akaryakıtla fayraplı bir gemide üretilecek buhar miktarı aşağıdakilerden hangisine bağlı değildir?",
+    "options": [
+      "1) Kullanılan atomizörün kapasitesine",
+      "2) Kullanılan yakıt basıncına",
+      "3) Kullanılan kazan sayısına",
+      "4) Yakıt ile hava karışım oranına",
+      "5) Kazanda kullanılan brülör sayısına"
+    ],
+    "correctAnswer": "4) Yakıt ile hava karışım oranına"
+  },
+  {
+    "id": 3,
+    "testIndex": 8,
+    "question": "Separatörlerin çalışma prensibi aşağıdakilerden hangisi değildir?",
+    "options": [
+      "1) Katı parçacıklar ile sıvı özgül ağırlığının arasındaki farka göre çalışırlar",
+      "2) Katı parçacıkların büyüklüğüne göre ayarlanırlar",
+      "3) Sıvının viskozitesine göre ayarlanırlar",
+      "4) Ayrılma kuvvetinin şiddetine göre discarçları değişir",
+      "5) Aynı özgül ağırlıktaki farklı cins maddelere göre ayırım yaparlar"
+    ],
+    "correctAnswer": "5) Aynı özgül ağırlıktaki farklı cins maddelere göre ayırım yaparlar"
+  },
+  {
+    "id": 4,
+    "testIndex": 8,
+    "question": "İki kademeli hava soğutmak bir hava kompresöründe kaç adet emme ve disçarç valfı bulunur?",
+    "options": [
+      "1) 2 emme 2 disçarç",
+      "2) 1 emme 1 disçarç",
+      "3) 1 emme 2 disçarç",
+      "4) 2 emme 1 disçarç",
+      "5) 4 emme 2 disçarç"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 5,
+    "testIndex": 8,
+    "question": "Galvanik pil (ekşın olayı) kondenserlerin hangi kısmında oluşur?",
+    "options": [
+      "1) Su kutularında",
+      "2) Kondenser kapaklarında",
+      "3) Borularda",
+      "4) Deniz suyu çıkışlarında",
+      "5) Yukarıdakilerin tümünde"
+    ],
+    "correctAnswer": "5) Yukarıdakilerin tümünde"
+  },
+  {
+    "id": 6,
+    "testIndex": 8,
+    "question": "Evaporeyterler hangi durumlarda blöf edilir?",
+    "options": [
+      "1) Sistem devreye girerken",
+      "2) Sistem devreden çıktıktan sonra",
+      "3) Sistem çalışırken",
+      "4) Sistem temizliği yapılırken",
+      "5) Kademelerde suyun yükselmemesi için blöf valfı sürekli açık kalmalı"
+    ],
+    "correctAnswer": "2) Sistem devreden çıktıktan sonra"
+  },
+  {
+    "id": 7,
+    "testIndex": 8,
+    "question": "Aşağıdakilerden hangisi yağlama yağlarının işlevlerinden biri değildir?",
+    "options": [
+      "1) Sürtünen yüzeyleri korozyona karşı korumak",
+      "2) Sürtünen yüzeylerin aşırı ısınmasını engellemek",
+      "3) Sürtünen yüzeylerin mekanik aşınmasını engellemek",
+      "4) Sürtünen yüzeyler arasındaki sürtünme kuvvetini azaltmak",
+      "5) Sürtünen yüzeylerde oluşan mıknatıslanma olgusunu gidermek"
+    ],
+    "correctAnswer": "5) Sürtünen yüzeylerde oluşan mıknatıslanma olgusunu gidermek"
+  },
+  {
+    "id": 8,
+    "testIndex": 8,
+    "question": "Stimli flaş tip evaporeyterde kışırın önlenmesi için yapılan aşağıdaki işlemlerden hangisi yanlıştır?",
+    "options": [
+      "1) Periyodik olarak temizliği zamanında yapılmalı",
+      "2) Yüksek ısıda çalıştırılmamalı",
+      "3) Vakumların istenilen değerlerden olması sağlanmalı",
+      "4) Besleme suyu ısıtıcısının sıcaklığı 170° F'ın üzerinde olmak",
+      "5) Kışırın önlenmesi için sık sık kademe temizliği yapılmak"
+    ],
+    "correctAnswer": "5) Kışırın önlenmesi için sık sık kademe temizliği yapılmak"
+  },
+  {
+    "id": 9,
+    "testIndex": 8,
+    "question": "Gemilerde inter gazın depolandığı tüpler ağırlıklarının yüzde kaçını kaybederlerse yeniden doldurulmalıdırlar?",
+    "options": [
+      "1) %15",
+      "2) %40",
+      "3) %60",
+      "4) %80",
+      "5) %100"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 10,
+    "testIndex": 8,
+    "question": "Separatörler için genellikle aşağıdakilerden hangisi söylenemez?",
+    "options": [
+      "1) Yakıtta bulunan suyu ayırır",
+      "2) Yakıtta bulunan tortuyu ayırır",
+      "3) Yağda bulunan suyu ayırır",
+      "4) Yakıtta bulunan yağı ayırır",
+      "5) Sintine suyunda bulunan yağı ayırır"
+    ],
+    "correctAnswer": "4) Yakıtta bulunan yağı ayırır"
+  },
+  {
+    "id": 11,
+    "testIndex": 8,
+    "question": "Borulu kondenserler susuz kaldığı zaman aşağıdakilerden hangisinin yapılması gerekir?",
+    "options": [
+      "1) kamin açılır, kondensere besleme suyu alınır",
+      "2) Ekstrakşın pompasının hızı düşürülür",
+      "3) Yoğuşum pompası durdurulur",
+      "4) Serküleytin pompası durdurulur",
+      "5) 3 ve 4"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 12,
+    "testIndex": 8,
+    "question": "Su borulu kazanlarda süperhiterin koruyucusu olarak görev yapan ve bazen de su dramında da bulunan teçhizatın adı nedir?",
+    "options": [
+      "1) Hava ısıtıcısı",
+      "2) Süperhiter",
+      "3) Disüperhiter",
+      "4) Ekonomayzer",
+      "5) Gaz bafılı"
+    ],
+    "correctAnswer": "3) Disüperhiter"
+  },
+  {
+    "id": 13,
+    "testIndex": 8,
+    "question": "Aşağıdakilerden hangisi bir havalandırma / iklimlendirme sisteminin elemanı değildir?",
+    "options": [
+      "1) Kondenser",
+      "2) Evaporator",
+      "3) Fan",
+      "4) Kompresör",
+      "5) Kazan"
+    ],
+    "correctAnswer": "5) Kazan"
+  },
+  {
+    "id": 14,
+    "testIndex": 8,
+    "question": "Aşağıdakilerden hangisi pozitif deplasmanlı (rotari) pompa değildir?",
+    "options": [
+      "1) Basketli hava pompası",
+      "2) Vidalı pompa",
+      "3) Dişli pompa",
+      "4) Loblu pompa",
+      "5) Viking pompa"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 15,
+    "testIndex": 8,
+    "question": "Aşağıdakilerden hangisi farklı havalandırma ile korozyon oluşumunu gerçekleştiremez?",
+    "options": [
+      "1) Çözelti damarcıklarının malzeme yüzeyinde bulunması",
+      "2) Deniz suyu derinlik farklılığı",
+      "3) Deniz suyu osmotik basıncının değişmesi",
+      "4) Malzeme üzerinde bulunan çizikler",
+      "5) Bazı deniz canlılarının malzeme yüzeyine yapışması"
+    ],
+    "correctAnswer": "3) Deniz suyu osmotik basıncının değişmesi"
+  },
+  {
+    "id": 16,
+    "testIndex": 8,
+    "question": "Gemilerin güverte yüzeylerine sırası ile hangi boyalar uygulanır?",
+    "options": [
+      "1) Astar boya - antifouling boya",
+      "2) Astar boya - antikorozif boya",
+      "3) Astar boya - antikorozif boya -antifouling boya",
+      "4) Astar boya - antifouling boya- antikorozif boya",
+      "5) Astar boya - antikorozif boya- antifouling boya- antikorozif boya"
+    ],
+    "correctAnswer": "2) Astar boya - antikorozif boya"
+  },
+  {
+    "id": 17,
+    "testIndex": 8,
+    "question": "Valf ne işe yarar?",
+    "options": [
+      "1) Akışkanın önünü keser",
+      "2) Akışkana depoluk eder",
+      "3) Akışkanın hızını azaltır",
+      "4) Akışkanın yönünü belirler yavaşlatır ya da durdurur",
+      "5) Akışkanı durdurur ve ısıtır"
+    ],
+    "correctAnswer": "4) Akışkanın yönünü belirler yavaşlatır ya da durdurur"
+  },
+  {
+    "id": 18,
+    "testIndex": 8,
+    "question": "Yakıt devrelerinin frençlerinde conta malzemesi olarak aşağıdakilerden hangisi kullanılmalıdır?",
+    "options": [
+      "1) Klingerit",
+      "2) Bakır",
+      "3) Amyant",
+      "4) Lastik",
+      "5) Asbestos"
+    ],
+    "correctAnswer": "2) Bakır"
+  },
+  {
+    "id": 19,
+    "testIndex": 8,
+    "question": "Nominal debisi (Kvs) 24 m3/s olan bir glob valftan 0,25 bar basınç kaybı ile geçen tatlı suyun (p= 1 kg/dm3) borudaki debisi kaç m3/s olacaktır?",
+    "options": [
+      "1) 6 m3/s",
+      "2) 8 m3/s",
+      "3) 10 m3/s",
+      "4) 12 m3/s",
+      "5) 16m3/s"
+    ],
+    "correctAnswer": "4) 12 m3/s"
+  },
+  {
+    "id": 20,
+    "testIndex": 8,
+    "question": "Salmastra kullanmanın başlıca amacı aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Sızıntı ve kaçağa engel olmak",
+      "2) Sıcaklığa engel olmak",
+      "3) Daha çok verim elde etmek",
+      "4) Daha çabuk iş yapmak",
+      "5) Daha sıcak ortam elde etmek"
+    ],
+    "correctAnswer": "1"
+  }
+]

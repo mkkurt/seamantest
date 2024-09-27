@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 14,
+    "question": "Tornagir makinesi kullanılmaksızın ana türbin ünitesinin vakumunu yükseltmenin sonucu ne olacaktır?",
+    "options": [
+      "1) Rotorda hasar oluşturacak düzgün olmayan ısı dağılımı meydana gelir",
+      "2) Vakumu yükseltmek için aşırı bir süreye gereksinme vardır",
+      "3) Labirent pakinlerin bulunduğu bölgede rotor çentiklenir",
+      "4) Erecekterin ikinci kademesi aşırı ısınır",
+      "5) Türbin boğazlarında mikroskopik çatlarlar oluşur"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 2,
+    "testIndex": 14,
+    "question": "Seferden dönen, manevralarını tamamlayan bir gemi türbininin kapatılmasından sonra derhal-yavaş olarak döndürülmemesinin sakıncası nedir?",
+    "options": [
+      "1) Devir düşürme dişli dişlerinde hasar oluşumu",
+      "2) Esnek kaplinlerin kuil şaftında aşırı gerilme",
+      "3) Rotorşaftın çarpılması",
+      "4) Ana yataklarda hasar",
+      "5) Sabit kanatlarda hasar"
+    ],
+    "correctAnswer": "3) Rotorşaftın çarpılması"
+  },
+  {
+    "id": 3,
+    "testIndex": 14,
+    "question": "Rotor durum mikrometresi neyi ölçer?",
+    "options": [
+      "1) Keyse gere radyal (çapsal) durumu",
+      "2) Mikrometreye göre radyal durumu",
+      "3) Keyse göre eksenel durumu",
+      "4) Mikrometreye göre eksenel durumu",
+      "5) 2 ve 4'ü"
+    ],
+    "correctAnswer": "3) Keyse göre eksenel durumu"
+  },
+  {
+    "id": 4,
+    "testIndex": 14,
+    "question": "Bir buhar türbini tarafından çalıştırılan kazan besleme (fid) suyu pompasını çalıştıracağınız zaman hangi valf kapalı tutulmalıdır?",
+    "options": [
+      "1) Türbin egzoz valfı",
+      "2) Pompa disçarç veya deşarj valfı",
+      "3) Türbinin buhar besleme valfı",
+      "4) Pompanın emme valfı",
+      "5) Yukardakilerin herhangi biri"
+    ],
+    "correctAnswer": "2) Pompa disçarç veya deşarj valfı"
+  },
+  {
+    "id": 5,
+    "testIndex": 14,
+    "question": "Bir gemi servis jeneratörünün buhar besleme hattındaki su nasıl bir etki yapar?",
+    "options": [
+      "1) Şaft sızdırmazlık keçelerinin aşırı aşınmasına neden olur",
+      "2) Yağlama yağının kirlenmesine neden olur",
+      "3) Türbin kanatlarında hasar oluşturur",
+      "4) Labirent pakinlerde hızlı aşmma oluşturur",
+      "5) Türbin kanatlarında korrozyona neden olur"
+    ],
+    "correctAnswer": "3) Türbin kanatlarında hasar oluşturur"
+  },
+  {
+    "id": 6,
+    "testIndex": 14,
+    "question": "Yardımcı bir kondenserde vakumun yükseltilmesi sırasında, hangi adım gereklidir?",
+    "options": [
+      "1) Hotvel düzeyini oluşturmak için f�dsuyu çekim hattı açılmalıdır",
+      "2) Hotvel yöğuşumları erecekter kondenserinden geçirilerek tekrar kondensere verilmelidir",
+      "3) Boğazlara glend stimi uygulanırken türbin tornagir ile döndürülmelidir",
+      "4) Hava kaçaklarını önlemek için yoğuşum pompasının hava firar valfı kapatılmalıdır",
+      "5) 3 ve 4 uygulanmalıdır"
+    ],
+    "correctAnswer": "2) Hotvel yöğuşumları erecekter kondenserinden geçirilerek tekrar kondensere verilmelidir"
+  },
+  {
+    "id": 7,
+    "testIndex": 14,
+    "question": "Makinenin seyire hazırlanması sırasında ve tornagir makinesi türbinden ayrılmış iken, ana makinenin 3-5 dakikadan fazla hareketsiz tutulmasının ne gibi bir sakıncası vardır?",
+    "options": [
+      "1) Türbin dreyn devresi yoğuşumlarla dolar",
+      "2) Boğaz glend sisteminin düzgün olmayan ısısı nedeniyle rotor çarpılır",
+      "3) Ana makineden buhar geçmediği için ana kondenser vakumu hızlı bir şekilde düşer",
+      "4) Rotor hareksiz olduğundan azalan yağlama yağı akımı nedeniyle jurnal yatakları aşıyrı ısınır",
+      "5) Türbin rotorunda önemli miktarda korrozyon oluşur"
+    ],
+    "correctAnswer": "2) Boğaz glend sisteminin düzgün olmayan ısısı nedeniyle rotor çarpılır"
+  },
+  {
+    "id": 8,
+    "testIndex": 14,
+    "question": "Ana makinenin seyire hazırlanması sırasında, makineyi buharla döndürmeden önce yapılması gereken nedir?",
+    "options": [
+      "1) Sintine seviyesini gösteren uyarı lambasının söndüğünden emin olunmalıdır",
+      "2) Devir düşürücü dişlilerin giriş kapağı açılarak yağ püskürtme nozulları incelenmelidir",
+      "3) Yağlama yağı soğutuculardan geçirilmelidir",
+      "4) Tornagir makinesi devreden çıkarılmalı ve uyarı lambasının söndüğünden emin olunmalıdır",
+      "5) 1 ve 2 sağlanmalıdır"
+    ],
+    "correctAnswer": "4) Tornagir makinesi devreden çıkarılmalı ve uyarı lambasının söndüğünden emin olunmalıdır"
+  },
+  {
+    "id": 9,
+    "testIndex": 14,
+    "question": "Seyir sırasında, gravite yağlama sisteminin kontrol penceresinde yağ akımı görülmediği taktirde bunun sebebi nedir?",
+    "options": [
+      "1) Yataklara ve devir düşürücü dişlilere yağ akmamaktadır",
+      "2) Gravite tanklarına yağlama yağı gelmemektedir",
+      "3) Tüm yağlama yağı pompaları arızalanmıştır",
+      "4) Gravite tankları boştur",
+      "5) Yukardakilerin tümü gerçekleşmiştir"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümü gerçekleşmiştir"
+  },
+  {
+    "id": 10,
+    "testIndex": 14,
+    "question": "Ana türbin ünitesinin kondenserinde vakumu kırmak için ilk adım ne olmalıdır?",
+    "options": [
+      "1) Glendi sisteminin buharı kesilmelidir",
+      "2) Ana hava ecekterinin buharı kesilmelidir",
+      "3) Ana dolaşım pompası stop edilmelidir",
+      "4) Ana yoğuşum pompası stop edilmelidir",
+      "5) Ana erecektere yaş buhar verilmelidir"
+    ],
+    "correctAnswer": "2) Ana hava ecekterinin buharı kesilmelidir"
+  },
+  {
+    "id": 11,
+    "testIndex": 14,
+    "question": "Uygun bir şekilde ısıtılmayan türbinde, çalışma sırasında sonuç ne olacaktır?",
+    "options": [
+      "1) Rotorun çarpılması",
+      "2) Kanatların aşınması",
+      "3) Türbin keysinde düzgün olmayan ısınma",
+      "4) Titreşim oluşumu",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümü"
+  },
+  {
+    "id": 12,
+    "testIndex": 14,
+    "question": "Ana makinesi buhar türbini olan bir gemi, seyir sırasında çok soğuk olan bir denize girdiği ve dolaşım pompası tam yolla çalışarak kondensere deniz suyu sağladığına göre sonuç ne olacaktır?",
+    "options": [
+      "1) Çok iyi bir vakum ve fevkalade bir tesis verimi sağlanacaktır",
+      "2) Yoğuşum oluşumu hızlandığı için fevkalade tesis verimi temin edilecektir",
+      "3) Ana kondenserin yükselen vakumu nedeniyle erecekterlerin ektisi artacaktır",
+      "4) Kondensere sızan hava kaçaklarını çıkarmak için hava ecektörlerinin yetenekleri zayıflayacak ve tesisin verimi düşecektir",
+      "5) 1 ve 2 oluşacaktır"
+    ],
+    "correctAnswer": "4) Kondensere sızan hava kaçaklarını çıkarmak için hava ecektörlerinin yetenekleri zayıflayacak ve tesisin verimi düşecektir"
+  },
+  {
+    "id": 13,
+    "testIndex": 14,
+    "question": "Sefer dönüşü ana türbin kapatılır kapatılmaz, torna gir makinesinin derhal bağlanmasının sebebi nedir?",
+    "options": [
+      "1) Devir düşürme donanımının hızlı bir şekilde soğumasına izin vermek içindir",
+      "2) Türbin rotorlarının düzgün olmayan bir şekilde soğutulmasına engel olmaktır",
+      "3) Ana makineye sabit yağlama yağı akımı sağlamaktır",
+      "4) Şaft kovanı yatağının aşırı ısınmasına engel olmaktır",
+      "5) Rotoşaft yataklarının korrozyonuna engel olmaktır"
+    ],
+    "correctAnswer": "2) Türbin rotorlarının düzgün olmayan bir şekilde soğutulmasına engel olmaktır"
+  },
+  {
+    "id": 14,
+    "testIndex": 14,
+    "question": "Ana türbine tornagir makinesi bağlanıp çalıştırılmadan önce daima yapılması gereken nedir?",
+    "options": [
+      "1) Boğazlara glend stimi açılması",
+      "2) Deniz suyu dolaşım pompasının çalıştırılması",
+      "3) Yoğuşum pompası ve yoğuşum sisteminin çalıştırılması",
+      "4) Yağlama yağı pompası ve yağlama sistreminin çalıştırılması",
+      "5) Erecekterin birinci kademesinin çalıştırılması"
+    ],
+    "correctAnswer": "4) Yağlama yağı pompası ve yağlama sistreminin çalıştırılması"
+  },
+  {
+    "id": 15,
+    "testIndex": 14,
+    "question": "Gemi ana türbininde uzun süren tornistan operasyonu, aşağıdakilerden hangisine neden olur?",
+    "options": [
+      "1) Türbin boğaz glendlerinin aşırı ısınmasına",
+      "2) İleri türbin kademelerinin aşırı ısınmasına",
+      "3) Erecekterlerin görevlerini iyi yapamamalarına",
+      "4) Yoğuşum pompasında emmenin kaybolmasına",
+      "5) Yukardakilerin tümüne"
+    ],
+    "correctAnswer": "2) İleri türbin kademelerinin aşırı ısınmasına"
+  },
+  {
+    "id": 16,
+    "testIndex": 14,
+    "question": "Yağlama yağı filtresinde yabancı madde bulunduğu zaman yapılması gereken nedir?",
+    "options": [
+      "1) Makine stop edilerek tüm filtreler incelenir",
+      "2) Yabancı maddeler incelenir ve kaynağı saptanır",
+      "3) Filtreler yağlama yağı çamur tankına şoklanır",
+      "4) Filtrelerin elemanları temizlenir",
+      "5) Yuradakilerin tümü sağlanır"
+    ],
+    "correctAnswer": "2) Yabancı maddeler incelenir ve kaynağı saptanır"
+  },
+  {
+    "id": 17,
+    "testIndex": 14,
+    "question": "Belirli bir devirle çalışmakta olan bir dizei jeneratörde aşırı titreşimin sebebi nedir?",
+    "options": [
+      "1) Elektriksel aşırı yük",
+      "2) Gavörnör devir sayısında azalıp çoğalma",
+      "3) Makineyi döşeğe bağlayan civataların gevşemesi",
+      "4) Silindire sızan soğutma suyu",
+      "5) Kartere sızan yağ"
+    ],
+    "correctAnswer": "3) Makineyi döşeğe bağlayan civataların gevşemesi"
+  },
+  {
+    "id": 18,
+    "testIndex": 14,
+    "question": "Bir ana türbin makineyi seyire hazırlama sırasında aşağıdakilerden hangisi doğru bir adım olarak kabul edilmelidir?",
+    "options": [
+      "1) Dolaşım ve yoğuşum pompalan çalıştırılır, yağlama yağı sistemi denetlenir ve çalıştırılır, tornagir devreye almır, ardından erecekterin ilk ve ikinci kademeleri ve boğaz sızdırmazlık sistemi çalıştırılır",
+      "2) Dolaşım ve yoğuşum pompaları çalıştırılır, yağlama yağı sistemi denetlenir ve çalıştırılır, erecekterler ve glend siil sistemi çalıştırılır, sonra tornagis makinesi devreye alınır",
+      "3) Yağlama yağı sistemi denetlenerek devreye almır, tornagir makinesi devreye alınır, dolaşım ve yoğuşum pompalan çalıştırılır, glend sızdırmazlık sistemi ve hava ecekterinin ikinci kademesi devreye alınır",
+      "4) Yağlama yağı sistemi denetlenerek devreye alınır, erecekterin ikinci kademesi ve glend sızdırmazlık sistemi çalıştırılır, yoğuşum ve dolaşım pompaları çalıştırılır",
+      "5) 1 ve 2 sağlanır"
+    ],
+    "correctAnswer": "3) Yağlama yağı sistemi denetlenerek devreye almır, tornagir makinesi devreye alınır, dolaşım ve yoğuşum pompalan çalıştırılır, glend sızdırmazlık sistemi ve hava ecekterinin ikinci kademesi devreye alınır"
+  },
+  {
+    "id": 19,
+    "testIndex": 14,
+    "question": "Vardiya sırasında yüksek basınç türbininin baş tarafındaki boğaz glendinden aşırı miktarda sitim geldiğini görürseniz, bunun anlamı nedir?",
+    "options": [
+      "1) Türbin alçak devirde çalışmaktadır",
+      "2) Glend sızdırmazhk hattı tıkanmıştır",
+      "3) Ana kondenserin vakumu çok yüksektir",
+      "4) Dreynler açık bırakılmıştır",
+      "5) Yukardakilerin herhangi biridir"
+    ],
+    "correctAnswer": "2) Glend sızdırmazhk hattı tıkanmıştır"
+  },
+  {
+    "id": 20,
+    "testIndex": 14,
+    "question": "Ana türbin ünitesinde vakumu yükseltiyorken, aşağıdakilerden hangisi yapılmalıdır?",
+    "options": [
+      "1) Erecekterin ilk kademesi işletileceği zaman yağlama yağı pompası çalıştırılır",
+      "2) Ana stim devresi ısıtılır ve dreyn edilir",
+      "3) Ana kondenser hotveli kurutulur",
+      "4) Türbin glendlerine boğaz sızdırmazlık buharı açılır",
+      "5) Tornagir makinesi devreden çıkarılır"
+    ],
+    "correctAnswer": "4) Türbin glendlerine boğaz sızdırmazlık buharı açılır"
+  }
+]

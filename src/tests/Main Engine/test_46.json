@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "testIndex": 45,
+    "question": "Soğutma suyunun makine kuler pompa ve tekrar makine arasında dolaştırıldığı devrelere ne ad verilir?",
+    "options": [
+      "1) Açık soğutma devresi",
+      "2) Kapalı soğutma devresi",
+      "3) Yarı kapalı soğutma devresi",
+      "4) Mekanik çekimli soğutma devresi",
+      "5) Hava ile soğutma devresi"
+    ],
+    "correctAnswer": "2) Kapalı soğutma devresi"
+  },
+  {
+    "id": 2,
+    "testIndex": 45,
+    "question": "Suyun denizden alınıp makine silindir ceketi ve kaverinde dolaşıktan sonra denize atıldığı devrelere ne ad verilir?",
+    "options": [
+      "1) Kapalı soğutma devresi",
+      "2) Mekanik çekimli soğutma devresi",
+      "3) Açık soğutma devresi",
+      "4) Yarı kapalı soğutma devresi",
+      "5) Hava ile soğutma devresi"
+    ],
+    "correctAnswer": "3) Açık soğutma devresi"
+  },
+  {
+    "id": 3,
+    "testIndex": 45,
+    "question": "Çalışmakta olan bir dizel makinesinin beyaz renkli bir duman oluşturmasının nedenlerinden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Silindirlere fazla yakıt verilmesi",
+      "2) Silindirlerde yağ yakılması",
+      "3) Silindirlere su girmesi",
+      "4) Yağ segmanlarının yuvalarına ters takılmaları",
+      "5) Kompresyon basıncının düşük olması"
+    ],
+    "correctAnswer": "3) Silindirlere su girmesi"
+  },
+  {
+    "id": 4,
+    "testIndex": 45,
+    "question": "Karterdeki yağın seviyesi yağ çubuğunun neresinde olmalıdır?",
+    "options": [
+      "1) Minimum çizgisinde",
+      "2) Maksimum çizgisinde",
+      "3) Minimum çizgisinin altında",
+      "4) Minimum çizgisinin biraz üzerinde",
+      "5) Maksimum çizgisinin üzerinde"
+    ],
+    "correctAnswer": "2) Maksimum çizgisinde"
+  },
+  {
+    "id": 5,
+    "testIndex": 45,
+    "question": "İki zamanlı dizel makinelerine uygulanan süpürme havasının maksimum basıncı ne kadardır?",
+    "options": [
+      "1) 1,15 bar",
+      "2) 1,30 bar",
+      "3) 1,40 bar",
+      "4) 1,55 bar",
+      "5) 1,65 bar"
+    ],
+    "correctAnswer": "4) 1,55 bar"
+  },
+  {
+    "id": 6,
+    "testIndex": 45,
+    "question": "Gemi dizel motorlarında uygulanan omurga sistemi nasıl bir soğutma sistemidir?",
+    "options": [
+      "1) Açık sistem",
+      "2) Kapalı soğutma devresi",
+      "3) Yarı kapalı soğutma devresi",
+      "4) Mekanik çekimli soğutma devresi",
+      "5) Hava ile basınçlı sistem"
+    ],
+    "correctAnswer": "2) Kapalı soğutma devresi"
+  },
+  {
+    "id": 7,
+    "testIndex": 45,
+    "question": "Hangi renk kodu yağ devresini göstermektedir?",
+    "options": [
+      "1) Sarı",
+      "2) Kırmızı",
+      "3) Mavi",
+      "4) Yeşil",
+      "5) Siyah"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 8,
+    "testIndex": 45,
+    "question": "Yakıtın silindirlere hidrolik basınç ile püskürtülmesine ne ad verilir?",
+    "options": [
+      "1) Hava ile püskürtme",
+      "2) Mekanik püskürtme",
+      "3) Hidrolik püskürtme",
+      "4) Sabit basınçlı püskürtme",
+      "5) Dinamik püskürtme"
+    ],
+    "correctAnswer": "3) Hidrolik püskürtme"
+  },
+  {
+    "id": 9,
+    "testIndex": 45,
+    "question": "Dizel makinelerinin tornistanları için aşağıdakilerden hangisi kullanılmaz?",
+    "options": [
+      "1) Kaymalı kemşaft",
+      "2) Şanzıman donanımı",
+      "3) Ka-Me-Va sistemi",
+      "4) Pervane piç kontrolü",
+      "5) Yardımcı benzin motoru"
+    ],
+    "correctAnswer": "5) Yardımcı benzin motoru"
+  },
+  {
+    "id": 10,
+    "testIndex": 45,
+    "question": "Yüksek güçlü ağır devirli dizel makinelerinin yağlanmayan kısmı aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Silindirler",
+      "2) Palamar yatakları",
+      "3) Gayıtlar",
+      "4) Kem şaft yatakları",
+      "5) Enjektörler"
+    ],
+    "correctAnswer": "5) Enjektörler"
+  }
+]

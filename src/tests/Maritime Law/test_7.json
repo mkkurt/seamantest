@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 6,
+    "question": "Gemilerden kaynaklanan kirliliğin önlenmesi uluslararası sözleşmesi (MARPOL 73/78)’nin EK-IV’n ünde belirtilen gemilerden çıkan pis sularla (tuvalet, revir, hastane ve canlı hayvan) ilgili denizlerin kirlenmesini önleyici kurallar gereği;",
+    "options": [
+      "1) 4 deniz miline kadar pis sular (atık su), parçalanmış ve dezenfekte edilmiş olarak atılabilir",
+      "2) 4-12 deniz miline kadar pis sular (atık su), parçalanmış ve dezenfekte edilmiş olarak ve geminin hızı 6 knots’ndan az olmamak koşulu ile atılabilir.",
+      "3) 4 deniz miline kadar pis sular (atık sular), arıtılmadan denize deşarj edilebilir.",
+      "4) 12 milden sonra pis sular (atık sular), geminin hızı 6 knots’ndan daha az olmamak koşulu ile dezenfekte edilmeden veya parçalanmadan atılabilir.",
+      "5) 12 milden sonra pis sular (atık sular), geminin hızı 8 knots'dan daha az olmamak koşulu ile dezenfekte edilmeden veya parçalanmadan atılabilir."
+    ],
+    "correctAnswer": "2) 4-12 deniz miline kadar pis sular (atık su), parçalanmış ve dezenfekte edilmiş olarak ve geminin hızı 6 knots’ndan az olmamak koşulu ile atılabilir."
+  },
+  {
+    "id": 2,
+    "testIndex": 6,
+    "question": "Aşağıdakilerden hangisi kirlenme durumunda aykırı bir kaptan talimatı olmadıkça kesilmesi gereken işlerden olamaz?",
+    "options": [
+      "1) Yük operasyonu",
+      "2) Gemiye insan giriş çıkışı",
+      "3) Gemi müstehlik malzemesi ve yüklenmesi",
+      "4) Gemi bakım ve tamir çalışmaları",
+      "5) Balast operasyonu"
+    ],
+    "correctAnswer": "2) Gemiye insan giriş çıkışı"
+  },
+  {
+    "id": 3,
+    "testIndex": 6,
+    "question": "Hangisi (ISM Code)’nun tanımıdır?",
+    "options": [
+      "1) Gemilerin güvenli işletilmesi ve çevre kirliliğinin önlenmesine ilişkin uluslararası kurallardır",
+      "2) Petrol taşımacılığını düzenleyen uluslararası kurallardır",
+      "3) Kara, deniz ve hava taşımacılığı kurallarıdır",
+      "4) Gemilerde kullanılan güvenlik malzeme ve ekipmanının standartlarını belirleyen bir kod’ndur",
+      "5) Uluslararası işletmecilik yapan şirketlerin güvenlik kodudur"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 4,
+    "testIndex": 6,
+    "question": "Fazla çalışma yapılacak günlerin toplam bir yılda en çok kaç gün olmalıdır?",
+    "options": [
+      "1) 90 gün",
+      "2) 50 gün",
+      "3) 90 işgünü",
+      "4) 50 işgünü",
+      "5) 60 işgünü"
+    ],
+    "correctAnswer": "3) 90 işgünü"
+  },
+  {
+    "id": 5,
+    "testIndex": 6,
+    "question": "Aşağıdakilerden hangisi genel olarak SOLAS 74 Konvansiyonunun uygulanmayacağı gemidir?",
+    "options": [
+      "1) Yolcu gemileri",
+      "2) Kuru yük gemileri",
+      "3) Tankerler",
+      "4) Yüksek Süratli Gemiler (HSC)",
+      "5) Savaş Gemileri"
+    ],
+    "correctAnswer": "5) Savaş Gemileri"
+  },
+  {
+    "id": 6,
+    "testIndex": 6,
+    "question": "Gemilerden kaynaklanan kirliliğin önlenmesi uluslararası sözleşmesi (MARPOL 73/78)’nin EK-V’n de belirtilen gemilerden atılan çöpler ile ilgili kurallar kapsamında denize atılması kesinlikle yasak olan madde aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Gıda atıkları",
+      "2) Yüzebilecek olan istif gereçleri",
+      "3) Ambalaj malzemeleri",
+      "4) Sentetik halatlar",
+      "5) Madeni şişeler"
+    ],
+    "correctAnswer": "4) Sentetik halatlar"
+  },
+  {
+    "id": 7,
+    "testIndex": 6,
+    "question": "Gemide görevinize başladığınızda, kendi işinizi her ne kadar iyi yaparsanız yapın, ast ve üstlerinizle saygı ve sevgiye dayalı iyi ve uygar ilişkiler içinde olmak için çaba göstermenize rağmen, bazen insanlar arasındaki iletişim zorlukları veya engelleri, hayatı ve çalışma ortamını, bizim için zor ve sıkıcı hale getirebilir. İyi insan ilişkileri çok basit formüllerle kolayca açıklanmasa da, aşağıdakilerden hangisi, başkalarını daha iyi anlamamıza ve kendimizi iyi anlatmamıza yardımcı olur?",
+    "options": [
+      "1) Onlar hakkında başkalarından bilgi toplamak, kendimizi kurnazca ve açık vermeden ifade etmek.",
+      "2) Onları dinlemek ve kendimizi onların yerine koyarak düşünmek, böylelikle onları daha iyi anlamaya çalışmak. Kendimizi açık ve anlaşılır şekilde ifade etmek",
+      "3) Onlarla mümkün olduğunca mesafe koyarak sorunlardan uzak durmak. Gerekirse kendimizi yazılı olarak ifade etmek",
+      "4) Onlarla çok samimi olarak kendimizi sevdirmek. Sohbet ortamında kendimizi şakalaşarak ve eğlenceli bir şekilde ifade etmek",
+      "5) Ne yaparsak yapalım, kimseye fazla güvenilmeyeceğini peşinen kabul ederek, onların anlattıklarına inanmayıp zamana bırakmak. Kendimizi onların güvenini kazanacak şekilde göstermek için onların hoşuna gidecek şekilde anlatmak"
+    ],
+    "correctAnswer": "2) Onları dinlemek ve kendimizi onların yerine koyarak düşünmek, böylelikle onları daha iyi anlamaya çalışmak. Kendimizi açık ve anlaşılır şekilde ifade etmek"
+  },
+  {
+    "id": 8,
+    "testIndex": 6,
+    "question": "SOLAS 74 Konvansiyonu içeriği aşağıdakilerden hangisi için azami (en çok) gerekliliktir?",
+    "options": [
+      "1) Kıyı Devleti",
+      "2) Bayrak Devleti",
+      "3) Liman Devleti",
+      "4) Uluslararası Kurumlar",
+      "5) Uluslararası Denizcilik Kuruluşları"
+    ],
+    "correctAnswer": "3) Liman Devleti"
+  },
+  {
+    "id": 9,
+    "testIndex": 6,
+    "question": "Şirket, Güvenlik Yönetimi Sistemi’nne, ......................ilişkin kararların alınmasında kaptanın en üst düzey yetkiye sahip olduğunu ve bu yetkisini, şirketten kararının uygulanması için yardım ve destek istemekte de kullanılabileceği konusunu dahil etmelidir. Noktalı yerlere uygun olanı bulun.",
+    "options": [
+      "1) Kumanya ve malzeme alımına",
+      "2) Güvenlik ve çevre korumaya",
+      "3) Tamir ve bakım-tutuma",
+      "4) Personel alımına",
+      "5) İşlerin planlanmasına"
+    ],
+    "correctAnswer": "2) Güvenlik ve çevre korumaya"
+  },
+  {
+    "id": 10,
+    "testIndex": 6,
+    "question": "Gemilerden kaynaklanan kirliliğin önlenmesi uluslararası sözleşmesi (MARPOL 73/78)’nin EK-V’n inde belirtilen gemilerden atılan çöpler (gıda atıkları, kağıtlar, tabak kırıkları vb.), parçalayıcı ve öğütücüden geçmek koşulu ile 12 mil içinde 3 milden daha az olmamak koşulu ile, ............ mm. den daha geniş olmayan süzgeçten geçebilecek kadar parçalandıktan sonra denize atılabilir?",
+    "options": [
+      "1) 15",
+      "2) 20",
+      "3) 25",
+      "4) 30",
+      "5) 35"
+    ],
+    "correctAnswer": "3) 25"
+  },
+  {
+    "id": 11,
+    "testIndex": 6,
+    "question": "Aşağıdakilerin hangisi, TTK.md.973’ne göre, kaptanın sorumlu olduğu kişileri gösterir?",
+    "options": [
+      "1) Kaptan donatandan başka, taşıtana, yükletene, gönderilene, yolcuya, gemiadamlarına, alacağı 988 md. giren bir kredi alacaklısına, özellikle deniz ödüncü verene karşı da sorumludur.",
+      "2) Kaptan donatana, taşıyana, taşıtana, yükletene, gönderilene, gemiadamlarına, deniz ödüncü ve gemi alacaklılarına, sorumludur.",
+      "3) Kaptan donatana, taşıyana, taşıtana, yükletene, gönderilene, gemiadamlarına, Kurtarma ve Yardım alacaklısı ile Müşterek Avarya alacaklılarına karşı sorumludur.",
+      "4) Kaptan donatana, donatma iştirakinde müşterek donatanlara, taşıyana, taşıtana, yükletene, gönderilene, çarterer’ne gemiadamlarına, Kurtarma ve Yardım alacaklısı ile Müşterek Avarya alacaklılarına karşı sorumludur.",
+      "5) Kaptan donatana, donatma iştirakinde müşterek donatanlara, taşıyana, taşıtana, Kurtarma ve Yardım ile Müşterek Avarya alacaklıları, Liman ve Gümrük yetkilileri ile Güvenlik güçlerine karşı sorumludur."
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 12,
+    "testIndex": 6,
+    "question": "Aşağıdakilerden hangisi kaptanın ISM Koduna göre sorumluluklarından değildir?",
+    "options": [
+      "1) Şirketin Güvenlik ve Çevre Koruma Politikasının uygulanması",
+      "2) Şirketin Güvenlik ve Çevre Koruma Politikasının çerçevesinde personelin teşvik edilmesi",
+      "3) Emir ve talimatların İngilizce verilmesi",
+      "4) Belirlenmiş özel kurallara uyulduğunun gözlenmesi",
+      "5) Güvenlik Yönetimi Sisteminin gözden geçirilerek yetersizliklerin ofis yönetimine bildirilmesi"
+    ],
+    "correctAnswer": "3) Emir ve talimatların İngilizce verilmesi"
+  },
+  {
+    "id": 13,
+    "testIndex": 6,
+    "question": "Gemi adamları hizmet mukavelesinde aşağıdakilerden hangisi zorunlu değildir?",
+    "options": [
+      "1) Yazılı olması",
+      "2) İşverenin adının yer alması",
+      "3) Gemi adamının adının yer alması",
+      "4) Sözleşmenin yapıldığı yer ve tarih",
+      "5) Kefilin adı ve adresi"
+    ],
+    "correctAnswer": "5) Kefilin adı ve adresi"
+  },
+  {
+    "id": 14,
+    "testIndex": 6,
+    "question": "Özel alanlarda MARPOL 73/78 EK-V kapsamındaki çöplerden istif tahtaları kaç mil açıkta denize atılabilir?",
+    "options": [
+      "1) 10 mil",
+      "2) 12 mil",
+      "3) 15 mil",
+      "4) 25 mil",
+      "5) Atılamaz"
+    ],
+    "correctAnswer": "5) Atılamaz"
+  },
+  {
+    "id": 15,
+    "testIndex": 6,
+    "question": "Bir işlemin kirlenmeye sebep olmasını engelleyecek en önemli faktör aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Böyle bir işlem için hazırlanmış kontrol listesi",
+      "2) Çalıştırma el kitabı",
+      "3) Yeterli sayıda yardımcı personel",
+      "4) İşlemin yetenekli bir zabitin gözetiminde yapılması",
+      "5) Tayfanın işlem ile ilgili tecrübesi"
+    ],
+    "correctAnswer": "4) İşlemin yetenekli bir zabitin gözetiminde yapılması"
+  },
+  {
+    "id": 16,
+    "testIndex": 6,
+    "question": "Aşağıdakilerden hangisi ya da hangileri, denizde meydana gelebilecek acil durumlara karşı, doğrudan can kurtarma amacına uygun biçimde tedbirli ve hazırlıklı olmayı sağlayıcı düzenlemeler içerir?(I) SAR(II) OILPOL(III) MARPOL(IV) CLC(V) TONNAGE(VI) SOLAS",
+    "options": [
+      "1) I, V",
+      "2) II, VI",
+      "3) III, IV",
+      "4) IV, V, VI",
+      "5) I, VI"
+    ],
+    "correctAnswer": "5) I, VI"
+  },
+  {
+    "id": 17,
+    "testIndex": 6,
+    "question": "Petrol kirliliğine karşı hazırlıklı olmak, mücadele ve iş birlikteliği sağlamak amacıyla yapılan uluslararası denizcilik sözleşmesinin, uluslararası kısa adı, aşağıdakilerden hangisidir?",
+    "options": [
+      "1) MARPOL",
+      "2) IOPP",
+      "3) OPRC",
+      "4) OILPOL",
+      "5) FUND"
+    ],
+    "correctAnswer": "3) OPRC"
+  },
+  {
+    "id": 18,
+    "testIndex": 6,
+    "question": "Plastik atıklarla ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "1) Plastik atıklar Özel Bölgeler içinde atılmalıdır",
+      "2) Plastik atıklar gemilerde az olduğundan uygun bir yerde atılabilir",
+      "3) Prensip olarak gemide insinetörde yakılır",
+      "4) Köpük stiren plastik atık olarak kabul edilmez",
+      "5) Plastik atıklar mutfak atıkları içinde yer alır"
+    ],
+    "correctAnswer": "3) Prensip olarak gemide insinetörde yakılır"
+  },
+  {
+    "id": 19,
+    "testIndex": 6,
+    "question": "Aşağıdakilerden hangisi Deniz Kirliliği konusunda alınacak tedbirlerden değildir?",
+    "options": [
+      "1) MARPOL kurallarının zabirlerce iyi bilinmesi",
+      "2) SOPEP kurallarının öngördüğü malzemelerin gemide bulundurulması",
+      "3) Genel ve özel liman kurallarının zabitlerce iyi bilinmesi",
+      "4) Gemi ve rıhtımın haberleşmesinin sorumlu kişilerce yapılması",
+      "5) Yangın ve diğer acil durumlara karşı tedbirlerin alınmış olması"
+    ],
+    "correctAnswer": "3) Genel ve özel liman kurallarının zabitlerce iyi bilinmesi"
+  },
+  {
+    "id": 20,
+    "testIndex": 6,
+    "question": "Aşağıdakilerden hangisi Güvenlik Yönetimi Sisteminin getirilerinden değildir?",
+    "options": [
+      "1) GYS uygulamaları sayesinde personelin güvenlik bilinci ve güvenliği hızla gelişir",
+      "2) Şirkette oluşan güvenlik ve çevre koruma kültürü, sürekli gelişimi teşvik eder",
+      "3) Müşterilerde güven duygusu artar, şirket içi moral yükselir",
+      "4) Daha fazla personel istihdam edilir",
+      "5) Ayrıca, zaman içinde, sistemin tam anlamıyla yerleşmesinden sonra, gelişen etkinlik, sürat ve verimlilik (gemi operasyonlarının zamanında ve tam yapılması ile önlenen zaman ve malzeme kayıpları�.), sigorta primlerinde sağlanacak indirimler, büyük felaket risklerini minimize etmiş olmanın kazandıracakları sistemim kazancı olarak ortaya çıkar"
+    ],
+    "correctAnswer": "4) Daha fazla personel istihdam edilir"
+  }
+]

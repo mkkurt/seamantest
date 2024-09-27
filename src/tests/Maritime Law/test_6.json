@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 5,
+    "question": "Gemilerden kaynaklanan kirliliğin önlenmesi uluslararası sözleşmesi (MARPOL 73/78)’nin EK-I’ni, hangi maddelerle denizlerin kirletilmesinin önlenmesine ilişkin alınacak tedbirleri kapsar?",
+    "options": [
+      "1) Petrol ile deniz kirlenmesini önleyici kurallar",
+      "2) Dökme zehirli sıvı maddelerle deniz kirlenmesini önleyici kurallar",
+      "3) Ambalajlı bir şekilde veya konteynerlerde, portatif tanklarda veya kara ve demiryolu tank vagonlarında deniz yolu ile taşınan zararlı maddelerle deniz kirlenmesini önleyici kurallar.",
+      "4) Gemilerden çıkan pis sularla (tuvalet, revir, hastane ve canlı hayvan) deniz kirlenmesini önleyici kurallar.",
+      "5) Gemilerden atılan çöpler ile deniz kirlenmesini önleyici kurallar"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 2,
+    "testIndex": 5,
+    "question": "Gemilerden kaynaklanan kirliliğin önlenmesi uluslararası sözleşmesi (MARPOL 73/78)’nin EK-II’n sinde belirtilen kurallar hangi tip gemilere uygulanır?",
+    "options": [
+      "1) Tanklarında bir veya daha fazla zehirli sıvı taşıyan tüm gemilere (özellikle kimyasal tankerlere) uygulanır.  Tonaj sınırı yoktur.",
+      "2) 150 GRT’n dan büyük ve tanklarında bir veya daha fazla zehirli sıvı taşıyan tüm gemilere (özellikle kimyasal tankerlere) uygulanır.",
+      "3) 250 GRT’n dan büyük ve tanklarında bir veya daha fazla zehirli sıvı taşıyan tüm gemilere (özellikle kimyasal tankerlere) uygulanır.",
+      "4) 350 GRT’n dan büyük ve tanklarında bir veya daha fazla zehirli sıvı taşıyan tüm gemilere (özellikle kimyasal tankerlere) uygulanır.",
+      "5) 400 GRT’n dan büyük ve tanklarında bir veya daha fazla zehirli sıvı taşıyan tüm gemilere (özellikle kimyasal tankerlere) uygulanır."
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 3,
+    "testIndex": 5,
+    "question": "Aşağıdakilerden hangisi gemi adamlarının eğitimi ve vardiya tutma standartları ile ilgili uluslararası kuralları içerir?",
+    "options": [
+      "1) MARPOL 73/78",
+      "2) SOLAS 74",
+      "3) LOADLINE 66",
+      "4) TONNAGE 69",
+      "5) STCW 78"
+    ],
+    "correctAnswer": "5) STCW 78"
+  },
+  {
+    "id": 4,
+    "testIndex": 5,
+    "question": "Gemide, seyir veya liman vardiyasında, vardiyacı personelin vardiya yerini terk edebilmesi için en önemli şart nedir?",
+    "options": [
+      "1) Vardiya süresini tamamlamak",
+      "2) Vardiyayı uygun durumdaki bir sonraki vardiyacıya, vardiya yerinde teslim etmek",
+      "3) Vardiya sırasında doğabilecek bir ihtiyaç",
+      "4) Vardiya listesinden kendinden sonra bir vardiyacının geleceğini öğrenmek",
+      "5) Yemek veya çay molası vermek"
+    ],
+    "correctAnswer": "2) Vardiyayı uygun durumdaki bir sonraki vardiyacıya, vardiya yerinde teslim etmek"
+  },
+  {
+    "id": 5,
+    "testIndex": 5,
+    "question": "Gemide en etkili eğitim aşağıdakilerden hangi yöntemle olur?",
+    "options": [
+      "1) Training Manual, Instruction Manual vs. okumak",
+      "2) Ders anlatma",
+      "3) Video seyretmek",
+      "4) Role talimi yapmak",
+      "5) Afiş, poster, uyarı yazısı vs. kullanmak"
+    ],
+    "correctAnswer": "4) Role talimi yapmak"
+  },
+  {
+    "id": 6,
+    "testIndex": 5,
+    "question": "İngiltere ile Türkiye arasında düzenli seferler yapan ve ana makine gücü 3500 kW olan 7800 GRT' luk bir Türk bandıralı Ro-Ro gemisine donatılacak personelden 3. Kaptan ile 2. Mühendisin sahip olması gereken minimum yeterlik derecesi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Sınırlı Vardiya Zabiti - Vardiya Mühendisi",
+      "2) Uzakyol 1. Zabit - Uzakyol II. Mühendis",
+      "3) Vardiya Zabiti � Uzakyol II. Mühendis",
+      "4) Uzakyol Vardiya Zabiti - Uzakyol II. Mühendis",
+      "5) Uzakyol Vardiya Zabiti - Vardiya Mühendisi"
+    ],
+    "correctAnswer": "4) Uzakyol Vardiya Zabiti - Uzakyol II. Mühendis"
+  },
+  {
+    "id": 7,
+    "testIndex": 5,
+    "question": "Her şirket fonksiyonel gerekleri de içeren bir Güvenlik Yönetimi Sistemi'ni kurmalı, uygulamalı ve sürekliliğini sağlamalıdır. Aşağıdakilerden hangisi bu fonksiyonel gereklerden değildir?",
+    "options": [
+      "1) �°lgili uluslararası ve bayrak devleti kanunlarına uygun olarak, gemilerin güvenli işletilmesi ve çevre korumayla ilgili talimatlar ve prosedürler",
+      "2) Geminin kara personelinin yardımı olmaksızın her sorunu çözebilmesi için belirlenmiş yetki seviyeleri",
+      "3) Kod’nun öngördüğü, uygunsuzluklar ve kazaların bildirimine ilişkin prosedürler",
+      "4) Acil durumlara hazırlanmak ve gerektiğinde müdahale etmek için hazırlanmış prosedürler",
+      "5) Kuruluş içi denetimler ve yönetimin gözden geçirilmesi için hazırlanmış prosedürler"
+    ],
+    "correctAnswer": "2) Geminin kara personelinin yardımı olmaksızın her sorunu çözebilmesi için belirlenmiş yetki seviyeleri"
+  },
+  {
+    "id": 8,
+    "testIndex": 5,
+    "question": "STCW Kodu kapsamında rehber niteliğinde olan kısım hangisidir?",
+    "options": [
+      "1) Kısım A",
+      "2) Kısım B",
+      "3) Kısım C",
+      "4) Kısım D",
+      "5) Kısım E"
+    ],
+    "correctAnswer": "2) Kısım B"
+  },
+  {
+    "id": 9,
+    "testIndex": 5,
+    "question": "500 rusum tonilatodan büyük gemilerin “Yola Elverişlilik” denetini yapmaya, aşağıdaki kuruluşların hangisi yetkilidir?",
+    "options": [
+      "1) Liman Başkanlıkları",
+      "2) Bölge Müdürlükleri Sörvey kurulları",
+      "3) Marmara Bölge Müdürlüğü sörvey kurulu",
+      "4) Yüksek okul mezunu liman başkanlıkları",
+      "5) Devlet Denetleme Kurulu"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 10,
+    "testIndex": 5,
+    "question": "Gemilerden kaynaklanan kirliliğin önlenmesi uluslararası sözleşmesi (MARPOL 73/78)’nin EK-IV’n ü, hangi maddelerle denizlerin kirletilmesinin önlenmesine ilişkin alınacak tedbirleri kapsar?",
+    "options": [
+      "1) Petrol ile deniz kirlenmesini önleyici kurallar",
+      "2) Dökme zehirli sıvı maddelerle deniz kirlenmesini önleyici kurallar",
+      "3) Ambalajlı bir şekilde veya konteynerlerde, portatif tanklarda veya kara ve demiryolu tank vagonlarında deniz yolu ile taşınan zararlı maddelerle deniz kirlenmesini önleyici kurallar.",
+      "4) Gemilerden çıkan pis sularla (tuvalet, revir, hastane ve canlı hayvan) deniz kirlenmesini önleyici kurallar.",
+      "5) Gemilerden atılan çöpler ile deniz kirlenmesini önleyici kurallar"
+    ],
+    "correctAnswer": "4) Gemilerden çıkan pis sularla (tuvalet, revir, hastane ve canlı hayvan) deniz kirlenmesini önleyici kurallar."
+  },
+  {
+    "id": 11,
+    "testIndex": 5,
+    "question": "ISM kod’nun tanımladığı “İDARE” aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Liman idaresi",
+      "2) Gemi idaresi",
+      "3) Geminin bayrağını taşıdığı ülke hükümetidir.",
+      "4) Şirket",
+      "5) Denizcilikten sorumlu Birleşmiş Milletler komisyonu"
+    ],
+    "correctAnswer": "3) Geminin bayrağını taşıdığı ülke hükümetidir."
+  },
+  {
+    "id": 12,
+    "testIndex": 5,
+    "question": "Aşağıdakilerden hangisi SOLAS’nın bölümü olan zorunlu kodlardan değildir?",
+    "options": [
+      "1) ISM",
+      "2) IBC",
+      "3) IGC",
+      "4) Grain",
+      "5) ILO"
+    ],
+    "correctAnswer": "5) ILO"
+  },
+  {
+    "id": 13,
+    "testIndex": 5,
+    "question": "SOLAS 74 Konvansiyonu içeriği aşağıdakilerden hangisi için asgari (en az) gerekliliktir?",
+    "options": [
+      "1) Kıyı Devleti",
+      "2) Bayrak Devleti",
+      "3) Liman Devleti",
+      "4) Uluslararası Kurumlar",
+      "5) Uluslararası Denizcilik Kuruluşları"
+    ],
+    "correctAnswer": "4) Uluslararası Kurumlar"
+  },
+  {
+    "id": 14,
+    "testIndex": 5,
+    "question": "Denizde acil durum iletişimlerini sağlamak amacıyla kullanılmak üzere geliştirilmiş olan payroteknik (pyrotechnic) malzemelerin sahip olması gereken teknik özelliklere ilişkin asgari standartlar, aşağıdaki uluslararası denizcilik konvansiyonlarından hangisinin kapsamında öncelikli olarak ele alınmıştır?",
+    "options": [
+      "1) International Safety Management",
+      "2) International Search and Rescue",
+      "3) International Safety of Life At Sea",
+      "4) International Collision Regulations",
+      "5) International Maritime Organization"
+    ],
+    "correctAnswer": "3) International Safety of Life At Sea"
+  },
+  {
+    "id": 15,
+    "testIndex": 5,
+    "question": "Gemilerden kaynaklanan kirliliğin önlenmesi uluslararası sözleşmesi (MARPOL 73/78)’nin EK-III’n ü, ambalajlı bir şekilde veya konteynerlerde, portatif tanklarda veya kara ve demiryolu tank vagonlarında deniz yolu ile taşınan zararlı maddelerin listesini ve bu zararlı maddelerle deniz kirlenmesinin önlenmesine ilişkin alınacak tedbirleri kapsamaktadır. EK-III’n de belirtilen zararlı maddeleri yükleme ve boşaltma niyetinde olan gemi kaptanı veya armatörü, yükleme veya boşaltma işlemine başlamadan asgari kaç saat önce bu niyetini ilgili liman yetkilisine bildirmek zorundadır?",
+    "options": [
+      "1) 6",
+      "2) 12",
+      "3) 18",
+      "4) 24",
+      "5) 48"
+    ],
+    "correctAnswer": "4) 24"
+  },
+  {
+    "id": 16,
+    "testIndex": 5,
+    "question": "(I) Her gemi adamı günde en az 10 saat dinlenmelidir(II) Toplam dinlenme süresi haftada 70 saatten az olmamalıdır.(III) Asgari dinlenme süreleri, üst üste 2 günden fazla aşılmamalıdır.(IV) Her gemi adamı günde en az 12 saat dinlenmelidir(V) Toplam dinlenme süresi haftada 84 saatten az olmamalıdır.(VI) Asgari dinlenme süreleri, sadece role talimi gibi sebeplerle haftada en fazla 1 kez aşılabilir.Uluslar arası STCW sözleşmesi gereği, gemi adamlarının vardiya standartlarına yönelik yapılan düzenlemeler ile ilgili olarak, yukarıdaki ifadelerden hangisi ya da hangileri doğrudur?",
+    "options": [
+      "1) I, II, III",
+      "2) IV, V, VI",
+      "3) I, II, VI",
+      "4) III, IV, V",
+      "5) I, II"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 17,
+    "testIndex": 5,
+    "question": "(I) Yükleme hatlarının belirlenmesine yönelik kurallar, (II) Bölgeler, Alanlar ve Mevsimsel Periyodlar, (III) SertifikalaYukarıdakilerden hangisi ya da hangileri Load Line 1966 sözleşmesinin Annex-I isimli ekinde yer alan düzenlemelerle ilgilidir?",
+    "options": [
+      "1) I",
+      "2) II",
+      "3) III",
+      "4) I, II",
+      "5) II, III"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 18,
+    "testIndex": 5,
+    "question": "Aşağıdakilerden hangisi, bir plimsol markası üzerinde bulunan ve dış çapı 300 mm olan çemberin ortasından geçen çizgiyi gösterir? �",
+    "options": [
+      "1) Kış yükleme hattı",
+      "2) Tropik tatlı su yükleme hattı",
+      "3) Kuzey atlantik yükleme hattı",
+      "4) Kereste yükleme hattı",
+      "5) Yaz Yükleme Hattı"
+    ],
+    "correctAnswer": "5) Yaz Yükleme Hattı"
+  },
+  {
+    "id": 19,
+    "testIndex": 5,
+    "question": "CLC 1969 aşağıdakilerden hangisine ait bir uluslararası kısaltmadır?",
+    "options": [
+      "1) Yabancı limanda gemiden kaçan personel için sivil sorumluluğa ilişkin sözleşme",
+      "2) Denizlerin kara tesislerinden kirletilmesine ilişkin hukuki sorumluluklarla ilgili sözleşme",
+      "3) Petrol Kirliliğinin neden olduğu zararların hukuki sorumluluğuna ait sözleşme",
+      "4) Gemilerde can emniyetine ilişkin sözleşme",
+      "5) Denizlerde konteynerların güvenliği ile ilgili sözleşme"
+    ],
+    "correctAnswer": "3) Petrol Kirliliğinin neden olduğu zararların hukuki sorumluluğuna ait sözleşme"
+  },
+  {
+    "id": 20,
+    "testIndex": 5,
+    "question": "STCW Kodu kapsamında zorunlu olan kısım hangisidir?",
+    "options": [
+      "1) Kısım A",
+      "2) Kısım B",
+      "3) Kısım C",
+      "4) Kısım D",
+      "5) Kısım E"
+    ],
+    "correctAnswer": "1"
+  }
+]

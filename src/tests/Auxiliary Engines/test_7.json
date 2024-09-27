@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 6,
+    "question": "Evapratörlerden kısırın giderilmesinde aşağıdaki yöntemlerden hangisi kullanılır?",
+    "options": [
+      "1) Mekanik yöntem",
+      "2) Soğuk su",
+      "3) Kimyasal temizleme",
+      "4) Kaynatma",
+      "5) Elle temizleme"
+    ],
+    "correctAnswer": "3) Kimyasal temizleme"
+  },
+  {
+    "id": 2,
+    "testIndex": 6,
+    "question": "Kazanların büyüklüğü ne ilgilidir?",
+    "options": [
+      "1) Isıtma yüzeyi ile",
+      "2) İşletme basıncı ile",
+      "3) Maksimum basınç ile",
+      "4) Isıtma yüzeyi ile işletme basıncı ile",
+      "5) Hiçbiri"
+    ],
+    "correctAnswer": "4) Isıtma yüzeyi ile işletme basıncı ile"
+  },
+  {
+    "id": 3,
+    "testIndex": 6,
+    "question": "Aşağıdakilerden hangisi görev (hizmet) makinesi değildir?",
+    "options": [
+      "1) Buzluk kompresörü",
+      "2) Sintine separatörü",
+      "3) Lübrikeyter",
+      "4) Yangın pompası",
+      "5) Balast pompası"
+    ],
+    "correctAnswer": "3) Lübrikeyter"
+  },
+  {
+    "id": 4,
+    "testIndex": 6,
+    "question": "Gemi tipi pistonlu hana kompresörleri genel olarak kaç barlık hava sağlarlar?",
+    "options": [
+      "1) 25-40 bar",
+      "2) 15-25 bar",
+      "3) 10-15 bar",
+      "4) 5 - 10 bar",
+      "5) 50-60 bar"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 5,
+    "testIndex": 6,
+    "question": "Yağ-yakıt separatörlerinde dişli kutusundan (karterden) ses geliyorsa aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "1) Yağ eksik ya da hiç yok",
+      "2) Sıcak çalışan yatak veya rulman var",
+      "3) Devir düşük",
+      "4) 1, 2 ve 3",
+      "5) Kapasite çok yüksek"
+    ],
+    "correctAnswer": "4) 1, 2 ve 3"
+  },
+  {
+    "id": 6,
+    "testIndex": 6,
+    "question": "Elektro-hidrolik dümen makinelerinin hidrolik donanımına ne ad verilir?",
+    "options": [
+      "1) Yeke",
+      "2) Telemotor",
+      "3) Servomotor",
+      "4) Hidrofor",
+      "5) Elektromotor"
+    ],
+    "correctAnswer": "2) Telemotor"
+  },
+  {
+    "id": 7,
+    "testIndex": 6,
+    "question": "Aşağıdakilerden hangisi cehennemliğin görevlerinden değildir?",
+    "options": [
+      "1) Yüksek cehennemlik sıcaklığını muhafaza etmek",
+      "2) Kazan keysinin sağlamlılığını arttırmak",
+      "3) Kazanda ısı kaybını minimuma indirmek",
+      "4) Bağlantı yerlerinden kazanın akıtmasının önlenmesi",
+      "5) İç parçaları direkt ışınım ısısı ve alevden korumak"
+    ],
+    "correctAnswer": "2) Kazan keysinin sağlamlılığını arttırmak"
+  },
+  {
+    "id": 8,
+    "testIndex": 6,
+    "question": "Elektrikli dümen makineleri aşağıdaki hangi ilkeye göre çalışırlar?",
+    "options": [
+      "1) Newton'un 1. ilkesi",
+      "2) Celcius ilkesi",
+      "3) Wetson köprüsü ilkesi",
+      "4) Payrometre ilkesi",
+      "5) Sıvıların genişleme ilkesi"
+    ],
+    "correctAnswer": "3) Wetson köprüsü ilkesi"
+  },
+  {
+    "id": 9,
+    "testIndex": 6,
+    "question": "Elektro-hidrolik dümen makinelerinin hidrolik donanımına ne ad verilir?",
+    "options": [
+      "1) Hidrofor",
+      "2) Servomotor",
+      "3) Transmitor",
+      "4) Telemotor",
+      "5) Ka-Me-Wa"
+    ],
+    "correctAnswer": "4) Telemotor"
+  },
+  {
+    "id": 10,
+    "testIndex": 6,
+    "question": "Manyetik stop valfta solenoid akımı kesilirse aşağıdakilerden hangisi meydana gelir?",
+    "options": [
+      "1) Valf diski yukarı kalkar ve akışkana yol verir",
+      "2) Valfın yayının kısaltmasına neden olur",
+      "3) Yay tansiyonu diski yuvasına oturtur ve akış kesilir",
+      "4) Alçak basınç presostatı kompresörü durdurur",
+      "5) Kompresör karterine yağ akımı durur"
+    ],
+    "correctAnswer": "3) Yay tansiyonu diski yuvasına oturtur ve akış kesilir"
+  },
+  {
+    "id": 11,
+    "testIndex": 6,
+    "question": "Can filikalarının denize mayna edilmesi ve vira edilmesinde kullanılan güverte yardımcı aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Baş ırgat",
+      "2) Kıç ırgat",
+      "3) Kreyn",
+      "4) Tov makinesi",
+      "5) Matafora"
+    ],
+    "correctAnswer": "5) Matafora"
+  },
+  {
+    "id": 12,
+    "testIndex": 6,
+    "question": "Kazan besleme suyunun iç ıslahında aşağıdakilerden hangisi besleme suyundan çıkartılır?",
+    "options": [
+      "1) N2",
+      "2) CO2",
+      "3) CO",
+      "4) H2 O2",
+      "5) O2"
+    ],
+    "correctAnswer": "5) O2"
+  },
+  {
+    "id": 13,
+    "testIndex": 6,
+    "question": "Dümen sisteminde ram neye denir?",
+    "options": [
+      "1) Hidrolik gücü sağlayan pompa",
+      "2) Dümen yelpazesi",
+      "3) Dümene hareket veren bir piston ve iki hidrolik silindir",
+      "4) Motor hidrolik pompası",
+      "5) Piston hidrolik silindirleri"
+    ],
+    "correctAnswer": "3) Dümene hareket veren bir piston ve iki hidrolik silindir"
+  },
+  {
+    "id": 14,
+    "testIndex": 6,
+    "question": "Buhar devresi üzerinde onarım yapılırken yapılacak ilk işlem aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Devre üzerindeki valflar kapatılır.",
+      "2) Flenç sökümüne geçilir.",
+      "3) Devrenin izalasyonu sökülür.",
+      "4) Giriş çıkış vanaları kapatılır. \"Dikkat çalışma vardır\" etiketi asılır.",
+      "5) Devre içindeki buhar dreyn edilir."
+    ],
+    "correctAnswer": "4) Giriş çıkış vanaları kapatılır. \"Dikkat çalışma vardır\" etiketi asılır."
+  },
+  {
+    "id": 15,
+    "testIndex": 6,
+    "question": "Devrede olan bir yakıt separatörünün titreşim yapmaya başlaması aşağıdakilerden hangisini işaret eder?",
+    "options": [
+      "1) Separatör aşırı ısınmıştır soğutulmalıdır.",
+      "2) Separatör aşırı soğumuştur ısıtılmalıdır.",
+      "3) Separatör aşırı kirlenmiştir şoklanmalıdır",
+      "4) Separatör aşırı hava yapmıştır, havasızlandınlmalıdır.",
+      "5) Separatör aşırı hızlanmıştır, yavaşlatılmıştır."
+    ],
+    "correctAnswer": "3) Separatör aşırı kirlenmiştir şoklanmalıdır"
+  },
+  {
+    "id": 16,
+    "testIndex": 6,
+    "question": "Çok yollu bir glob valfin gövdesinde en fazla kaç adet giriş flençi olabilir?",
+    "options": [
+      "1) 2 adet",
+      "2) 3 adet",
+      "3) 1 adet",
+      "4) 4 adet",
+      "5) 5 adet"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 17,
+    "testIndex": 6,
+    "question": "Kıvrık saçtan yapılan külhanların düz saçtan yapılan külhanlara göre yararı aşağıdakilerden hangisi değildir?",
+    "options": [
+      "1) Kazanın ısıtma yüzeyinin büyütülmesi",
+      "2) Kazanın ısıtma yüzeyinin küçültülmesi",
+      "3) Kazanın dayanıklılığının arttırılması",
+      "4) Bağlantı yerlerinden Kazanın akıtmasının önlenmesi",
+      "5) Kışır oluşumunun yavaşlatılması"
+    ],
+    "correctAnswer": "2) Kazanın ısıtma yüzeyinin küçültülmesi"
+  },
+  {
+    "id": 18,
+    "testIndex": 6,
+    "question": "Aşağıdakilerden hangisi ile balast atma işlemi yapılmamalıdır?",
+    "options": [
+      "1) Balast tulumbaları ile",
+      "2) Sabit idaktörler ile",
+      "3) Sabit yangın tulumbaları ile",
+      "4) Seyyar yangın tulumbaları ile (hava soğutmalı)",
+      "5) Elektrikli dalgıç tulumbaları ile"
+    ],
+    "correctAnswer": "5) Elektrikli dalgıç tulumbaları ile"
+  },
+  {
+    "id": 19,
+    "testIndex": 6,
+    "question": "Ana kondenser denizden alıcı valfı aşağıdaki tiplerden hangisidir?",
+    "options": [
+      "1) Glob valf",
+      "2) Stop çek valf",
+      "3) Geyt valf",
+      "4) Sentinel valf",
+      "5) Küresel valf"
+    ],
+    "correctAnswer": "3) Geyt valf"
+  },
+  {
+    "id": 20,
+    "testIndex": 6,
+    "question": "Hava sisteminde yağ görülmesinin nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Segman ve silindirlerin aşınması",
+      "2) Hava filtresinin tıkalı olması",
+      "3) Soğutma suyunun ısısının yüksek olması",
+      "4) Kompresör devrinin yüksek olması",
+      "5) Yağlama yağı basıncının düşük olması"
+    ],
+    "correctAnswer": "1"
+  }
+]

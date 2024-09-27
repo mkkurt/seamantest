@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 21,
+    "question": "Klas kuruluşları, dizel makinelerinin yakıt sistemlerindeki su ve yabancı maddeleri nasıl çıkarmak amacıyla makine dairelerine dreyn valfları donatılmasına müsaade ederler. Bu valflar nasıl olmalıdır ?",
+    "options": [
+      "1) Kaçakları önlemek için küresel çek valflı olmalıdır",
+      "2) Bir solenoid ile otomatik olarak kapanmalıdır",
+      "3) Tank tavanına monte edilmelidir",
+      "4) Sülyüz valf olmalıdır",
+      "5) Kaçakları önlemek için kapak veya tapa ile donatılmalıdır"
+    ],
+    "correctAnswer": "5) Kaçakları önlemek için kapak veya tapa ile donatılmalıdır"
+  },
+  {
+    "id": 2,
+    "testIndex": 21,
+    "question": "Yüksek viskoziteli bir yakıtla çalıştırılan ağır devirli bir ana dizel makinesinin, uzunca bir süre stoptan sonra ilk hareketi için ne yapılmalıdır?",
+    "options": [
+      "1) Yakıt ısıtma işlemi görmelidir",
+      "2) Enjektör memesi soğutma suyu ısıtılmalıdır",
+      "3) Makine ön ısıtma işlemleri uygulanmadan çalıştırılmalıdır",
+      "4) Yukardakilerin hiç biri yapılmamalıdır",
+      "5) 1 ve 2 uygulanmalıdır"
+    ],
+    "correctAnswer": "5) 1 ve 2 uygulanmalıdır"
+  },
+  {
+    "id": 3,
+    "testIndex": 21,
+    "question": "Eğer bir dizel makinesinin ateşleme yapmaması nedeniyle yakıt sistemine hava girdiği hakkında kuşkularınız varsa, kaçağı nerede aramaya başlarsınız?",
+    "options": [
+      "1) Yakıt püskürtme valflarının yakıt devresine bağlantısında",
+      "2) Yakıt filtrelerinin conta yüzeylerinde",
+      "3) Yakıt püskürtme pompalarının deşarj donanımında",
+      "4) Yakıt aktarma (transfer) pompasının emme tarafında",
+      "5) Yakıt filtrelerinin devreye bağlantılarında"
+    ],
+    "correctAnswer": "4) Yakıt aktarma (transfer) pompasının emme tarafında"
+  },
+  {
+    "id": 4,
+    "testIndex": 21,
+    "question": "Soğutma sistemlerinde ısı alıp veren cihazların sert su veya deniz suyu tarafına çinko anotların konulmasının sebebi nedir?",
+    "options": [
+      "1) Oksitlenmeyi yavaşlatmak içindir",
+      "2) Elektroliz olayını denetlemek içindir",
+      "3) Kışır katmanını önlemek içindir",
+      "4) Korrozyonu yok etmek içindir",
+      "5) Statik elektriği önlemek içindir"
+    ],
+    "correctAnswer": "2) Elektroliz olayını denetlemek içindir"
+  },
+  {
+    "id": 5,
+    "testIndex": 21,
+    "question": "Titreşim hasarını önlemek için dizel makinelerinin yakıt besleme devrelerinde neler kullanılır?",
+    "options": [
+      "1) Ağır görev için kısa, saydam plastik boru",
+      "2) Metal olmayan esnek ve onaylanmış boyda bir boru",
+      "3) Tüm bağlantılar için kaynaklı flençler",
+      "4) Genişleme ilmekli alüninyum boru devresi",
+      "5) Pirinç boru devresi"
+    ],
+    "correctAnswer": "2) Metal olmayan esnek ve onaylanmış boyda bir boru"
+  },
+  {
+    "id": 6,
+    "testIndex": 21,
+    "question": "Modern türbin tesislerinde hangi tür esnek kaplin kullanılır?",
+    "options": [
+      "1) Dişli esnek kaplin",
+      "2) Labirint türü esnek kaplin",
+      "3) Yaylı esnek kaplin",
+      "4) Metal olmayan esnek kaplin",
+      "5) Pinli esnek kaplin"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 7,
+    "testIndex": 21,
+    "question": "Dizel makinelerinde ince yakıtların kari ere inmesi hangi olaya neden olur?",
+    "options": [
+      "1) Yağlama yağını inceltir ve viskozitesini azaltır",
+      "2) Yağlama yağında sülfürik asit oluşturur",
+      "3) Yağlama yağında sülfüroz asit oluşturur",
+      "4) Yataklarda karıncalanmaya ve arızalara neden olur",
+      "5) Hiçbir şeye neden olmaz"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 8,
+    "testIndex": 21,
+    "question": "Ana devir düşürme dişlilerinin görevi nedir?",
+    "options": [
+      "1) Titreşim ve srastı gemi bünyesine aktarmaktır",
+      "2) Türbinin yüksek devrini, pervanenin alçak devrine düşürmektir",
+      "3) Makine dairesinin yüksek gürültüsünü azaltmaktır",
+      "4) Emercensi durumda ana makinenin tornistanını sağlamaktır",
+      "5) Ana makinenin eksenel ve radyal klerenslerini düzenlemektir"
+    ],
+    "correctAnswer": "2) Türbinin yüksek devrini, pervanenin alçak devrine düşürmektir"
+  },
+  {
+    "id": 9,
+    "testIndex": 21,
+    "question": "Normal olarak çalışmakta olan bir makinenin stopu için yapılması gereken nedir?",
+    "options": [
+      "1) Hava kaynağı kesilir",
+      "2) Makinenin devir sayısı aşırı hıza çıkarılır",
+      "3) Makineye verilen yakıt kesilir",
+      "4) Ateşleme sistemi kapatılır",
+      "5) Makineye verilen yağlama yağı kesilir"
+    ],
+    "correctAnswer": "3) Makineye verilen yakıt kesilir"
+  },
+  {
+    "id": 10,
+    "testIndex": 21,
+    "question": "Aşağıdakilerden hangisi yağlama yağı soğutucu veya kuleri için doğrudur?",
+    "options": [
+      "1) Yağlama yağının sıcaklığı, soğutma suyu sıcaklığından daha düşüktür",
+      "2) Yağlama yağının basıncı, soğutma suyunun basıncından daha düşüktür",
+      "3) Yağlama yağının basıncı, soğutma suyunun basıncından daha büyüktür",
+      "4) Yağlama yağı soğutucularına metal parçacıklarını tutmak için mıknatıs donatılmıştır",
+      "5) Yağlama yağındaki suyu ayırmak için, yağ soğutucusuna separator donatılmıştır"
+    ],
+    "correctAnswer": "3) Yağlama yağının basıncı, soğutma suyunun basıncından daha büyüktür"
+  },
+  {
+    "id": 11,
+    "testIndex": 21,
+    "question": "Bir kros kampavunt türbinin yuva türü çift kademeli devir düşürme donanımında kaç tane pinyon dişli bulunur?",
+    "options": [
+      "1) İki tane",
+      "2) Dört tane",
+      "3) Altı tane",
+      "4) Sekiz tane",
+      "5) On tane"
+    ],
+    "correctAnswer": "2) Dört tane"
+  },
+  {
+    "id": 12,
+    "testIndex": 21,
+    "question": "Dizel makinelerinin yakıt devrelerinde bulunan hava, aşağıda verilenlerden hangisine neden olur?",
+    "options": [
+      "1) Yüksek yağlama yağı sıcaklığına",
+      "2) Tutuşma arızalarına",
+      "3) Pistonların hasar görmesine",
+      "4) Mavi dumana",
+      "5) Siyah dumana"
+    ],
+    "correctAnswer": "2) Tutuşma arızalarına"
+  },
+  {
+    "id": 13,
+    "testIndex": 21,
+    "question": "Devir düşürme sistemlerinde helisel dişlilerin düz dişlilere tercih edilmesinin sebebi nedir?",
+    "options": [
+      "1) Burulma titreşimlerini önler",
+      "2) Pinyon deflekşınını yok eder",
+      "3) Dişli sesini azaltır",
+      "4) Yüksek devir sayılarında daha iyi yağlanır",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "3) Dişli sesini azaltır"
+  },
+  {
+    "id": 14,
+    "testIndex": 21,
+    "question": "Geminin seyiri sırasında devir düşürme donanımlarında hangi bakım işlemi yapılabilir?",
+    "options": [
+      "1) Radyal yatak aşınmaları gözden geçirilebilir",
+      "2) Dişlilerle türbin arasındaki layn denetlenir",
+      "3) Karıncalanma bakımından dişliler gözden geçirilebilir",
+      "4) Yağlama yağı filtreleri metalik partiküller için denetlenebilir",
+      "5) Derinlik mircometresi ile yatak boşlukları denetlenebilir"
+    ],
+    "correctAnswer": "4) Yağlama yağı filtreleri metalik partiküller için denetlenebilir"
+  },
+  {
+    "id": 15,
+    "testIndex": 21,
+    "question": "Buhar türbinlerinin tek kademeli ridakşın girlerde devir düşürme oranı maksimum ne kadardır?",
+    "options": [
+      "1) 45/1",
+      "2) 35/1",
+      "3) 25/1",
+      "4) 20/1",
+      "5) 5/1"
+    ],
+    "correctAnswer": "4) 20/1"
+  },
+  {
+    "id": 16,
+    "testIndex": 21,
+    "question": "Ana yürütme türbininin yağlama sistemindeki su niçin tehlikelidir?",
+    "options": [
+      "1) Dişli dişlerinde korrozyona neden olur",
+      "2) Türbinin aşırı devrine neden olur",
+      "3) Yağlama yağının alevlenme noktasını tehlikeli, yüksek bir düzeye yükseltir",
+      "4) Yatak yüzeylerinde aşırı soğumaya neden olur",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 17,
+    "testIndex": 21,
+    "question": "Ana yürütme türbinlerinde esnek kaplinlerin yeri neresidir?",
+    "options": [
+      "1) Rotorşaft ile pinyon şaft arası",
+      "2) Rotorşaft ve kuil şaft arası",
+      "3) Kuil şaft ve pinyon şaft arası",
+      "4) İkinci kademe ve sırast yatağı arası",
+      "5) Pervane srast yatağı ile pervane arası"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 18,
+    "testIndex": 21,
+    "question": "Yakıtta aşırı su nedeniyle dizel makinesi ilk harekette çalışmıyorsa, ilk hareketten önce suyun nerelerden çıkarılması gerekir?",
+    "options": [
+      "1) Yakıt pompalarından",
+      "2) Servis tankından",
+      "3) Yakıt filtrelerinden",
+      "4) Yakıt devresinden",
+      "5) Yukardakilerin tümünden"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümünden"
+  },
+  {
+    "id": 19,
+    "testIndex": 21,
+    "question": "Devir düşürücü dişli donanım keyslerinin havalandırılmasının sebebi nedir?",
+    "options": [
+      "1) Dişlilerin soğutulması için havalandırmayı sağlar",
+      "2) Dişli keysinde basınç oluşmasına engel olur",
+      "3) Dişli keysinde yağ buharı oluşmasını önler",
+      "4) Sürtüşmeli kavrama papuçlarına uygun bir yağlama sağlar",
+      "5) Dişli klerenslerinin saptanmasına yardım eder"
+    ],
+    "correctAnswer": "2) Dişli keysinde basınç oluşmasına engel olur"
+  },
+  {
+    "id": 20,
+    "testIndex": 21,
+    "question": "Isı alıp veren cihazların deniz suyu tarafına çinko anotlar donatılmasının sebebi nedir?",
+    "options": [
+      "1) Isı transfer yüzeyinin temiz ve parlak olmasını sağlamak içindir",
+      "2) Deniz canlılarıma hızlı bir şekilde büyümesini engellermek içindir",
+      "3) Isı alıp veren cilıazıa yüzeylerinde koruyucu bir katman oluşturmak içindir",
+      "4) Isı alıp verici cihazın metallerinde elektrolitik etkiyi azaltmak içindir",
+      "5) 1 ve 2 içindir"
+    ],
+    "correctAnswer": "4) Isı alıp verici cihazın metallerinde elektrolitik etkiyi azaltmak içindir"
+  }
+]

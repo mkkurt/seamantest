@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 0,
+    "question": "Reaksiyon türbinlerinde girişten itibaren buharın hızı ne şekilde değişir?",
+    "options": [
+      "1) Sabit kanatlarda yükselir",
+      "2) Hareketli kanatlarda düşer",
+      "3) Nozullarda yükselir",
+      "4) Sabit kanatlarda düşer",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "5) 1 ve 2"
+  },
+  {
+    "id": 2,
+    "testIndex": 0,
+    "question": "Dizel makinelerinin yakıt devrelerinde bulunan hava, aşağıda verilenlerden hangisine neden olur?",
+    "options": [
+      "1) Yüksek yağlama yağı sıcaklığına",
+      "2) Tutuşma arızalarına",
+      "3) Pistonların hasar görmesine",
+      "4) Mavi dumana",
+      "5) Siyah dumana"
+    ],
+    "correctAnswer": "2) Tutuşma arızalarına"
+  },
+  {
+    "id": 3,
+    "testIndex": 0,
+    "question": "Eğer bir dizel makinesinde yağlama yağı ve soğutma suyu sıcaklıkları çok yüksek ise bunun sebebi nedir?",
+    "options": [
+      "1) Kirli yağlama yağı filtresi veya streyneri",
+      "2) Dahili su kaçakları",
+      "3) Yağ pompası alıcı tarafında kısıtlama",
+      "4) Soğutma suyu pompasının aşırı aşınması",
+      "5) Yukarıdakilerin tümü"
+    ],
+    "correctAnswer": "4) Soğutma suyu pompasının aşırı aşınması"
+  },
+  {
+    "id": 4,
+    "testIndex": 0,
+    "question": "720� krank açısından bir iş oluşturan motor kaç zamanlıdır?",
+    "options": [
+      "1) 1",
+      "2) 2",
+      "3) 3",
+      "4) 4",
+      "5) 5"
+    ],
+    "correctAnswer": "4) 4"
+  },
+  {
+    "id": 5,
+    "testIndex": 0,
+    "question": "Kazanlarda yakıtı hava ile karıştırıp ocağa püskürten cihaz aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Atomizör",
+      "2) Atemperatör",
+      "3) Aspiratör",
+      "4) Blover",
+      "5) Separatör"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 6,
+    "testIndex": 0,
+    "question": "Portlarla donatılmış iki zamanlı makineler için aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "1) Egzoz portları ile süpürme portları aynı anda açılır ve aynı anda kapanır",
+      "2) Egzoz portları süpürme portlarından önce kapanıp sonra açılır",
+      "3) Süpürme portları egzoz portlarından önce açılıp önce kapanır",
+      "4) Egzoz portları süpürme portlarından önce açılıp sonra kapanır",
+      "5) Süpürme portları önce açılır ve sonra kapanır"
+    ],
+    "correctAnswer": "4) Egzoz portları süpürme portlarından önce açılıp sonra kapanır"
+  },
+  {
+    "id": 7,
+    "testIndex": 0,
+    "question": "Motorlu gemilerde ana makine ile pervane arasında bulunan ve geminin suda hareketini sağlayan yatak aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Sırast yatağı",
+      "2) Kol yatağı",
+      "3) Palamar yatağı",
+      "4) Perno yatağı",
+      "5) Stern tüp yatağı"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 8,
+    "testIndex": 0,
+    "question": "Bir kaç saatlik çalışmadan sonra, bir dizel makinesinde kullanılan yeni yağın renginin koyulaşması neyin göstergesidir?",
+    "options": [
+      "1) Yağlama yağının separator gerektirdiğinin",
+      "2) Yağın yağlama özelliklerinin kaybolduğunun",
+      "3) Yağın normal olarak görevini yerine getirdiğinin",
+      "4) Normal çalışma sıcaklığının aşıldığının",
+      "5) Yağın viskozitesinin yükseldiğinin"
+    ],
+    "correctAnswer": "3) Yağın normal olarak görevini yerine getirdiğinin"
+  },
+  {
+    "id": 9,
+    "testIndex": 0,
+    "question": "Kroshetli bir makinede bakımdan sonra, ilk hareketin bir parçası olarak makine tornagir ile döndürülür. Sonraki ilk hareket parçası veya adımı ne olmalıdır?",
+    "options": [
+      "1) Tüm hava sisteminin dreynleri açılmalıdır",
+      "2) Endikatör valflarının tümü açılmalıdır",
+      "3) Makine sıcak tutulmalıdır",
+      "4) Düzgün bir yağlama yağı akımı sağlamak olmalıdır",
+      "5) Yukardakilerin tümü sağlanmalıdır"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümü sağlanmalıdır"
+  },
+  {
+    "id": 10,
+    "testIndex": 0,
+    "question": "Yardımcı bir dizel makinesinin ilk hareketi sağlayamamasının sebebi aşağıdakilerden hangisi olabilir?",
+    "options": [
+      "1) Egzoz karşı basıncının düşük olması",
+      "2) Yağlama yağı sıcaklığının yüksek olması",
+      "3) Yeterli olmayan ilk hareket devir sayısı",
+      "4) Aşırı yakıt püskürtme",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "3) Yeterli olmayan ilk hareket devir sayısı"
+  },
+  {
+    "id": 11,
+    "testIndex": 0,
+    "question": "Çalışmakta olan bir motorun gayıtında tutulmuş bir startin valf aşağıdaki problemlerden hangisine sebep olabilir?",
+    "options": [
+      "1) Yangın",
+      "2) Vuruntu",
+      "3) Siyah duman",
+      "4) Karter patlaması",
+      "5) Tekleme"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 12,
+    "testIndex": 0,
+    "question": "Genel olarak kapalı soğutma devrelerinde tatlı suyun dizel makinesinden çıkış sıcaklığı maksimum ne kadar olmalıdır ?",
+    "options": [
+      "1) 90°C",
+      "2) 80°C",
+      "3) 82°C",
+      "4) 52°C",
+      "5) 45°C"
+    ],
+    "correctAnswer": "3) 82°C"
+  },
+  {
+    "id": 13,
+    "testIndex": 0,
+    "question": "Yüksek egzoz karşı basıncı aşağıda verilenlerin hangisine neden olur?",
+    "options": [
+      "1) Türşarjer veriminin yükselmesine",
+      "2) Makine güç üretiminin artmasına",
+      "3) Enjektörlerde kurum birikiminin çoğalmasına",
+      "4) Silindirlerde süpürmenin iyileşmesine",
+      "5) Yukarıdakilerin tümüne"
+    ],
+    "correctAnswer": "3) Enjektörlerde kurum birikiminin çoğalmasına"
+  },
+  {
+    "id": 14,
+    "testIndex": 0,
+    "question": "Dinlendirme (setling) tanklarının kapasiteleri ne kadardır veya ne kadar bir süre ile kazanların çalıştırılmasına katkıda bulunabilirler?",
+    "options": [
+      "1) Her dinlendirme tankı kazanları 24 saat süre ile besleyebilirler",
+      "2) Her dinlendirme tankı kazanları 20 saat süre ile besleyebilirler",
+      "3) Her dinlendirme tankı kazanları 15 saat süre ile besleyebilirler",
+      "4) Her dinlendirme tankı kazanları 12 saat süre ile besleyebilirler",
+      "5) Her dinlendirme tankı kazanları 06 saat süre ile besleyebilirler"
+    ],
+    "correctAnswer": "4) Her dinlendirme tankı kazanları 12 saat süre ile besleyebilirler"
+  },
+  {
+    "id": 15,
+    "testIndex": 0,
+    "question": "Doğru akımlı süpürmeli bir dizel motorunda egzoz yanma sonucu oluşan gazlar aşağıdaki elemanlardan hangisi ile silindir dışında atılır?",
+    "options": [
+      "1) Rilif valf",
+      "2) Egzoz valfı",
+      "3) Egzoz portu",
+      "4) Deflektör",
+      "5) Emme valfı"
+    ],
+    "correctAnswer": "2) Egzoz valfı"
+  },
+  {
+    "id": 16,
+    "testIndex": 0,
+    "question": "Normal olarak çalışmakta olan bir makinenin stopu için yapılması gereken nedir?",
+    "options": [
+      "1) Hava kaynağı kesilir",
+      "2) Makinenin devir sayısı aşırı hıza çıkarılır",
+      "3) Makineye verilen yakıt kesilir",
+      "4) Ateşleme sistemi kapatılır",
+      "5) Makineye verilen yağlama yağı kesilir"
+    ],
+    "correctAnswer": "3) Makineye verilen yakıt kesilir"
+  },
+  {
+    "id": 17,
+    "testIndex": 0,
+    "question": "Bir kaverin montajı sırasında dikkat edilecek en önemli husus aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Enjektörü, kaveri monte ettikten sonra bağlamak",
+      "2) Kaveri en az 3 adet eye bolt ile monte etmek",
+      "3) Starting valf ayarlarını dikkatli yapmak",
+      "4) Somunları karşılıklı sıkmak",
+      "5) Enjektör ayarların dikkatli yapma"
+    ],
+    "correctAnswer": "4) Somunları karşılıklı sıkmak"
+  },
+  {
+    "id": 18,
+    "testIndex": 0,
+    "question": "Türboşarjlı dizel makinelerinde egzoz sisteminin görevi nedir?",
+    "options": [
+      "1) Süperşarjer hava soğutucularına güç temin etmek",
+      "2) Türboşarjere güç sağlamak",
+      "3) Silindirin süpürülme etkisini azaltmak",
+      "4) Türboşarjeri soğutmak",
+      "5) Egzoz karşı basıncının yükselmesini sağlamak"
+    ],
+    "correctAnswer": "2) Türboşarjere güç sağlamak"
+  },
+  {
+    "id": 19,
+    "testIndex": 0,
+    "question": "Dizel makinelerinde aşınmadan gelen metal partikülleri, hangi oluşuma neden olur?",
+    "options": [
+      "1) Aşındırıcı partiküllere",
+      "2) Metal oksitlerine",
+      "3) Paslandırıcı asitlere",
+      "4) Katalizör oluşumuna",
+      "5) Yukarıdakilerin herhangi birine"
+    ],
+    "correctAnswer": "4) Katalizör oluşumuna"
+  },
+  {
+    "id": 20,
+    "testIndex": 0,
+    "question": "6 silindirli, iki zamanlı bir dizel motorunun krank kolları arasındaki açı aşağıdakilerden hangisidir ?",
+    "options": [
+      "1) 30°",
+      "2) 45°",
+      "3) 72°",
+      "4) 120°",
+      "5) 90°"
+    ],
+    "correctAnswer": "3) 72°"
+  }
+]

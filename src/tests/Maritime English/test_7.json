@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 6,
+    "question": "Refrigerant leakage from the compressor crankcase is prevented by ................",
+    "options": [
+      "1) Using skirt type pistons",
+      "2) Using shaftseals",
+      "3) Using lantern rings",
+      "4) Maintaining a vacuum in the crankcase",
+      "5) Any above"
+    ],
+    "correctAnswer": "2) Using shaftseals"
+  },
+  {
+    "id": 2,
+    "testIndex": 6,
+    "question": "The successive order of 4 stroke diesel engines:",
+    "options": [
+      "1) Compression - suction - firing - exhaust",
+      "2) Suction - firing - compression - exhaust",
+      "3) Suction - compression - exhaust - firing",
+      "4) Suction-compression - firing - exhaust",
+      "5) Compression - air inlet - firing exhaust"
+    ],
+    "correctAnswer": "4) Suction-compression - firing - exhaust"
+  },
+  {
+    "id": 3,
+    "testIndex": 6,
+    "question": "A pyrometer is normally used to measure:",
+    "options": [
+      "1) Steam pressure",
+      "2) Water temperature",
+      "3) Draft loss",
+      "4) Humidity",
+      "5) Gas temperature"
+    ],
+    "correctAnswer": "5) Gas temperature"
+  },
+  {
+    "id": 4,
+    "testIndex": 6,
+    "question": "Emergency generators can be stopped via ....................................",
+    "options": [
+      "1) Ovelvoltage trip",
+      "2) Overspeed trip",
+      "3) Manual trip",
+      "4) Undervoltage",
+      "5) Any above"
+    ],
+    "correctAnswer": "3) Manual trip"
+  },
+  {
+    "id": 5,
+    "testIndex": 6,
+    "question": "Prior to port arrival, a diesel alternator ........................... turbo alternator ............................. and all the full away procedure should be done ...........................",
+    "options": [
+      "1) Will have to be started / will be shut down / in reverse order",
+      "2) Does not have to be started / will have to be shut down / in reverse order",
+      "3) Will have to be started / will have to be started / in right order",
+      "4) Will have to be shut down / will have to be started / in reverse order",
+      "5) Doesn't have to be shut down / will have to be shut down / in right order"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 6,
+    "testIndex": 6,
+    "question": "When the valves are operated ........................... on a diesel engine, they are actuated by means of cams, pushrods, rocker arms and rollers.",
+    "options": [
+      "1) Mechanically",
+      "2) Hydraulically",
+      "3) Pneumatically",
+      "4) Electrically",
+      "5) Any above"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 7,
+    "testIndex": 6,
+    "question": "All details of fuel bunkering, balast handling, tank cleaning or slop disposal must be entered in the ..............................",
+    "options": [
+      "1) Rough log",
+      "2) Engine room log",
+      "3) Oil record book",
+      "4) Smooth log",
+      "5) 1 and 2"
+    ],
+    "correctAnswer": "3) Oil record book"
+  },
+  {
+    "id": 8,
+    "testIndex": 6,
+    "question": "All of the following are used for low temperature starting, except:",
+    "options": [
+      "1) Ether",
+      "2) Jacket water heaters",
+      "3) Both 1 and 2",
+      "4) Air intake heaters",
+      "5) Cylinder compression ratio reduced"
+    ],
+    "correctAnswer": "5) Cylinder compression ratio reduced"
+  },
+  {
+    "id": 9,
+    "testIndex": 6,
+    "question": "Lubrication oil viscosity in an operation diesel engine can be reduced by:",
+    "options": [
+      "1) Overloading the engine",
+      "2) Increasing the amount of lube oil",
+      "3) Decreasing the amount of cooling water",
+      "4) Combustion by products contamination",
+      "5) Fuel oil dilution"
+    ],
+    "correctAnswer": "5) Fuel oil dilution"
+  },
+  {
+    "id": 10,
+    "testIndex": 6,
+    "question": "Watertube boilers are designed to operate within the conditions of .............",
+    "options": [
+      "1) High pressure, temperature, capacity",
+      "2) Low pressure but high capacity",
+      "3) Heavy but quick steam raiding process",
+      "4) 1 ve 3",
+      "5) For the auxiliary purposes"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 11,
+    "testIndex": 6,
+    "question": "The drains from both effects in a low pressure evaporator have their pressures equalized in the:",
+    "options": [
+      "1) Equalizer tank",
+      "2) Drain tank",
+      "3) Flash chamber",
+      "4) Air ejector condense",
+      "5) Fuel oil tank"
+    ],
+    "correctAnswer": "3) Flash chamber"
+  },
+  {
+    "id": 12,
+    "testIndex": 6,
+    "question": "The instrument always used in conjunction with a salinity indicator is the:",
+    "options": [
+      "1) Pyrometer",
+      "2) Thermometer",
+      "3) Hygrometer",
+      "4) Hydrometer",
+      "5) Oxygen meter"
+    ],
+    "correctAnswer": "2) Thermometer"
+  },
+  {
+    "id": 13,
+    "testIndex": 6,
+    "question": "Performance of a turbocharged engine can be improved by:",
+    "options": [
+      "1) Decreasing valve over lap",
+      "2) Preheating",
+      "3) Aftercooling intake air",
+      "4) Preheating light fuels",
+      "5) Heating intake air"
+    ],
+    "correctAnswer": "3) Aftercooling intake air"
+  },
+  {
+    "id": 14,
+    "testIndex": 6,
+    "question": "In terms of pressure and temperature, what happens to the primary refrigerant the compressor?",
+    "options": [
+      "1) Its pressure and temperature are both lowered",
+      "2) Its pressure and temperature are both raised",
+      "3) Its pressure and lowered and its temperature is raised",
+      "4) Its pressure is raised and its temperature is lowered",
+      "5) None of the above"
+    ],
+    "correctAnswer": "2) Its pressure and temperature are both raised"
+  },
+  {
+    "id": 15,
+    "testIndex": 6,
+    "question": "When maneuvering, you discover heavy smoke coming from the turbocharger casing. You should:",
+    "options": [
+      "1) Check the air fitler for dirty",
+      "2) Check for an exhaust leak",
+      "3) Check the cooling water temperature",
+      "4) Notify the bridge and ask to shut the engine down",
+      "5) Check fuel oil consumption"
+    ],
+    "correctAnswer": "4) Notify the bridge and ask to shut the engine down"
+  },
+  {
+    "id": 16,
+    "testIndex": 6,
+    "question": "The reciprocating motion of a connecting rod is transformed into a rotary motion by the.............",
+    "options": [
+      "1) Crankshaft",
+      "2) Crankwebs",
+      "3) Crank cheeks",
+      "4) Crankpine",
+      "5) Piston"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 17,
+    "testIndex": 6,
+    "question": "The purpose of the low pressure cutout switch is to:",
+    "options": [
+      "1) Maintain liquid refrigerant at the suction of the compressor",
+      "2) Maintain a preset suction pressure to the compressor",
+      "3) Cut out the compressor at a set pressure",
+      "4) Maintain compressor in at a preset temperature",
+      "5) Cut compressor in and out at a preset pressure"
+    ],
+    "correctAnswer": "5) Cut compressor in and out at a preset pressure"
+  },
+  {
+    "id": 18,
+    "testIndex": 6,
+    "question": "A device which will function to bring an engine to a full stop in order to protect it from damage due to excessively high speed is known as a/an:",
+    "options": [
+      "1) Torque limiter",
+      "2) Overspeed trip",
+      "3) Overspeed governor",
+      "4) Load limit governor",
+      "5) Any of above"
+    ],
+    "correctAnswer": "2) Overspeed trip"
+  },
+  {
+    "id": 19,
+    "testIndex": 6,
+    "question": "When oil is heated, it becomes ..................",
+    "options": [
+      "1) Less viscous",
+      "2) Emulsified",
+      "3) More viscous",
+      "4) Vitrified",
+      "5) Not necessarly vitrified"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 20,
+    "testIndex": 6,
+    "question": "The pistonheads in the engine are manufactured concave and convex shaped in order that .....................",
+    "options": [
+      "1) The vessel will be faster",
+      "2) It will control the temperature of the engine",
+      "3) It will increase oil pressure in the engine",
+      "4) It will increase the durability of the piston",
+      "5) It will provide a powerful engine"
+    ],
+    "correctAnswer": "4) It will increase the durability of the piston"
+  }
+]

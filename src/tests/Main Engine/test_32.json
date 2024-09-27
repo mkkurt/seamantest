@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 31,
+    "question": "Dört stroklu ve süperşarjlı bir makinenin tayming diyagramına göre egzoz valfı alt ölü noktadan kaç derece önce açılmaya başlar ve üst ölü noktayı kaç derece geçe tümüyle kapanır?",
+    "options": [
+      "1) 29° - 50°",
+      "2) 10° - 10°",
+      "3) 80° - 80°",
+      "4) 120° - 120°",
+      "5) 20° - 20°"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 2,
+    "testIndex": 31,
+    "question": "Yüksek güçlü, ağır devirli gemi dizel motorlarının ilk hareketleri ne ile yapılır?",
+    "options": [
+      "1) Elektrikli marş motoru ile",
+      "2) Yardımcı benzin motoru ile",
+      "3) Basınçlı hava ile",
+      "4) El veya bir kol ile",
+      "5) Tornagir makinesi veya tornaçark ile"
+    ],
+    "correctAnswer": "3) Basınçlı hava ile"
+  },
+  {
+    "id": 3,
+    "testIndex": 31,
+    "question": "Portlarla donatılmış makinelere uygulanan süpürme yöntemi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Doğru akımlı",
+      "2) Ters akımlı",
+      "3) İleri akımlı",
+      "4) Paralel akımlı",
+      "5) Zıt akımlı"
+    ],
+    "correctAnswer": "2) Ters akımlı"
+  },
+  {
+    "id": 4,
+    "testIndex": 31,
+    "question": "Egzoz susturucusunun görevi nedir?",
+    "options": [
+      "1) Egzoz gazlarının gürültüsünü azaltmak",
+      "2) Egzoz gazlarının gürültüsünü çoğaltmak",
+      "3) Egzoz gazının ısısını artırmak",
+      "4) Egzoz gazı basıncını artırmak",
+      "5) Makinenin verimini artırmak"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 5,
+    "testIndex": 31,
+    "question": "Modern dizel makinelerinde hangi yakıt püskürtme yönteminden yararlanılır?",
+    "options": [
+      "1) Sabit basınçlı püskürtme sistemi",
+      "2) Birleşik enjektörlü püskürtme sistemi",
+      "3) Distribütör sistemi püskürtme",
+      "4) Hidrolik veya solid püskürtme sistemi",
+      "5) Havalı püskürtme (erincekşın) sistemi"
+    ],
+    "correctAnswer": "4) Hidrolik veya solid püskürtme sistemi"
+  },
+  {
+    "id": 6,
+    "testIndex": 31,
+    "question": "Hangi renk kodu yağ devresini göstermektedir?",
+    "options": [
+      "1) Sarı",
+      "2) Kırmızı",
+      "3) Mavi",
+      "4) Yeşil",
+      "5) Siyah"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 7,
+    "testIndex": 31,
+    "question": "Aşağıdakilerden hangisi yakıt püskürtme sisteminde bulunur?",
+    "options": [
+      "1) Strating valf",
+      "2) Güvenlik valfı",
+      "3) Distribütör",
+      "4) Rokerarm",
+      "5) Enjektör"
+    ],
+    "correctAnswer": "5) Enjektör"
+  },
+  {
+    "id": 8,
+    "testIndex": 31,
+    "question": "Çalışmakta olan bir dizel makinesinin, beyaz renkli bir duman oluşturmasının nedenlerinden biri, aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Silindirlere fazla yakıt verilmesi",
+      "2) Silindirlerde yağ yakılması",
+      "3) Silindirlere su girmesi",
+      "4) Yağ segmanlarınm yuvalarına ters takılmaları",
+      "5) Kompresyon basıncının düşük olması"
+    ],
+    "correctAnswer": "3) Silindirlere su girmesi"
+  },
+  {
+    "id": 9,
+    "testIndex": 31,
+    "question": "Tutuşma gecikmesinin tanımı aşağıdakilerden hangisine uymaktadır?",
+    "options": [
+      "1) Yakıtın püskürtüimesindeki gecikmedir",
+      "2) Yalatın tutuşmasından sonraki ani basınç yükselmesidir",
+      "3) Alevin yanma odasındaki yayılma sürecidir",
+      "4) Yakıtın silindire püskürtülmesi ile tutuşması arasındaki zaman aralığıdır",
+      "5) Basınç dalgalanmasıdır"
+    ],
+    "correctAnswer": "4) Yakıtın silindire püskürtülmesi ile tutuşması arasındaki zaman aralığıdır"
+  },
+  {
+    "id": 10,
+    "testIndex": 31,
+    "question": "Dizel makinelerine aşırı doldurma uygulandığı zaman, aşağıdaki yararlardan hangisi sağlanmaz?",
+    "options": [
+      "1) Makinenin yakıt sarfiyatı azalır",
+      "2) Makinenin kapladığı hacim küçülür",
+      "3) Makinenin ağırlığı azalır",
+      "4) Makinenin gücü %50 - %60 artar",
+      "5) Egzoz sıcaklığı 50°C artar"
+    ],
+    "correctAnswer": "5) Egzoz sıcaklığı 50°C artar"
+  },
+  {
+    "id": 11,
+    "testIndex": 31,
+    "question": "Bir Bosch pompasının plenceri aşındığı zaman, aşağıda belirtilenlerden hangisi uygulanmalıdır?",
+    "options": [
+      "1) Sadece plencer değiştirilmelidir",
+      "2) Sadece plencerin barılı veya silindiri değiştirilmelidir",
+      "3) Bir başka plencer barıla (silindire) alıştırılmalıdır",
+      "4) Makine aşınmış plencer ile çalıştırılmaya devam edilmelidir",
+      "5) Plencer ve barılı (silindiri) yeni bir takım ile değiştirilmelidir"
+    ],
+    "correctAnswer": "5) Plencer ve barılı (silindiri) yeni bir takım ile değiştirilmelidir"
+  },
+  {
+    "id": 12,
+    "testIndex": 31,
+    "question": "Yakıt püskürtme pompası ve püskürtme sistemi sorunlarının ana nedeni aşağıdakilerden hangisi değildir?",
+    "options": [
+      "1) Yanlış ayar",
+      "2) Kirli yakıt",
+      "3) Kırılmış veya kesilmiş yakıt boruları",
+      "4) Tıkanmış yakıt devreleri",
+      "5) Kırılmış pompa ve enjektör yayları"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 13,
+    "testIndex": 31,
+    "question": "Yüksek devirli dizel makinelerinde aşağıdaki yakıtlardan hangisi kullanılır?",
+    "options": [
+      "1) Fuel oil",
+      "2) Marine diesel oil",
+      "3) Gaz yağı",
+      "4) Benzin",
+      "5) Motorin"
+    ],
+    "correctAnswer": "5) Motorin"
+  },
+  {
+    "id": 14,
+    "testIndex": 31,
+    "question": "Kapalı soğutma devrelerinde makineye giren ve çıkan suyun sıcaklığı aşağıdakilerden hangi sıcaklık sınırları içindedir?",
+    "options": [
+      "1) 22°C - 30°C",
+      "2) 30°C - 42°C",
+      "3) 42°C - 50°C",
+      "4) 50°C - 82°C",
+      "5) 82°C - 90°C"
+    ],
+    "correctAnswer": "4) 50°C - 82°C"
+  },
+  {
+    "id": 15,
+    "testIndex": 31,
+    "question": "Enjektörlerde meme ve iğne valf aşırı bir biçimde aşındığı zaman yapılması gereken aşağıdakilerden hangisi olmalıdır?",
+    "options": [
+      "1) İğne valf yüzeyi alıştırılır",
+      "2) İğne valf barılı alıştırılır",
+      "3) Sadece iğne valf değiştirilir",
+      "4) Sadece iğne valf barılı değiştirilir",
+      "5) Bir takım olarak ikisi birden değiştirilir"
+    ],
+    "correctAnswer": "5) Bir takım olarak ikisi birden değiştirilir"
+  },
+  {
+    "id": 16,
+    "testIndex": 31,
+    "question": "Hangi renk kodu yakıt devresini göstermektedir?",
+    "options": [
+      "1) Kırmızı",
+      "2) Mavi",
+      "3) Sarı",
+      "4) Yeşil",
+      "5) Siyah"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 17,
+    "testIndex": 31,
+    "question": "Süperşarjsız, iki stroklu, ağır devirli makinelerin resiverlerindeki süpürme havası basıncı ne kadardır?",
+    "options": [
+      "1) 1,10 - 1,15 bar",
+      "2) 1,30 - 1,35 bar",
+      "3) 1,40 - 1,50 bar",
+      "4) 1,50 - 1,60 bar",
+      "5) 1,60 - 2,00 bar"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 18,
+    "testIndex": 31,
+    "question": "Bugünün dizel makinelerinde kullanılmakta olan süperşarj havasının maksimum basınç değeri ne kadardır?",
+    "options": [
+      "1) 2,55 bar",
+      "2) 3,00 bar",
+      "3) 4,50 bar",
+      "4) 5,00 bar",
+      "5) 6,00 bar"
+    ],
+    "correctAnswer": "5) 6,00 bar"
+  },
+  {
+    "id": 19,
+    "testIndex": 31,
+    "question": "Gemi dizel makinelerinde yaygın olarak kullanılan yakıt püskürtme pompaları aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Kontrol valfı pompalar",
+      "2) Port ve helis kontrollü pompalar",
+      "3) Baypas kontrollü pompalar",
+      "4) Emme kontrollü pompalar",
+      "5) Yukarıdakilerin tümü"
+    ],
+    "correctAnswer": "5) Yukarıdakilerin tümü"
+  },
+  {
+    "id": 20,
+    "testIndex": 31,
+    "question": "Dizel motorlarının soğutulmasının en önemli nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Pistonların aşınmasına engel olmak",
+      "2) Silindir sıcaklığını 260°C'ün üstünde tutmak",
+      "3) Sürtünmeyi en aza indirmek",
+      "4) Silindir duvarı veya layner yüzeyindeki yağ filmini korumak",
+      "5) Makinenin güç üretimini arttırmak"
+    ],
+    "correctAnswer": "4) Silindir duvarı veya layner yüzeyindeki yağ filmini korumak"
+  }
+]

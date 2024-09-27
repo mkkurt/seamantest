@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 17,
+    "question": "Bir gemi dizel makinesinde aşırı aşınmış giriş valfı gayıtı, aşağıdakilerden hangisine neden olabilir?",
+    "options": [
+      "1) Makinenin dolgu verimini yükseltir",
+      "2) Aşırı valf klerensi oluşturur",
+      "3) Aşırı yağlama yağı tüketimine neden olur",
+      "4) Yüksek yakıt tüketimine neden olur",
+      "5) Yüksek kompresyon basıncı oluşmasına neden olur"
+    ],
+    "correctAnswer": "3) Aşırı yağlama yağı tüketimine neden olur"
+  },
+  {
+    "id": 2,
+    "testIndex": 17,
+    "question": "Eğer dört zamanlı bir dizel motoru 1550 rpm ise kemşaftm devir sayısı ne kadar olur?",
+    "options": [
+      "1) 525 rpm",
+      "2) 775 rpm",
+      "3) 1550 rpm",
+      "4) 1800 rpm",
+      "5) 3100 rpm"
+    ],
+    "correctAnswer": "2) 775 rpm"
+  },
+  {
+    "id": 3,
+    "testIndex": 17,
+    "question": "Dört zamaalı dizel makinelerinde valf yaylarının görevi nedir?",
+    "options": [
+      "1) Valfları açık tutar",
+      "2) Egzoz siroku tamamlanıncaya dek valfları yuvalarında tutar",
+      "3) Valfları veya supapları kapatır",
+      "4) Yakıt püskürtme çevrimi başladığı zaman giriş valflarını açar",
+      "5) Sadece rilif valfın açılmasına yardım eder"
+    ],
+    "correctAnswer": "3) Valfları veya supapları kapatır"
+  },
+  {
+    "id": 4,
+    "testIndex": 17,
+    "question": "Gemi dizel makinelerinin ana veya palamar yataklarının maksimum klerensleri kaç milimetredir?",
+    "options": [
+      "1) 1,0 mm",
+      "2) 0,8 mm",
+      "3) 0,7 mm",
+      "4) 0,5 mm",
+      "5) 0,3 mm"
+    ],
+    "correctAnswer": "4) 0,5 mm"
+  },
+  {
+    "id": 5,
+    "testIndex": 17,
+    "question": "Dört zamanlı bir dizel makinesinde kemşaft ile krankşafın devir sayıları arasındaki ilişkiyi, aşağıda verilenlerden hangisi doğru olarak belirtmektedir?",
+    "options": [
+      "1) Kemşaft krankşafta aynı devir sayısında döner",
+      "2) Kemşaft krankşaftın iki misli devirle döner",
+      "3) Kemşaftın devir sayısı krankşaft devir sayısının yarısı kadardır",
+      "4) Kemşaftın devir sayısı, krankşaftm devir sayısından bağımsızdır",
+      "5) Kemşaftın devir sayısı krankşaft devir sayısının üç mislidir"
+    ],
+    "correctAnswer": "3) Kemşaftın devir sayısı krankşaft devir sayısının yarısı kadardır"
+  },
+  {
+    "id": 6,
+    "testIndex": 17,
+    "question": "Dört zamanlı bir dizel makinesinde emme ve egzoz valfları hareket mekanizması ile açıldıktan sonra yuvalarına nasıl otururlar?",
+    "options": [
+      "1) Kem takipçileri ile",
+      "2) Puşrotlarla",
+      "3) Yanma gazları ile",
+      "4) Valf yayları ile",
+      "5) Hava yayı ile"
+    ],
+    "correctAnswer": "4) Valf yayları ile"
+  },
+  {
+    "id": 7,
+    "testIndex": 17,
+    "question": "Yüksek devirli küçük güçlü dizel makinelerinde yatak klerensleri ne ile ölçülür?",
+    "options": [
+      "1) Geyiç blokla",
+      "2) Plastigeyiç ile",
+      "3) Filer geyiç ile",
+      "4) Yuvarlak kurşun tel ile",
+      "5) Briç veya köprü geyiç ile"
+    ],
+    "correctAnswer": "2) Plastigeyiç ile"
+  },
+  {
+    "id": 8,
+    "testIndex": 17,
+    "question": "Dört zamanlı bir makinede krankşafta göre, kemşaftın devir sayısı ne kadardır?",
+    "options": [
+      "1) Krankşaft devir sayısının iki mislidir",
+      "2) Krankşaft devir sayısının yarısı kadardır",
+      "3) Krankşaftla aynı devir sayısı kadardır",
+      "4) Krankşaft devir sayısından bağımsızdır",
+      "5) Yukardakilerin hiç biridir"
+    ],
+    "correctAnswer": "2) Krankşaft devir sayısının yarısı kadardır"
+  },
+  {
+    "id": 9,
+    "testIndex": 17,
+    "question": "Tek parçadan yapılmış solit yatağa örnek aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Gacın pin burcu",
+      "2) Rotorşaft yatakları",
+      "3) Krankpin yatakları",
+      "4) Palamar yatakları",
+      "5) Kroshet pin yatakları"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 10,
+    "testIndex": 17,
+    "question": "İki zamanlı dizel makinelerinde hangi yarım yatak parçası en büyük yükü taşır?",
+    "options": [
+      "1) Krankpin yatağının alt yarım parçası",
+      "2) Ana yatak veya palamar yataklarının üst parçası",
+      "3) Piston pin yatağının alt yarım parçası",
+      "4) Tüm yatak alt parçalan yükü eşit olarak paylaşırlar",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "3) Piston pin yatağının alt yarım parçası"
+  },
+  {
+    "id": 11,
+    "testIndex": 17,
+    "question": "Hangi dizel parçasında yağ kanalları bulunur?",
+    "options": [
+      "1) Pistonlarda",
+      "2) Yataklarda",
+      "3) Silindir duvarlarında",
+      "4) Yatak jurnallerinde",
+      "5) Yukardakilerin tümünde"
+    ],
+    "correctAnswer": "2) Yataklarda"
+  },
+  {
+    "id": 12,
+    "testIndex": 17,
+    "question": "Dört stroklu bir dizel makinesinde kemşaft, aşağıda verilenlerden hangisini çalıştırır?",
+    "options": [
+      "1) Yakıt püskürtme pompaları",
+      "2) Egzoz valfları",
+      "3) Giriş valfları",
+      "4) Bazen ilk hareket valfları",
+      "5) Yukardakilerin tümünü"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümünü"
+  },
+  {
+    "id": 13,
+    "testIndex": 17,
+    "question": "Yardımcı bir dizel makinesinde aşırı aşınmış palamar yatakları sıkıştırma oranını nasıl etkiler?",
+    "options": [
+      "1) Büyümesine neden olur",
+      "2) Küçülmesine neden olur",
+      "3) Aynı kalmasına neden olur",
+      "4) Kompresyon basıncının artmasına neden olur",
+      "5) Kompresyon sıcaklığının artmasına neden olur"
+    ],
+    "correctAnswer": "2) Küçülmesine neden olur"
+  },
+  {
+    "id": 14,
+    "testIndex": 17,
+    "question": "Herhangi bir yatak için yağlama bakımından en önemli an ne zamandır?",
+    "options": [
+      "1) Alçak yüklerde çalışma",
+      "2) Uygun viskoziteye erişildikten sonra",
+      "3) İlk hareket sırasında",
+      "4) Filtreler temizlendikten sonra",
+      "5) İlk hareketin ardından makinenin çalışması sırasında"
+    ],
+    "correctAnswer": "3) İlk hareket sırasında"
+  },
+  {
+    "id": 15,
+    "testIndex": 17,
+    "question": "Krankşaftı 950 rpm'de dönen iki stroklu bir makinede kemşaftın devir sayısı ne olur?",
+    "options": [
+      "1) 1900 rpm",
+      "2) 950 rpm",
+      "3) 475 rpm",
+      "4) 3800 rpm",
+      "5) 1700 rpm"
+    ],
+    "correctAnswer": "2) 950 rpm"
+  },
+  {
+    "id": 16,
+    "testIndex": 17,
+    "question": "Bir dizel makinesinin palamar yatağı yüzeyinde küçük çatlaklar oluşmasının sebebi nedir?",
+    "options": [
+      "1) Korrozyon aşındırması",
+      "2) Yetersiz yağlama",
+      "3) Anormal aşınma",
+      "4) Aşırı miktarda yağlama yağı",
+      "5) Malzeme yorulması"
+    ],
+    "correctAnswer": "5) Malzeme yorulması"
+  },
+  {
+    "id": 17,
+    "testIndex": 17,
+    "question": "Gemi dizel makinelerinde kemşaft bazen ara dişlileri ile döndürülür. Bir başka çalıştırma şekli ise aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Puşrot",
+      "2) Sessiz zincir",
+      "3) Rokerarm",
+      "4) Volan",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "2) Sessiz zincir"
+  },
+  {
+    "id": 18,
+    "testIndex": 17,
+    "question": "İki zamanlı bir dizel makinesinde krankşaft dakikada 625 devir yapmaktadır. Bu makinede kemşaftın devir sayısı ne kadardır?",
+    "options": [
+      "1) 312 rpm",
+      "2) 425 rpm",
+      "3) 625 rpm",
+      "4) 1250 rpm",
+      "5) 2500 rpm"
+    ],
+    "correctAnswer": "3) 625 rpm"
+  },
+  {
+    "id": 19,
+    "testIndex": 17,
+    "question": "Bir dizel makinesinde aşırı aşınmış palamar yatakları neye sebep olabilir?",
+    "options": [
+      "1) Kompresyon basıncının yükselmesine",
+      "2) Yağlama yağı basıncının artmasına",
+      "3) Kompresyon sıcaklığının yükselmesine",
+      "4) Yanlış valf taymingine",
+      "5) Piston segmanlarından aşırı kaçaklara"
+    ],
+    "correctAnswer": "4) Yanlış valf taymingine"
+  },
+  {
+    "id": 20,
+    "testIndex": 17,
+    "question": "Yüksek devirli modern dizel makinelerinde yaygın bir şekilde, palamar yatağı ve konnektin rot yatağı olarak kullanılan yatak hangisidir?",
+    "options": [
+      "1) Çelik artlı yataklar",
+      "2) Kendinden laynlı, vayt metal akıtılmış yataklar",
+      "3) İki parçadan yapılmış rulman yataklar",
+      "4) Hassas şel yataklar",
+      "5) Bilyalı yataklar"
+    ],
+    "correctAnswer": "4) Hassas şel yataklar"
+  }
+]

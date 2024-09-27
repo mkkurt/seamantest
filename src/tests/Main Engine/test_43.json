@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 42,
+    "question": "Dizel makinelerinde hava fazlalık katsayısı ne demektir?",
+    "options": [
+      "1) Yanma odasına verilen aşırı hava miktarıdır",
+      "2) Süpürme için harcanan hava miktarıdır",
+      "3) Egzoz gazıyla kaybolan hava miktarıdır",
+      "4) Yanma için gerekli gerçek hava miktarıdır",
+      "5) Kuramsal hava miktarıdır"
+    ],
+    "correctAnswer": "4) Yanma için gerekli gerçek hava miktarıdır"
+  },
+  {
+    "id": 2,
+    "testIndex": 42,
+    "question": "Motorlarda valf klerensi neden verilir?",
+    "options": [
+      "1) Kompresyon sağlamak için",
+      "2) İyi bir yanma sağlamak için",
+      "3) İyi bir süpürme sağlamak için",
+      "4) Valflardaki genişlemeyi karşılamak için",
+      "5) Dolgu verimini arttırmak için"
+    ],
+    "correctAnswer": "4) Valflardaki genişlemeyi karşılamak için"
+  },
+  {
+    "id": 3,
+    "testIndex": 42,
+    "question": "HP türbininin yataklarını terk eden yağ sıcaklığı normalde kaç derece olmalıdır?",
+    "options": [
+      "1) 90°C",
+      "2) 80°C",
+      "3) 70°C",
+      "4) 65°C",
+      "5) 55°C"
+    ],
+    "correctAnswer": "5) 55°C"
+  },
+  {
+    "id": 4,
+    "testIndex": 42,
+    "question": "İlk hareket esnasında makine yavaş dönüyor. Aşağıdakilerden hangisi olası bir sebep değildir?",
+    "options": [
+      "1) Otomatik ilk hareket valfı yeterince aşağı inmemiştir",
+      "2) İlk hareket havası valfı kaçırıyor",
+      "3) Distribütör pilot valf tutmuş",
+      "4) İlk hareket stop valfı yeterince açılmıyor",
+      "5) İlk hareket hava basıncı çok düşük"
+    ],
+    "correctAnswer": "5) İlk hareket hava basıncı çok düşük"
+  },
+  {
+    "id": 5,
+    "testIndex": 42,
+    "question": "Dizel motorlarında zaman diyagramı nasıl oluşturulur?",
+    "options": [
+      "1) Maksimum güç ve arızasız p-V diyagramı sağlanarak",
+      "2) Motor hafif yüklerde çalıştırılarak",
+      "3) Geminin seyir tecrübesinde",
+      "4) Özel ölçü aleti kullanılarak",
+      "5) Maksimum basınç ve sıkıştırma sonu basıncı hesaplanarak"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 6,
+    "testIndex": 42,
+    "question": "Aşağıdaki türbinlerin hangisinde dami piston kullanılmaz?",
+    "options": [
+      "1) Parsons türbininde",
+      "2) Eksenel akımlı türbinlerde",
+      "3) Radyal akımlı türbinlerde",
+      "4) Çift akımlı türbinlerde",
+      "5) Tornistan türbinlerinde"
+    ],
+    "correctAnswer": "3) Radyal akımlı türbinlerde"
+  },
+  {
+    "id": 7,
+    "testIndex": 42,
+    "question": "Dizel makinelerinde 1 kg sıvı yakıtın yakılabilmesi için minimum kuramsal hava miktarı ne olmalıdır?",
+    "options": [
+      "1) 25,0 kg",
+      "2) 20,0 kg",
+      "3) 16,5 kg",
+      "4) 14,5 kg",
+      "5) 12,5 kg"
+    ],
+    "correctAnswer": "4) 14,5 kg"
+  },
+  {
+    "id": 8,
+    "testIndex": 42,
+    "question": "Dizel makinelerinde bir çevrimde ve tam yükte silindire püskürtülen yakıt miktarı, yaklaşık olarak ne kadardır?",
+    "options": [
+      "1) Strok hacminin 10 000 de biridir",
+      "2) Strok hacminin 20 000 de biridir",
+      "3) Strok hacminin 30 000 de biridir",
+      "4) Strok hacminin 50 000 de biridir",
+      "5) Strok hacminin 100 000 de biridir"
+    ],
+    "correctAnswer": "2) Strok hacminin 20 000 de biridir"
+  },
+  {
+    "id": 9,
+    "testIndex": 42,
+    "question": "Dami pistonlu bir türbinde radyal klerens büyürse aşağıdakilerden hangisi meydana gelebilir?",
+    "options": [
+      "1) Dami pistonun dinamik dengesi bozulur",
+      "2) Eksenel sırast artar",
+      "3) Türbin gücü düşmeye başlar",
+      "4) Glendlerden buhar kaçağı artar",
+      "5) Rotor şaft yatak sıcaklığı artar"
+    ],
+    "correctAnswer": "3) Türbin gücü düşmeye başlar"
+  },
+  {
+    "id": 10,
+    "testIndex": 42,
+    "question": "Basınçlı hava tüplerinin imla edilmesinde, zaman zaman aşağıdaki valflardan hangisi kullanılır?",
+    "options": [
+      "1) Startin valf",
+      "2) Rilif valf",
+      "3) Ekspenşın valf",
+      "4) Pompalama valfı",
+      "5) Hava kompresörleri"
+    ],
+    "correctAnswer": "4) Pompalama valfı"
+  },
+  {
+    "id": 11,
+    "testIndex": 42,
+    "question": "Dizel makinelerinin emme ve egzoz valfları ile valf sitlerinin konik yüzeyleri arasında kaç derecelik açı farkı bulunur?",
+    "options": [
+      "1) 45°",
+      "2) 11°",
+      "3) 10°",
+      "4) 10,5°",
+      "5) Hiçbiri"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 12,
+    "testIndex": 42,
+    "question": "Dizel makinelerinde özgül hava tüketimi aşağıdakilerden hangisi ile ifade edilir?",
+    "options": [
+      "1) Bir beygirgücü üretmek için bir saatte tüketilen, kg veya m3 yada Nm3 türünden hava tüketimi",
+      "2) Süpürme veya dolgu işlemi için tüketilen toplam hava miktarı (kg ve m3 türünden)",
+      "3) Makine silindirlerine verilen kava-yakıt karışımı (kg ve m3 türünden)",
+      "4) Makine silindirlerine verilen kava-yakıt karışımı (kg ve m3 türünden)",
+      "5) Bir kilogram yakıtı yakmak için mol türünden gerekli hava miktarı"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 13,
+    "testIndex": 42,
+    "question": "Dizel makinelerinde silindir duvarındaki yağ filminin kalınlığı, aşağıda belirtilen sayısal değerlerden hangisidir?",
+    "options": [
+      "1) 0,03500 mm",
+      "2) 0,00254 mm",
+      "3) 0,35000 mm",
+      "4) 0,45000 mm",
+      "5) 0,53500 mm"
+    ],
+    "correctAnswer": "2) 0,00254 mm"
+  },
+  {
+    "id": 14,
+    "testIndex": 42,
+    "question": "Standartlaşmadan önce simgesi 1-D olan diesel oil, standartlaşmadan sonra hangi simge ile belirtilmektedir?",
+    "options": [
+      "1) DMX",
+      "2) DMA",
+      "3) DMB",
+      "4) DMC",
+      "5) DMS"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 15,
+    "testIndex": 42,
+    "question": "Üst keysin kapatılmasında aşağıdakilerden hangisi yapılmaz?",
+    "options": [
+      "1) Üst keys ile alt keys araşma sızdırmazlık macunu sürülmez",
+      "2) Üst keys kapatılırken cıvatalar eşit bir şekilde sıkılırlar",
+      "3) Keysşn düşme ihtimaline karşın türbini koruma önlemleri alınmalı",
+      "4) Çalışacak personelin cebindeki eşyalar çıkartılır",
+      "5) Çalışacak personelin elindeki yüzükler çıkartılır"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 16,
+    "testIndex": 42,
+    "question": "Bir dizel makinesinde soğutma suyunun katodik korozyonunu engellemek için aşağıdakilerden hangisi kullanılır?",
+    "options": [
+      "1) Tutya",
+      "2) Bakır",
+      "3) Saf su",
+      "4) Asit",
+      "5) Sodalı su"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 17,
+    "testIndex": 42,
+    "question": "Aşırı doldurmalı motorlarda hava neden soğutulur?",
+    "options": [
+      "1) Havadaki oksijen miktarını arttırmak için",
+      "2) Hava miktarını azaltmak için",
+      "3) Yanmayı kolaylaştırmak için",
+      "4) Yakıt tüketimini azaltmak için",
+      "5) Motor devir sayısını arttırmak için"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 18,
+    "testIndex": 42,
+    "question": "Bir yakıt püskürtme pompasının plenceri aşınmış fakat barılı çok iyi bir durumda kalmıştır. Bu durumda yapılması gereken nedir?",
+    "options": [
+      "1) Plencer barıla alıştırılır",
+      "2) Barıla yeni bir plencer yerleştirilir",
+      "3) Plencer ve barılı beraber değiştirilir",
+      "4) Tüm püskürtme pompası değiştirilir",
+      "5) Pompanm çalıştırılmasına bir süre daha devam edilir"
+    ],
+    "correctAnswer": "3) Plencer ve barılı beraber değiştirilir"
+  },
+  {
+    "id": 19,
+    "testIndex": 42,
+    "question": "Normalden düşük yanma basıncı ve egzoz sıcaklığının nedeni nedir?",
+    "options": [
+      "1) Bir çevrimde silindire normalden fazla yakıtın püskürtülmesi",
+      "2) Kompresyon oranının normal değerinden çok büyük olması",
+      "3) Bir çevrimde silindire püskürtülen yakıt miktarının normalden az olması",
+      "4) Makinenin aşırı ısınması",
+      "5) Makinenin aşırı yükte çalışması"
+    ],
+    "correctAnswer": "3) Bir çevrimde silindire püskürtülen yakıt miktarının normalden az olması"
+  },
+  {
+    "id": 20,
+    "testIndex": 42,
+    "question": "Yoğunluğu 15,5�C de 991 kg/m3 den yüksek olan atık yakıtların separasyonunda hangi sistem kullanılır?",
+    "options": [
+      "1) De Laval sistemi",
+      "2) Alfa Laval sistemi",
+      "3) Alcap sistemi",
+      "4) Mitsubishi sistemi",
+      "5) Brown Bovery sistemi"
+    ],
+    "correctAnswer": "3) Alcap sistemi"
+  }
+]

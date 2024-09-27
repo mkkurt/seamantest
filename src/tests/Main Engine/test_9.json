@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 8,
+    "question": "Ana makine olarak kullanılan, trank pistonlu bir dizel makinesinin yağ analizinde yüksek silika (silisyum dioksit) içeriği görülürse, bunun aşağıdakilerin hangisinden oluştuğunu düşünürsünüz?",
+    "options": [
+      "1) Uygun olmayan yakıt filtrasyonundan",
+      "2) Uygun olmayan hava filtrasyonundan",
+      "3) Aşırı silindir ceketi aşınmasından",
+      "4) Aşırı kompresyon segmanı aşınmasından",
+      "5) Yağlama yağı katkılarının zayıflamasından"
+    ],
+    "correctAnswer": "2) Uygun olmayan hava filtrasyonundan"
+  },
+  {
+    "id": 2,
+    "testIndex": 8,
+    "question": "Çalışmakta olan dizel türünden ana makinelerde palamar yataklarında oluşturulan yağ katmanının kalınlığı neye bağlıdır?",
+    "options": [
+      "1) Yatak özgül basıncına",
+      "2) Yağın viskozitesine",
+      "3) Makinenin devir sayısına",
+      "4) Yağlama yağının sıcaklığına",
+      "5) Yukardakilerin tümüne"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümüne"
+  },
+  {
+    "id": 3,
+    "testIndex": 8,
+    "question": "Dizel makinesinden alınan bir yağ örneğinin analiz raporundaki nötrleştirme sayısı, size neyi belirtir?",
+    "options": [
+      "1) Yanmayan mineral ve metalik katıların miktarını",
+      "2) Analiz edilen yağı nötrleştirmek için kullanılan miligram türünden potasyum hidroksiti",
+      "3) Analiz edilen örnekte ne tür bir asitin bulunduğunu",
+      "4) İşletme sırasında yağ tarafından ne kadar sülfirik asit emildiğini",
+      "5) İşletme sırasında, yağ tarafından ne kadar sülfüroz asit emildiğini"
+    ],
+    "correctAnswer": "2) Analiz edilen yağı nötrleştirmek için kullanılan miligram türünden potasyum hidroksiti"
+  },
+  {
+    "id": 4,
+    "testIndex": 8,
+    "question": "Yağlama yağı içindeki yanma ürünleri aşağıdakilerden hangisine sebep olabilir?",
+    "options": [
+      "1) Karıncalanma",
+      "2) Piting",
+      "3) Çamur",
+      "4) Sert vernik katmanı",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümü"
+  },
+  {
+    "id": 5,
+    "testIndex": 8,
+    "question": "Çevrede sıcaklık değişimleri sırasında, yağlama yağının viskozite değişimine direnci izlenenlerden hangisi ile belirtilir?",
+    "options": [
+      "1) API sayısı",
+      "2) Viskozite indeks numarası",
+      "3) Bome derecesi",
+      "4) Saybolt Furol saniye numarası",
+      "5) Saybolt Üniversal saniye numarası"
+    ],
+    "correctAnswer": "2) Viskozite indeks numarası"
+  },
+  {
+    "id": 6,
+    "testIndex": 8,
+    "question": "Çevre sıcaklığının büyük ölçüde değiştiği dizel makinelerinin yağlama yağı, izlenenlerden hangisi olmalıdır?",
+    "options": [
+      "1) Alçak viskozite indeksli olmalıdır",
+      "2) Yüksek viskozite indeksli olmalıdır",
+      "3) Yapısında aşırı miktarda katkı maddesi olmalıdır",
+      "4) Yapısında katkı maddesi bulunmamalıdır",
+      "5) Yapısında organometalik katık bulunmalıdır"
+    ],
+    "correctAnswer": "2) Yüksek viskozite indeksli olmalıdır"
+  },
+  {
+    "id": 7,
+    "testIndex": 8,
+    "question": "Eğer, bir dizel makinesinde kullanılan karter yağının analiz raporu yüksek oranda aşınmış demir metali içeriği gösteriyorsa, nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Bir yatağın korrozyonu",
+      "2) Yeterli olmayan hava filtrasyonu",
+      "3) Aşırı segman ve silindir layneri aşınması",
+      "4) Yağlama yağının aşırı soğutulması",
+      "5) O-ringlerin aşınması"
+    ],
+    "correctAnswer": "3) Aşırı segman ve silindir layneri aşınması"
+  },
+  {
+    "id": 8,
+    "testIndex": 8,
+    "question": "TBN değeri yağlama yağının hangi yeteneğini belirtir?",
+    "options": [
+      "1) Sıcaklıkla viskozitenin değişimine direnci",
+      "2) Emülsiyona direnci",
+      "3) Asitleri nötrleştirmeyi",
+      "4) Yüksek sıcaklıklarda oksitlenmeye direnci",
+      "5) Nötrleştirmeye karşı direnci"
+    ],
+    "correctAnswer": "3) Asitleri nötrleştirmeyi"
+  },
+  {
+    "id": 9,
+    "testIndex": 8,
+    "question": "Çalışmakta olan dizel makinelerinde ne zaman daha yüksek bir yağlama yağı basıncı görmeyi umut edersiniz?",
+    "options": [
+      "1) Soğuk iken boşta çalışmada",
+      "2) Sıcak iken boşta çalışmada",
+      "3) Sıcak iken tam yolda",
+      "4) Çok sıcak iken boşta çalışmada",
+      "5) Çok sıcak iken tam yolda"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 10,
+    "testIndex": 8,
+    "question": "Aşırı yüksek yağlama yağı sıcaklığı sonucu olarak oluşan yağ oksitlenmesi makine için neden zararlıdır?",
+    "options": [
+      "1) Daima yağ köpürmesi görülür",
+      "2) Büyük miktarda yağlama yağı tüketilir",
+      "3) Yağlama yağı vizkozitesi daima azalır",
+      "4) Çoğu zaman paslandıncı yan ürünler oluşur",
+      "5) 1 ve 2 oluşur"
+    ],
+    "correctAnswer": "4) Çoğu zaman paslandıncı yan ürünler oluşur"
+  },
+  {
+    "id": 11,
+    "testIndex": 8,
+    "question": "Dizel makinelerinde hangi durum, aşırı yağ tüketimine neden olur?",
+    "options": [
+      "1) Aşırı aşınmış ana yataklar",
+      "2) Aşırı kompresyon segmanı aşınması",
+      "3) Yüksek yağlama yağı viskozitesi",
+      "4) Alçak yağlama yağı sıcaklığı",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "4) Alçak yağlama yağı sıcaklığı"
+  },
+  {
+    "id": 12,
+    "testIndex": 8,
+    "question": "Bir dizel makinesinde yağlama yağı basıncının kaybolması, aşağıdakilerden hangisini harekete geçirir?",
+    "options": [
+      "1) Aşırı hız tribini",
+      "2) Görülür / Duyulur alarmı",
+      "3) Gemi alarmını",
+      "4) Yedek yağ deposunu",
+      "5) 3 ve 4'ü"
+    ],
+    "correctAnswer": "2) Görülür / Duyulur alarmı"
+  },
+  {
+    "id": 13,
+    "testIndex": 8,
+    "question": "Dizel makinelerinde kullanılan karter yağının analiz raporu, yağlama yağında aşırı kromat içeriği gösteriyorsa, nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Havanın filtrasyonu yeterli değildir",
+      "2) Yağlama yağına makine soğutma suyu karışmaktadır",
+      "3) Yağlama yağına yakıt karışmaktadır",
+      "4) Piston segmanları aşırı bir biçimde aşınmıştır",
+      "5) Silindir layneri aşırı bir şekilde aşınmıştır"
+    ],
+    "correctAnswer": "2) Yağlama yağına makine soğutma suyu karışmaktadır"
+  },
+  {
+    "id": 14,
+    "testIndex": 8,
+    "question": "Bir dizel makinesinde kullanılmakta olan deterjan türü yağlama yağının renginin siyah olması, aşağıdakilerden hangisinin belirtisidir?",
+    "options": [
+      "1) Yağın değiştirilmesi gerektiğinin",
+      "2) Yağın yakıtla kirletildiğinin",
+      "3) Yağa mineral asit karıştığının",
+      "4) Yağın normal durumda olduğunun",
+      "5) Yağın su ile kirletildiğinin"
+    ],
+    "correctAnswer": "4) Yağın normal durumda olduğunun"
+  },
+  {
+    "id": 15,
+    "testIndex": 8,
+    "question": "Dizel makinelerinde kullanılmamış temiz yağa göre, kullanılmakta olan yağın vizkozitenin hangi oranlarda değişmesi, karter yağının değiştirilmesine neden olmalıdır?",
+    "options": [
+      "1) %3 - % 5",
+      "2) %5 - %7",
+      "3) %5 - %15",
+      "4) %1 - %2",
+      "5) %2 - %3"
+    ],
+    "correctAnswer": "3) %5 - %15"
+  },
+  {
+    "id": 16,
+    "testIndex": 8,
+    "question": "Bir dizel makinesinin yağlama yağı hederindeki düşük basıncın sebebi, genel olarak ne olabilir?",
+    "options": [
+      "1) Basınç ayarlama valfı, yuvasında tutması nedeniyle kapalı",
+      "2) Makinede tıkalı yağ kanalı",
+      "3) Yağlama yağı kulerinde hava kaçağı",
+      "4) Yağ pompası emici tarafında hava kaçağı",
+      "5) Yukardakilerin herhangi biri"
+    ],
+    "correctAnswer": "4) Yağ pompası emici tarafında hava kaçağı"
+  },
+  {
+    "id": 17,
+    "testIndex": 8,
+    "question": "Gemi dizel makinelerinde kullanılan yağlama yağları ne zaman değiştirilmelidir?",
+    "options": [
+      "1) Her 2500 saatte bir",
+      "2) Her 4000 saatte bir",
+      "3) Her seferin dönüşünde",
+      "4) Yapımcı firmanın önerisiyle",
+      "5) Her 5000 saatte bir"
+    ],
+    "correctAnswer": "4) Yapımcı firmanın önerisiyle"
+  },
+  {
+    "id": 18,
+    "testIndex": 8,
+    "question": "Bir dizel makinesinde yağlama yağı sıcaklığı aşırı yüksek olduğu zaman aşağıdakilerden hangisi olur?",
+    "options": [
+      "1) Vizkozite yükselir",
+      "2) Yağ oksitlenir ve karbon birikintileri oluşur",
+      "3) Yağlama özellikleri gelişir",
+      "4) Makine yağ tüketimi azalır",
+      "5) Yağlama özellikleri gelişir"
+    ],
+    "correctAnswer": "2) Yağ oksitlenir ve karbon birikintileri oluşur"
+  },
+  {
+    "id": 19,
+    "testIndex": 8,
+    "question": "Ağır devirli, kroshetli ve atık yakıtlarla çalıştırılan bir dizel makinesinin silindir yağı, aşağıda belirtilen özelliklerden hangisine sahip olmalıdır?",
+    "options": [
+      "1) Alçak TBN'de",
+      "2) Yüksek alkalinlikte",
+      "3) Düşük alevlenme sıcaklığında",
+      "4) Yüksek akma noktasında",
+      "5) Düşük yoğunlukta"
+    ],
+    "correctAnswer": "2) Yüksek alkalinlikte"
+  },
+  {
+    "id": 20,
+    "testIndex": 8,
+    "question": "Dizel makinelerinde kullanılan yağlama yağlarında aşırı miktarda yakıt biriktiği zaman yapılması gereken ne olmalıdır?",
+    "options": [
+      "1) Yağlama yağı seperatörden geçirilmelidir",
+      "2) Yağlama yağı kendinden şoklu filtreden geçirilmelidir",
+      "3) Yağlama yağı çok küçük gözenekli streynerlerden geçirilmelidir",
+      "4) Yağlama yağı derhal değiştirilmelidir",
+      "5) Yağlama yağının seviyesi bir miktar azaltılmalıdır"
+    ],
+    "correctAnswer": "4) Yağlama yağı derhal değiştirilmelidir"
+  }
+]

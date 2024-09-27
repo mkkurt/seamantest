@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 19,
+    "question": "Eğer bir dizel makinesinde yağlama yağı ve soğutma suyu sıcaklıkları çok yüksek ise bunun sebebi nedir?",
+    "options": [
+      "1) Kirli yağlama yağı filtresi veya streyneri",
+      "2) Dahili su kaçakları",
+      "3) Yağ pompası alıcı tarafında kısıtlama",
+      "4) Soğutma suyu pompasının aşırı aşınması",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "4) Soğutma suyu pompasının aşırı aşınması"
+  },
+  {
+    "id": 2,
+    "testIndex": 19,
+    "question": "Bir dizel makinesinde hangi durum aşırı yağlama yağı tüketimine neden olur?",
+    "options": [
+      "1) Aşırı aşınmış ana yataklar",
+      "2) Kompresyon segmanlarının aşırı aşınması",
+      "3) Yüksek yağlama yağı viskozitesi",
+      "4) Alçak yağlama yağı sıcaklığı",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "2) Kompresyon segmanlarının aşırı aşınması"
+  },
+  {
+    "id": 3,
+    "testIndex": 19,
+    "question": "Bir dizel makinesinin ceket suyu sıcaklığının hızlı bir şekilde yükselmesinin nedeni ne olabilir?",
+    "options": [
+      "1) Omurga türü soğutucu deniz canlıları tarafından kirletilmiştir",
+      "2) Deniz suyu sistemindeki streyner tıkanmıştır",
+      "3) Ekspenşm tank taşmıştır",
+      "4) Soğutucuda aşırı deniz suyu hızı oluşmuştur",
+      "5) Yukardakilerin tümüdür"
+    ],
+    "correctAnswer": "2) Deniz suyu sistemindeki streyner tıkanmıştır"
+  },
+  {
+    "id": 4,
+    "testIndex": 19,
+    "question": "Yağlama yağının oksitlenmesi aşağıda belirtilenlerden hangisine neden olur?",
+    "options": [
+      "1) Karıncalanmaya",
+      "2) Pitinge",
+      "3) Çamur oluşumuna",
+      "4) Sert vernik katmanına",
+      "5) Yukardakilerin tümüne"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümüne"
+  },
+  {
+    "id": 5,
+    "testIndex": 19,
+    "question": "Bir dizel makinesinin silindirinde yakıtı tutuşturmak için gerekli ısı nasıl üretilir?",
+    "options": [
+      "1) Elektronik ateşleme sistemiyle",
+      "2) Havanın piston tarafından sıkıştırılmasıyla",
+      "3) Yakıt püskürtme valfının oluşturduğu sürtünme ile",
+      "4) Fuel oil ısıtma sistemiyle",
+      "5) Bir hava ısıtıcısıyla"
+    ],
+    "correctAnswer": "2) Havanın piston tarafından sıkıştırılmasıyla"
+  },
+  {
+    "id": 6,
+    "testIndex": 19,
+    "question": "Deııiz suyu sıcaklığı normal ve ekspenşm tankta su varsa, ana makine ceket suyu sıcaklığı neden normal değerinin üzerine çıkar?",
+    "options": [
+      "1) Soğutucudaki kalem çinkolar tükenmiştir",
+      "2) Termostatik baypas valf arızalıdır",
+      "3) Ekspenşın tankta stim oluşmaktadır",
+      "4) Ceket suyu pompası keçelerinden çok fazla kaçak oluşmaktadır",
+      "5) Soğutma suyu pompasının basıncı yükselmiştir"
+    ],
+    "correctAnswer": "2) Termostatik baypas valf arızalıdır"
+  },
+  {
+    "id": 7,
+    "testIndex": 19,
+    "question": "Makinede kullanılmakta olan deterjan türü yağlama yağının renginin siyah olması, neyin belirtisidir?",
+    "options": [
+      "1) Yağın değiştirilmesi gerektiğinin",
+      "2) Yağın yakıt ile kirletildiğinin",
+      "3) Yağa mineral asit karıştığının",
+      "4) Yağın normal durumda olduğunun",
+      "5) Yağın su ile kirletildiğinin"
+    ],
+    "correctAnswer": "4) Yağın normal durumda olduğunun"
+  },
+  {
+    "id": 8,
+    "testIndex": 19,
+    "question": "Soğutma suyu sıcaklığının yüksek olmasının sebebi, aşağıdakilerden hangisi olabilir?",
+    "options": [
+      "1) Soğutma sisteminde hava",
+      "2) Bakımı yapılmış pompa",
+      "3) Uygun miktarda soğutma suyu",
+      "4) Soğutma sisteminde hava bulunmaması",
+      "5) Termostatın düzgün çalışması"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 9,
+    "testIndex": 19,
+    "question": "Bir kaç saatlik çalışmadan sonra, bir dizel makinesinde kullanılan yeni yağın renginin koyulaşması neyin göstergesidir?",
+    "options": [
+      "1) Yağlama yağının separatör gerektirdiğinin",
+      "2) Yağın yağlama özelliklerinin kaybolduğunun",
+      "3) Yağın normal olarak görevini yerine getirdiğinin",
+      "4) Normal çalışma sıcaklığının aşıldığının",
+      "5) Yağın viskozitesinin yükseldiğinin"
+    ],
+    "correctAnswer": "3) Yağın normal olarak görevini yerine getirdiğinin"
+  },
+  {
+    "id": 10,
+    "testIndex": 19,
+    "question": "Bir gemi diesel makinesinde yakıt püskürtme ve yakıtın kendiliğinden tutuşması sırasında makine krankşafü ne kadar döner?",
+    "options": [
+      "1) Vuruntu kadar",
+      "2) Yanma süresi kadar",
+      "3) Genişleme süresi kadar",
+      "4) Tutuşma gecikmesi kadar",
+      "5) Püskürtme gecikmesi kadar"
+    ],
+    "correctAnswer": "4) Tutuşma gecikmesi kadar"
+  },
+  {
+    "id": 11,
+    "testIndex": 19,
+    "question": "Eğer bir dizel makinesinin silindirlerinden birinde hatalı bir yanma meydana geliyor, ise bundan makinenin hangi sistemi sorumludur?",
+    "options": [
+      "1) Yağlama sistemi",
+      "2) Soğutma sistemi",
+      "3) Elektrikli ateşleme devresi",
+      "4) Yakıt sistemi",
+      "5) İlk hareket sistemi"
+    ],
+    "correctAnswer": "4) Yakıt sistemi"
+  },
+  {
+    "id": 12,
+    "testIndex": 19,
+    "question": "Ağır devirli ana makinelerde deniz suyu doğrudan aşağıdakilerden hangisini soğutur?",
+    "options": [
+      "1) Silindir başlığı veya kaverleri",
+      "2) Egzoz valflarını",
+      "3) Süperşarj havasını",
+      "4) Enjketörleri",
+      "5) Pistonları"
+    ],
+    "correctAnswer": "3) Süperşarj havasını"
+  },
+  {
+    "id": 13,
+    "testIndex": 19,
+    "question": "Dizel makinelerinde yağlama yağının yakıt ile kirletilmesi, aşağıdakilerden hangisine neden olur?",
+    "options": [
+      "1) Viskozite azalır",
+      "2) Akma noktası düşer",
+      "3) Alevlenme noktası yükselir",
+      "4) Viskozite yükselir",
+      "5) Bulut noktası oluşur"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 14,
+    "testIndex": 19,
+    "question": "Yağlama yağına %7 den fazla yakıt karıştığı zaman yapılması gereken ne olmalıdır?",
+    "options": [
+      "1) Yağlama yağı separatörden geçirilmelidir",
+      "2) Yağlama yağı kendinden şoklu filtrelerden geçirilmelidir",
+      "3) Yağlama yağı çok küçük gözenekli streynerden geçirilmelidir",
+      "4) Yağlama yağı değiştirilmelidir",
+      "5) Yağlama yağma temiz yağ katılmalıdır"
+    ],
+    "correctAnswer": "4) Yağlama yağı değiştirilmelidir"
+  },
+  {
+    "id": 15,
+    "testIndex": 19,
+    "question": "Bir dizel makinesinin silindirlerinde yakıt vurumtusu oluşmasının sebebi nedir?",
+    "options": [
+      "1) Tutuşma gecikmesi sürecinin kısalması",
+      "2) Fakir hava-yakıt karışımı",
+      "3) Yakıtın silindire çok erken püskürtülmesi",
+      "4) Yanma odasında aşırı miktarda yakıt",
+      "5) Yakıt küreciklerinin çok hızlı buharlaşması"
+    ],
+    "correctAnswer": "3) Yakıtın silindire çok erken püskürtülmesi"
+  },
+  {
+    "id": 16,
+    "testIndex": 19,
+    "question": "Silindir ceketine elektrikli bir ısıtıcı donatılmasının sebebi nedir?",
+    "options": [
+      "1) Yağlama yağının viskozitesini yükselterek ilk hareket kolaylığı sağlamaktır",
+      "2) Giriş havası sıcaklığını yükseltmektir",
+      "3) Soğuk havalarda kolay ilk hareket için ceket suyu sıcaklığını artırmaktır",
+      "4) Kompresyon oranının yükseltmektir",
+      "5) Maksimum basıncı geliştirmektir"
+    ],
+    "correctAnswer": "3) Soğuk havalarda kolay ilk hareket için ceket suyu sıcaklığını artırmaktır"
+  },
+  {
+    "id": 17,
+    "testIndex": 19,
+    "question": "Bir gemi dizelinde kullanılmakta olan yağlama yağının değiştirilmesi süresi, aşağıda belirtilenlerden hangisine göre gerçekleştirilir?",
+    "options": [
+      "1) 2500 saatte bir",
+      "2) 4000 saatte bir",
+      "3) Her sefer dönüşünde",
+      "4) 5000 saatte bir",
+      "5) Makineyi yapan firmanın önerisine göre"
+    ],
+    "correctAnswer": "5) Makineyi yapan firmanın önerisine göre"
+  },
+  {
+    "id": 18,
+    "testIndex": 19,
+    "question": "Herhangi bir dizel makinesinde soğutma suyu sisteminde, en yüksek basınç nerede görülür?",
+    "options": [
+      "1) Ekspenşın tankın atmosferik taşıntı borusunda",
+      "2) Soğutma suyu pompası çıkışında",
+      "3) Soğutucunun çıkışında",
+      "4) Soğutma suyu pompasının girişinde",
+      "5) Soğutucunun girişinde"
+    ],
+    "correctAnswer": "2) Soğutma suyu pompası çıkışında"
+  },
+  {
+    "id": 19,
+    "testIndex": 19,
+    "question": "Gemi dizel makinelerinde yaygın olarak kapalı soğutma sistemi kullanılmasının sebebi nedir?",
+    "options": [
+      "1) Su ıslahı gereği yoktur",
+      "2) Soğutma suyu sıcaklık farkı daha yüksektir",
+      "3) Soğutma suyu pompası doğrudan tornistanlıdır",
+      "4) Ceket suyu sıcaklığı kolayca denetlenebilir",
+      "5) Kışır oluşumu tehlikesi yoktur"
+    ],
+    "correctAnswer": "4) Ceket suyu sıcaklığı kolayca denetlenebilir"
+  },
+  {
+    "id": 20,
+    "testIndex": 19,
+    "question": "Dizel makinelerinde tutuşma gecikmesinin standart boyu kaç derecedir?",
+    "options": [
+      "1) 25°K",
+      "2) 20°K",
+      "3) 13°K",
+      "4) 10°K",
+      "5) 5 °K"
+    ],
+    "correctAnswer": "3) 13°K"
+  }
+]

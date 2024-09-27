@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 12,
+    "question": "Atık ısı kazanlarına gaz baypası donatılmasının sebebi nedir?",
+    "options": [
+      "1) Aşırı karşı basınca engel olmak amacıyla yüksek yüklerde egzoz gazını baypas etmek",
+      "2) Daha iyi genel verim için maksimum yüklerde egzoz gazının bir bölümünü baypas etmek",
+      "3) Egzoz gazmı yeniden türboşarjere vermek için",
+      "4) Düşük yüklerde gaz kanallarında nemin yoğuşmasmı en aza indirmek için",
+      "5) Baca gazlarının sıcaklığını 100°C nin altına düşürmek için"
+    ],
+    "correctAnswer": "4) Düşük yüklerde gaz kanallarında nemin yoğuşmasmı en aza indirmek için"
+  },
+  {
+    "id": 2,
+    "testIndex": 12,
+    "question": "Dört zamanlı bir dizel makinesinin egzoz karşı basıncında herhangi bir yükselme, aşağıda verilenlerden hangisinin uygulanmasına neden olur?",
+    "options": [
+      "1) Makinenin güç verdisi azaltılır",
+      "2) Ortalama efektif basınç yükseltilir",
+      "3) Endike ortalama basınç yükseltilir",
+      "4) Etkili bir silindir süpürülmesi sağlanır",
+      "5) Yukardakilerin tümü uygulanır"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 3,
+    "testIndex": 12,
+    "question": "Dört stroklu, 500 beygirgücünde V-12 dizel makinesi normal yük altında çalışması sırasında maksimum yanma basıncı düşük ve egzoz gaz sıcaklıkları yüksektir. Bu durumun sebebi, büyük bir çoğunlukla, aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Yakıt rakı çok uzakta",
+      "2) Giriş havası filtresi kaybolmuş",
+      "3) Yüksek karşı basınç",
+      "4) Yakıt rakı çok yakında",
+      "5) Yakıt püskürtme basıncı yüksek"
+    ],
+    "correctAnswer": "3) Yüksek karşı basınç"
+  },
+  {
+    "id": 4,
+    "testIndex": 12,
+    "question": "Otto çevrimiyle çalışan bir makinede kompresyon oranı 7,5 olduğuna göre, sözü edilen makinenin termodinamik veriminin sayısal değeri nedir?",
+    "options": [
+      "1) 0,5723",
+      "2) 0,5623",
+      "3) 0,5523",
+      "4) 0,5423",
+      "5) 0,5323"
+    ],
+    "correctAnswer": "2) 0,5623"
+  },
+  {
+    "id": 5,
+    "testIndex": 12,
+    "question": "Çift yanmalı veya Sabathe çevrimi ile çalıştırılan bir dizel makinesinde genişleme oranı 12, genişleme politrop üssü 1,3 dür. Maksimum sıcaklık 1470 �C olduğuna göre sözü edilen makinede genişleme sonu sıcaklığı kaç selsiyüs derece olacaktır?",
+    "options": [
+      "1) 527°C",
+      "2) 507°C",
+      "3) 557°C",
+      "4) 587°C",
+      "5) 627°C"
+    ],
+    "correctAnswer": "3) 557°C"
+  },
+  {
+    "id": 6,
+    "testIndex": 12,
+    "question": "Bir dizei makinesinde aşırı karşı basıncın sebebi ne olabilir?",
+    "options": [
+      "1) Egzoz manifoldunda karbonumsu madde yığılması",
+      "2) Egzoz manifoldunun aşırı soğutulması",
+      "3) Kıvılcım tutucu perdelerinin aşınması",
+      "4) Yüksek püskürtme basıncı",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 7,
+    "testIndex": 12,
+    "question": "Genişleme oranı 10, gneşileme politrop üssü 1,285, sıkıştırma basıncı 57 bar ve basınç artması oranı 1,5 olan ve çift yanmalı çevrimle çalıştırılan bir makinede genişleme sonundaki basmç kaç bar olacaktır?",
+    "options": [
+      "1) 5,43 bar",
+      "2) 4,43 bar",
+      "3) 6,43 bar",
+      "4) 3,43 bar",
+      "5) 2,43 bar"
+    ],
+    "correctAnswer": "2) 4,43 bar"
+  },
+  {
+    "id": 8,
+    "testIndex": 12,
+    "question": "Toplam en az ağırlığı sürdürme sırasında maksimum ısı transferi elde etmek için atık ısı kazanlarının dizaynında hangi yöntem kullanılır?",
+    "options": [
+      "1) Besleme (fid) suyuna ayrı fayraplı bir ekonomizörde ön ısıtma uygulanır",
+      "2) Kazanın üzerine, gaz kanallarına bir dış süper'niyter yerleştirilir",
+      "3) Isı transferi miktarını çoğaltmak için yanmasız bir egzoz gaz prehiyteri ilave edilir",
+      "4) Etkili ısıtma yüzeyini çoğaltmak için üretim borularına çelik disk veya kanatlar donatılır",
+      "5) 1 ve 2 sağlanır"
+    ],
+    "correctAnswer": "4) Etkili ısıtma yüzeyini çoğaltmak için üretim borularına çelik disk veya kanatlar donatılır"
+  },
+  {
+    "id": 9,
+    "testIndex": 12,
+    "question": "Türboşarjlı, dört zamanlı bir dizel makinesinde tüm silindirlerin egzoz sıcaklıklarının yüksek olmasının nedeni ne olabilir?",
+    "options": [
+      "1) Yeterli olmayan yakıt",
+      "2) Çalışmayan türboşarjer",
+      "3) Bir silindirde aşırı yük",
+      "4) Eşit olmayan yük dağılımı",
+      "5) Normal kompresyon basıncı"
+    ],
+    "correctAnswer": "2) Çalışmayan türboşarjer"
+  },
+  {
+    "id": 10,
+    "testIndex": 12,
+    "question": "Endike ortalama basıncı 14,5 bar, mekanik verimi 0,85 olan dört bir dizel makinesinin mekanik kayıplarının ortalama basıncı, aşağıda verilen değerlerden hangsidir?",
+    "options": [
+      "1) 2,175 bar",
+      "2) 3,175 bar",
+      "3) 4,175 bar",
+      "4) 1,175 bar",
+      "5) 5,175 bar"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 11,
+    "testIndex": 12,
+    "question": "Piston stroku 800 mm ve ölü hacim klerensi 60 mm olan bir dizel makinesinin sıkıştırma oranı, aşağıdaki sayısal değerlerden hangisidir?",
+    "options": [
+      "1) 14,63",
+      "2) 14,53",
+      "3) 14,33",
+      "4) 13,33",
+      "5) 12,33"
+    ],
+    "correctAnswer": "3) 14,33"
+  },
+  {
+    "id": 12,
+    "testIndex": 12,
+    "question": "Modern iki stroklu, ağır devirli bir dizel makinesinin kuramsal çevriminden teorik ortalama basınç 12,93 bar bulunmuştur. Kayıp stroku 0,17, iyileştirme derecesi 0,97 ve mekanik verimi 0,90 olan bu makinede fren ortalama basıncı kaç bar olacaktır?",
+    "options": [
+      "1) 10,37 bar",
+      "2) 9,37 bar",
+      "3) 8,37 bar",
+      "4) 11,37 bar",
+      "5) 12,37 bar"
+    ],
+    "correctAnswer": "2) 9,37 bar"
+  },
+  {
+    "id": 13,
+    "testIndex": 12,
+    "question": "Yardımcı bir dizel makinesinde yüksek egzoz sıcaklığı ve siyah egzoz dumanı meydana gelmesinin sebebi nedir?",
+    "options": [
+      "1) Alçak yanma sıcaklığı",
+      "2) Makinenin aşırı yükü",
+      "3) Enjektör meme deliklerinin tıkanması",
+      "4) Aşırı kompresyon basıncı",
+      "5) Normal kompresyon sıcaklığı"
+    ],
+    "correctAnswer": "2) Makinenin aşırı yükü"
+  },
+  {
+    "id": 14,
+    "testIndex": 12,
+    "question": "Kompresyon oram 13/1 ve ölü hacim klerensi 80 mm olan bir dizel makinesinin piston stroku kaç mm dir?",
+    "options": [
+      "1) 1060 mm",
+      "2) 960 mm",
+      "3) 860 mm",
+      "4) 760 mm",
+      "5) 1160 mm"
+    ],
+    "correctAnswer": "2) 960 mm"
+  },
+  {
+    "id": 15,
+    "testIndex": 12,
+    "question": "Atık ısı kazanları kullanımının başlıca veya birincil amacı nedir?",
+    "options": [
+      "1) Makinenin egzoz gürültüsünü azaltmak",
+      "2) Atmosfere atılacak kayıp ısıdan yararlanmak",
+      "3) Makinenin karşı basıncını azaltmak",
+      "4) Egzoz gazlarında kıvılcıma engel olmak",
+      "5) Türboşarjer verimini yükseltmek"
+    ],
+    "correctAnswer": "2) Atmosfere atılacak kayıp ısıdan yararlanmak"
+  },
+  {
+    "id": 16,
+    "testIndex": 12,
+    "question": "Sinüs alev borulu bazı atık ısı kazanlarının tasarımından amaç nedir?",
+    "options": [
+      "1) Kazan içinde egzoz gazının hızını çoğaltmak",
+      "2) Isı transfer yüzeylerinde karbonumsu madde yığılmalarını azaltmak",
+      "3) Isıtma yüzeylerinde kül birikimine engel olmak",
+      "4) Egzoz gazı gürültüsünü azaltmak",
+      "5) Su tarafına olan ısı transfer miktarını çoğaltmak"
+    ],
+    "correctAnswer": "5) Su tarafına olan ısı transfer miktarını çoğaltmak"
+  },
+  {
+    "id": 17,
+    "testIndex": 12,
+    "question": "Sıkıştırma oranı 15,8 olan dört stroklu süperşarjlı bir makinede sıkıştırma başlangıcındaki basmç 2,5 bar, sıkıştırmanın politrop üssü 1,39 ve basınç artması oranı 1,5 olduğuna göre maksimum basınç kaç bar olacaktır?",
+    "options": [
+      "1) 173,84 bar",
+      "2) 163,84 bar",
+      "3) 183,84 bar",
+      "4) 168,84 bar",
+      "5) 193,84 bar"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 18,
+    "testIndex": 12,
+    "question": "Çift yanmalı bir çevrimde sıkıştırma başlangıcında silindirdeki sıcaklık 54 �C, kompresyon oranı 14,6/1 ve sıkıştırmanın politrop üssü 1,385 olduğuna göre sıkıştırma sıcaklığı kaç selsiyüs derece olacaktır?",
+    "options": [
+      "1) 744,95°C",
+      "2) 644,95°C",
+      "3) 544,95°C",
+      "4) 844,95°C",
+      "5) 444,95°C"
+    ],
+    "correctAnswer": "2) 644,95°C"
+  },
+  {
+    "id": 19,
+    "testIndex": 12,
+    "question": "Bir dizel makinesi, tüm silindirlerinde aşırı yüksek egzoz sıcaklığı ile çalışmaktadır. Bu durumu düzeltmek için ne yapılmalıdır?",
+    "options": [
+      "1) Makinenin yükü azaltılır",
+      "2) Soğutma suyu akımı çoğaltılır",
+      "3) Yağlama yağı basıncı yükseltilir",
+      "4) Yakıt rakı ayarlanır",
+      "5) Makinenin yükü çoğaltılır"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 20,
+    "testIndex": 12,
+    "question": "Çift yanmalı bir kuramsal çevrimde sıkıştırma oranı 13,81, basınç artması oranı 1,75, katof veya ön genişleme oranı 1,25 olduklarına göre, termodinamik çevrimin sayısal değeri aşağıdakilerden hangisidir?",
+    "options": [
+      "1) 0,6713",
+      "2) 0,6613",
+      "3) 0,6513",
+      "4) 0,6413",
+      "5) 0,6313"
+    ],
+    "correctAnswer": "3) 0,6513"
+  }
+]

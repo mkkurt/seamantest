@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 4,
+    "question": "Fid(besi) suyunun kazanlara verilmesini sağlayan valf aşağıda belirtilen valflardan hangisidir?",
+    "options": [
+      "1) Glob valf",
+      "2) Çalpara valf",
+      "3) Sülüs valf",
+      "4) Stop çek valf",
+      "5) Redyusin valf"
+    ],
+    "correctAnswer": "4) Stop çek valf"
+  },
+  {
+    "id": 2,
+    "testIndex": 4,
+    "question": "Gemilerin sintine kuyularında toplanan kirli ve yağlı sulan kirli su tankına basan pompalara ne ad verilir?",
+    "options": [
+      "1) Balast pompası",
+      "2) Sintine pompası",
+      "3) Servis pompası",
+      "4) Dolaşım pompası",
+      "5) Yangın pompası"
+    ],
+    "correctAnswer": "2) Sintine pompası"
+  },
+  {
+    "id": 3,
+    "testIndex": 4,
+    "question": "Elektrik yangınında hangi tip söndürücü ile müdahale edilmelidir?",
+    "options": [
+      "1) Kuru toz",
+      "2) Sıvı oksijen",
+      "3) Karbon dioksit",
+      "4) Katı su",
+      "5) Pülverize su"
+    ],
+    "correctAnswer": "3) Karbon dioksit"
+  },
+  {
+    "id": 4,
+    "testIndex": 4,
+    "question": "Gemilerin sintinelerindeki yağlı ve kirli sular aşağıdaki tanklardan hangisine basılır?",
+    "options": [
+      "1) Yağlı ve kirli su tankına",
+      "2) Dabıl botum tanklarından birine",
+      "3) Dışkı tankına",
+      "4) Baş pik tankına",
+      "5) Kıç pik tankına"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 5,
+    "testIndex": 4,
+    "question": "Devir hareketli pompalar aşağıdakilerden hangisi olarak kullanılmazlar?",
+    "options": [
+      "1) Sıvı yakacakların pompalanması",
+      "2) Yağ tanklarının drenaj pompası",
+      "3) Yağ aktarma pompası",
+      "4) Vakum pompası",
+      "5) Besleme suyu pompası"
+    ],
+    "correctAnswer": "5) Besleme suyu pompası"
+  },
+  {
+    "id": 6,
+    "testIndex": 4,
+    "question": "Servis havası sisteminde basıncı ayarlayan elemanın adı nedir?",
+    "options": [
+      "1) Orifis",
+      "2) Filitre",
+      "3) Redyusin valf",
+      "4) Hava tüpü çıkış valf",
+      "5) Hava kompresörü emniyet valf"
+    ],
+    "correctAnswer": "3) Redyusin valf"
+  },
+  {
+    "id": 7,
+    "testIndex": 4,
+    "question": "Gemilerin rotalarında gidebilmeleri için dümen yekesine kumanda eden makine aşağıda belirtilenlerden hangisidir?",
+    "options": [
+      "1) Ana makine yardımcısı",
+      "2) Dümen donanımı",
+      "3) Dümen makinesi",
+      "4) Baş ırgat",
+      "5) Kıç ırgat"
+    ],
+    "correctAnswer": "3) Dümen makinesi"
+  },
+  {
+    "id": 8,
+    "testIndex": 4,
+    "question": "Ambar sintineleri alıcı devre valfının özelliği aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Küresel valf",
+      "2) Glob valf",
+      "3) Sülüs valf",
+      "4) Stop çek valf",
+      "5) Musluk valf"
+    ],
+    "correctAnswer": "4) Stop çek valf"
+  },
+  {
+    "id": 9,
+    "testIndex": 4,
+    "question": "Stern tüp veya kovan salmastra kutusunda kullanılan salmastralar aşağıda belirtilenlerden hangisidir?",
+    "options": [
+      "1) Graftili salmastra",
+      "2) Yapay kauçuk salmastra",
+      "3) Don yağlı salmastra",
+      "4) Pamuk salmastra",
+      "5) Yumuşak lastik salmastra"
+    ],
+    "correctAnswer": "3) Don yağlı salmastra"
+  },
+  {
+    "id": 10,
+    "testIndex": 4,
+    "question": "Basit düz dişli bir pompada eş çalışan dişli sayısı aşağıdakilerden hangisidir?",
+    "options": [
+      "1) 2 adet",
+      "2) 4 adet",
+      "3) 1 adet",
+      "4) 3 adet",
+      "5) Hepsi olabilir"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 11,
+    "testIndex": 4,
+    "question": "Gemilerde kullanılan kinistin valfı aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Glob valf",
+      "2) Geyt valf",
+      "3) Kelebek valf",
+      "4) Musluk valf",
+      "5) Çalpara valf"
+    ],
+    "correctAnswer": "2) Geyt valf"
+  },
+  {
+    "id": 12,
+    "testIndex": 4,
+    "question": "Disüperhierler için aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "1) Buhar dramı içinde bulunur",
+      "2) Süperhiterden gelen buharın sıcaklığını azaltır",
+      "3) Yardımcı sistemler için doymuş buhar üretilir",
+      "4) Süperhiteri kontrolsüz kazanlarda bulunur",
+      "5) Süperhiteri kontrollü kazanlarda bulunur"
+    ],
+    "correctAnswer": "5) Süperhiteri kontrollü kazanlarda bulunur"
+  },
+  {
+    "id": 13,
+    "testIndex": 4,
+    "question": "Ocağa su duvarı borularını yerleştirmenin avantajı aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Ocak boyutlarının artması",
+      "2) Ocak sıcaklığının düşmesi",
+      "3) Yanma oranının düşmesi",
+      "4) Ocak tuğlalarının bakım onarım masrafının düşmesi",
+      "5) Gaz sirkülasyonunu iyileşmesi"
+    ],
+    "correctAnswer": "4) Ocak tuğlalarının bakım onarım masrafının düşmesi"
+  },
+  {
+    "id": 14,
+    "testIndex": 4,
+    "question": "Aşağıdakilerden hangisi bir conta çeşidi değildir?",
+    "options": [
+      "1) Klingerit",
+      "2) Lastik",
+      "3) Mantar",
+      "4) Teflon",
+      "5) Naylon"
+    ],
+    "correctAnswer": "5) Naylon"
+  },
+  {
+    "id": 15,
+    "testIndex": 4,
+    "question": "Gemi filikalarının vira ve maynasını sağlayan makinelere ne ad verilir?",
+    "options": [
+      "1) Yük vinci",
+      "2) Matafora",
+      "3) Irgat",
+      "4) Lift",
+      "5) Kreyn"
+    ],
+    "correctAnswer": "2) Matafora"
+  },
+  {
+    "id": 16,
+    "testIndex": 4,
+    "question": "Gücü ve türü ne olursa olsun, pervane çeviren makineler aşağıdaki sınıflardan hangisine girer?",
+    "options": [
+      "1) Gemi yardımcı makineleri",
+      "2) Ana makine yardımcıları",
+      "3) Güverte yardımcıları",
+      "4) Ana makineler",
+      "5) Dümen makineleri"
+    ],
+    "correctAnswer": "4) Ana makineler"
+  },
+  {
+    "id": 17,
+    "testIndex": 4,
+    "question": "Demir palamar donanımlarından istenen özellikler aşağıdakilerden hangisi olamaz?",
+    "options": [
+      "1) İşletmede güvenli olmak",
+      "2) Ekonomiklik",
+      "3) Tam yükte yumuşak bir ilk hareket",
+      "4) Büyük ağırlık ve güvertede fazla bir kaplama",
+      "5) Elverişli kontrol düzgün çalışma ve hız ayarının sağlaması"
+    ],
+    "correctAnswer": "4) Büyük ağırlık ve güvertede fazla bir kaplama"
+  },
+  {
+    "id": 18,
+    "testIndex": 4,
+    "question": "Yağ-yakıt separatörlerinin çalışma prensibi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) İtme",
+      "2) Çekme",
+      "3) Gerileme",
+      "4) Merkezkaç",
+      "5) Erime"
+    ],
+    "correctAnswer": "4) Merkezkaç"
+  },
+  {
+    "id": 19,
+    "testIndex": 4,
+    "question": "Aşağıdakilerden hangileri kazan dış donanımı değildir?",
+    "options": [
+      "1) Ana buhar stop valfı",
+      "2) Hava firar valfı",
+      "3) Tefsiye şişeleri",
+      "4) Emniyet valfları",
+      "5) Vorteks giderici"
+    ],
+    "correctAnswer": "5) Vorteks giderici"
+  },
+  {
+    "id": 20,
+    "testIndex": 4,
+    "question": "Santrifüj pompalarda hızın düşerek basıncın artması olayına ne ad verilir?",
+    "options": [
+      "1) Operasyon",
+      "2) Osilasyon",
+      "3) Reküperasyon",
+      "4) Otomasyon",
+      "5) Kompresyon"
+    ],
+    "correctAnswer": "3) Reküperasyon"
+  }
+]

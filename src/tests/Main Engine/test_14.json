@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 13,
+    "question": "Bir dizel makinesinden gelen mavimsi duman, aşağıdakilerden hangisinin belirtisidir?",
+    "options": [
+      "1) Su ile kirletilmiş yakıtın",
+      "2) Yüksek viskoziteli yakıtın",
+      "3) Aşırı silindir yağlamasının",
+      "4) Düşük viskoziteli yakıtın",
+      "5) Yakıt içindeki katkıların yanmasının"
+    ],
+    "correctAnswer": "3) Aşırı silindir yağlamasının"
+  },
+  {
+    "id": 2,
+    "testIndex": 13,
+    "question": "Bir dizel makinesinde 1 saatte, alt ısı değeri 4,4.10(4) kJ/kg olan 750 kg yakıt yakılmakta ve oluşan ısının %47 si faydalı işe dönüştürülmektedir. Faydalı işe dönüştürülen ısı miktarı nedir?",
+    "options": [
+      "1) 17 510 000 kJ/saat",
+      "2) 16 510 000 kJ/saat",
+      "3) 15 510 000 kJ/saat",
+      "4) 13 510 000 kJ/saat",
+      "5) 14 510 000 kJ/saat"
+    ],
+    "correctAnswer": "3) 15 510 000 kJ/saat"
+  },
+  {
+    "id": 3,
+    "testIndex": 13,
+    "question": "Hangi türdeki bir dizel makinesi tarafından çalıştırıldığında, bir atık ısı kazanı maksimum su buharı üretir?",
+    "options": [
+      "1) Aşırı doldurmalı ve dört stroklu",
+      "2) Aşırı doldurmak ve ilmek süpürmeli",
+      "3) Torboşarjlı ve dört stroku",
+      "4) Torboşarjlı ve çek valflı",
+      "5) Süperşarjlı dönüş akımlı"
+    ],
+    "correctAnswer": "3) Torboşarjlı ve dört stroku"
+  },
+  {
+    "id": 4,
+    "testIndex": 13,
+    "question": "Bir dizel motorunun egzoz gazındaki mavimsi duman, aşağıda verilenlerden hangisinin göstergesidir?",
+    "options": [
+      "1) Alçak yanma sıcaklığının",
+      "2) Zayıf yanmanın",
+      "3) Yağ yakılmasının",
+      "4) Alçak kompresyon sıcaklığının",
+      "5) Alçak sıkıştırma basıncının"
+    ],
+    "correctAnswer": "3) Yağ yakılmasının"
+  },
+  {
+    "id": 5,
+    "testIndex": 13,
+    "question": "Makinede aşırı titreşimin üretildiği işletme hızı aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Harmonik olmayan hız",
+      "2) Kritik hız",
+      "3) Maksimum hız",
+      "4) Dizayn maksimum hızı",
+      "5) Çevre hızı"
+    ],
+    "correctAnswer": "2) Kritik hız"
+  },
+  {
+    "id": 6,
+    "testIndex": 13,
+    "question": "Motorlu gemilere atık ısı kazanı donatılmasının sebebi nedir?",
+    "options": [
+      "1) Emercensi yürütme (propulsiyon) için su buharı sağlamak",
+      "2) Bir türbojeneratörü çalıştırmak",
+      "3) Atık su tanklarına ısı sağlamak",
+      "4) Makineyi ısıtmak için su buharı sağlamak",
+      "5) 3 ve 4'ü temin etmek"
+    ],
+    "correctAnswer": "2) Bir türbojeneratörü çalıştırmak"
+  },
+  {
+    "id": 7,
+    "testIndex": 13,
+    "question": "Bir gemi dizel makinesinde viskoz damper veya söndürücü, hangi parçanın burulma titreşimlerini söndürmek için kullanılır?",
+    "options": [
+      "1) Kemşaftın",
+      "2) Volanın",
+      "3) Krankşaftın",
+      "4) Srast şaftın",
+      "5) Ara şaftların"
+    ],
+    "correctAnswer": "3) Krankşaftın"
+  },
+  {
+    "id": 8,
+    "testIndex": 13,
+    "question": "Eğer dizel makineniz % 20 aşırı yükte ve dumanlı egzoz ile çalışıyorsa, yapılması gereken nedir?",
+    "options": [
+      "1) Hasarı önlemek için makine derhal stop edilmelidir",
+      "2) Makinenin bu durumda en az 40 dakika kadar çalışmasına için verilmelidir",
+      "3) Yağlama yağı basıncı yükseltilmelidir",
+      "4) Yükünü azaltmak ve yavaş yavaş soğumasını sağlamak için devir sayısı düşürülmelidir",
+      "5) Silindir ceketindeki soğutma suyu sıcaklığı düşürülmelidir"
+    ],
+    "correctAnswer": "4) Yükünü azaltmak ve yavaş yavaş soğumasını sağlamak için devir sayısı düşürülmelidir"
+  },
+  {
+    "id": 9,
+    "testIndex": 13,
+    "question": "Bir dizel makinesinde 1 saatte, alt ısı değeri 10(4) kkal/kg. olan 460 kg. yakıt yakılmakta ve oluşan ısının %28'i egzoz gazları tarafından götürülmektedir. Bu verilere göre egzoz gazlan ile egzoz gaz türbinine iletilen ısı miktarı kaç kJ/saat olacaktır?",
+    "options": [
+      "1) 5 891 568 kJ/saat",
+      "2) 5 391 568 kJ/saat",
+      "3) 4 891 568 kJ/saat",
+      "4) 4 391 568 kJ/saat",
+      "5) 6 391 568 kJ/saat"
+    ],
+    "correctAnswer": "2) 5 391 568 kJ/saat"
+  },
+  {
+    "id": 10,
+    "testIndex": 13,
+    "question": "Bir dizel makinesinden gelen siyah, dumanlı egzozdan hangisi sorumludur?",
+    "options": [
+      "1) Uygun yakıt püskürtme",
+      "2) Yakıtta suyun varlığı",
+      "3) Yakıtta organik asitler",
+      "4) Zayıf veya yeterli olmayan hava ile yanma",
+      "5) Silindirlerde yağlama yağının yakılması"
+    ],
+    "correctAnswer": "4) Zayıf veya yeterli olmayan hava ile yanma"
+  },
+  {
+    "id": 11,
+    "testIndex": 13,
+    "question": "Bir atık ısı kazanı tarafından geliştirilen maksimum su buharı basıncı, egzoz gazının hangi niteliğine bağlıdır?",
+    "options": [
+      "1) Gaz karışımının yapışma",
+      "2) Gazın sıcaklığına",
+      "3) Basıncına",
+      "4) Özgül hacmine",
+      "5) Zamanlamasına"
+    ],
+    "correctAnswer": "2) Gazın sıcaklığına"
+  },
+  {
+    "id": 12,
+    "testIndex": 13,
+    "question": "Çalışmakta olan bir dizel makinesinden gelen bazı kritik hızları azaltmak ve olası hasara engel olmak için aşağıdakilerden hangisi kullanılır?",
+    "options": [
+      "1) Hidrolik bir gavörnör",
+      "2) Elastik veya esnek kaplin",
+      "3) Titreşim söndürücü veya titreşim damperi",
+      "4) Esnek nitelikli dökme demirden yapılmış alt karter",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "3) Titreşim söndürücü veya titreşim damperi"
+  },
+  {
+    "id": 13,
+    "testIndex": 13,
+    "question": "Bir dizel makinesinin ısı hesaplarında, bir kilogram yakıtın yanması sonucu 0,835 mol egzoz gazı oluştuğu anlaşılmıştır. Sözü edilen makinede saatte 580 kg yakıt yakıldığına göre, bir saatte kaç m3 egzoz gazı oluşacaktır?",
+    "options": [
+      "1) 12 816,9 m3/saat",
+      "2) 11 816,9 m3/saat",
+      "3) 11 216,9 m3/saat",
+      "4) 10 816,9 m3/saat",
+      "5) 10 286,9 m3/saat"
+    ],
+    "correctAnswer": "2) 11 816,9 m3/saat"
+  },
+  {
+    "id": 14,
+    "testIndex": 13,
+    "question": "Bir dizel makinesinde dönen şaftın dönme frekansı ve doğal titreşim frekansı belirli bir hızda senkronize oldukları zaman, o hız aşağıdakilerden hangisi ile belirtilir?",
+    "options": [
+      "1) Senkronize hızı",
+      "2) Sempatik hız",
+      "3) Çevre hızı",
+      "4) Kritik hız",
+      "5) Özgül hız"
+    ],
+    "correctAnswer": "4) Kritik hız"
+  },
+  {
+    "id": 15,
+    "testIndex": 13,
+    "question": "Çalışmakta olan bir dizel makinesinden gelen koyu renkli egzozun sebebi ne olabilir?",
+    "options": [
+      "1) Yakıtta su",
+      "2) Geç püskürtme",
+      "3) Erken püskürtme",
+      "4) Yüksek kompresyon sıcaklığı",
+      "5) İlk hareket havası valfı açık olarak yuvasında tutmuş"
+    ],
+    "correctAnswer": "2) Geç püskürtme"
+  },
+  {
+    "id": 16,
+    "testIndex": 13,
+    "question": "Atık ısı kazanları kullanımının ikincil veya sekonder görevi nedir?",
+    "options": [
+      "1) Egzoz gazlarının gürültüsünü çoğaltmak",
+      "2) Egzoz gazlarının gürültüsünü azaltmak",
+      "3) Makinenin karşı basıncını azaltmak",
+      "4) Makinenin çevrim verimini yükseltmek",
+      "5) Türboşarjer verimini yükseltmek"
+    ],
+    "correctAnswer": "2) Egzoz gazlarının gürültüsünü azaltmak"
+  },
+  {
+    "id": 17,
+    "testIndex": 13,
+    "question": "Makinenin durumu egzoz gazlarının renginden anlaşılabilir. Buna göre siyah duman neyin belirtisi olabilir?",
+    "options": [
+      "1) Silindirlerde tam yanma oluştuğunun",
+      "2)Silindirlerde aşırı yanma oluştuğunun",
+      "3) Makinenin aşırı yükte çalıştığının",
+      "4) Yetersiz hız düşümü ayarı yapıldığının",
+      "5) Yağ kontrol segmaaları frengi (dreyn) deliklerinin tıkalı olduğu"
+    ],
+    "correctAnswer": "3) Makinenin aşırı yükte çalıştığının"
+  },
+  {
+    "id": 18,
+    "testIndex": 13,
+    "question": "Yüksek güçlü, ağır devirli dizel makinelerinde daima termokupl pirometre kullanılmasının sebebi nedir?",
+    "options": [
+      "1) Soğutma suyunun sıcaklığının ölçümü",
+      "2) Yakıt sıcaklığının ölçülmesi",
+      "3) Egzoz gazı sıcaklığının ölçümü",
+      "4) Yağlama yağı sıcaklığının ölçülmesi",
+      "5) Süperşarj havası sıcaklığının ölçülmesi"
+    ],
+    "correctAnswer": "3) Egzoz gazı sıcaklığının ölçümü"
+  },
+  {
+    "id": 19,
+    "testIndex": 13,
+    "question": "Çalışan bir dizel makinesinin egzozunda beyaz duman görülmesinin anlamı nedir?",
+    "options": [
+      "1) Yağlama yağı yakılması",
+      "2) Çatlak silindir layneri",
+      "3) Makinenin aşırı yükte çalışması",
+      "4) Yakıtın normale göre soğuk çalışması",
+      "5) Yeterli olmayan yanma havası"
+    ],
+    "correctAnswer": "2) Çatlak silindir layneri"
+  },
+  {
+    "id": 20,
+    "testIndex": 13,
+    "question": "Atık ısı kazanlarının, su hederi tarafında vent veya hava firarları ile donatılmasının sebebi nedir?",
+    "options": [
+      "1) Aşırı basıncın kaçırılması",
+      "2) Hava ceplerinden korunmak",
+      "3) Fidsuyunun ıslah edilmesine katkı",
+      "4) Tortuları gidermek",
+      "5) Süperhiyter sıcaklığını düzenlemek"
+    ],
+    "correctAnswer": "2) Hava ceplerinden korunmak"
+  }
+]

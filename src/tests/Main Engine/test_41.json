@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 40,
+    "question": "Bir starting valfa verilen havanın basıncı aşağıdakilerden hangisi kadar olmalıdır?",
+    "options": [
+      "1) 4-5 bar",
+      "2) 5-10 bar",
+      "3) 15-25 bar",
+      "4) 40-45 bar",
+      "5) 2-3 bar"
+    ],
+    "correctAnswer": "3) 15-25 bar"
+  },
+  {
+    "id": 2,
+    "testIndex": 40,
+    "question": "Pistonu bir gacın pin yardımıyla konnektin rot veya piston koluna bağlanan dizel makinelere ne isim verilir?",
+    "options": [
+      "1) Kroshetli makine",
+      "2) Trank pistonlu makine",
+      "3) Tek etkili makine",
+      "4) Sömi dizel makine",
+      "5) Kızma kafalı makine"
+    ],
+    "correctAnswer": "2) Trank pistonlu makine"
+  },
+  {
+    "id": 3,
+    "testIndex": 40,
+    "question": "Çalışmakta olan makinelerde soğutma suyunun silindir bloku ile layner arasından kartere kaçmasına nasıl engel olunur?",
+    "options": [
+      "1) Yağlama yağı segmanları ile engel olunur",
+      "2) Gaz segmanlarıyla engel olunur",
+      "3) O ringlerle engel olunur",
+      "4) Kayıcı segmanlarla engel olunur",
+      "5) Su macunu yardımıyla engel olunur"
+    ],
+    "correctAnswer": "3) O ringlerle engel olunur"
+  },
+  {
+    "id": 4,
+    "testIndex": 40,
+    "question": "Çap mikrometresi kullanılarak yapılan periyodik bir denetlemede silindir laynerinden kaç adet ölçü alınır?",
+    "options": [
+      "1) 5",
+      "2) 8",
+      "3) 10",
+      "4) 12",
+      "5) 14"
+    ],
+    "correctAnswer": "3) 10"
+  },
+  {
+    "id": 5,
+    "testIndex": 40,
+    "question": "Yüksek güçlü, ağır devirli dizel makinelerinin yağlanmayan kısmı aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Silindirler",
+      "2) Palamar yatakları",
+      "3) Gayıtlar",
+      "4) Kem şaft yatakları",
+      "5) Enjektörler"
+    ],
+    "correctAnswer": "5) Enjektörler"
+  },
+  {
+    "id": 6,
+    "testIndex": 40,
+    "question": "Kinistin valftan alınan su ile soğutma sağlanan ve sonra suyun disçarç valfından denize atıldığı soğutma sistemi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Kapalı soğutma devresi",
+      "2) Açık soğutma devresi",
+      "3) Buharlı soğutma devresi",
+      "4) Hava ile soğutma devresi",
+      "5) CO2 ile soğutma devresi"
+    ],
+    "correctAnswer": "2) Açık soğutma devresi"
+  },
+  {
+    "id": 7,
+    "testIndex": 40,
+    "question": "Eğer bir enjektörün kontra somunu gevşer ve enjektör çok erken püskürtürse, aşağıdakilerden hangisi meydana gelir?",
+    "options": [
+      "1) Zayıf yanma",
+      "2) Tam yanma",
+      "3) Aşırı yanma",
+      "4) Gaz vuruntusu",
+      "5) Beyaz dumanlı egzoz"
+    ],
+    "correctAnswer": "4) Gaz vuruntusu"
+  },
+  {
+    "id": 8,
+    "testIndex": 40,
+    "question": "Aşağıdakilerden hangisi yakıtı pülverize bir şekilde silindire vermektedir?",
+    "options": [
+      "1) Puş rod",
+      "2) Enjektör",
+      "3) Güvenlik valfı",
+      "4) Yakıt pompası",
+      "5) Rokerarm"
+    ],
+    "correctAnswer": "2) Enjektör"
+  },
+  {
+    "id": 9,
+    "testIndex": 40,
+    "question": "Dizel makinelerinin egzozlarında mavimsi duman oluşmasının nedeni nedir?",
+    "options": [
+      "1) Silindirlerde tam yanma oluşmaması",
+      "2) Silindirlerde tam yanma oluşması",
+      "3) Silindirlerde yağ yakılması",
+      "4) Yakıtta su bulunması",
+      "5) Yakıtın silindirlere iyi püskürtülmemesi"
+    ],
+    "correctAnswer": "3) Silindirlerde yağ yakılması"
+  },
+  {
+    "id": 10,
+    "testIndex": 40,
+    "question": "Yüksek güçlü, ağır devirli gemi dizel motorlarının ilk hareketleri ne ile yapılır?",
+    "options": [
+      "1) Elektrikli marş motoru ile",
+      "2) Yardımcı benzin motoru ile",
+      "3) Basınçlı hava ile",
+      "4) El veya bir kol ile",
+      "5) Tornagir makinesi veya tornaçark ile"
+    ],
+    "correctAnswer": "3) Basınçlı hava ile"
+  },
+  {
+    "id": 11,
+    "testIndex": 40,
+    "question": "Aşağıda hangi türbinin kanatlarının boyu egzozuna doğru büyür?",
+    "options": [
+      "1) Hero",
+      "2) Rato",
+      "3) Körtis",
+      "4) De Laval",
+      "5) Parsons"
+    ],
+    "correctAnswer": "5) Parsons"
+  },
+  {
+    "id": 12,
+    "testIndex": 40,
+    "question": "Ana ve yardımcı türbinlerden kazana taşınan yağ aşağıdakilerden hangisine neden olur?",
+    "options": [
+      "1) Eksik yanma",
+      "2) Aşırı yanma",
+      "3) Ocak tepmesi",
+      "4) Kazan kaynaması",
+      "5) Kazan köpürmesi"
+    ],
+    "correctAnswer": "5) Kazan köpürmesi"
+  },
+  {
+    "id": 13,
+    "testIndex": 40,
+    "question": "Aşağıdakilerden hangisi dizel makinelerinde kullanılan silindir yağlarının görevlerinden birisidir?",
+    "options": [
+      "1) Pistonları soğutmak",
+      "2) Yatakların yağlanmasını temin etmek",
+      "3) Sliper gayıtlarmı yağlamak",
+      "4) Yanma asitlerini nötrleştirmek",
+      "5) Salmastra kutusunu soğutmak"
+    ],
+    "correctAnswer": "4) Yanma asitlerini nötrleştirmek"
+  },
+  {
+    "id": 14,
+    "testIndex": 40,
+    "question": "Yakıtın silindirlere hidrolik basınç ile püskürtülmesine ne ad verilir?",
+    "options": [
+      "1) Hava ile püskürtme",
+      "2) Mekanik püskürtme",
+      "3) Hidrolik püskürtme",
+      "4) Sabit basınçlı püskürtme",
+      "5) Dinamik püskürtme"
+    ],
+    "correctAnswer": "3) Hidrolik püskürtme"
+  },
+  {
+    "id": 15,
+    "testIndex": 40,
+    "question": "Krank şaftların deflekşını aşağıdakilerden hangisi ile ölçülür?",
+    "options": [
+      "1) Sentil",
+      "2) Deflekşın geyç",
+      "3) Briç geyç",
+      "4) Plasti geyç",
+      "5) Preşer geyç"
+    ],
+    "correctAnswer": "2) Deflekşın geyç"
+  },
+  {
+    "id": 16,
+    "testIndex": 40,
+    "question": "Dizel makinelerinde yakıtın sis ya da pus şeklinde silindirlere püskürtülmesini aşağıda belirtilenlerden hangisi sağlar?",
+    "options": [
+      "1) Bosch pompası",
+      "2) Karbüratör",
+      "3) Yakıt otomatiği",
+      "4) Yakıt püskürtme valfı",
+      "5) Redüktör"
+    ],
+    "correctAnswer": "4) Yakıt püskürtme valfı"
+  },
+  {
+    "id": 17,
+    "testIndex": 40,
+    "question": "Motorlarda süpürme uygulamasının temel nedeni nedir?",
+    "options": [
+      "1) Yanma odasına bol hava göndermek",
+      "2) Egzoz gazlarının çıkışını kolaylaştırmak",
+      "3) Yanma odasını soğutmak",
+      "4) Silindiri egzost gazlarından arındırmak",
+      "5) Sıkıştırma havasını sağlamak"
+    ],
+    "correctAnswer": "4) Silindiri egzost gazlarından arındırmak"
+  },
+  {
+    "id": 18,
+    "testIndex": 40,
+    "question": "Overhol sırasında dört zamanlı bir dizel makinesinin silindir gömleğinin en az kaç yerinden ölçü alınmalıdır?",
+    "options": [
+      "1) 6 yerinden",
+      "2) 3 yerinden",
+      "3) 8 yerinden",
+      "4) Üst ölü noktadan",
+      "5) Alt ölü noktadan"
+    ],
+    "correctAnswer": "2) 3 yerinden"
+  },
+  {
+    "id": 19,
+    "testIndex": 40,
+    "question": "Kazan ocağı kontrol edildiğinde, portakal renginde alev görülürse, nasıl bir yanma olduğu anlaşılmalıdır?",
+    "options": [
+      "1) Aşırı yanma",
+      "2) Eksik yanma",
+      "3) Zayıf yanma",
+      "4) Tam yanma",
+      "5) Yeterli olmayan hava ile yanma"
+    ],
+    "correctAnswer": "4) Tam yanma"
+  },
+  {
+    "id": 20,
+    "testIndex": 40,
+    "question": "Yüksek güçlü, ağır devirli makinelerin silindirlerinin yağlanmasında aşağıdakilerden hangisi kullanılmaz?",
+    "options": [
+      "1) Lübrikeyter",
+      "2) Mekanik yağdanlık",
+      "3) Lübrikatör",
+      "4) Yağ otomatiği",
+      "5) Püskürtme pompası"
+    ],
+    "correctAnswer": "5) Püskürtme pompası"
+  }
+]

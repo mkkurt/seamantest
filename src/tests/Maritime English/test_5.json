@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 4,
+    "question": "A \"pneumercator\" measures:",
+    "options": [
+      "1) Oil pressure",
+      "2) Air level",
+      "3) Liquid level",
+      "4) Air pressure",
+      "5) Air temperature"
+    ],
+    "correctAnswer": "3) Liquid level"
+  },
+  {
+    "id": 2,
+    "testIndex": 4,
+    "question": "Under normal operational conditrons, the rudder is hydraullically locked unless ...................",
+    "options": [
+      "1) The manual trick wheel is engaged for steering",
+      "2) The pupm is off stroke",
+      "3) A normal rudder order is given by the control system",
+      "4) An electric power failure occurs at the steering gear",
+      "5) 1 and 2"
+    ],
+    "correctAnswer": "3) A normal rudder order is given by the control system"
+  },
+  {
+    "id": 3,
+    "testIndex": 4,
+    "question": "If one fuel oil strainer of a duplex unit becomes clogged while your vessel is steaming at sea, you should first:",
+    "options": [
+      "1) Clean the dirty strainer as quickly as possible",
+      "2) Change the strainer over to the clean side",
+      "3) Stop the fuel oil service pump",
+      "4) Open the strainer bypass valve",
+      "5) Stop the engine"
+    ],
+    "correctAnswer": "2) Change the strainer over to the clean side"
+  },
+  {
+    "id": 4,
+    "testIndex": 4,
+    "question": "Pre combustion chambers in a diesel engine:",
+    "options": [
+      "1) Require that each cylinder use two spray nozzles",
+      "2) Require the use of fiat crowned pistons to obtain turbulence",
+      "3) Permit the use of a wide range of fuel in that engine",
+      "4) Contain all of the air charge at the end of the compression stroke",
+      "5) Require that each cylinder use more than four spray nozzles"
+    ],
+    "correctAnswer": "3) Permit the use of a wide range of fuel in that engine"
+  },
+  {
+    "id": 5,
+    "testIndex": 4,
+    "question": "What types of lubricating oil systems are used on diesel engines?",
+    "options": [
+      "1) Forced feed and gravity",
+      "2) Forced feed and splash",
+      "3) Both 1 and 2",
+      "4) Gravity and wick",
+      "5) Wet sump and dry sump"
+    ],
+    "correctAnswer": "5) Wet sump and dry sump"
+  },
+  {
+    "id": 6,
+    "testIndex": 4,
+    "question": "A propeller turning clockwise when viewed from aft is considered right handed nost single screw ships have ................ propellers. A twin screw ship usually has .................................... propeller and a .............................. propeller.",
+    "options": [
+      "1) Right handed / right handed starboard / left handed port",
+      "2) Right handed / right handed port / left handed starboard",
+      "3) Left handed / right handed starboard / left handed port",
+      "4) Left handed / right handed port / left handed starboard",
+      "5) Right handed / left handed starboard / right handed port"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 7,
+    "testIndex": 4,
+    "question": "Before starting an auxiliary diesel engine, you should:",
+    "options": [
+      "1) Change fuel oil strainers",
+      "2) Clean the air filter",
+      "3) Check the crankcase oil level",
+      "4) Vent the cooling system",
+      "5) Clean flywheel"
+    ],
+    "correctAnswer": "3) Check the crankcase oil level"
+  },
+  {
+    "id": 8,
+    "testIndex": 4,
+    "question": "....................... is the principal hazard to staff when a diesel nozzle tester is in use is.",
+    "options": [
+      "1) Electrical shock",
+      "2) Toxic fumes",
+      "3) Explosion",
+      "4) Blood poisoning",
+      "5) Loosing consciousness"
+    ],
+    "correctAnswer": "4) Blood poisoning"
+  },
+  {
+    "id": 9,
+    "testIndex": 4,
+    "question": "If a bilge pump failed to build up discharge pressure, you should check for:",
+    "options": [
+      "1) Excessive water in the bilges",
+      "2) A clogged suction strainer",
+      "3) Oil in the bilges",
+      "4) A closed skin valve",
+      "5) None of the above"
+    ],
+    "correctAnswer": "2) A clogged suction strainer"
+  },
+  {
+    "id": 10,
+    "testIndex": 4,
+    "question": "The usual cause of crankcase explosions in diesel engines is not ............",
+    "options": [
+      "1) Heating lubricating oil",
+      "2) Overheating lubricating oil",
+      "3) Poor condition of the cylinder",
+      "4) Crank shaft bearing failures maintanance",
+      "5) Any above"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 11,
+    "testIndex": 4,
+    "question": "The solenoid valve can be typed as a:",
+    "options": [
+      "1) Thermal valve",
+      "2) Magnetic stop valve",
+      "3) Bellows valve",
+      "4) Bimetallic valve",
+      "5) Both 3 and 4"
+    ],
+    "correctAnswer": "2) Magnetic stop valve"
+  },
+  {
+    "id": 12,
+    "testIndex": 4,
+    "question": "What would cause white smoke after you just started the diesel?",
+    "options": [
+      "1) Too week battery power",
+      "2) Water in the fuel",
+      "3) Water in the gas",
+      "4) Water in the oil",
+      "5) Salt water in cooling water"
+    ],
+    "correctAnswer": "2) Water in the fuel"
+  },
+  {
+    "id": 13,
+    "testIndex": 4,
+    "question": "What is the flexible coupling used for?",
+    "options": [
+      "1) Small amount of misalignment",
+      "2) Take up for vibration in the shaft",
+      "3) To allow for expansion",
+      "4) Connects between the bull gear and the tail shaft",
+      "5) To allow for streching"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 14,
+    "testIndex": 4,
+    "question": "................. is not one of the advantages of the open cooling system.",
+    "options": [
+      "1) Being the simplest system",
+      "2) No requirement of heat exchange",
+      "3) Obligation of keeping engine cool",
+      "4) The requirement of only one water circulating pump",
+      "5) The requirement of 2 water circulating pumps"
+    ],
+    "correctAnswer": "3) Obligation of keeping engine cool"
+  },
+  {
+    "id": 15,
+    "testIndex": 4,
+    "question": "Another name for the liquid valve is:",
+    "options": [
+      "1) Master valve",
+      "2) King valve",
+      "3) Freon valve",
+      "4) Shut off valve",
+      "5) None of above"
+    ],
+    "correctAnswer": "2) King valve"
+  },
+  {
+    "id": 16,
+    "testIndex": 4,
+    "question": "What is the high pressure side of the refrigeration system?",
+    "options": [
+      "1) Compressor to condenser",
+      "2) Evaporator to compressor",
+      "3) Expansion valve to evaporator",
+      "4) Compressor to expansion valve",
+      "5) Evaporator"
+    ],
+    "correctAnswer": "4) Compressor to expansion valve"
+  },
+  {
+    "id": 17,
+    "testIndex": 4,
+    "question": "Scavenging means .......................... on an internal combustion engines.",
+    "options": [
+      "1) The removal of exhaust gases by blowing in fresh air",
+      "2) The filling of the engine cylinder with a supply or change of fresh air",
+      "3) The formation of exhaust gases within the cylinder",
+      "4) The removal of exhaust gases",
+      "5) Any above"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 18,
+    "testIndex": 4,
+    "question": "Fire tube boilers are designed to operate within the conditions of:",
+    "options": [
+      "1) High pressure, temperature",
+      "2) Low pressure, temperature",
+      "3) High capacity and quick steam raising process",
+      "4) Low capacity but quick steam raising process",
+      "5) High capacity but they are heavy"
+    ],
+    "correctAnswer": "2) Low pressure, temperature"
+  },
+  {
+    "id": 19,
+    "testIndex": 4,
+    "question": "Fuel is ignited in the cylinder of an operating diesel engine by:",
+    "options": [
+      "1) The heat of compression within the cylinder",
+      "2) A spark plug in the pre-combustion chamber",
+      "3) An electrical discharge from the distributor",
+      "4) Heat from the fuel injection nozzle",
+      "5) With a simple spark plug"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 20,
+    "testIndex": 4,
+    "question": "Static electricity is most often produced by ........................",
+    "options": [
+      "1) Pressure",
+      "2) Heat",
+      "3) Magnetism",
+      "4) Friction",
+      "5) Motion"
+    ],
+    "correctAnswer": "4) Friction"
+  }
+]

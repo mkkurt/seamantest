@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 3,
+    "question": "p-V diyagramı alman bir dizel makinesinde silindir endike basıncı 21,3 kg/cm2 olarak hesaplanmıştır. Diyagram alanı 18,46 cm2 ve boyu 13 cm olduğuna göre, endikatörün yay ölçeğinin mm türünden sayısal değeri nedir?",
+    "options": [
+      "1) 1,0 mm/bar",
+      "2) 1,255 mm/bar",
+      "3) 0,666 mm/bar",
+      "4) 0,777 mm/bar",
+      "5) 2,0 mm/bar"
+    ],
+    "correctAnswer": "3) 0,666 mm/bar"
+  },
+  {
+    "id": 2,
+    "testIndex": 3,
+    "question": "Dizel makinelerinde yanma sırasında yakıtların oluşturdukları buharın kendiliğinden tutuştukları noktaya ne isim verilir?",
+    "options": [
+      "1) Kendiliğinden tutuşma noktası",
+      "2) Yanma noktası",
+      "3) Parlama noktası",
+      "4) Patlama noktası",
+      "5) Alevlenme noktası"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 3,
+    "testIndex": 3,
+    "question": "Gemi dizel motorlarında en çok kullanılan gavernör tipi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Mekanik regülatörler",
+      "2) Hidrolik woodward UG 8 tipi regülatörler",
+      "3) Santrifüj regülatörler",
+      "4) Karmaşık regülatörler",
+      "5) Aşırı hız regülatörleri"
+    ],
+    "correctAnswer": "2) Hidrolik woodward UG 8 tipi regülatörler"
+  },
+  {
+    "id": 4,
+    "testIndex": 3,
+    "question": "Eğer bir dizel makinesinde yakıt püskürtme valfı orifislerinin (meme deliklerinin) temizlenmesi gerekirse, aşağıda belirtilenlerden hangisi uygulanmalıdır?",
+    "options": [
+      "1) Benzin ve bakır tel",
+      "2) Karbon çözücü ve uygun çapta piyano teli",
+      "3) Alıştırma macunu ve çelik telli fırça",
+      "4) Metal cilası ve bakır tel fırça",
+      "5) Kuvvetli bir deterjan"
+    ],
+    "correctAnswer": "2) Karbon çözücü ve uygun çapta piyano teli"
+  },
+  {
+    "id": 5,
+    "testIndex": 3,
+    "question": "Soğutma suyu sıcaklığının 140�C'ı geçmesi halinde, gri renkli, ısıyı geçirmeyen ve sert bir kısır katmanı oluşturan ve suda çözünmüş olarak bulunan kimyasal madde aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Kalsiyum karbonat",
+      "2) Magnezyum karbonat",
+      "3) Kalsiyum sülfat",
+      "4) Magnezyum klorür",
+      "5) Sodyum klorür"
+    ],
+    "correctAnswer": "3) Kalsiyum sülfat"
+  },
+  {
+    "id": 6,
+    "testIndex": 3,
+    "question": "Bir dizel makinesinde en zor yağlanan kısım aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Palamar yatağı",
+      "2) Kroshed yatağı",
+      "3) Layner yüzeyi",
+      "4) Dişli donanımı",
+      "5) Hepsi"
+    ],
+    "correctAnswer": "3) Layner yüzeyi"
+  },
+  {
+    "id": 7,
+    "testIndex": 3,
+    "question": "<!--\n /* Font Definitions */\n @font-face\n\t{font-family:\"Cambria Math\";\n\tpanose-1:2 4 5 3 5 4 6 3 2 4;\n\tmso-font-charset:1;\n\tmso-generic-font-family:roman;\n\tmso-font-format:other;\n\tmso-font-pitch:variable;\n\tmso-font-signature:0 0 0 0 0 0;}\n /* Style Definitions */\n p.MsoNormal, li.MsoNormal, div.MsoNormal\n\t{mso-style-unhide:no;\n\tmso-style-qformat:yes;\n\tmso-style-parent:\"\";\n\tmargin:0cm;\n\tmargin-bottom:.0001pt;\n\tmso-pagination:widow-orphan;\n\tfont-size:12.0pt;\n\tfont-family:\"Times New Roman\",\"serif\";\n\tmso-fareast-font-family:\"Times New Roman\";\n\tmso-ansi-language:EN-US;\n\tmso-fareast-language:EN-US;}\n.MsoChpDefault\n\t{mso-style-type:export-only;\n\tmso-default-props:yes;\n\tfont-size:10.0pt;\n\tmso-ansi-font-size:10.0pt;\n\tmso-bidi-font-size:10.0pt;}\n@page WordSection1\n\t{size:612.0pt 792.0pt;\n\tmargin:70.85pt 70.85pt 70.85pt 70.85pt;\n\tmso-header-margin:35.4pt;\n\tmso-footer-margin:35.4pt;\n\tmso-paper-source:0;}\ndiv.WordSection1\n\t{page:WordSection1;}\n-->\nGünde 60 ton yakıt sarfiyatı olan 20 000 hp gücündeki bir dizel ana\nmakinenin özgül yakıt harcamı nedir?",
+    "options": [
+      "1) 45 g/hp.saat",
+      "2) 135 g/hp.saat",
+      "3) 125 g/hp.saat",
+      "4) 105 g/hp.saat",
+      "5) 115 g/hp.saat"
+    ],
+    "correctAnswer": "3) 125 g/hp.saat"
+  },
+  {
+    "id": 8,
+    "testIndex": 3,
+    "question": "Aşırı doldurmasız iki zamanlı dizel makinelerinde süpürme nasıl sağlanır?",
+    "options": [
+      "1) Süperşarjer ile",
+      "2) Türbo blover ile",
+      "3) Süpürme pompalarıyla",
+      "4) Yardımcı bloverle",
+      "5) Hava kompresörüyle"
+    ],
+    "correctAnswer": "3) Süpürme pompalarıyla"
+  },
+  {
+    "id": 9,
+    "testIndex": 3,
+    "question": "Gemi dizel makinelerinde konnektin rot hangi malzemeden yapılır?",
+    "options": [
+      "1) Dökme demir",
+      "2) Duralümin",
+      "3) Karbon yüzdesi küçük çelikler",
+      "4) Pirinç",
+      "5) Bronz"
+    ],
+    "correctAnswer": "3) Karbon yüzdesi küçük çelikler"
+  },
+  {
+    "id": 10,
+    "testIndex": 3,
+    "question": "<!--\n /* Font Definitions */\n @font-face\n\t{font-family:\"Cambria Math\";\n\tpanose-1:2 4 5 3 5 4 6 3 2 4;\n\tmso-font-charset:1;\n\tmso-generic-font-family:roman;\n\tmso-font-format:other;\n\tmso-font-pitch:variable;\n\tmso-font-signature:0 0 0 0 0 0;}\n /* Style Definitions */\n p.MsoNormal, li.MsoNormal, div.MsoNormal\n\t{mso-style-unhide:no;\n\tmso-style-qformat:yes;\n\tmso-style-parent:\"\";\n\tmargin:0cm;\n\tmargin-bottom:.0001pt;\n\tmso-pagination:widow-orphan;\n\tfont-size:12.0pt;\n\tfont-family:\"Times New Roman\",\"serif\";\n\tmso-fareast-font-family:\"Times New Roman\";\n\tmso-ansi-language:EN-US;\n\tmso-fareast-language:EN-US;}\n.MsoChpDefault\n\t{mso-style-type:export-only;\n\tmso-default-props:yes;\n\tfont-size:10.0pt;\n\tmso-ansi-font-size:10.0pt;\n\tmso-bidi-font-size:10.0pt;}\n@page WordSection1\n\t{size:612.0pt 792.0pt;\n\tmargin:70.85pt 70.85pt 70.85pt 70.85pt;\n\tmso-header-margin:35.4pt;\n\tmso-footer-margin:35.4pt;\n\tmso-paper-source:0;}\ndiv.WordSection1\n\t{page:WordSection1;}\n-->\nMakineden hareket alarak çalışan bir bloverin\nsağladığı hava ile uygulanan aşırı doldurmaya ne ad verilir?",
+    "options": [
+      "1) Türboşarj",
+      "2) Kısmi süperşarj",
+      "3) Mekanik süperşarj",
+      "4) Aşırı süperşarj",
+      "5) Süpürme"
+    ],
+    "correctAnswer": "3) Mekanik süperşarj"
+  },
+  {
+    "id": 11,
+    "testIndex": 3,
+    "question": "<!--\n /* Font Definitions */\n @font-face\n\t{font-family:\"Cambria Math\";\n\tpanose-1:2 4 5 3 5 4 6 3 2 4;\n\tmso-font-charset:1;\n\tmso-generic-font-family:roman;\n\tmso-font-format:other;\n\tmso-font-pitch:variable;\n\tmso-font-signature:0 0 0 0 0 0;}\n /* Style Definitions */\n p.MsoNormal, li.MsoNormal, div.MsoNormal\n\t{mso-style-unhide:no;\n\tmso-style-qformat:yes;\n\tmso-style-parent:\"\";\n\tmargin:0cm;\n\tmargin-bottom:.0001pt;\n\tmso-pagination:widow-orphan;\n\tfont-size:12.0pt;\n\tfont-family:\"Times New Roman\",\"serif\";\n\tmso-fareast-font-family:\"Times New Roman\";\n\tmso-ansi-language:EN-US;\n\tmso-fareast-language:EN-US;}\n.MsoChpDefault\n\t{mso-style-type:export-only;\n\tmso-default-props:yes;\n\tfont-size:10.0pt;\n\tmso-ansi-font-size:10.0pt;\n\tmso-bidi-font-size:10.0pt;}\n@page WordSection1\n\t{size:612.0pt 792.0pt;\n\tmargin:70.85pt 70.85pt 70.85pt 70.85pt;\n\tmso-header-margin:35.4pt;\n\tmso-footer-margin:35.4pt;\n\tmso-paper-source:0;}\ndiv.WordSection1\n\t{page:WordSection1;}\n-->\nDizel motorlarında yanmayı aşağıdakilerden hangisi en iyi ifade eder?",
+    "options": [
+      "1) Yakıttan enerji temin etmektir",
+      "2) Yanmanın üç safhada tamamlanmasıdır",
+      "3) Yanma olayının yanma odasında gerçekleşmesidir",
+      "4) Tutuşan yakıtın en az 5 saniye yanmaya devam etmesidir",
+      "5) Art yanmanın olmamasıdır"
+    ],
+    "correctAnswer": "4) Tutuşan yakıtın en az 5 saniye yanmaya devam etmesidir"
+  },
+  {
+    "id": 12,
+    "testIndex": 3,
+    "question": "Rotor şaftı üzerine tesir eden her türlü eksenel kuvveti karşılamak için aşağıdakilerden hangisi kullanılır?",
+    "options": [
+      "1) Kayıcı ayaklar",
+      "2) Rotorşaft yatakları",
+      "3) Srast yatakları",
+      "4) Esnek kaplinler",
+      "5) Hidrolik kaplinler"
+    ],
+    "correctAnswer": "3) Srast yatakları"
+  },
+  {
+    "id": 13,
+    "testIndex": 3,
+    "question": "Gemi dizel motorunda skavesç yangınının asıl sebebi nedir?",
+    "options": [
+      "1) Segmanların aşınması",
+      "2) Skavenç bölgesinin yakıt, yağ ve kurumla kirlenmesi",
+      "3) Laynerlerin aşınması",
+      "4) Egzoz gazının skavenç mahalline kaçması",
+      "5) Motorun fazla ısınması"
+    ],
+    "correctAnswer": "2) Skavenç bölgesinin yakıt, yağ ve kurumla kirlenmesi"
+  },
+  {
+    "id": 14,
+    "testIndex": 3,
+    "question": "Kem şaft zincir donanımı gereğinden fazla gelirse aşağıdakilerden hangisi oluşabilir?",
+    "options": [
+      "1) Taymingler bozulur",
+      "2) Makine aşırı ısınır",
+      "3) Karter patlaması oluşur",
+      "4) Fazla yakıt pompalanır",
+      "5) Hepsi birden olur"
+    ],
+    "correctAnswer": "3) Karter patlaması oluşur"
+  },
+  {
+    "id": 15,
+    "testIndex": 3,
+    "question": "Dizel makinelerinin yağlama sistemlerinde, ilk önce hangi parça yağlanır?",
+    "options": [
+      "1) Kem şaft yatakları",
+      "2) Ana yataklar",
+      "3) Piston kafaları",
+      "4) Silindir duvarları",
+      "5) Gacın pin yatakları"
+    ],
+    "correctAnswer": "2) Ana yataklar"
+  },
+  {
+    "id": 16,
+    "testIndex": 3,
+    "question": "Motorda egzoz valfları neden döndürülür?",
+    "options": [
+      "1) Sitleri temizlemek için",
+      "2) Valf tablalarını temizlemek için",
+      "3) Egzoz çıkışını kolaylaştırmak için",
+      "4) Soğutma ve homojen aşınmayı sağlamak için",
+      "5) Yanma verimini arttırmak için"
+    ],
+    "correctAnswer": "4) Soğutma ve homojen aşınmayı sağlamak için"
+  },
+  {
+    "id": 17,
+    "testIndex": 3,
+    "question": "Bir dizel makinesinde laynerler müsaade edilen miktardan çok aşınmış ise aşağıdakilerden hangisi görülür?",
+    "options": [
+      "1) Kompresyon basıncında ve egzoz sıcaklıklarında düşme görülür",
+      "2) Ceket soğutma suyu sıcaklıklarında yükselme görülür",
+      "3) Enjektör nozulları kavrulur",
+      "4) Makinenin özgül yakıt tüketimi artar",
+      "5) Yakıt sarfiyatı azalır"
+    ],
+    "correctAnswer": "4) Makinenin özgül yakıt tüketimi artar"
+  },
+  {
+    "id": 18,
+    "testIndex": 3,
+    "question": "Bir dizel makinesinde yakıtın geç püskürtülmesinin belirtileri nelerdir?",
+    "options": [
+      "1) Düşük egzoz sıcaklığı",
+      "2) Düşük yanma basıncı ve yüksek egzoz sıcaklığı",
+      "3) Kompresyon basıncı",
+      "4) Yüksek yanma basıncı",
+      "5) Silindirlerde yakıt vuruntusu"
+    ],
+    "correctAnswer": "2) Düşük yanma basıncı ve yüksek egzoz sıcaklığı"
+  },
+  {
+    "id": 19,
+    "testIndex": 3,
+    "question": "Dizel makinelerinin sıvı yakıtlarında bulunan ve yakıttaki su ile tepkimeye girerek çamur oluşumuna neden olan aromatik bileşik aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Parafin",
+      "2) Alfa metil naftalen",
+      "3) Asfalten",
+      "4) İzobütan",
+      "5) Alkil naftalen"
+    ],
+    "correctAnswer": "3) Asfalten"
+  },
+  {
+    "id": 20,
+    "testIndex": 3,
+    "question": "Aşağıdakilerden hangisi 4 zamanlı bir dizel makinenin kem şaftında bulunmaz?",
+    "options": [
+      "1) İlk hareket havası kemi",
+      "2) Yakıt pompası kemi",
+      "3) Tornistan kemleri",
+      "4) Kem şaft tahrik dişlisi",
+      "5) Emme valfları"
+    ],
+    "correctAnswer": "5) Emme valfları"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 38,
+    "question": "Bir dizel makinesinde giriş (emme) valfının klerensinin büyütülmesi aşağıdakilerden hangisine neden olacaktır?",
+    "options": [
+      "1) Erken açılıp, daha uzun süre açık kalmasına",
+      "2) Erken açması ve daha kısa süre açık kalmasına",
+      "3) Geç açması ve daha kısa süre açık kalmasına",
+      "4) Geç açması ve daha büyük açma miktarına",
+      "5) Erken açması ve kapamasına"
+    ],
+    "correctAnswer": "3) Geç açması ve daha kısa süre açık kalmasına"
+  },
+  {
+    "id": 2,
+    "testIndex": 38,
+    "question": "Yakıtlarda viskozite aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "1) Yakıtın kalınlığını belirler",
+      "2) Yakıtın uçuculuğunu belirler",
+      "3) Yanmada kurum oluşmasını belirler",
+      "4) Yakıtın yanma kabiliyetini belirler",
+      "5) Yakıt akımına direnci"
+    ],
+    "correctAnswer": "5) Yakıt akımına direnci"
+  },
+  {
+    "id": 3,
+    "testIndex": 38,
+    "question": "Motorlarda \"overlep\" neden gereklidir?",
+    "options": [
+      "1) Yanma odasına daha fazla hava doldurmak için",
+      "2) Daha fazla hava dolgusu için",
+      "3) Egzoz gazlarını çabuk atmak için",
+      "4) Yanma odasının daha iyi temizlenmesi ve soğutulması için",
+      "5) Daha fazla yakıt püskürtmek için"
+    ],
+    "correctAnswer": "4) Yanma odasının daha iyi temizlenmesi ve soğutulması için"
+  },
+  {
+    "id": 4,
+    "testIndex": 38,
+    "question": "21800 hp gücündeki bir dizel makine kaç kW güç üretir?",
+    "options": [
+      "1) 16268 kW",
+      "2) 29648 kW",
+      "3) 15400 kW",
+      "4) 15900 kW",
+      "5) 25690 kW"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 5,
+    "testIndex": 38,
+    "question": "Süperşarj havası sıcaklığındaki her 10�C'Iük yükselme, makinenin ürettiği güçte ne gibi bir değişim meydana getirir?",
+    "options": [
+      "1) Üretilen güç %10 - %12 azalır",
+      "2) Üretilen güç %10 - %12 artar",
+      "3) Üretilen güç %50 azalır",
+      "4) Üretilen güç %3 kadar azalır",
+      "5) Üretilen güç %2 - %3 kadar çoğalır"
+    ],
+    "correctAnswer": "4) Üretilen güç %3 kadar azalır"
+  },
+  {
+    "id": 6,
+    "testIndex": 38,
+    "question": "Bir dizel makinesinde yakıtın geç püskürtülmesi sonucu ne olur?",
+    "options": [
+      "1) Yakıt vuruntusu oluşur",
+      "2) Üretilen güç artar",
+      "3) Düşük konıpresyon basıncı oluşur",
+      "4) Düşük kompresyon sıcaklığı oluşur",
+      "5) Yüksek egzoz sıcaklığı oluşur"
+    ],
+    "correctAnswer": "5) Yüksek egzoz sıcaklığı oluşur"
+  },
+  {
+    "id": 7,
+    "testIndex": 38,
+    "question": "Aşağıdaki arızalardan hangisinde türbin üst keysini kaldırmak gerekir?",
+    "options": [
+      "1) Sırast ayarının bozulması",
+      "2) Nozul klerensinin bozulması",
+      "3) Nozul valflarının tutukluk yapması",
+      "4) Türbin kanatlarında hasar oluşması",
+      "5) Türbin devrindeki ayarsızlık"
+    ],
+    "correctAnswer": "4) Türbin kanatlarında hasar oluşması"
+  },
+  {
+    "id": 8,
+    "testIndex": 38,
+    "question": "Dizel makinelerinde kullanılan Diesel yakıtının kendiliğinden tutuşma sıcaklığı en az ne kadardır?",
+    "options": [
+      "1) 500°C",
+      "2) 365°C",
+      "3) 135°C",
+      "4) 300°C",
+      "5) 425°C"
+    ],
+    "correctAnswer": "2) 365°C"
+  },
+  {
+    "id": 9,
+    "testIndex": 38,
+    "question": "Gemi dizel motorlarında genellikle kaver hangi malzemeden yapılır?",
+    "options": [
+      "1) Dökme demir",
+      "2) Çelik saç",
+      "3) Kaliteli dökme çelik",
+      "4) Alüminyum",
+      "5) Bakır alaşımı"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 10,
+    "testIndex": 38,
+    "question": "Enjektör deliklerinin çapları aşağıdaki hangi sınırlar arasında olur?",
+    "options": [
+      "1) 0,152 - 0,800 mm",
+      "2) 0,002 - 0,020 mm",
+      "3) 0,641 - 0,912 mm",
+      "4) 0,010 - 0,500 mm",
+      "5) 0,100 - 0,150 mm"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 11,
+    "testIndex": 38,
+    "question": "Aşağıdakilerden hangisi bir buhar türbininin hareketli bölümü değildir?",
+    "options": [
+      "1) Rotor şaft",
+      "2) Rotor şaft kanatları",
+      "3) Dami piston",
+      "4) Nozul diyaframı",
+      "5) Srast koları"
+    ],
+    "correctAnswer": "4) Nozul diyaframı"
+  },
+  {
+    "id": 12,
+    "testIndex": 38,
+    "question": "Soğutma sisteminde gri renkli, sert kışır oluşturan ve içme sularında çözünmüş olarak bulunan kimyasal madde aşağıdakiierden hangisidir?",
+    "options": [
+      "1) Kalsiyum kasbonat",
+      "2) Trisodyum Fosfat",
+      "3) Sodyum silikat",
+      "4) Sodyum karbonat",
+      "5) Magnezyum karbonat"
+    ],
+    "correctAnswer": "2) Trisodyum Fosfat"
+  },
+  {
+    "id": 13,
+    "testIndex": 38,
+    "question": "Dizel makinelerinde krank şaftı etkileyen en önemli kuvvet aşağıdakiierden hangisidir?",
+    "options": [
+      "1) Atalet kuvvetleri",
+      "2) Yağ basıncı",
+      "3) Merkezkaç kuvvet",
+      "4) Maksimum gaz basınç kuvveti",
+      "5) İlk hareket momenti"
+    ],
+    "correctAnswer": "4) Maksimum gaz basınç kuvveti"
+  },
+  {
+    "id": 14,
+    "testIndex": 38,
+    "question": "Çevresinde bir sıra hareketli kanat bulunan bir rotor ve birkaç nozuldan oluşan türbin aşağıdakiierden hangisidir?",
+    "options": [
+      "1) Parson",
+      "2) Hero",
+      "3) Rato",
+      "4) Körtis",
+      "5) De Laval"
+    ],
+    "correctAnswer": "5) De Laval"
+  },
+  {
+    "id": 15,
+    "testIndex": 38,
+    "question": "İki zamanlı bir dizel makinesinin bir silindirinden alman p-V diyagramının alanı 962 mm2 ve diyagramın boyu 90 mm olarak bulunmuştur. Diyagramın alındığı cihazın yay numarası 0,88 mm/bar olduğuna göre, makinenin endike ortalama basıncı kaç bar olacaktır?",
+    "options": [
+      "1) 13,14 bar",
+      "2) 12,14 bar",
+      "3) 14,14 bar",
+      "4) 11,14 bar",
+      "5) 15 ,14 bar"
+    ],
+    "correctAnswer": "2) 12,14 bar"
+  },
+  {
+    "id": 16,
+    "testIndex": 38,
+    "question": "Sabathe çevriminde, yanma sonundaki hacmin klerens hacmine oranı neyi belirtir?",
+    "options": [
+      "1) Genişleme derecesini",
+      "2) Basınç artması oranını",
+      "3) Sıkıştırma oranını",
+      "4) Ön genişleme oranını",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "4) Ön genişleme oranını"
+  },
+  {
+    "id": 17,
+    "testIndex": 38,
+    "question": "Kem şaft dişlilerinin uygun olarak monte edilmemesi durumunda oluşabilecek sorunlar aşağıdakiierden hangisi olabilir?",
+    "options": [
+      "1) Ceket çıkış suyu sıcaklığı artar",
+      "2) Yağlama yağı harcaması artar",
+      "3) Kamçı yarılabilir",
+      "4) Emme ve egzos valfları kırılabilir",
+      "5) Enjektör ayarları bozulur"
+    ],
+    "correctAnswer": "4) Emme ve egzos valfları kırılabilir"
+  },
+  {
+    "id": 18,
+    "testIndex": 38,
+    "question": "Motorda art yanma oluşmuşsa, bu p-V diyagramından nasıl anlaşılır?",
+    "options": [
+      "1) Yanma eğrisi dalgalı olur",
+      "2) Genişleme eğrisinde testere ağzı gibi şekil oluşur",
+      "3) Egzoz eğrisi dalgalı olur",
+      "4) Emme eğrisi dalgalı olur",
+      "5) Valf kayıp alanı büyük olur"
+    ],
+    "correctAnswer": "2) Genişleme eğrisinde testere ağzı gibi şekil oluşur"
+  },
+  {
+    "id": 19,
+    "testIndex": 38,
+    "question": "Aşırı doldurmalı, orta hızlı bir dizel makinesinde kullanılan zayıf nitelikli yakıt aşağıda belirtilenlerden hangisine neden olabilir?",
+    "options": [
+      "1) İlk hareket zorluğuna",
+      "2) Aşırı yakıt tüketimine",
+      "3) Güç kaybına",
+      "4) Tam olmayan yanmaya",
+      "5) Yukarıdakilerden herhangi birine"
+    ],
+    "correctAnswer": "5) Yukarıdakilerden herhangi birine"
+  },
+  {
+    "id": 20,
+    "testIndex": 38,
+    "question": "İmpals ve aksi tesir türbinlerinin bir keys içinde birleştirilmesiyle meydana gelen türbine verilen isim aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Aksiyon türbini",
+      "2) Reaksiyon türbini",
+      "3) Kombine türbin",
+      "4) İmpals türbini",
+      "5) Birleşik basınç hız türbini"
+    ],
+    "correctAnswer": "3) Kombine türbin"
+  }
+]

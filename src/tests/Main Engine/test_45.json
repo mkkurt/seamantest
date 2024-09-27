@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 44,
+    "question": "Valf overlepi ya da supap çakışması nasıl tanımlanır?",
+    "options": [
+      "1) Sıkıştırma başlangıcında her iki supabın kapalı oluşu",
+      "2) Sıkıştırma sonunda her iki supabın kapalı oluşu",
+      "3) Genişleme sonunda egzoz supabının açık ve emme supabının kapalı oluşu",
+      "4) Cebri egzozun sonuna doğru ve üst ölü nokta civarında emme ve egzoz supaplarının açık oluşu",
+      "5) Emme veya giriş başlangıcında giriş supabının kapalı oluşu"
+    ],
+    "correctAnswer": "4) Cebri egzozun sonuna doğru ve üst ölü nokta civarında emme ve egzoz supaplarının açık oluşu"
+  },
+  {
+    "id": 2,
+    "testIndex": 44,
+    "question": "Bazı türbinlerde yüksek basınçlı buhar, türbin keysi içinde belirli bir noktaya kadar genişletilir. İş görerek basıncı ve sıcaklığı bir miktar düşmüş olan buhar, türbinden alınır, bir ısıtıcıdan geçirilerek tekrar türbine verilir. Böyle sistemlere ne isim verilir?",
+    "options": [
+      "1) Kondansörlü türbin",
+      "2) Kondansörsüz türbin",
+      "3) Ara ısıtmalı türbin",
+      "4) Radyal türbin",
+      "5) Eksenel akımlı türbin"
+    ],
+    "correctAnswer": "3) Ara ısıtmalı türbin"
+  },
+  {
+    "id": 3,
+    "testIndex": 44,
+    "question": "Sıkıştırma başlangıcındaki basınç 0,95 at kompresyon oranı 14 ve sıkıştırma politrop üssü 1,38 alındığında kompresyon basıncı ne kadar olacaktır?",
+    "options": [
+      "1) 42 at",
+      "2) 38 at",
+      "3) 36 at",
+      "4) 34 at",
+      "5) 32 at"
+    ],
+    "correctAnswer": "3) 36 at"
+  },
+  {
+    "id": 4,
+    "testIndex": 44,
+    "question": "Dizel makinelerinde çizilmiş ya da çentiklenmiş silindir layneri aşağıda verilenlerden hangisine neden olur?",
+    "options": [
+      "1) Yüksek yanma basıncına",
+      "2) Anormal yüksek soğutma suyu sıcaklığına",
+      "3) Piston segmanlarının hızlı bir biçimde aşınmasına",
+      "4) Soğutma suyunda yanma ürünlerinin bulunmasına",
+      "5) Piston kafasının hızlı bir şekilde aşınmasına"
+    ],
+    "correctAnswer": "3) Piston segmanlarının hızlı bir biçimde aşınmasına"
+  },
+  {
+    "id": 5,
+    "testIndex": 44,
+    "question": "Piston rot salmastra kutusu ve sliper gayıtı hangi dizel makinelerinde kullanılır?",
+    "options": [
+      "1) Dört zamanlı dizel makinelerinde",
+      "2) İki zamanlı dizel makinelerinde",
+      "3) Trank pistonlu makinelerde",
+      "4) Kroshetli makinelerde",
+      "5) Sömi dizel makinelerinde"
+    ],
+    "correctAnswer": "4) Kroshetli makinelerde"
+  },
+  {
+    "id": 6,
+    "testIndex": 44,
+    "question": "Dört zamanlı dizel makinelerinde bir iş çevrimi nasıl oluşur?",
+    "options": [
+      "1) 360° lik krank açısında",
+      "2) 760° lik krank açısında",
+      "3) 720° lik krank açısında",
+      "4) 180° lik krank açısında",
+      "5) 600° lik krank açısında"
+    ],
+    "correctAnswer": "3) 720° lik krank açısında"
+  },
+  {
+    "id": 7,
+    "testIndex": 44,
+    "question": "Dizel makinelerinde çok yüksek viskoziteli yağlama yağı kullanılması makinede hangi sonucu doğuracaktır?",
+    "options": [
+      "1) Yağlama yağı artacaktır",
+      "2) Daha yüksek sıcaklıklarda kalınlaşacaktır",
+      "3) Soğuk havalarda ilk hareket zorluğu artacaktır",
+      "4) Yağ pompası emici tarafında hava kaçağı",
+      "5) Yukarıdakilerin herhangi biri"
+    ],
+    "correctAnswer": "3) Soğuk havalarda ilk hareket zorluğu artacaktır"
+  },
+  {
+    "id": 8,
+    "testIndex": 44,
+    "question": "Bir dizel motorunda kompresyon segmanlarının görevi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Yanma ısısını silindirden pistona aktarma",
+      "2) Yağlama yağını kartere sıyırma",
+      "3) Yanma gazlarını kartere sızdırmama",
+      "4) Ceket suyunu kartere sızdırmama",
+      "5) Yağ segmanlarını aşırı sıcaklıktan koruma"
+    ],
+    "correctAnswer": "3) Yanma gazlarını kartere sızdırmama"
+  },
+  {
+    "id": 9,
+    "testIndex": 44,
+    "question": "Yağlama devrelerinde, yağ pompasının verdiği yüksek basınçlı yağ nerede toplandıktan sonra, oradan palamar yataklarına iletilir?",
+    "options": [
+      "1) Samp tankta",
+      "2) Kulerde",
+      "3) Manyetik filtrelerde",
+      "4) Yağ rezervuarında",
+      "5) Piston kafasında"
+    ],
+    "correctAnswer": "4) Yağ rezervuarında"
+  },
+  {
+    "id": 10,
+    "testIndex": 44,
+    "question": "Krank şafttan dişli veya zincir donanımı ile hareket alarak silindirleri aşırı dolduran süperşarj türü aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Türboşarj",
+      "2) Kısmi süperşarj",
+      "3) Süperşarj",
+      "4) Makanik süpeşarj",
+      "5) Aşırı süperşarj"
+    ],
+    "correctAnswer": "4) Makanik süpeşarj"
+  },
+  {
+    "id": 11,
+    "testIndex": 44,
+    "question": "Bir dizel makinesinin yağlama yağı hederindeki düşük basıncın sebebi genel olarak ne olabilir?",
+    "options": [
+      "1) Basınç ayarlama valfı yuvasında tutulması nedeniyle kapalı",
+      "2) Makinede tıkalı yağ kanalı",
+      "3) Yağlama yağı kulerinde hava kaçağı",
+      "4) Yağ pompası emici tarafında hava kaçağı",
+      "5) Makine çok daha rahat çalışacaktır"
+    ],
+    "correctAnswer": "4) Yağ pompası emici tarafında hava kaçağı"
+  },
+  {
+    "id": 12,
+    "testIndex": 44,
+    "question": "Yeni imal edilen bir dizel makinesi tecrübe alanında 3 fazlı bir altenatöre bağlanarak denenmiştir. Alternatör verimi 0,97 faz açısı 0,75 dağıtım tablosundan okunan gerilim 380 volt ve akım şiddeti 980 amperdir. Bu dizel motorunun gücü ne kadar olacaktır?",
+    "options": [
+      "1) 679,53 bhp",
+      "2) 668,53 bhp",
+      "3) 658,53 bhp",
+      "4) 558,53 bhp",
+      "5) 540,53 bhp"
+    ],
+    "correctAnswer": "2) 668,53 bhp"
+  },
+  {
+    "id": 13,
+    "testIndex": 44,
+    "question": "Suyun denizden alınıp makine silindir ceketi ve kaverinde dolaştıktan sonra denize atıldığı devrelere ne ad verilir?",
+    "options": [
+      "1) Kapalı soğutma devresi",
+      "2) Mekanik çekimli soğutma devresi",
+      "3) Açık soğutma devresi",
+      "4) Yarı kapalı soğutma devresi",
+      "5) Hava ile soğutmalı devre"
+    ],
+    "correctAnswer": "3) Açık soğutma devresi"
+  },
+  {
+    "id": 14,
+    "testIndex": 44,
+    "question": "Kazanların sularını boşaltmak için kullanılan ve su borulu kazanlarda su dramlarının en alt kısımlarında bulunan valfın adı nedir?",
+    "options": [
+      "1) Gardiyan valf",
+      "2) Disçarç valf",
+      "3) Blöf valf",
+      "4) Brayn valf",
+      "5) Sentinel valf"
+    ],
+    "correctAnswer": "3) Blöf valf"
+  },
+  {
+    "id": 15,
+    "testIndex": 44,
+    "question": "Bir buhar türbini çalışırken titreşime başlamış ve sonra gürleme sesleri gelmeye başlamıştır. Problem aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Rotor şaft yatakları bozulmuştur",
+      "2) Grafit pakin klerensleri artmıştır",
+      "3) Kanatların bir kısmı keyse sürtmeye başlamıştır",
+      "4) Türbine su ve yabancı maddeler girmiştir",
+      "5) Türbine fazla buhar çekilmiş ve riiif valf açmıştır"
+    ],
+    "correctAnswer": "4) Türbine su ve yabancı maddeler girmiştir"
+  },
+  {
+    "id": 16,
+    "testIndex": 44,
+    "question": "Reaksiyon türbinlerinde buharın hızı için aşağıdakilerden hangisi söylenebilir?",
+    "options": [
+      "1) Sabit ve hareketli kanatlarda yükselir",
+      "2) Sabit kanatlarda yükselir ve hareketli kanatlarda düşer",
+      "3) Sabit kanatlarda düşer, hareketli kanatlarda yükselir",
+      "4) Sabit kanatlarda yükselir, hareketli kanatlarda sabit kalır",
+      "5) Hem sabit ve hem de hareketli kanatlarda sabit kalır"
+    ],
+    "correctAnswer": "2) Sabit kanatlarda yükselir ve hareketli kanatlarda düşer"
+  },
+  {
+    "id": 17,
+    "testIndex": 44,
+    "question": "Sağlıklı ısınması için ana makine devreye alınmadan kaç saat önce torna çarkın devreye alınması gerekir?",
+    "options": [
+      "1) 4 saat",
+      "2) 8 saat",
+      "3) 10 saat",
+      "4) 2 saat",
+      "5) 16 saat"
+    ],
+    "correctAnswer": "4) 2 saat"
+  },
+  {
+    "id": 18,
+    "testIndex": 44,
+    "question": "Bacada çok açık veya uçuk kahverengi bir duman görülürse, kazan ocağında nasıl bir yanma oluşmaktadır?",
+    "options": [
+      "1) Aşırı yanma",
+      "2) Tam yanma",
+      "3) Eksik yanma",
+      "4) Zayıf yanma",
+      "5) Yetersiz hava ile yanma"
+    ],
+    "correctAnswer": "2) Tam yanma"
+  },
+  {
+    "id": 19,
+    "testIndex": 44,
+    "question": "Alcap sisteminde temiz yakıt çıkışında bulunan ve elektriksel sinyaller vererek temiz yakıta su miktarının belirli bir değere eriştiğini ve otomatik şoklama yapılması gerektiğini belirten cihaz aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Transmitter",
+      "2) Resiver",
+      "3) Transdüser",
+      "4) Termostat",
+      "5) Presostat"
+    ],
+    "correctAnswer": "3) Transdüser"
+  },
+  {
+    "id": 20,
+    "testIndex": 44,
+    "question": "Çalışmakta olan bir dizel makinesinde silindir kaveri su sirkülasyon kanallarında hava cepleri oluşmasının etkisi nedir?",
+    "options": [
+      "1) Hidrolik gerileme ve bozunma",
+      "2) Silindir kaverinde kızgın noktalar",
+      "3) Yağ vizkozitesinin artışı",
+      "4) Kışır ve pislik birikimi",
+      "5) Çamur birikimi"
+    ],
+    "correctAnswer": "2) Silindir kaverinde kızgın noktalar"
+  }
+]

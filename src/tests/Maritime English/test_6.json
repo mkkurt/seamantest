@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 5,
+    "question": "......................... is the cause of burned exhaust valves.",
+    "options": [
+      "1) Overloaded cylinder",
+      "2) Poor combustion",
+      "3) Distortion and faulty reseating maintenance",
+      "4) Any above",
+      "5) 1 and 2"
+    ],
+    "correctAnswer": "4) Any above"
+  },
+  {
+    "id": 2,
+    "testIndex": 5,
+    "question": "By definition a separator: I. removes solids from the lube oil; II. removes water from the lube oil.",
+    "options": [
+      "1) I",
+      "2) II",
+      "3) I and II",
+      "4) Neither I nor II",
+      "5) Any of above"
+    ],
+    "correctAnswer": "2) II"
+  },
+  {
+    "id": 3,
+    "testIndex": 5,
+    "question": "In the incident of oil fire ............................",
+    "options": [
+      "1) Gen water on deck",
+      "2) Open steam or CO2 smothering system to cargo holds",
+      "3) Close off all ventilation, blowers, doors etc.",
+      "4) Open CO2 smothering system to cargo holds",
+      "5) All above"
+    ],
+    "correctAnswer": "5) All above"
+  },
+  {
+    "id": 4,
+    "testIndex": 5,
+    "question": "In the simple mechanical governor, the:",
+    "options": [
+      "1) Flyweight centrifugal force is balanced by spring pressure",
+      "2) Centrifugal force rotates the ball head",
+      "3) Flyweight centrifugal force is balanced by hydraulic pres sure",
+      "4) Speeder spring actuates the fuel control rod",
+      "5) Hydraulic force rotates the ball head"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 5,
+    "testIndex": 5,
+    "question": "The requirement for portable fire equipment is .........................",
+    "options": [
+      "1) Annual check",
+      "2) Keeping in easily accessible places",
+      "3) Hose connections and keeping hoses in good condition",
+      "4) All above",
+      "5) Before the end of consuming period"
+    ],
+    "correctAnswer": "4) All above"
+  },
+  {
+    "id": 6,
+    "testIndex": 5,
+    "question": "Water in the lube oil system may be detected by: I. sounding lube oil tanks with water sensitive paste; II. observing the purifier discharge.",
+    "options": [
+      "1) I",
+      "2) II",
+      "3) I and II",
+      "4) Neither I nor II",
+      "5) None of above"
+    ],
+    "correctAnswer": "3) I and II"
+  },
+  {
+    "id": 7,
+    "testIndex": 5,
+    "question": "When the oil in the seperator is decreasing, which place cannot be leaking?",
+    "options": [
+      "1) Lower bearing casing",
+      "2) Drum shaft",
+      "3) Wormgear shaft bearing hosing",
+      "4) Middle ball bearing casing",
+      "5) The o-ring at shock water entrance to separator into shockwater"
+    ],
+    "correctAnswer": "5) The o-ring at shock water entrance to separator into shockwater"
+  },
+  {
+    "id": 8,
+    "testIndex": 5,
+    "question": "When a cargo hose joint or coupling starts to leak badly the attempt you should do is to ............................",
+    "options": [
+      "1) Reduce pumping pressure and wrag leak securely",
+      "2) Shut down transfer and make repairs",
+      "3) Soak spill with sawdust and reduce pumping pressure",
+      "4) Wash deck immediately and close tank tops",
+      "5) Carry on transfer"
+    ],
+    "correctAnswer": "2) Shut down transfer and make repairs"
+  },
+  {
+    "id": 9,
+    "testIndex": 5,
+    "question": "A fire sprinkling system must be fitted ...........................",
+    "options": [
+      "1) On all vessels over 5.000 GT",
+      "2) In conjunction with the CO2 system",
+      "3) With a pressure tank of fresh water to the supply system pending the starting of the pump",
+      "4) None of the above",
+      "5) 1 and 3"
+    ],
+    "correctAnswer": "2) In conjunction with the CO2 system"
+  },
+  {
+    "id": 10,
+    "testIndex": 5,
+    "question": "The function of the exhaust system for a turbocharged diesel engine is to .................",
+    "options": [
+      "1) Power the aftercoolers",
+      "2) Power the turbocharger",
+      "3) Reduce the cylinder scavenge effect",
+      "4) Cool the turbocharger",
+      "5) Any above"
+    ],
+    "correctAnswer": "2) Power the turbocharger"
+  },
+  {
+    "id": 11,
+    "testIndex": 5,
+    "question": "Electrohydraulic steering units are protected from pounding forces (rudder shock) by:",
+    "options": [
+      "1) Buffer springs",
+      "2) Followup mechanism",
+      "3) Relief valves",
+      "4) Relieving gear",
+      "5) Steering pumps"
+    ],
+    "correctAnswer": "3) Relief valves"
+  },
+  {
+    "id": 12,
+    "testIndex": 5,
+    "question": "Which of the following types of valves is used in the bilge manifold?",
+    "options": [
+      "1) Swing check",
+      "2) Nonreturn",
+      "3) Angle",
+      "4) Globe",
+      "5) Butterfly"
+    ],
+    "correctAnswer": "2) Nonreturn"
+  },
+  {
+    "id": 13,
+    "testIndex": 5,
+    "question": "The process of supplying the intake of a diesel engine with air at a pressure greater than atmospheric is called:",
+    "options": [
+      "1) Engine displacement",
+      "2) Scavenging",
+      "3) Air injection",
+      "4) Supercharging",
+      "5) Intercooling"
+    ],
+    "correctAnswer": "4) Supercharging"
+  },
+  {
+    "id": 14,
+    "testIndex": 5,
+    "question": ".......................... should be regarded as a special attention after installing a new hydraulic pump.",
+    "options": [
+      "1) The relief filters should be readjusted",
+      "2) The filters and strainers should be checked frequently",
+      "3) System pressures should be readjusted",
+      "4) The fluid should be drained and renewed",
+      "5) All above"
+    ],
+    "correctAnswer": "2) The filters and strainers should be checked frequently"
+  },
+  {
+    "id": 15,
+    "testIndex": 5,
+    "question": "In accordance with the international requirements, the bilge purifier will separete oily water within the density of ...............",
+    "options": [
+      "1) < 15 particular per million",
+      "2) < 15 particular post million",
+      "3) < 15 particular per meter",
+      "4) < 15 particular per meter",
+      "5) < 15 particular per billion"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 16,
+    "testIndex": 5,
+    "question": "Cut out system on the aux boiler operates.",
+    "options": [
+      "1) Low level alarm",
+      "2) Low low level alarm",
+      "3) High level alarm",
+      "4) High pressure alarm",
+      "5) Low pressure alarm"
+    ],
+    "correctAnswer": "2) Low low level alarm"
+  },
+  {
+    "id": 17,
+    "testIndex": 5,
+    "question": "The rotating part of a micrometer is the:",
+    "options": [
+      "1) Anvil",
+      "2) Barrel",
+      "3) Frame",
+      "4) Thimble",
+      "5) Cover"
+    ],
+    "correctAnswer": "4) Thimble"
+  },
+  {
+    "id": 18,
+    "testIndex": 5,
+    "question": "How are line shaft bearings usually lubricated?",
+    "options": [
+      "1) A gravity-feed",
+      "2) Pressure-feed",
+      "3) Oil lubricating disks",
+      "4) Oil lubricating rings",
+      "5) Oil injectors"
+    ],
+    "correctAnswer": "4) Oil lubricating rings"
+  },
+  {
+    "id": 19,
+    "testIndex": 5,
+    "question": "Before ballasting by gravity .........................",
+    "options": [
+      "1) Pump in balast for about 10 minutes to wash out bottom lines",
+      "2) Start pump before opening sea valves",
+      "3) Make sure all proper valves are open",
+      "4) All of above",
+      "5) 1 and 2"
+    ],
+    "correctAnswer": "4) All of above"
+  },
+  {
+    "id": 20,
+    "testIndex": 5,
+    "question": "Trunk type diesel engine pistons are most effectively cooled when heat is:",
+    "options": [
+      "1) Radiated through the engine block",
+      "2) Mixed with lubrication oil",
+      "3) Conducted through the piston crown",
+      "4) Transferred to escaping exhaust gases",
+      "5) Transferred to water cooled cylinder walls"
+    ],
+    "correctAnswer": "5) Transferred to water cooled cylinder walls"
+  }
+]

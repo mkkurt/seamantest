@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 9,
+    "question": "Freon - 134 a veya Freon - 22 gibi gazların gemide kullanıldığı sistem aşağıdakilerin hangisidir?",
+    "options": [
+      "1) Yangın söndürme sistemi",
+      "2) Soğutma iklimlendirme sistemi",
+      "3) Alarm sistemi",
+      "4) İlk hareket havası sistemi",
+      "5) Inter gaz sistemi"
+    ],
+    "correctAnswer": "2) Soğutma iklimlendirme sistemi"
+  },
+  {
+    "id": 2,
+    "testIndex": 9,
+    "question": "Pelesenkli şaft kovanlarının boğazlarında aşağıdaki hangi tür salmastra kullanılır?",
+    "options": [
+      "1) Graftil",
+      "2) Kauçuklu",
+      "3) Amyantlı",
+      "4) Kurşunlu",
+      "5) Don yağlı"
+    ],
+    "correctAnswer": "5) Don yağlı"
+  },
+  {
+    "id": 3,
+    "testIndex": 9,
+    "question": "İki kademeli pistonlu bir hava kompresöründe birinci kademe emme valfının sızdırması aşağıdakilerden hangisine neden olur?",
+    "options": [
+      "1) Birinci kademe silindirine daha az hava emilir",
+      "2) Birinci kademenin disçarç basıncı çoğalır",
+      "3) Kompresörün çalışma süresi artar",
+      "4) Yüksek basınçlı hava geriye kaçar",
+      "5) İkinci kademede emme basıncı artar"
+    ],
+    "correctAnswer": "3) Kompresörün çalışma süresi artar"
+  },
+  {
+    "id": 4,
+    "testIndex": 9,
+    "question": "Kimyasal maddeleri taşıyan devrelerin valf boğazlarında conta malzemesi olarak aşağıdakilerden hangisi kullanılır?",
+    "options": [
+      "1) Amyant",
+      "2) Sidem",
+      "3) Yağlanmış muşamba",
+      "4) Neopren",
+      "5) Tauril"
+    ],
+    "correctAnswer": "4) Neopren"
+  },
+  {
+    "id": 5,
+    "testIndex": 9,
+    "question": "Aşağıdakilerden hangisi bir valfın ana elemanı değildir?",
+    "options": [
+      "1) Valf sitili",
+      "2) Valf diski",
+      "3) Valf hendılı",
+      "4) Valf glendi",
+      "5) Valf spindılı"
+    ],
+    "correctAnswer": "4) Valf glendi"
+  },
+  {
+    "id": 6,
+    "testIndex": 9,
+    "question": "Kazanlar kullanıldıkları yakıt cinsine göre kaça ayrılırlar?",
+    "options": [
+      "1) 1",
+      "2) 2",
+      "3) 3",
+      "4) 4",
+      "5) 5"
+    ],
+    "correctAnswer": "3) 3"
+  },
+  {
+    "id": 7,
+    "testIndex": 9,
+    "question": "İki strokta bir disçarç yapan pistonlu bir pompanın valf sandığında kaç adet ve ne tür valf bulunur?",
+    "options": [
+      "1) 3 adet rilif valf",
+      "2) 2 adet musluk valf",
+      "3) 2 adet lift çek valf",
+      "4) 3 adet çalpara çek valf",
+      "5) 2 adet redyusin valf"
+    ],
+    "correctAnswer": "3) 2 adet lift çek valf"
+  },
+  {
+    "id": 8,
+    "testIndex": 9,
+    "question": "İç hacmi değişmeyen ve ağzı açık çelik bir kap içinde bulunan bir gazın kütlesinin, sıcaklık arttıkça değişimi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Sürekli artar",
+      "2) Sürekli azalır",
+      "3) Önce artar sonra azalır",
+      "4) Önce artar sonra değişmez",
+      "5) Değişmez"
+    ],
+    "correctAnswer": "2) Sürekli azalır"
+  },
+  {
+    "id": 9,
+    "testIndex": 9,
+    "question": "Gemilerde içme suyunun en uç merkezlere kadar ulaşımını sağlayan sistem aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Transmiter",
+      "2) Telemotor",
+      "3) Servomotor",
+      "4) Elektromotor",
+      "5) Hidrofor"
+    ],
+    "correctAnswer": "5) Hidrofor"
+  },
+  {
+    "id": 10,
+    "testIndex": 9,
+    "question": "Dişli bir pompa orijinal (tasarım) devrinin üzerine çalıştırılırsa aşağıdakilerden hangisi oluşur?",
+    "options": [
+      "1) Pompanın dişleri aşınır ve verimi düşer",
+      "2) Pompanın kapasitesi düşer",
+      "3) Pompada titreşim oluşur",
+      "4) Pompa aşırı soğur",
+      "5) Pompa yatakları bozulur"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 11,
+    "testIndex": 9,
+    "question": "Kondenser hotvelinin hacmi ile ilgili kural aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Yoğuşum pompasının tam kapasitesinde onu 1 dakika besleyecek yoğuşum suyu hacmine sahip olmalıdır",
+      "2) Yoğuşum pompasını 5 dakika süre ile besleyebilmelidir",
+      "3) Yoğuşum pompasını 4 dakika süre ile besleyebilmeldir",
+      "4) Yoğuşum pompasını 6 dakika süre ile besleyebilmelidir",
+      "5) Yoğuşum pompasını 10 dakika süre ile besleyebilmelidir"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 12,
+    "testIndex": 9,
+    "question": "Sintine separatörleriyle sintine basarken denize basılan su kaç ppm'i aşmamalıdır?",
+    "options": [
+      "1) 0 ppm",
+      "2) 5 ppm",
+      "3) 10 ppm",
+      "4) 15 ppm",
+      "5) 20 ppm"
+    ],
+    "correctAnswer": "4) 15 ppm"
+  },
+  {
+    "id": 13,
+    "testIndex": 9,
+    "question": "Bir yakıt separatörü ilk hareketten sonra aşırı şekilde titreşimle hızlanıyorsa bunun nedeni aşağıdakilerden hangisi olabilir?",
+    "options": [
+      "1) Besleme vanası kapalıdır, açılmalıdır",
+      "2) Gravite diski separatöre donatılmamıştır",
+      "3) Bavl ve diskler kirlidir, iyi temizlenmemiştir",
+      "4) Su sıcaklığı çok yüksektir",
+      "5) Su borusundaki basınç çok yüksektir"
+    ],
+    "correctAnswer": "3) Bavl ve diskler kirlidir, iyi temizlenmemiştir"
+  },
+  {
+    "id": 14,
+    "testIndex": 9,
+    "question": "Kazan çalışmıyor ve tam dolu olarak muhafaza ediliyorsa tuzluluk testi ne kadar sürede bir yapılmalıdır?",
+    "options": [
+      "1) 12 saatte bir",
+      "2) 24 saatte bir",
+      "3) Haftada bir",
+      "4) 15 günde bir",
+      "5) Ayda bir"
+    ],
+    "correctAnswer": "3) Haftada bir"
+  },
+  {
+    "id": 15,
+    "testIndex": 9,
+    "question": "Aşağıdakilerden hangisi elementlerin ortak özelliği değildir?",
+    "options": [
+      "1) Belirli erime noktalarının olması",
+      "2) Belirli öz kütlelerinin olması",
+      "3) Kendilerine özgü çözünürlüklerinin olması",
+      "4) Farklı maddelere ayrılabilmeleri",
+      "5) Oda koşullarında katı, sıvı ya da gaz durumlarında olabilmeleri"
+    ],
+    "correctAnswer": "4) Farklı maddelere ayrılabilmeleri"
+  },
+  {
+    "id": 16,
+    "testIndex": 9,
+    "question": "Basketli bir hava pompası ne tür bir pompadır?",
+    "options": [
+      "1) Tek etkili pistonlu pompa",
+      "2) Santrifüj pompa",
+      "3) Su çemberli pompa",
+      "4) Diyaframlı pompa",
+      "5) Loblu pompa"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 17,
+    "testIndex": 9,
+    "question": "Bir sintine separatöründe ayrıştırılan yağlı suların rotası aşağıdakilerin hangisi olmalıdır?",
+    "options": [
+      "1) Separatör - slop tank - deniz",
+      "2) Separatör - deniz",
+      "3) Separatör - baş pik - deniz",
+      "4) Separatör - slop tank - barge",
+      "5) Separatör-kıç pik-deniz"
+    ],
+    "correctAnswer": "4) Separatör - slop tank - barge"
+  },
+  {
+    "id": 18,
+    "testIndex": 9,
+    "question": "Aşağıdakilerden hangisi alev borulu kazanın bölümlerindendir?",
+    "options": [
+      "1) Buhar dramı",
+      "2) Külhan",
+      "3) Su dramı",
+      "4) Yan duvar borusu",
+      "5) Gaz bafılı"
+    ],
+    "correctAnswer": "2) Külhan"
+  },
+  {
+    "id": 19,
+    "testIndex": 9,
+    "question": "Aşağıdaki besleme suyu sistemi yüksek basınçlı sistemlerde kullanılır?",
+    "options": [
+      "1) Açık besleme suyu sistemi",
+      "2) Vakum kapalı besleme suyu sistemi",
+      "3) Yarı kapalı besleme suyu sistemi",
+      "4) Basınçlı besleme sistemi",
+      "5) Vakumlu � açık besleme sistemi"
+    ],
+    "correctAnswer": "4) Basınçlı besleme sistemi"
+  },
+  {
+    "id": 20,
+    "testIndex": 9,
+    "question": "Separatörün asıl görevi aşağıdakilerden hangisinde verilmiştir?",
+    "options": [
+      "1) Çökme ayrılma olayını hızlandırır.",
+      "2) Normalde ayrılmaz karışımları ayırır.",
+      "3) Çökmeyen maddelerin çökmesine yardım eder.",
+      "4) Renk ve koyuluklarına göre maddeleri ayırır.",
+      "5) Basınç kullanarak akışkanı hızlandırır."
+    ],
+    "correctAnswer": "1"
+  }
+]

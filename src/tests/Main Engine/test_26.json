@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 25,
+    "question": "Aktarma pompası tarafından dabılbotum tanklarından fuel oilin yakıt devresinde dolaştırılabilmesi için gerekli sıcaklık ne kadar olmalıdır?",
+    "options": [
+      "1) 90°C olmalıdır",
+      "2) 80°C olmalıdır",
+      "3) 70°C olmalıdır",
+      "4) 60°C olmalıdır",
+      "5) 50°C olmalıdır"
+    ],
+    "correctAnswer": "5) 50°C olmalıdır"
+  },
+  {
+    "id": 2,
+    "testIndex": 25,
+    "question": "Yakıt püskürtme pompası çıkış basıncının yükselmesinin sebebi nedir?",
+    "options": [
+      "1) Deliveri (çek) valfın kaçırmasıdır",
+      "2) Makinenin yükünün artmasıdır",
+      "3) Enjektör meme deliklerinin tıkanmasıdır",
+      "4) Plencer strokunun artmasıdır",
+      "5) Yukardakilerin tümüdür"
+    ],
+    "correctAnswer": "3) Enjektör meme deliklerinin tıkanmasıdır"
+  },
+  {
+    "id": 3,
+    "testIndex": 25,
+    "question": "Kampavunt yağ denilince, aşağıdakilerden hangisini düşünürsünüz?",
+    "options": [
+      "1) Hayvansal yağ + Bitkisel yağ",
+      "2) Hayvansal yağ + Mineral yağ",
+      "3) Bitkisel yağ + Mineral yağ",
+      "4) Mineral yağ + Nineral yağ (farklı kökenli yağlar)",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümü"
+  },
+  {
+    "id": 4,
+    "testIndex": 25,
+    "question": "Yakıt devrelerinde, dabılbotum tanklarından alman yakıtın sistemde dolaştırılması için gerekli sıcaklığa verilen isim nedir?",
+    "options": [
+      "1) İkincil ısıtma",
+      "2) Birincil ısıtma",
+      "3) Alevlenme sıcaklığı",
+      "4) Tutuşma sıcaklığı",
+      "5) Kendiliğinden yanma sıcaklığı"
+    ],
+    "correctAnswer": "2) Birincil ısıtma"
+  },
+  {
+    "id": 5,
+    "testIndex": 25,
+    "question": "Gemi dizel makinelerinde kullanılan yağın değiştirilmesi neye göre düzenlenir?",
+    "options": [
+      "1) 2500 saatte bir",
+      "2) 4000 saatte bir",
+      "3) Her gidiş-geliş seferinden sonra",
+      "4) 5000 saatte bir",
+      "5) Makineyi yapan firmanın önerisine göre"
+    ],
+    "correctAnswer": "5) Makineyi yapan firmanın önerisine göre"
+  },
+  {
+    "id": 6,
+    "testIndex": 25,
+    "question": "Eğer bir dizel makinesinde kullanılan deterjan türü bir yağlama yağının rengi siyah ise, bunun anlamı nedir?",
+    "options": [
+      "1) Yağın separatörden geçirilmesi gerektiğinin",
+      "2) Yağın ince streynerden geçirilmesi gerektiğinin",
+      "3) Değiştirilmesi gerektiğinin",
+      "4) Yapısında zararsız kolloidal grafit olduğunun",
+      "5) Yapısında zararlı oksitlenme ürünleri olduğunun"
+    ],
+    "correctAnswer": "4) Yapısında zararsız kolloidal grafit olduğunun"
+  },
+  {
+    "id": 7,
+    "testIndex": 25,
+    "question": "Dizel oillerle çalıştırılan gemi dizel makinelerinde yağlama yağının yakıt ile kirletilmesi aşağıdakilerden hangisine neden olur?",
+    "options": [
+      "1) Viskozite azalır",
+      "2) Akma noktası düşer",
+      "3) Alevlenme noktası yükselir",
+      "4) Viskozite yükselir",
+      "5) Bulut noktası oluşur"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 8,
+    "testIndex": 25,
+    "question": "Yakıt püskürtme pompası ve püskürtme sistemi sorunlarının ana kaynağı nedir?",
+    "options": [
+      "1) Yakıt sisteminde hava",
+      "2) Yanlış ayarlama",
+      "3) Yakıt borularının yalıtımı",
+      "4) Aşırı titreşim",
+      "5) Aşırı kompresyon sıcaklığı"
+    ],
+    "correctAnswer": "2) Yanlış ayarlama"
+  },
+  {
+    "id": 9,
+    "testIndex": 25,
+    "question": "Yakıt püskürtme pompası ile yakıt püskürtme valfı arasındaki yüksek basınç devresinde kaçak oluştuğu zaman yapılması gereken ne olmalıdır?",
+    "options": [
+      "1) Makine kapatılıncaya kadar geçici olarak kelepçe veya kerye kullanılmalıdır",
+      "2) Yangın tehlikesine karşı makine derhal kapatılmalıdır",
+      "3) Onarım yapılıncaya kadar dikkatle gözlenmelidir",
+      "4) Makinenin devir sayısı önemli şekilde düşürülmelidir",
+      "5) Yangın önlemleri alınarak seyire devam edilmelidir"
+    ],
+    "correctAnswer": "2) Yangın tehlikesine karşı makine derhal kapatılmalıdır"
+  },
+  {
+    "id": 10,
+    "testIndex": 25,
+    "question": "İçerisindeki su ve katı yabancı maddelerin çıkarılması için fuel oil bir süre bir yer veya bir tankta dinlendirilmelidir. Bu amaçla hangi tanklardan yararlanılır?",
+    "options": [
+      "1) Servis tankı",
+      "2) Setling tankı",
+      "3) Ving tank",
+      "4) Dabılbotum tank",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "2) Setling tankı"
+  },
+  {
+    "id": 11,
+    "testIndex": 25,
+    "question": "Yağlama yağlarında %7 den fazla yakıt biriktiğinde yapılması gereken ne olmalıdır?",
+    "options": [
+      "1) Yağlama yağı separe edilmelidir",
+      "2) Yağlama yağı kendinden şoklu filtrelerden geçirilmelidir",
+      "3) Yağlama yağı çok küçük gözenekli streynerierden geçirilmelidir",
+      "4) Yağlama yağı değiştirilmelidir",
+      "5) Yağlama yağına bir miktar temiz yağ katılmalıdır"
+    ],
+    "correctAnswer": "4) Yağlama yağı değiştirilmelidir"
+  },
+  {
+    "id": 12,
+    "testIndex": 25,
+    "question": "Püskürtme sistemine verilmeden önce fuel oilin ısıtılması gereklidir. Bu amaçla kullanılan cihaz aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Mazot soğutucusu",
+      "2) Fuel oil hiyteri",
+      "3) Ekonomayzer",
+      "4) Erhiyter",
+      "5) Süperhiyter"
+    ],
+    "correctAnswer": "2) Fuel oil hiyteri"
+  },
+  {
+    "id": 13,
+    "testIndex": 25,
+    "question": "Küçük güçlü gemi dizel makinelerinde samp tanktan yağı alan pompa ne tür pompadır?",
+    "options": [
+      "1) Diyaframlı pompa",
+      "2) Santrifüj pompa",
+      "3) Pozitif deplasmanlı pompa",
+      "4) Elektrik motoru ile çalıştırılan bir pompa",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "3) Pozitif deplasmanlı pompa"
+  },
+  {
+    "id": 14,
+    "testIndex": 25,
+    "question": "Kullanılmakta olan yağlama yağının alevlenme noktasının yükselmesi neyin belirtisidir?",
+    "options": [
+      "1) Yağın çamur ile kirlendiğinin",
+      "2) Yağın karbonumsu maddeler ile kirlendiğinin",
+      "3) Yağın yakıt ile kirlendiğinin",
+      "4) Yağın su ile kirlendiğinin",
+      "5) Yağın kolloydal grafit ile kirlendiğinin"
+    ],
+    "correctAnswer": "3) Yağın yakıt ile kirlendiğinin"
+  },
+  {
+    "id": 15,
+    "testIndex": 25,
+    "question": "Diesel oillerle çalıştırılan makinelerde, yakıt makine püskürtme sistemine verilmeden önce hangi cihazdan geçirilir?",
+    "options": [
+      "1) Şoklu filtrelerden",
+      "2) Stim separatöründen",
+      "3) Purifyerden",
+      "4) Bir sayaçtan",
+      "5) Baypas valfından"
+    ],
+    "correctAnswer": "3) Purifyerden"
+  },
+  {
+    "id": 16,
+    "testIndex": 25,
+    "question": "Bir dizel makinesinde enjektörlerin devresinde havanın bulunması sonucu makinede ne gibi bir sorun oluşur?",
+    "options": [
+      "1) Egzoz karşı basmcı daha yüksek olur",
+      "2) Duman oluşmaksızın makine aşırı yükte çalışır",
+      "3) İlk hareket oluşturulamaz",
+      "4) Makine yüksüz çalışır",
+      "5) Çalışmakta olan makinenin devir sayısı yükselir"
+    ],
+    "correctAnswer": "3) İlk hareket oluşturulamaz"
+  },
+  {
+    "id": 17,
+    "testIndex": 25,
+    "question": "Yakıt püskürtme sistemlerinde en önemli sorun kaynağı aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Yanlış ayar",
+      "2) Kirlenmiş yakıt",
+      "3) Kırılmış yakıt devresi",
+      "4) Aşırı makine titreşimi",
+      "5) Yakıt püskürtme devresinde su"
+    ],
+    "correctAnswer": "2) Kirlenmiş yakıt"
+  },
+  {
+    "id": 18,
+    "testIndex": 25,
+    "question": "Makinede kullanılmakta olan deterjan türü yağlama yağının renginin siyah olması, aşağıda verilenlerden hangisinin belirtisidir?",
+    "options": [
+      "1) Yağlama yağının değiştirilmesi gerektiğinin",
+      "2) Yağın yakıt ile kirletildiğinin",
+      "3) Yağa mineral asitler karıştığının",
+      "4) Yağın normal durumda olduğunun",
+      "5) Yağlama yağının su ile kirletildiğinin"
+    ],
+    "correctAnswer": "4) Yağın normal durumda olduğunun"
+  },
+  {
+    "id": 19,
+    "testIndex": 25,
+    "question": "Gemi dizel makinelerinde kullanılan yağlama yağları, kökenleri açısından aşağıdaki sınıflardan hangisine girer?",
+    "options": [
+      "1) Hayvansal yağlar",
+      "2) Bitkisel yağlar",
+      "3) Mineral yağlar",
+      "4) Sabit yağlar",
+      "5) Yukardakilerin herhangi biri"
+    ],
+    "correctAnswer": "3) Mineral yağlar"
+  },
+  {
+    "id": 20,
+    "testIndex": 25,
+    "question": "Küçük güçlü, yüksek devirli dizel makinelerinin yatakları nasıl yağlanır?",
+    "options": [
+      "1) Çarpma ile",
+      "2) Basınçla",
+      "3) Damlalıklı yağdanlık ile",
+      "4) Mekanik yağdanlık veya lubrikeyterle",
+      "5) Küresel yağdanlıkla"
+    ],
+    "correctAnswer": "2) Basınçla"
+  }
+]

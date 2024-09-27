@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 22,
+    "question": "Birden fazla sayıda makine ile çalıştırmada, pervane ile makine arasına konulan ve devir sayısını azaltan cihazının adı nedir?",
+    "options": [
+      "1) Redüksiyon donanımı",
+      "2) Ridakşın gir",
+      "3) Devir düşürme donanımı",
+      "4) Devir düşürücü donanım",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümü"
+  },
+  {
+    "id": 2,
+    "testIndex": 22,
+    "question": "Bir ısıtıcıda, ısıtılacak ye ısıtılacak sıvılar aynı yönde akıyorsa, bu ısıtıcı aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Ters akımlı ısıtıcı",
+      "2) Doğru akımlı ısıtıcı",
+      "3) Paralel akımlı ısıtıcı",
+      "4) Çapraz akımlı ısıtıcı",
+      "5) Çok geçişli ısıtıcı"
+    ],
+    "correctAnswer": "3) Paralel akımlı ısıtıcı"
+  },
+  {
+    "id": 3,
+    "testIndex": 22,
+    "question": "Isı alıp veren cihazlarda erozyondan kaynaklanan boru arızalarının sebebi nedir?",
+    "options": [
+      "1) Yüksek sıcaklık",
+      "2) Deniz suyu tarafının kirlenmesi",
+      "3) Aşırı soğutma suyu hızı",
+      "4) Zayıf ısı transferi",
+      "5) Deniz suyu yoğunluğunun düşük olması"
+    ],
+    "correctAnswer": "3) Aşırı soğutma suyu hızı"
+  },
+  {
+    "id": 4,
+    "testIndex": 22,
+    "question": "Distillerde yoğuşan buharların oluşturduğu suyun tuzluluğu, salinometrede hangi sayı ile belirtilir?",
+    "options": [
+      "1) 0/32",
+      "2) 1/32",
+      "3) 2/32",
+      "4) 3/32",
+      "5) 4/32"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 5,
+    "testIndex": 22,
+    "question": "Isı alıp veren cihazlarda, deniz suyu basıncının tatlı su basıncından daha küçük olarak sürdürülmesinin sebebi nedir?",
+    "options": [
+      "1) Deniz suyu tarafında kısır oluşumunu önlemektir",
+      "2) Isı alıp vericinin yüzeylerinde oluşacak erozyona azaltmaktır",
+      "3) Deniz suyu servis pompasının yükünü azaltmaktır",
+      "4) Deniz suyusun tatlı suya karışmasını önlemektir",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "4) Deniz suyusun tatlı suya karışmasını önlemektir"
+  },
+  {
+    "id": 6,
+    "testIndex": 22,
+    "question": "Evaporeyterde deniz suyu veya tatlı suyun kaynatılmasıyla oluşan buharlar nerede yoğuşturularak, damıtık veya saf su haline getirilir?",
+    "options": [
+      "1) Yardımcı kondenser",
+      "2) Dreyn kuler",
+      "3) Distiller",
+      "4) Damıtıcı",
+      "5) 3 ve 4"
+    ],
+    "correctAnswer": "5) 3 ve 4"
+  },
+  {
+    "id": 7,
+    "testIndex": 22,
+    "question": "Flaş türünden evaporeyterlerde kullanılan demisterlerin görevi nedir?",
+    "options": [
+      "1) Birinci etki damıtıkları havalandırmadır",
+      "2) Oluşan buharları filtre etmektir",
+      "3) Birinci ve ikinci etki damıtıkları havasızlandırmaktır",
+      "4) Oluşan buharın taşıdığı küçük damlacıkları gidermektir",
+      "5) 1 ve 3'tür"
+    ],
+    "correctAnswer": "4) Oluşan buharın taşıdığı küçük damlacıkları gidermektir"
+  },
+  {
+    "id": 8,
+    "testIndex": 22,
+    "question": "Bir flaş evaporeyterde buhar tarafından taşınan küçük deniz suyu taneciklerinin giderilmesi için kullanılan cihazın adı nedir?",
+    "options": [
+      "1) Püskürtme kapları",
+      "2) Demisterler veya pus (su) ayırıcılar",
+      "3) Deniz suyu ısıtıcısı venti veya havalandırıcısı",
+      "4) Buhar sağlayan orifis levhaları",
+      "5) 3 ve 4"
+    ],
+    "correctAnswer": "2) Demisterler veya pus (su) ayırıcılar"
+  },
+  {
+    "id": 9,
+    "testIndex": 22,
+    "question": "Evaporeyterden gelen buharların taşıdığı su tanecikleri distillerde oluşan saf suyun kirlenmesine neden olur. Bu tür sulara ne isim verilir?",
+    "options": [
+      "1) Damıtık su",
+      "2) Distille su",
+      "3) Saf su",
+      "4) Arı su",
+      "5) Melez su"
+    ],
+    "correctAnswer": "5) Melez su"
+  },
+  {
+    "id": 10,
+    "testIndex": 22,
+    "question": "Birden fazla makine ile yürütmede daha çok hangi dizel makineleri kullanılır?",
+    "options": [
+      "1) Yüksek devirli makineler",
+      "2) Orta devirli makineler",
+      "3) Süper yüksek devirli makineler",
+      "4) Ağır devirli makineler",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "5) 1 ve 2"
+  },
+  {
+    "id": 11,
+    "testIndex": 22,
+    "question": "Isı alıp veren cihazlarda boruların erozyon ve aşınmaya karşı korunmalarında uygulama nedir?",
+    "options": [
+      "1) Boru ağızlarının giriş uçlarında metal salmastra kullanmaktır",
+      "2) Fiber ferullardan yararlanmaktır",
+      "3) Su tarafında çinko kalemler kullanmaktır",
+      "4) Boruların uçlarında plastik koruyucular kullanmaktır",
+      "5) 2 ve 3 uygulanmalıdır"
+    ],
+    "correctAnswer": "4) Boruların uçlarında plastik koruyucular kullanmaktır"
+  },
+  {
+    "id": 12,
+    "testIndex": 22,
+    "question": "Bir damıtma tesisi operasyonu için aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "1) Damıtma, deniz suyunu kaynatarak buhar üretme ve buharın yoğuşturulması işlemidir",
+      "2) Buharlaşma damıtmanın, brayn çıkarılan ikinci parçasıdır",
+      "3) Brayn, denizsuyu buharının yoğuşturulması sonucu oluşur",
+      "4) Brayn, tatlı su buharının yoğuşturulması sonucu oluşur",
+      "5) Oluşan buharlar distillerde preston yardımıyla soğutulur"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 13,
+    "testIndex": 22,
+    "question": "Kondenser ve evaporeyterlerde, deniz suyunun paslandırıcı etkisine büyük direnç gösteren hangi bakır alaşımından yapılmış borular kullanılır?",
+    "options": [
+      "1) Kırmızı pirinç",
+      "2) Manganez bronzu",
+      "3) Bakır berilyum",
+      "4) Kupro-nikel",
+      "5) Sert bronz"
+    ],
+    "correctAnswer": "4) Kupro-nikel"
+  },
+  {
+    "id": 14,
+    "testIndex": 22,
+    "question": "Aşağıda verilenlerden hangi kondenser deniz suyu ile soğutulur?",
+    "options": [
+      "1) Erecekter kondenser",
+      "2) Ana kondenser",
+      "3) Vent kondenser",
+      "4) Glend egzoz kondenser",
+      "5) Dreyn kondenser"
+    ],
+    "correctAnswer": "2) Ana kondenser"
+  },
+  {
+    "id": 15,
+    "testIndex": 22,
+    "question": "Damıtma sistemlerinde daima salinometre ile birlikte kullanılan cihaz hangisidir?",
+    "options": [
+      "1) Pirometre",
+      "2) Termometre",
+      "3) Manometre",
+      "4) Higrometre",
+      "5) Hidrometre"
+    ],
+    "correctAnswer": "2) Termometre"
+  },
+  {
+    "id": 16,
+    "testIndex": 22,
+    "question": "Brayn yoğunluğu olarak ifade edilen normal deniz suyu tuzluluğu aşağıdakilerden hangisi olmalıdır?",
+    "options": [
+      "1) 1/32",
+      "2) 1,5/32",
+      "3) 2/32",
+      "4) 3/32",
+      "5) 4/32"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 17,
+    "testIndex": 22,
+    "question": "Dizel makinelerinin redüksiyon donanımlarında devir düşürme oranının maksimum sayısal değeri nedir?",
+    "options": [
+      "1) 10/1",
+      "2) 7/1",
+      "3) 5/1",
+      "4) 8/1",
+      "5) 4/1"
+    ],
+    "correctAnswer": "3) 5/1"
+  },
+  {
+    "id": 18,
+    "testIndex": 22,
+    "question": "Distillere gelen buharların yoğunlaştırılmasında, soğutucu olarak ne kullanılır?",
+    "options": [
+      "1) İçme suyu",
+      "2) Deniz suyu",
+      "3) Serin hava",
+      "4) Sert tatlı su",
+      "5) 1 ve 4"
+    ],
+    "correctAnswer": "2) Deniz suyu"
+  },
+  {
+    "id": 19,
+    "testIndex": 22,
+    "question": "Herhangi bir ısı alıp veren cihazda aşırı su akımının önlenmesinin sebebi nedir?",
+    "options": [
+      "1) Su tarafında oluşabilecek birikintileri ödemek içindir",
+      "2) Boru erozyonuna engel olmaktır",
+      "3) Boru aynalarının eğilmesine engel olmaktır",
+      "4) Su çekiçlemesi hasarını önlemek içindir",
+      "5) Yukardakilerin tümüdür"
+    ],
+    "correctAnswer": "2) Boru erozyonuna engel olmaktır"
+  },
+  {
+    "id": 20,
+    "testIndex": 22,
+    "question": "Bir damıtma tesisinde brayn yoğunluğu ne ile ölçülür?",
+    "options": [
+      "1) Psikrometre",
+      "2) Salinometre",
+      "3) Anemometre",
+      "4) Sigmomanometre",
+      "5) Bomemetre"
+    ],
+    "correctAnswer": "2) Salinometre"
+  }
+]

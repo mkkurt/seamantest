@@ -1,0 +1,1095 @@
+
+**Project Structure:**
+```
+- public/
+- src/
+  - App.js
+  - App.test.js
+  - DynamicTest.js
+  - components/
+    - QuestionCard.js
+    - RandomQuestionGame.js
+    - RollingQuiz.js
+    - Sidebar.js
+    - TestContent.js
+    - TestResults.js
+    - Topbar.js
+  - hooks/
+  - index.js
+  - reportWebVitals.js
+  - setupTests.js
+  - store.js
+  - tests/
+    - auxiliary-engines/
+    - main-engine/
+    - maritime-english/
+    - maritime-law/
+- tailwind.config.js
+
+```
+
+**Dependencies:**
+```
+{
+  "@testing-library/jest-dom": "^5.17.0",
+  "@testing-library/react": "^13.4.0",
+  "@testing-library/user-event": "^13.5.0",
+  "lucide-react": "^0.441.0",
+  "react": "^18.3.1",
+  "react-dom": "^18.3.1",
+  "react-scripts": "5.0.1",
+  "react-window": "^1.8.10",
+  "web-vitals": "^2.1.4",
+  "tailwindcss": "^3.4.11"
+}
+```
+
+**Code Snippets:**
+```javascript
+// ----- ../../seamantest/src/App.js -----
+import "./App.css";
+import DynamicTest from "./DynamicTest";
+import { StoreProvider } from "./store";
+
+function App() {
+  return (
+    <StoreProvider>
+      <div className="App">
+        <DynamicTest />
+      </div>
+    </StoreProvider>
+  );
+}
+
+export default App;
+
+
+// ----- ../../seamantest/src/App.test.js -----
+import { render, screen } from '@testing-library/react';
+import App from './App';
+
+test('renders learn react link', () => {
+  render(<App />);
+  const linkElement = screen.getByText(/learn react/i);
+  expect(linkElement).toBeInTheDocument();
+});
+
+
+// ----- ../../seamantest/src/DynamicTest.js -----
+import React, { useState, useEffect, useRef } from "react";
+import Sidebar from "./components/Sidebar";
+import TestContent from "./components/TestContent";
+import RollingQuiz from "./components/RollingQuiz";
+import RandomQuestionGame from "./components/RandomQuestionGame";
+import Topbar from "./components/Topbar";
+import { useStore } from "./store";
+
+const DynamicTest = () => {
+  const { state, dispatch, loadTest, handleAnswerSelect, calculateResults } =
+    useStore();
+  const testContentRef = useRef(null);
+  const { questions, answers } = state;
+
+  const handleSubmitTest = () => {
+    dispatch({ type: "SET_SHOW_RESULTS", payload: true });
+    testContentRef.current?.scrollIntoView({ behavior: "smooth" });
+  };
+
+  useEffect(() => {
+    dispatch({ type: "SET_SHOW_RESULTS", payload: false });
+  }, [state.selectedCategory, state.selectedTest, state.quizMode, dispatch]);
+
+  const topBarBreakpoint = 768;
+  const [windowWidth, setWindowWidth] = useState(window.innerWidth);
+
+  useEffect(() => {
+    const handleResize = () => setWindowWidth(window.innerWidth);
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
+  }, []);
+
+  return (
+    <div
+      className={
+        windowWidth > topBarBreakpoint
+          ? "min-h-screen bg-gray-100 flex"
+          : "min-h-screen bg-gray-100 flex flex-col"
+      }
+    >
+      {windowWidth > topBarBreakpoint ? (
+        <Sidebar
+          onSelectTest={(category, test) => {
+            loadTest(category, test);
+            dispatch({ type: "SET_SELECTED_CATEGORY", payload: category });
+            dispatch({ type: "SET_SELECTED_TEST", payload: test });
+            dispatch({ type: "SET_SHOW_RESULTS", payload: false });
+            dispatch({ type: "SET_QUIZ_MODE", payload: "standard" });
+            if (test === "All Questions")
+              dispatch({ type: "SET_QUIZ_MODE", payload: "random" });
+            testContentRef.current?.scrollIntoView({ behavior: "smooth" });
+          }}
+        />
+      ) : (
+        <Topbar
+          onSelectTest={(category, test) => {
+            loadTest(category, test);
+            dispatch({ type: "SET_SELECTED_CATEGORY", payload: category });
+            dispatch({ type: "SET_SELECTED_TEST", payload: test });
+            dispatch({ type: "SET_SHOW_RESULTS", payload: false });
+            dispatch({ type: "SET_QUIZ_MODE", payload: "standard" });
+            testContentRef.current?.scrollIntoView({ behavior: "smooth" });
+          }}
+        />
+      )}
+      <div className="flex-1 p-8 overflow-auto" ref={testContentRef}>
+        <h1 className="text-3xl font-bold mb-8 text-gray-800">
+          Marine Engineering Questions
+        </h1>
+        {state.selectedTest ? (
+          <>
+            <div className="mb-6 flex justify-between items-center">
+              <h2 className="text-2xl font-semibold text-gray-700">
+                {state.selectedCategory} - {state.selectedTest}
+              </h2>
+              <div className="space-x-4">
+                <button
+                  className={`px-4 py-2 rounded ${
+                    state.quizMode === "standard"
+                      ? "bg-blue-500 text-white"
+                      : "bg-gray-200 text-gray-700"
+                  }`}
+                  onClick={() =>
+                    dispatch({ type: "SET_QUIZ_MODE", payload: "standard" })
+                  }
+                >
+                  Standard
+                </button>
+                <button
+                  className={`px-4 py-2 rounded ${
+                    state.quizMode === "rolling"
+                      ? "bg-blue-500 text-white"
+                      : "bg-gray-200 text-gray-700"
+                  }`}
+                  onClick={() =>
+                    dispatch({ type: "SET_QUIZ_MODE", payload: "rolling" })
+                  }
+                >
+                  Rolling Quiz
+                </button>
+                <button
+                  className={`px-4 py-2 rounded ${
+                    state.quizMode === "random"
+                      ? "bg-blue-500 text-white"
+                      : "bg-gray-200 text-gray-700"
+                  }`}
+                  onClick={() =>
+                    dispatch({ type: "SET_QUIZ_MODE", payload: "random" })
+                  }
+                >
+                  Random
+                </button>
+              </div>
+            </div>
+            {state.quizMode === "standard" && (
+              <TestContent
+                questions={questions}
+                answers={answers}
+                onAnswerSelect={handleAnswerSelect}
+                onSubmit={handleSubmitTest}
+                results={calculateResults()}
+              />
+            )}
+            {state.quizMode === "rolling" && (
+              <RollingQuiz
+                questions={questions}
+                onAnswerSelect={handleAnswerSelect}
+              />
+            )}
+            {state.quizMode === "random" && (
+              <RandomQuestionGame
+                questions={questions}
+                onAnswerSelect={handleAnswerSelect}
+              />
+            )}
+          </>
+        ) : (
+          <p className="text-xl text-gray-600">
+            Select a category and test from the sidebar to begin.
+          </p>
+        )}
+      </div>
+    </div>
+  );
+};
+
+export default DynamicTest;
+
+
+// ----- ../../seamantest/src/components/QuestionCard.js -----
+// File: components/QuestionCard.js
+import React, { useState } from "react";
+import { ChevronDown, ChevronUp } from "lucide-react";
+
+const QuestionCard = ({
+  question,
+  options,
+  correctAnswer,
+  onAnswerSelect,
+  questionId,
+  selectedAnswer,
+  isSubmitted,
+}) => {
+  const [showAnswer, setShowAnswer] = useState(false);
+
+  const handleAnswerChange = (e) => {
+    const selected = e.target.value;
+    onAnswerSelect(questionId, selected === correctAnswer, selected);
+  };
+
+  return (
+    <div className="bg-white rounded-lg shadow-md p-6 mb-6">
+      <h2 className="text-xl font-semibold mb-4">{question}</h2>
+      <div className="space-y-2">
+        {options.map((option, index) => {
+          const isCorrect = option === correctAnswer;
+          const isSelected = selectedAnswer === option;
+
+          let optionClasses = "text-gray-700";
+          if (isSubmitted) {
+            if (isSelected && isCorrect) {
+              optionClasses = "text-green-600 font-semibold";
+            } else if (isSelected && !isCorrect) {
+              optionClasses = "text-red-600 font-semibold";
+            } else if (isCorrect) {
+              optionClasses = "text-green-600 font-semibold";
+            }
+          }
+
+          return (
+            <div key={index} className="flex items-center">
+              <input
+                type="radio"
+                id={`option-${questionId}-${index}`}
+                name={`question-${questionId}`}
+                value={option}
+                checked={selectedAnswer === option}
+                onChange={handleAnswerChange}
+                className="mr-2"
+                disabled={isSubmitted}
+              />
+              <label
+                htmlFor={`option-${questionId}-${index}`}
+                className={optionClasses}
+              >
+                {option}
+              </label>
+            </div>
+          );
+        })}
+      </div>
+
+      <div className="mt-4">
+        <button
+          onClick={() => setShowAnswer(!showAnswer)}
+          className="flex items-center text-blue-500 hover:text-blue-700"
+        >
+          {showAnswer ? (
+            <>
+              <ChevronUp size={20} />
+              <span className="ml-1">Hide Answer</span>
+            </>
+          ) : (
+            <>
+              <ChevronDown size={20} />
+              <span className="ml-1">Show Answer</span>
+            </>
+          )}
+        </button>
+        {showAnswer && (
+          <p className="mt-2 text-green-600 font-semibold">{correctAnswer}</p>
+        )}
+      </div>
+    </div>
+  );
+};
+
+export default QuestionCard;
+
+
+// ----- ../../seamantest/src/components/RandomQuestionGame.js -----
+import React, { useState, useEffect } from "react";
+import { useStore } from "../store";
+
+const RandomQuestionGame = () => {
+  const { state } = useStore();
+  const { selectedCategory: category, questions } = state;
+  const [currentQuestion, setCurrentQuestion] = useState(null);
+  const [userAnswer, setUserAnswer] = useState("");
+  const [showResult, setShowResult] = useState(false);
+  const [isCorrect, setIsCorrect] = useState(false);
+  const [categoryQuestions, setCategoryQuestions] = useState([]);
+  const [wrongAnswers, setWrongAnswers] = useState({});
+
+  useEffect(() => {
+    const storedAnswers = JSON.parse(localStorage.getItem("wrongAnswers"));
+    setWrongAnswers(storedAnswers || {});
+  }, []);
+
+  useEffect(() => {
+    const getWeightedRandomQuestion = (questions) => {
+      const totalWeight = questions.reduce((total, question) => {
+        const wrongCount = wrongAnswers[question.question] || 0; // Use the variable
+        return total + (wrongCount + 1);
+      }, 0);
+
+      let randomWeight = Math.random() * totalWeight;
+
+      for (const question of questions) {
+        const wrongCount = wrongAnswers[question.question] || 0; // Use the variable
+        randomWeight -= wrongCount + 1;
+        if (randomWeight < 0) {
+          return question; // Return the selected question
+        }
+      }
+
+      return questions[0]; // Fallback
+    };
+    setCategoryQuestions(questions);
+    if (questions.length > 0) {
+      setCurrentQuestion(getWeightedRandomQuestion(questions));
+    }
+  }, [category, questions, wrongAnswers]);
+
+  const loadNewQuestion = () => {
+    const getWeightedRandomQuestion = (questions) => {
+      const totalWeight = questions.reduce((total, question) => {
+        const wrongCount = wrongAnswers[question.question] || 0; // Use the variable
+        return total + (wrongCount + 1);
+      }, 0);
+
+      let randomWeight = Math.random() * totalWeight;
+
+      for (const question of questions) {
+        const wrongCount = wrongAnswers[question.question] || 0; // Use the variable
+        randomWeight -= wrongCount + 1;
+        if (randomWeight < 0) {
+          return question; // Return the selected question
+        }
+      }
+
+      return questions[0]; // Fallback
+    };
+    // setCurrentQuestion(getRandomQuestion(categoryQuestions));
+    setCurrentQuestion(getWeightedRandomQuestion(categoryQuestions));
+    setUserAnswer("");
+    setShowResult(false);
+  };
+  const saveCorrectQuestion = (question) => {
+    const savedQuestions = JSON.parse(
+      localStorage.getItem("savedQuestions") || "[]"
+    );
+    if (!savedQuestions.some((q) => q.question === question.question)) {
+      savedQuestions.push(question);
+      localStorage.setItem("savedQuestions", JSON.stringify(savedQuestions));
+    }
+  };
+  const handleSubmit = () => {
+    function compareAnswers(selectedAnswer, correctAnswer) {
+      // Function to extract the number from a prefixed answer
+      const extractNumber = (answer) => {
+        const match = answer.match(/^(\d+)\)/);
+        return match ? match[1] : answer;
+      };
+
+      // Extract numbers from both selected and correct answers
+      const selectedNum = extractNumber(selectedAnswer);
+      const correctNum = extractNumber(correctAnswer);
+
+      // Compare the extracted numbers
+      return selectedNum === correctNum;
+    }
+
+    const isCorrect = compareAnswers(userAnswer, currentQuestion.correctAnswer);
+    setIsCorrect(isCorrect);
+    setShowResult(true);
+    if (isCorrect) {
+      saveCorrectQuestion(currentQuestion);
+    } else {
+      const id = currentQuestion.question;
+      updateWrongAnswerCount(id);
+    }
+  };
+  const handleNextQuestion = () => {
+    loadNewQuestion();
+  };
+  if (categoryQuestions.length === 0) {
+    return <div>No questions available for this category.</div>;
+  }
+  if (!currentQuestion) {
+    return <div>Loading question...</div>;
+  }
+
+  const updateWrongAnswerCount = (questionId) => {
+    wrongAnswers[questionId] = (wrongAnswers[questionId] || 0) + 1;
+    localStorage.setItem("wrongAnswers", JSON.stringify(wrongAnswers));
+  };
+
+  return (
+    <div className="bg-white p-6 rounded-lg shadow-md">
+      <h2 className="text-2xl font-semibold mb-4">{category} - Random Quiz</h2>
+      <p className="text-sm text-gray-600 mb-4">
+        {categoryQuestions.length} questions available
+      </p>
+      <h3 className="text-xl font-semibold mb-4">{currentQuestion.question}</h3>
+      <div className="space-y-2">
+        {currentQuestion.options.map((option, index) => (
+          <label key={index} className="flex items-center space-x-2">
+            <input
+              type="radio"
+              value={option}
+              checked={userAnswer === option}
+              onChange={(e) => setUserAnswer(e.target.value)}
+              className="form-radio"
+            />
+            <span>{option}</span>
+          </label>
+        ))}
+      </div>
+      {!showResult ? (
+        <button
+          onClick={handleSubmit}
+          className="mt-4 bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+        >
+          Submit Answer
+        </button>
+      ) : (
+        <div className="mt-4">
+          <p
+            className={`font-bold ${
+              isCorrect ? "text-green-500" : "text-red-500"
+            }`}
+          >
+            {isCorrect ? "Correct!" : "Incorrect."} The correct answer is:{" "}
+            {currentQuestion.correctAnswer}
+          </p>
+          <button
+            onClick={handleNextQuestion}
+            className="mt-2 bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+          >
+            Next Question
+          </button>
+        </div>
+      )}
+    </div>
+  );
+};
+export default RandomQuestionGame;
+
+
+// ----- ../../seamantest/src/components/RollingQuiz.js -----
+import React, { useState } from "react";
+import { ChevronLeft, ChevronRight } from "lucide-react";
+
+const RollingQuiz = ({ questions }) => {
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
+  const [userAnswers, setUserAnswers] = useState({});
+  const [showResults, setShowResults] = useState(false);
+  const [showDetails, setShowDetails] = useState(false);
+
+  const currentQuestion = questions[currentQuestionIndex];
+
+  const handleAnswer = (selectedAnswer) => {
+    setUserAnswers((prev) => ({
+      ...prev,
+      [currentQuestion.id]: {
+        selectedAnswer,
+        isCorrect: selectedAnswer === currentQuestion.correctAnswer,
+      },
+    }));
+  };
+
+  const goToNextQuestion = () => {
+    if (currentQuestionIndex < questions.length - 1) {
+      setCurrentQuestionIndex((prev) => prev + 1);
+    } else {
+      setShowResults(true);
+    }
+  };
+
+  const goToPreviousQuestion = () => {
+    if (currentQuestionIndex > 0) {
+      setCurrentQuestionIndex((prev) => prev - 1);
+    }
+  };
+
+  const calculateResults = () => {
+    const correctAnswers = Object.values(userAnswers).filter(
+      (answer) => answer.isCorrect
+    ).length;
+    return { correct: correctAnswers, total: questions.length };
+  };
+
+  const handleRestartGame = () => {
+    setUserAnswers({});
+    setShowResults(false);
+    setCurrentQuestionIndex(0);
+  };
+
+  if (showResults) {
+    const { correct, total } = calculateResults();
+    return (
+      <div className="mt-4">
+        <div className="bg-white rounded-lg shadow-md p-6">
+          <h2 className="text-2xl font-bold mb-4">Quiz Results</h2>
+          <p className="text-lg mb-4">
+            You got {correct} out of {total} questions correct!
+          </p>
+          <button
+            onClick={handleRestartGame}
+            className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+          >
+            Finish Quiz
+          </button>
+        </div>
+        <button
+          onClick={() => setShowDetails(!showDetails)}
+          className="mt-4 text-blue-500 hover:text-blue-700"
+        >
+          {showDetails ? "Hide" : "Show"} Details
+        </button>
+        {showDetails && (
+          <div className="bg-white rounded-lg shadow-md p-6 mt-4">
+            <h3 className="text-xl font-semibold mb-4">Question Details</h3>
+            {questions.map((question) => (
+              <div key={question.id} className="mb-4">
+                <h4 className="text-lg font-semibold mb-2">
+                  {question.question}
+                </h4>
+                <p>
+                  <strong>Your Answer:</strong>{" "}
+                  {userAnswers[question.id].selectedAnswer}
+                </p>
+                <p>
+                  <strong>Correct Answer:</strong> {question.correctAnswer}
+                </p>
+                <p>
+                  <strong>Result:</strong>{" "}
+                  {userAnswers[question.id].isCorrect ? "Correct" : "Incorrect"}
+                </p>
+              </div>
+            ))}
+          </div>
+        )}
+      </div>
+    );
+  }
+
+  return (
+    <div className="bg-white rounded-lg shadow-md p-6">
+      <h2 className="text-xl font-semibold mb-4">{currentQuestion.question}</h2>
+      <div className="space-y-2 mb-6">
+        {currentQuestion.options.map((option, index) => (
+          <div key={index} className="flex items-center">
+            <input
+              type="radio"
+              id={`option-${index}`}
+              name="answer"
+              value={option}
+              checked={
+                userAnswers[currentQuestion.id]?.selectedAnswer === option
+              }
+              onChange={() => handleAnswer(option)}
+              className="mr-2"
+            />
+            <label htmlFor={`option-${index}`}>{option}</label>
+          </div>
+        ))}
+      </div>
+      <div className="flex justify-between items-center">
+        <button
+          onClick={goToPreviousQuestion}
+          disabled={currentQuestionIndex === 0}
+          className="flex items-center text-blue-500 hover:text-blue-700 disabled:text-gray-400"
+        >
+          <ChevronLeft size={20} />
+          <span className="ml-1">Previous</span>
+        </button>
+        <span className="text-gray-600">
+          Question {currentQuestionIndex + 1} of {questions.length}
+        </span>
+        <button
+          onClick={goToNextQuestion}
+          className="flex items-center text-blue-500 hover:text-blue-700"
+        >
+          <span className="mr-1">
+            {currentQuestionIndex === questions.length - 1 ? "Finish" : "Next"}
+          </span>
+          <ChevronRight size={20} />
+        </button>
+      </div>
+    </div>
+  );
+};
+
+export default RollingQuiz;
+
+
+// ----- ../../seamantest/src/components/Sidebar.js -----
+import React, { useState } from "react";
+import { ChevronRight } from "lucide-react";
+import { useStore } from "../store";
+
+const Sidebar = ({ onSelectTest }) => {
+  const { state } = useStore();
+  const { categories, selectedCategory, selectedTest } = state;
+  const [expandedCategories, setExpandedCategories] = useState({});
+  const [expandedTests, setExpandedTests] = useState(false);
+  const toggleCategory = (category) => {
+    setExpandedCategories((prev) => ({
+      ...prev,
+      [category]: !prev[category],
+    }));
+  };
+
+  return (
+    <div className="w-64 bg-white shadow-xl h-screen sticky top-0 overflow-y-auto">
+      <div className="p-6">
+        <h2 className="text-2xl font-bold mb-6 text-gray-800">Categories</h2>
+        <ul className="space-y-2">
+          {categories &&
+            Object.entries(categories).map(([category, { tests }]) => (
+              <li key={category} className="mb-2">
+                <button
+                  className={`w-full text-left p-2 rounded-md flex items-center justify-between ${
+                    selectedCategory === category
+                      ? "bg-blue-100 text-blue-700"
+                      : "hover:bg-gray-100"
+                  }`}
+                  onClick={() => toggleCategory(category)}
+                >
+                  <span>{category}</span>
+                  <ChevronRight
+                    size={20}
+                    className={`transition-transform duration-200 ${
+                      expandedCategories[category] ? "transform rotate-90" : ""
+                    }`}
+                  />
+                </button>
+                {expandedCategories[category] && (
+                  <ul className="ml-4 mt-2 space-y-1">
+                    <li key="all-questions">
+                      <button
+                        className={`w-full text-left p-2 rounded-md text-sm ${
+                          selectedTest === "All Questions" &&
+                          selectedCategory === category
+                            ? "bg-blue-50 text-blue-600"
+                            : "hover:bg-gray-50"
+                        }`}
+                        onClick={() => onSelectTest(category, "All Questions")}
+                      >
+                        All Questions
+                      </button>
+                    </li>
+                    <li key={category} className="mb-2">
+                      <button
+                        className={`w-full text-left p-2 rounded-md text-sm flex items-center justify-between ${
+                          expandedTests ? " text-blue-700" : "hover:bg-gray-100"
+                        }`}
+                        onClick={() => setExpandedTests(!expandedTests)}
+                      >
+                        <span>Tests</span>
+                        <ChevronRight
+                          size={20}
+                          className={`transition-transform duration-200 ${
+                            expandedTests ? "transform rotate-90" : ""
+                          }`}
+                        />
+                      </button>
+                      {expandedTests && (
+                        <div className="relative">
+                          <ul className="ml-4 mt-2 space-y-1 max-h-40 overflow-y-auto scroll-shadow">
+                            {tests &&
+                              Object.keys(tests).map((test) => (
+                                <li key={test}>
+                                  <button
+                                    className={`w-full text-left p-2 rounded-md text-sm ${
+                                      selectedTest === test &&
+                                      selectedCategory === category
+                                        ? "bg-blue-50 text-blue-600"
+                                        : "hover:bg-gray-50"
+                                    }`}
+                                    onClick={() => onSelectTest(category, test)}
+                                  >
+                                    {test}
+                                  </button>
+                                </li>
+                              ))}
+                          </ul>
+                          <div className="absolute bottom-0 left-0 right-0 h-4 bg-gradient-to-t from-gray-100 to-transparent pointer-events-none" />
+                        </div>
+                      )}
+                    </li>
+                  </ul>
+                )}
+              </li>
+            ))}
+        </ul>
+      </div>
+    </div>
+  );
+};
+export default Sidebar;
+
+
+// ----- ../../seamantest/src/components/TestContent.js -----
+import React from "react";
+import QuestionCard from "./QuestionCard";
+
+const TestContent = ({
+  questions,
+  answers,
+  showResults,
+  onAnswerSelect,
+  onSubmitTest,
+  calculateResults,
+}) => {
+  return (
+    <div>
+      {questions.map((question) => (
+        <QuestionCard
+          key={question.id}
+          {...question}
+          onAnswerSelect={onAnswerSelect}
+          questionId={question.id}
+          selectedAnswer={answers[question.id]?.selectedAnswer || ""}
+          isSubmitted={showResults}
+        />
+      ))}
+
+      {!showResults && (
+        <button
+          onClick={onSubmitTest}
+          className="mt-6 bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+        >
+          Submit Test
+        </button>
+      )}
+      {showResults && (
+        <div className="mt-6 p-4 bg-green-100 rounded-md">
+          <h3 className="text-xl font-semibold mb-2">Test Results:</h3>
+          <p>
+            You got {calculateResults()} out of {questions.length} correct!
+          </p>
+        </div>
+      )}
+    </div>
+  );
+};
+
+export default TestContent;
+
+
+// ----- ../../seamantest/src/components/TestResults.js -----
+// File: components/TestResults.js
+import React from "react";
+
+const TestResults = ({ correctCount, totalQuestions }) => (
+  <div className="bg-green-100 rounded-md shadow-md p-6 mb-6">
+    <h3 className="text-xl font-semibold mb-4">Test Results:</h3>
+    <p>
+      You got {correctCount} out of {totalQuestions} correct!
+    </p>
+  </div>
+);
+
+export default TestResults;
+
+
+// ----- ../../seamantest/src/components/Topbar.js -----
+import React, { useState, useEffect } from "react";
+import { ChevronDown, ChevronUp } from "lucide-react";
+
+const Topbar = ({
+  categories,
+  selectedCategory,
+  selectedTest,
+  onSelectTest,
+}) => {
+  const [expandedCategory, setExpandedCategory] = useState(null);
+  const [isVisible, setIsVisible] = useState(true);
+  const [lastScrollTop, setLastScrollTop] = useState(0);
+
+  const toggleCategory = (category) => {
+    setExpandedCategory((prev) => (prev === category ? null : category));
+  };
+
+  useEffect(() => {
+    const handleScroll = () => {
+      const currentScrollTop = window.scrollY;
+      if (currentScrollTop > lastScrollTop) {
+        // Scrolling down
+        setIsVisible(false);
+      } else {
+        // Scrolling up
+        setIsVisible(true);
+      }
+      setLastScrollTop(currentScrollTop);
+    };
+
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, [lastScrollTop]);
+
+  return (
+    <div
+      className={`w-full bg-white shadow-md h-16 flex items-center px-4 transition-transform duration-300 ${
+        isVisible ? "translate-y-0" : "-translate-y-16"
+      }`}
+    >
+      <div className="flex items-center w-full justify-between">
+        {/* Logo or Title */}
+        <div className="text-xl font-bold text-gray-800">Quiz App</div>
+
+        {/* Category Dropdown */}
+        <div className="relative flex items-center">
+          <button
+            className={`text-gray-800 flex items-center space-x-2 p-2 rounded-md ${
+              expandedCategory
+                ? "bg-blue-100 text-blue-700"
+                : "hover:bg-gray-100"
+            }`}
+            onClick={() => toggleCategory("category")}
+          >
+            <span>{selectedCategory || "Select Category"}</span>
+            {expandedCategory ? (
+              <ChevronUp size={20} />
+            ) : (
+              <ChevronDown size={20} />
+            )}
+          </button>
+
+          {expandedCategory && (
+            <div className="absolute top-16 left-0 w-64 bg-white shadow-lg rounded-md z-10">
+              <ul className="py-2">
+                {Object.entries(categories).map(([category, { tests }]) => (
+                  <li key={category}>
+                    <button
+                      className={`w-full text-left p-2 rounded-md ${
+                        selectedCategory === category
+                          ? "bg-blue-100 text-blue-700"
+                          : "hover:bg-gray-100"
+                      }`}
+                      onClick={() => {
+                        onSelectTest(category, "All Questions");
+                        toggleCategory(category);
+                      }}
+                    >
+                      {category}
+                    </button>
+                    {selectedCategory === category && (
+                      <ul className="ml-4 mt-2 space-y-1">
+                        <li>
+                          <button
+                            className={`w-full text-left p-2 rounded-md text-sm ${
+                              selectedTest === "All Questions"
+                                ? "bg-blue-50 text-blue-600 font-semibold"
+                                : "hover:bg-gray-50"
+                            }`}
+                            onClick={() =>
+                              onSelectTest(category, "All Questions")
+                            }
+                          >
+                            All Questions
+                          </button>
+                        </li>
+                        {Object.keys(tests).map((test) => (
+                          <li key={test}>
+                            <button
+                              className={`w-full text-left p-2 rounded-md text-sm ${
+                                selectedTest === test
+                                  ? "bg-blue-50 text-blue-600"
+                                  : "hover:bg-gray-50"
+                              }`}
+                              onClick={() => onSelectTest(category, test)}
+                            >
+                              {test}
+                            </button>
+                          </li>
+                        ))}
+                      </ul>
+                    )}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+        </div>
+
+        {/* Right Side: Any additional actions (like a logout button) */}
+        <div>
+          <button className="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded">
+            Logout
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default Topbar;
+
+
+// ----- ../../seamantest/src/index.js -----
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import './index.css';
+import App from './App';
+import reportWebVitals from './reportWebVitals';
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);
+
+// If you want to start measuring performance in your app, pass a function
+// to log results (for example: reportWebVitals(console.log))
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+reportWebVitals();
+
+
+// ----- ../../seamantest/src/reportWebVitals.js -----
+const reportWebVitals = onPerfEntry => {
+  if (onPerfEntry && onPerfEntry instanceof Function) {
+    import('web-vitals').then(({ getCLS, getFID, getFCP, getLCP, getTTFB }) => {
+      getCLS(onPerfEntry);
+      getFID(onPerfEntry);
+      getFCP(onPerfEntry);
+      getLCP(onPerfEntry);
+      getTTFB(onPerfEntry);
+    });
+  }
+};
+
+export default reportWebVitals;
+
+
+// ----- ../../seamantest/src/setupTests.js -----
+// jest-dom adds custom jest matchers for asserting on DOM nodes.
+// allows you to do things like:
+// expect(element).toHaveTextContent(/react/i)
+// learn more: https://github.com/testing-library/jest-dom
+import '@testing-library/jest-dom';
+
+
+// ----- ../../seamantest/src/store.js -----
+import React, { createContext, useContext, useReducer } from "react";
+
+const StoreContext = createContext();
+
+const initialState = {
+  categories: {},
+  questions: [],
+  answers: {},
+  selectedCategory: "",
+  selectedTest: "",
+  showResults: false,
+  quizMode: "standard",
+};
+
+const reducer = (state, action) => {
+  switch (action.type) {
+    case "SET_CATEGORIES":
+      return { ...state, categories: action.payload };
+    case "SET_QUESTIONS":
+      return { ...state, questions: action.payload };
+    case "SET_ANSWERS":
+      return { ...state, answers: action.payload };
+    case "SET_SELECTED_CATEGORY":
+      return { ...state, selectedCategory: action.payload };
+    case "SET_SELECTED_TEST":
+      return { ...state, selectedTest: action.payload };
+    case "SET_SHOW_RESULTS":
+      return { ...state, showResults: action.payload };
+    case "SET_QUIZ_MODE":
+      return { ...state, quizMode: action.payload };
+    case "RESET_ANSWERS":
+      return { ...state, answers: {} };
+    default:
+      return state;
+  }
+};
+
+export const StoreProvider = ({ children }) => {
+  const [state, dispatch] = useReducer(reducer, initialState);
+
+  // Load a specific test or all questions for a category
+  const loadTest = (category, testName) => {
+    if (testName === "All Questions") {
+      dispatch({
+        type: "SET_QUESTIONS",
+        payload: state.categories[category].allQuestions,
+      });
+    } else {
+      dispatch({
+        type: "SET_QUESTIONS",
+        payload: state.categories[category].tests[testName],
+      });
+    }
+    dispatch({ type: "RESET_ANSWERS" }); // Reset answers when loading new questions
+  };
+
+  // Handle answer selection
+  const handleAnswerSelect = (questionId, isCorrect, selectedAnswer) => {
+    dispatch({
+      type: "SET_ANSWERS",
+      payload: { questionId, isCorrect, selectedAnswer },
+    });
+  };
+
+  // Calculate results
+  const calculateResults = () => {
+    return Object.values(state.answers).filter((ans) => ans.isCorrect).length;
+  };
+
+  return (
+    <StoreContext.Provider
+      value={{
+        state,
+        dispatch,
+        loadTest,
+        handleAnswerSelect,
+        calculateResults,
+      }}
+    >
+      {children}
+    </StoreContext.Provider>
+  );
+};
+
+export const useStore = () => useContext(StoreContext);
+
+// Usage:
+// Wrap your app with the StoreProvider component
+// <StoreProvider>
+//   <App />
+// </StoreProvider>
+//
+// Then use the useStore hook in your components to access the store
+// const { state, dispatch } = useStore();
+// dispatch({ type: "SET_SELECTED_CATEGORY", payload: "Math" });
+// const { selectedCategory } = state;
+
+
+// ----- ../../seamantest/tailwind.config.js -----
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: ["./src/**/*.{js,jsx,ts,tsx}"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+};
+
+```

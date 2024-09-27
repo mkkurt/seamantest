@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 2,
+    "question": "Which of the followings is not one of the qualities of the governor?",
+    "options": [
+      "1) The main control device on the engine",
+      "2) Controls the engine speed when the power is required to change",
+      "3) The supplementary control device on the engine",
+      "4) Can be adjusted automatically",
+      "5) Made up of speed sensing arrangement and hydraulic unit"
+    ],
+    "correctAnswer": "3) The supplementary control device on the engine"
+  },
+  {
+    "id": 2,
+    "testIndex": 2,
+    "question": "\"manometer\" measures:",
+    "options": [
+      "1) Air pressure",
+      "2) Steam pressure",
+      "3) Oil pressure",
+      "4) Water pressure",
+      "5) Oil temperature"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 3,
+    "testIndex": 2,
+    "question": "Which of the following indicates pump's function instead of its structure?",
+    "options": [
+      "1) bilge pump",
+      "2) centrifugal pump",
+      "3) positive displacement pump",
+      "4) gear pump",
+      "5) reciprocating pump"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 4,
+    "testIndex": 2,
+    "question": "When the separated oil is burnt by an .................. the application is recorded in Oil Record Book.",
+    "options": [
+      "1) oily water separator",
+      "2) ejector",
+      "3) incinerator",
+      "4) chlorinator",
+      "5) aeration chamber"
+    ],
+    "correctAnswer": "3) incinerator"
+  },
+  {
+    "id": 5,
+    "testIndex": 2,
+    "question": "Low head pressure can be caused by ...........",
+    "options": [
+      "1) Too much condensing water",
+      "2) Too cold condensing water",
+      "3) Leaky discharge valves",
+      "4) Insufficient change of refrigerant",
+      "5) Any of the above"
+    ],
+    "correctAnswer": "5) Any of the above"
+  },
+  {
+    "id": 6,
+    "testIndex": 2,
+    "question": "When purging a refrigeration system, the compressor is .......................",
+    "options": [
+      "1) Running",
+      "2) Running with the bypass open",
+      "3) Shut down",
+      "4) Running with the bypass closed",
+      "5) Running stedily"
+    ],
+    "correctAnswer": "3) Shut down"
+  },
+  {
+    "id": 7,
+    "testIndex": 2,
+    "question": "What word has a positive meaning?",
+    "options": [
+      "1) abrasion",
+      "2) corrosion",
+      "3) contaminate",
+      "4) overpressure",
+      "5) overhaul"
+    ],
+    "correctAnswer": "5) overhaul"
+  },
+  {
+    "id": 8,
+    "testIndex": 2,
+    "question": "Which of the following is highly advised to be used for washing turbo charger blower by the manifacturers?",
+    "options": [
+      "1) Hot water",
+      "2) ACC9 + Hot water",
+      "3) Fitter clean + hot water",
+      "4) Carbon remover + hot water",
+      "5) Descales liquid + hot water"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 9,
+    "testIndex": 2,
+    "question": "Why do you add cornstarch to an evaporator?",
+    "options": [
+      "1) To cut down on priming and scale",
+      "2) To make the water taste better",
+      "3) To prevent high temperatures",
+      "4) To increase the rate of vaporization",
+      "5) To reduce the temperature of fresh water"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 10,
+    "testIndex": 2,
+    "question": "Blue smoke coming from the diesel exhaust would indicate:",
+    "options": [
+      "1) Excessive fuel consumption / unburned fuel",
+      "2) Burning of lube oil due to possible blow by",
+      "3) Lean fuel / air mixture, too much air",
+      "4) Less amount of fuel consumption",
+      "5) None of the above"
+    ],
+    "correctAnswer": "2) Burning of lube oil due to possible blow by"
+  },
+  {
+    "id": 11,
+    "testIndex": 2,
+    "question": "All diesel lubricating system must:",
+    "options": [
+      "1) Have a forced feed mechanical lubricator",
+      "2) Prevent oil fog in the crankcase to avoid crankcase explosion",
+      "3) Provide oil for cooling the piston and cylinder wall",
+      "4) Provide a film of oil between the piston and cylinder wall",
+      "5) None of the above"
+    ],
+    "correctAnswer": "4) Provide a film of oil between the piston and cylinder wall"
+  },
+  {
+    "id": 12,
+    "testIndex": 2,
+    "question": "When does a two stroke cycle diesel engine produce a power stroke in each cylinder",
+    "options": [
+      "1) Once in every 2 revolutions of the crankshaft",
+      "2) Once for every 4 stroke of the piston",
+      "3) Once for every 2 stroke of the piston",
+      "4) Directly after the exhaust stroke",
+      "5) None of the above"
+    ],
+    "correctAnswer": "3) Once for every 2 stroke of the piston"
+  },
+  {
+    "id": 13,
+    "testIndex": 2,
+    "question": "The main components of crankshaft assembly are webs, pins and journals. What word can be used instead of the underlined word?",
+    "options": [
+      "1) purposes",
+      "2) sides",
+      "3) parts",
+      "4) types",
+      "5) means"
+    ],
+    "correctAnswer": "3) parts"
+  },
+  {
+    "id": 14,
+    "testIndex": 2,
+    "question": "....................... the fire pumps are at work.What word can be used instead of underlined part?",
+    "options": [
+      "1) inoperable",
+      "2) operable",
+      "3) in operation",
+      "4) arranged",
+      "5) out of order"
+    ],
+    "correctAnswer": "3) in operation"
+  },
+  {
+    "id": 15,
+    "testIndex": 2,
+    "question": "To produce steam on board a ship, ................. are mostly used.",
+    "options": [
+      "1) steam turbines",
+      "2) purifiers",
+      "3) boilers",
+      "4) clarifiers",
+      "5) evaporators"
+    ],
+    "correctAnswer": "3) boilers"
+  },
+  {
+    "id": 16,
+    "testIndex": 2,
+    "question": "In a 2 stroke engine each revolution of the crank is completed within the angle of ......",
+    "options": [
+      "1) 360°",
+      "2) 180°",
+      "3) 720°",
+      "4) 90°",
+      "5) 45°"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 17,
+    "testIndex": 2,
+    "question": "If the quantity of oil and particles in separated oily water is ...... 15ppm, it can be drained overboard.",
+    "options": [
+      "1) below",
+      "2) over",
+      "3) at",
+      "4) above",
+      "5) up"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 18,
+    "testIndex": 2,
+    "question": "\"The intake valve is open and exhaust valve is closed. The air is drawn into cylinder while the piston is moving downward\" defines;",
+    "options": [
+      "1) power stroke",
+      "2) compression stroke",
+      "3) intake stroke",
+      "4) exhaust stroke",
+      "5) combustion"
+    ],
+    "correctAnswer": "3) intake stroke"
+  },
+  {
+    "id": 19,
+    "testIndex": 2,
+    "question": "A steam turbine has curved blades. What word can be used as the opposite of the underlined word?",
+    "options": [
+      "1) straight",
+      "2) flat",
+      "3) sharp",
+      "4) smooth",
+      "5) vertical"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 20,
+    "testIndex": 2,
+    "question": "....................... leads excessive lost motion in the valve mechanism of a duplex pump.",
+    "options": [
+      "1) The pump to short stroke continously",
+      "2) The pistons to stop in mid stroke",
+      "3) The pump to operate sluggishly",
+      "4) The cushioning valves to wear",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "3) The pump to operate sluggishly"
+  }
+]

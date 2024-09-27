@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 2,
+    "question": "Hangi renk kodu yağ devresini göstermektedir?",
+    "options": [
+      "1) Sarı",
+      "2) Kırmızı",
+      "3) Mavi",
+      "4) Yeşil",
+      "5) Siyah"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 2,
+    "testIndex": 2,
+    "question": "Dizel makinelerinde emme veya hava giriş strokundan sonraki olaya ne isim verilir?",
+    "options": [
+      "1) Genişleme stroku",
+      "2) Yakıt püskürtme ve yanma",
+      "3) Egzoz stroku",
+      "4) Emme stroku",
+      "5) Sıkıştırma stroku"
+    ],
+    "correctAnswer": "5) Sıkıştırma stroku"
+  },
+  {
+    "id": 3,
+    "testIndex": 2,
+    "question": "Yakıt püskürtme pompası ve püskürtme sistemi sorunlarının ana nedeni aşağıdakilerden hangisi değildir?",
+    "options": [
+      "1) Yanlış ayar",
+      "2) Kirli yakıt",
+      "3) Kırılmış veya kesilmiş yakıt boruları",
+      "4) Tıkanmış yakıt devreleri",
+      "5) Kırılmış pompa ve enjektör yayları"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 4,
+    "testIndex": 2,
+    "question": "Dizel makinelerine uygulanan süperşarjın yararlarından biri aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Makinenin devir sayısının azaltılması",
+      "2) Makinenin egzoz sıcaklığının yükseltilmesi",
+      "3) Makine gücünün % 50 - % 60 arttırılması",
+      "4) Makine yakıt sarfiyatının arttırılması",
+      "5) Makine ölçülerinin büyümesi"
+    ],
+    "correctAnswer": "3) Makine gücünün % 50 - % 60 arttırılması"
+  },
+  {
+    "id": 5,
+    "testIndex": 2,
+    "question": "Yüksek devirli dizel makinelerinde aşağıdaki yakıtlardan hangisi kullanılır?",
+    "options": [
+      "1) Fuel oil",
+      "2) Marine diesel oil",
+      "3) Gaz yağı",
+      "4) Benzin",
+      "5) Motorin"
+    ],
+    "correctAnswer": "5) Motorin"
+  },
+  {
+    "id": 6,
+    "testIndex": 2,
+    "question": "Emme ve egzoz valfları hareketlerini nereden alırlar?",
+    "options": [
+      "1) Volandan",
+      "2) Timing valften",
+      "3) Şaft kaplininden",
+      "4) Kemsaft veya tepitrotlardan",
+      "5) Ön dişli gruplarından"
+    ],
+    "correctAnswer": "4) Kemsaft veya tepitrotlardan"
+  },
+  {
+    "id": 7,
+    "testIndex": 2,
+    "question": "Gemi dizel motorlarına uygulanan omurga sistemi nasıl bir soğutma sistemidir?",
+    "options": [
+      "1) Açık sistem",
+      "2) Kapalı sistem",
+      "3) Yarı kapalı sistem",
+      "4) Yası açık sistem",
+      "5) Yüksek basınçlı sistem"
+    ],
+    "correctAnswer": "2) Kapalı sistem"
+  },
+  {
+    "id": 8,
+    "testIndex": 2,
+    "question": "Soğuk iken emme ve egzoz supaplarının klerensleri 0,60 mm olan dört zamanlı bir dizel makinesinde, makine sıcak olduğunda klerensler kaça ayarlanmalıdır?",
+    "options": [
+      "1) 0,50 mm",
+      "2) 0,40 mm",
+      "3) 0,70 mm",
+      "4) 0,30 mm",
+      "5) 0,20 mm"
+    ],
+    "correctAnswer": "4) 0,30 mm"
+  },
+  {
+    "id": 9,
+    "testIndex": 2,
+    "question": "Bir dizel makinesinde gaz kaçakları veya blovbay'dan genel olarak hangi makine parçası sorumludur?",
+    "options": [
+      "1) Valf gayıtları",
+      "2) Valf klerensleri",
+      "3) Yağ kontrol segmanları",
+      "4) Valf yuvaları",
+      "5) Kompresyon segmanları"
+    ],
+    "correctAnswer": "5) Kompresyon segmanları"
+  },
+  {
+    "id": 10,
+    "testIndex": 2,
+    "question": "Karterdeki yağın seviyesi, yağ çubuğunun neresinde olmalıdır?",
+    "options": [
+      "1) Minimum çizgisinde",
+      "2) Maksimum çizgisinde",
+      "3) Minimum çizgisinin altında",
+      "4) Minimum çizgisinin biraz üzerinde",
+      "5) Maksimum çizgisinin üzerinde"
+    ],
+    "correctAnswer": "2) Maksimum çizgisinde"
+  },
+  {
+    "id": 11,
+    "testIndex": 2,
+    "question": "Egzoz susturucusunun görevi nedir?",
+    "options": [
+      "1) Egzoz gazlarının gürültüsünü azaltmak",
+      "2) Egzoz gazlarının gürültüsünü çoğaltmak",
+      "3) Egzoz gazının ısısını artırmak",
+      "4) Egzoz gazı basıncını artırmak",
+      "5) Makinenin verimini artırmak"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 12,
+    "testIndex": 2,
+    "question": "Dizel makinelerinin tornistanları için aşağıdakilerden hangisi kullanılmaz?",
+    "options": [
+      "1) Kaymalı kem saft",
+      "2) Şanzıman donanımı",
+      "3) Ka-Me-Va sistemi",
+      "4) Pervane piç kontrolü",
+      "5) Yardımcı benzin motoru"
+    ],
+    "correctAnswer": "5) Yardımcı benzin motoru"
+  },
+  {
+    "id": 13,
+    "testIndex": 2,
+    "question": "Yüksek güçlü, ağır devirli dizel makinelerinin yağlanmayan kısmı aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Silindirler",
+      "2) Palamar yatakları",
+      "3) Gayıtlar",
+      "4) Kem şaft yatakları",
+      "5) Enjektörler"
+    ],
+    "correctAnswer": "5) Enjektörler"
+  },
+  {
+    "id": 14,
+    "testIndex": 2,
+    "question": "Salmastra kutusu hangi dizel makinelerde kullanılır?",
+    "options": [
+      "1) Trank pistonlu makinelerde",
+      "2) Kroshetli makinelerde",
+      "3) V makinelerde",
+      "4) Karşıt pistonlu makinelerde",
+      "5) Sadece dört zamanlı makinelerde"
+    ],
+    "correctAnswer": "2) Kroshetli makinelerde"
+  },
+  {
+    "id": 15,
+    "testIndex": 2,
+    "question": "Bir enjektörün kontra somunu gevşerse, aşağıdakilerden hangisi oluşur?",
+    "options": [
+      "1) Mavimsi duman",
+      "2) Gri-siyah duman",
+      "3) Beyaz duman",
+      "4) Renksiz duman",
+      "5) Çok açık gri duman"
+    ],
+    "correctAnswer": "2) Gri-siyah duman"
+  },
+  {
+    "id": 16,
+    "testIndex": 2,
+    "question": "Pistonların sadece bir yüzünde iş oluşturulan makinelere verilen isim aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Çift etkili makine",
+      "2) Kroshetli makine",
+      "3) Tek etkili makine",
+      "4) Karşıt pistonlu makine",
+      "5) Yukarıdakilerin tümü"
+    ],
+    "correctAnswer": "3) Tek etkili makine"
+  },
+  {
+    "id": 17,
+    "testIndex": 2,
+    "question": "Silindirlere havanın portlardan verildiği ve egzoz gazlarının kaverdeki (kapaktaki) supap ya da supaplardan atıldığı dizel makinelere ne isim verilir?",
+    "options": [
+      "1) Trank pistonlu makine",
+      "2) Kroshetli makine",
+      "3) Sömi dizel makine",
+      "4) Tek etkili makine",
+      "5) Doğru akımlı makine"
+    ],
+    "correctAnswer": "5) Doğru akımlı makine"
+  },
+  {
+    "id": 18,
+    "testIndex": 2,
+    "question": "Aşağıdakilerden hangisi yakıt püskürtme sisteminde bulunur?",
+    "options": [
+      "1) Starting valf",
+      "2) Güvenlik valfı",
+      "3) Distribütör",
+      "4) Rokerarm",
+      "5) Enjektör"
+    ],
+    "correctAnswer": "5) Enjektör"
+  },
+  {
+    "id": 19,
+    "testIndex": 2,
+    "question": "Motorlarda deniz suyu ile soğutmanın sağlandığı devrelere ne ad verilir?",
+    "options": [
+      "1) Kapalı devre",
+      "2) Yarı kapalı devre",
+      "3) Açık devre",
+      "4) Yarı açık devre",
+      "5) Yüksek basınçlı devre"
+    ],
+    "correctAnswer": "3) Açık devre"
+  },
+  {
+    "id": 20,
+    "testIndex": 2,
+    "question": "Silindir duvarındaki yağlama yağının fazlasını kartere sıyıran segmanlar aşağıda belirtilenlerden hangisidir?",
+    "options": [
+      "1) Ateş segmanı",
+      "2) Gaz segmanı",
+      "3) Yay segman",
+      "4) Yağ segmanı",
+      "5) Kayıcı segman"
+    ],
+    "correctAnswer": "4) Yağ segmanı"
+  }
+]

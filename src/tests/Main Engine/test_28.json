@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 27,
+    "question": "Basınçlı hava ile hareket sisteminde hava tüplerinde depolanan havanın maksimum basıncı, genel olarak kaç bardır?",
+    "options": [
+      "1) 35 Bar",
+      "2) 45 Bar",
+      "3) 30 Bar",
+      "4) 25 Bar",
+      "5) 20 Bar"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 2,
+    "testIndex": 27,
+    "question": "Bazı dört zamanlı makinelerde geri hareket kemleri nasıl tornistan durumuna getirilir?",
+    "options": [
+      "1) Kemşaftın eksenel olarak kaydırılmasıyla",
+      "2) Kemler 180 derece döndürülerek",
+      "3) Kem follovırları (takipçileri) 180 derece döndürülerek",
+      "4) Zincir donanımının dişlilerinin durumu değiştirilerek",
+      "5) 2 ve 3"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 3,
+    "testIndex": 27,
+    "question": "İlk hareketten hemen sonra küçük güçlü ve yüksek devirli bir dizel makinesinde neyin denetlenmesi gerekir?",
+    "options": [
+      "1) Soğutma suyu sıcaklığının",
+      "2) Yağlama yağı sıcaklığının",
+      "3) Yakıt sıcaklığının",
+      "4) Yakıt basıncının",
+      "5) Yağlama yağı basıncının"
+    ],
+    "correctAnswer": "5) Yağlama yağı basıncının"
+  },
+  {
+    "id": 4,
+    "testIndex": 27,
+    "question": "Dört zamanlı dizel makinelerinde, ilk hareket havası silindirlere hangi strokta verilir?",
+    "options": [
+      "1) Güç strokunun başlangıcında",
+      "2) Güç strokunun sonunda",
+      "3) Egzoz strokunda",
+      "4) Sıkıştırma strokunda",
+      "5) Valf overlepi sırasında"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 5,
+    "testIndex": 27,
+    "question": "Tornaçark işlemi sırasında silindire oluşacak yükü azaltmak için ne yapılmalıdır?",
+    "options": [
+      "1) Yakıt devresi açılmalıdır",
+      "2) Genişleme tankı çıkış valfı açılmalıdır",
+      "3) Silindir kontrol valfları açılmalıdır",
+      "4) Deniz valfları açılmalıdır",
+      "5) Sintine kinistin açılmalıdır"
+    ],
+    "correctAnswer": "3) Silindir kontrol valfları açılmalıdır"
+  },
+  {
+    "id": 6,
+    "testIndex": 27,
+    "question": "Basınçlı ilk hareket havası tüplerine gereken dikkat ne olmalıdır?",
+    "options": [
+      "1) Rilif valfları sık sık denetlenmelidir",
+      "2) Su birikmesine karşı sık sık dreyn edilmelidir",
+      "3) Basınçtaki dalgalanmayı önlemek için sıcaklığı dikkatle izlenmelidir",
+      "4) Yağ ve yabancı maddeleri gidermek için sık sık temizlenmelidir",
+      "5) Yukardakilerin tümü yapılmalıdır"
+    ],
+    "correctAnswer": "2) Su birikmesine karşı sık sık dreyn edilmelidir"
+  },
+  {
+    "id": 7,
+    "testIndex": 27,
+    "question": "Orta devirli ana makinelerin büyük bir bölümünde ilk hareket öncesi hangi kurala uyulmalıdır?",
+    "options": [
+      "1) Ekspenşın tank doldurulmalıdır",
+      "2) Termostatik su ayarlama valfı el ile açılmalıdır",
+      "3) Yakıt filtreleri değiştirilmelidir",
+      "4) Tornagir makinesi devreye alınmalıdır",
+      "5) Makine, endikatör muslukları açık olarak döndürülmelidir"
+    ],
+    "correctAnswer": "5) Makine, endikatör muslukları açık olarak döndürülmelidir"
+  },
+  {
+    "id": 8,
+    "testIndex": 27,
+    "question": "Doğrudan basınçlı hava ile çalışan ilk hareket sisteminde, ilk hareket havası silindirlere ne zaman verilir?",
+    "options": [
+      "1) Emme veya giriş strokunda",
+      "2) Sıkıştırma veya kompresyon strokunda",
+      "3) Güç veya genişleme strokunda",
+      "4) Egzoz strokunda",
+      "5) Emme veya giriş sirokunun başlangıcında"
+    ],
+    "correctAnswer": "3) Güç veya genişleme strokunda"
+  },
+  {
+    "id": 9,
+    "testIndex": 27,
+    "question": "Yürütme görevi yapan doğrudan tornistanlı dizel makinelerinde sık olarak hangi ilk hareket sistemi kullanılır?",
+    "options": [
+      "1) Hidrolik ilk hareket sistemi",
+      "2) Basınçlı hava ile ilk hareket sistemi",
+      "3) Sıvı nitrojen ile ilk hareket sistemi",
+      "4) El ile ilk hareket sistemi",
+      "5) Elektrikli veya marş motorlu sistem"
+    ],
+    "correctAnswer": "2) Basınçlı hava ile ilk hareket sistemi"
+  },
+  {
+    "id": 10,
+    "testIndex": 27,
+    "question": "Gemi dizel makinelerinde ilk harekette kullanılan havanın basıncı genellikle kaç bardır?",
+    "options": [
+      "1) 40 Bar",
+      "2) 35 Bar",
+      "3) 30 Bar",
+      "4) 25 Bar",
+      "5) 420 Bar"
+    ],
+    "correctAnswer": "4) 25 Bar"
+  },
+  {
+    "id": 11,
+    "testIndex": 27,
+    "question": "Türboşarjlı dizel makinelerinde egzoz sistemlerinin görevi nedir?",
+    "options": [
+      "1) İç soğutucu veya interkulerlere güç temin eder",
+      "2) Türboşarjer gaz türbinlerini besler",
+      "3) Silindirlerin süpürülmesi etkisini azaltır",
+      "4) Türboşarjeri soğutur",
+      "5) Yukardakilerin tümünü sağlar"
+    ],
+    "correctAnswer": "2) Türboşarjer gaz türbinlerini besler"
+  },
+  {
+    "id": 12,
+    "testIndex": 27,
+    "question": "Dizel makinelerinin ilk hareketinden önce daima denetlenmesi gereken nedir?",
+    "options": [
+      "1) Hava filtreleri",
+      "2) Fuel oil streynerleri",
+      "3) Yağ seviyesi",
+      "4) Pirometre değerleri",
+      "5) Yağ basıncı"
+    ],
+    "correctAnswer": "3) Yağ seviyesi"
+  },
+  {
+    "id": 13,
+    "testIndex": 27,
+    "question": "İlk hareket havası kompresörlerinde kullanılan interkulerlerin (iç soğutucuların) görevi nedir?",
+    "options": [
+      "1) Yüksek basınç kademesine toz girmesinin önlenmesi",
+      "2) Yağlama yağının karbonlaşmasının önlenmesi",
+      "3) Makinenin dolgu veriminin yükselmesinin önlenmesi",
+      "4) Ara kademede oluşacak buharların önlenmesi",
+      "5) 3 ve 4"
+    ],
+    "correctAnswer": "2) Yağlama yağının karbonlaşmasının önlenmesi"
+  },
+  {
+    "id": 14,
+    "testIndex": 27,
+    "question": "İlk hareket sırasında basınçlı gazların ilk hareket sistemine girmesi nasıl önlenir?",
+    "options": [
+      "1) İlk hareket havası kontrol valfı ile",
+      "2) Ayrı dağıtım valflarıyla",
+      "3) Silindirin hava startin çek valflarıyla",
+      "4) İlk hareket manifoldundaki yüksek basınçlı hava ile",
+      "5) 1 ve 2 ile"
+    ],
+    "correctAnswer": "3) Silindirin hava startin çek valflarıyla"
+  },
+  {
+    "id": 15,
+    "testIndex": 27,
+    "question": "Basınçlı hava startin çek valfları ne ile açılır?",
+    "options": [
+      "1) İlk hareket kemi ile",
+      "2) Silindir kompresyon basıncı ile",
+      "3) Distribütör kontrol havası basıncı ile",
+      "4) Valf yayları ile",
+      "5) Maksimum basınç ile"
+    ],
+    "correctAnswer": "3) Distribütör kontrol havası basıncı ile"
+  },
+  {
+    "id": 16,
+    "testIndex": 27,
+    "question": "Eğer bir dezel makinesi ilk harekette serbest olarak dönüyor fakat ateşleme yapmıyorsa sebep ne olabilir?",
+    "options": [
+      "1) Yakıtta su",
+      "2) Soğuk yağlama yağı",
+      "3) Aşırı yüksek ilk hareket havası basıncı",
+      "4) Aşırı yakıt basıncı",
+      "5) Yüksek soğutma suyu basıncı"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 17,
+    "testIndex": 27,
+    "question": "İlk hareketten hemen önce dizel makinesi endikatör valflarının açılmasının sebebi nedir?",
+    "options": [
+      "1) İlk hareket sistemini denemek",
+      "2) Ceket suyundan hava kabarcıklarını çıkarmak",
+      "3) Silindirlerde yabancı bir madde bulunmadığından emin olmak",
+      "4) Yağlama sisteminde yeterli basınç sağlandığından emin olmak",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "3) Silindirlerde yabancı bir madde bulunmadığından emin olmak"
+  },
+  {
+    "id": 18,
+    "testIndex": 27,
+    "question": "Yüksek güçlü, ağır devirli dizel makinelerinde tornistan mekanizması yağ basıncı ile çalışarak aşağıda verilen görevlerden hangilerini oluşturur?",
+    "options": [
+      "1) İlgili kemi yakıt püskürtme pompasının altına getirir",
+      "2) Kemşaftı eksenel yönde hareket ettirir",
+      "3) İlgili kemi hava distribütörü pilot valflarının altına getirir",
+      "4) Makinenin ileri geri hareketlerine yardmcı olur",
+      "5) Yukardakilerin tümünü yerine getirir"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümünü yerine getirir"
+  },
+  {
+    "id": 19,
+    "testIndex": 27,
+    "question": "Yüksek devirli, küçük güçlü bir makinede ilk hareketten önce daima denetlenmesi gereken neresidir?",
+    "options": [
+      "1) Pirometre değerleri",
+      "2) Alt karterdeki (bedpleytteki) yağ seviyesi",
+      "3) Yağlama yağı filtrelerinin değiştirilmesi",
+      "4) Hava filtresinin temizlenmesi",
+      "5) Deniz suyu sıcaklığı"
+    ],
+    "correctAnswer": "2) Alt karterdeki (bedpleytteki) yağ seviyesi"
+  },
+  {
+    "id": 20,
+    "testIndex": 27,
+    "question": "Eşit strok hacminde iki zamanlı makinelerin, dört zamanlı makinelerden daha az ilk hareket havasına gereksiniminin sebebi nedir?",
+    "options": [
+      "1) Daha küçük iç sürtünmeye sahip olmaları",
+      "2) Daha küçük etkili kompresyon oranına sahip olmaları",
+      "3) Starting valfın kem hareketiyle açılması",
+      "4) Pozitif basınç altındaki süpürme havası ile çalışmaları",
+      "5) Emme ve egzoz stroklarında enerji emmeksizin çalışmaları"
+    ],
+    "correctAnswer": "5) Emme ve egzoz stroklarında enerji emmeksizin çalışmaları"
+  }
+]

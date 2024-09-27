@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 0,
+    "question": "Güvenlik Yönetim Sistemi (SMS) fikrinin oluşması dünya denizciliğinin gelişim zincirinin en önemli halkalarından birini oluşturur. Denizcilik tarihinde ilk kez insan faktörü ve teknolojik limitlere kadar gelişen gemi odaklı çözümlerin güvenlik konusunda bilinçli insanlar tarafından uygulanması gerektiği göz önüne alındı. Bu yeni fikir ve oluşumdaki amaç, insan çevre, gemi ve yükün güvenliğini sağlamak için teknoloji, insan ve sistemin uyumunun sağlanmasıdır. Bunu sağlamak için oluşturulan uluslar arası kurallara ne ad verilir?",
+    "options": [
+      "1) Uluslar arası Güvenlik Yönetimi Kodu (ISM Code)",
+      "2) Denizde Çatışmayı Önleme Tüzüğü (COLREG)",
+      "3) Dünya Çalışma Örgütü Kodu (ILO Code)",
+      "4) MARPOL",
+      "5) STCW"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 2,
+    "testIndex": 0,
+    "question": "Gemilerden kaynaklanan kirliliğin önlenmesi uluslar arası sözleşmesi (MARPOL 73/78)in EK-l'inde belirtilen petrol ile deniz kirlenmesini önleyici kurallar kaç GRT üzerindeki teknelere uygulanır?",
+    "options": [
+      "1) 150 GRT altındaki tankerler",
+      "2) 150 GRT üzerindeki kuru yük gemileri",
+      "3) 350 GRT üzerindeki kuru yük gemileri",
+      "4) 400 GRT üzerindeki tüm tekneleri",
+      "5) 500 GRT üzerindeki tüm tekneler"
+    ],
+    "correctAnswer": "4) 400 GRT üzerindeki tüm tekneleri"
+  },
+  {
+    "id": 3,
+    "testIndex": 0,
+    "question": "Bir yağ boşaltım olasılığı gerektirecek tüm kazalar mutlaka rapor edilmeyi gerektirir. Bu tür kazaların türleri tam yapılamayacağından bu kazalar; çatma, oturma, yangın, patlama, yapısal arıza, su alma, yük kayması şeklinde özetlenebilir.Yukarıdaki bilgilerde yanlış nerede yapılmıştır?",
+    "options": [
+      "1) Yağ boşaltım olayı oluşmadan olasılık üzerine rapor verilmez",
+      "2) Gemi içi her kaza ayrıntıya girilmeden rapor gerektirir",
+      "3) Yukarıda açıklanan tüm bilgi doğrudur",
+      "4) Yük kayması hariç bu tür kazalar rapor edilmeyi gerektirir",
+      "5) Yapısal arızalar ve yük kayması hariç diğerleri rapor gerektirir"
+    ],
+    "correctAnswer": "3) Yukarıda açıklanan tüm bilgi doğrudur"
+  },
+  {
+    "id": 4,
+    "testIndex": 0,
+    "question": "Hangisi riskin en yakın tanımıdır?",
+    "options": [
+      "1) Tehlike",
+      "2) İstenmeyen bir olay",
+      "3) İstenmeyen bir olayın olma ihtimali",
+      "4) Tehlikeli bir durumun belirsizliği",
+      "5) İnsana veya çevreye zararlı olabilecek her şey"
+    ],
+    "correctAnswer": "3) İstenmeyen bir olayın olma ihtimali"
+  },
+  {
+    "id": 5,
+    "testIndex": 0,
+    "question": "Uygunluk Belgesi (DOC) hakkında aşağıdakilerden hangisi doğru değildir?",
+    "options": [
+      "1) Gemi, bu gemi ile ilgili bir Uygunluk belgesine (DOC) sahip bir şirket tarafından işletilmelidir.",
+      "2) Uygunluk belgesi (DOC), ISM Kod'un gereklerini yerine getiren her şirket için; İdare veya İdarenin yetki verdiği bir kuruluş tarafından düzenlenmelidir",
+      "3) Sorulduğunda kaptanın İdareye veya İdare tarafından yetkilendirilmiş kuruluşların doğrulamasına sunabilmesi için, Uygunluk belgesinin (DOC) bir kopyası gemide bulundurulmalıdır",
+      "4) Şirketin Uygunluk Belgesi (DOC) olmasa dahi, Güvenlik Yönetimi Sertifikası (SMC) gemiye, İdare veya İdarenin yetki verdiği bir kuruluş tarafından verilebilir. Belgenin verilişinde, İdare; şirket veya geminin onaylı Güvenlik Yönetimi Sistemine göre çalıştığını doğrulamalıdır",
+      "5) İdare veya İdarenin yetki verdiği bir kuruluş, geminin Güvenlik Yönetimi Sistemi'nin onaylandığı şekline uygun olarak işlediğini düzenli aralıklarla doğrulamalıdır"
+    ],
+    "correctAnswer": "4) Şirketin Uygunluk Belgesi (DOC) olmasa dahi, Güvenlik Yönetimi Sertifikası (SMC) gemiye, İdare veya İdarenin yetki verdiği bir kuruluş tarafından verilebilir. Belgenin verilişinde, İdare; şirket veya geminin onaylı Güvenlik Yönetimi Sistemine göre çalıştığını doğrulamalıdır"
+  },
+  {
+    "id": 6,
+    "testIndex": 0,
+    "question": "\"Yola Elverişlilik\" belgesinin geçerlik süresi ne kadardır?",
+    "options": [
+      "1) Bir yıl",
+      "2) Seferlik",
+      "3) Altı ay",
+      "4) Denize elverişlilik belgesinin geçerlik süresi kadar",
+      "5) Klas sörveyi tarihine kadar"
+    ],
+    "correctAnswer": "2) Seferlik"
+  },
+  {
+    "id": 7,
+    "testIndex": 0,
+    "question": "\"Denize Elverişlilik\" belgesinin geçerlik süresi ne kadardır?",
+    "options": [
+      "1) Klas sörveyi tarihine kadar",
+      "2) Seferlik",
+      "3) Altı ay",
+      "4) Üç ay",
+      "5) Bir yıl"
+    ],
+    "correctAnswer": "5) Bir yıl"
+  },
+  {
+    "id": 8,
+    "testIndex": 0,
+    "question": "Serbest Pratika aşağıdaki kuruluşların hangisinin ilgili biriminden alınır?",
+    "options": [
+      "1) Hudut ve Sahiller Sağlık Genel Müdürlüğü",
+      "2) Denizcilik Müsteşarlığı, Bölge Müdürlükleri",
+      "3) Liman Başkanlıkları",
+      "4) Liman İşletme Müdürlükleri",
+      "5) Deniz polisi yetkilileri"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 9,
+    "testIndex": 0,
+    "question": "MARPOL 73/78 gereği gemilerden çıkan pis sularla denizlerin kirlenmesi önlemek amacıyla ÖZEL ALAN olarak ilan edilmiş denizler aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Karadeniz, Baltık",
+      "2) Kızıl Deniz, Karadeniz",
+      "3) Akdeniz, Karadeniz",
+      "4) Basra Körfezi, Karadeniz",
+      "5) Henüz özel alanlar belirlenmemiştir"
+    ],
+    "correctAnswer": "5) Henüz özel alanlar belirlenmemiştir"
+  },
+  {
+    "id": 10,
+    "testIndex": 0,
+    "question": "MARPOL 73/78 EK-11 kapsamına göre Dökme Zehirli Sıvı maddeler kaç sınıfa ayrılır?",
+    "options": [
+      "1) 2",
+      "2) 3",
+      "3) 4",
+      "4) 5",
+      "5) 6"
+    ],
+    "correctAnswer": "3) 4"
+  },
+  {
+    "id": 11,
+    "testIndex": 0,
+    "question": "ISM kodunun amacı, gemilerin güvenli yönetilmesi, işletilmesi ve çevre kirliliğinin önlenmesi konularını,............Standarda bağlamaktır. Noktalı yere hangisi uygundur?",
+    "options": [
+      "1) Değişik",
+      "2) Yerel",
+      "3) Ulusal",
+      "4) Uluslararası",
+      "5) Şirkete ait"
+    ],
+    "correctAnswer": "4) Uluslararası"
+  },
+  {
+    "id": 12,
+    "testIndex": 0,
+    "question": "Petrol tankerlerinde MARPOL 73/78 Ek-1 kapsamındaki yağ kayıt defteri tutma mecburiyeti hangi tonajdan (GRT) itibaren vardır?",
+    "options": [
+      "1) 150",
+      "2) 300",
+      "3) 400",
+      "4) 500",
+      "5) 600"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 13,
+    "testIndex": 0,
+    "question": "50-500 rusum tonilato arasındaki gemilerin \"Denize Elverişlilik\" denetini yapmaya, aşağıdaki kuruluşların hangisi yetkilidir?",
+    "options": [
+      "1) Liman Başkanlıkları",
+      "2) Marmara Bölge Müdürlüğü sörvey kurulu",
+      "3) Bölge Müdürlükleri Sörvey kurulları",
+      "4) Yüksek okul mezunu liman başkanlıkları",
+      "5) Devlet Denetleme Kurulu"
+    ],
+    "correctAnswer": "3) Bölge Müdürlükleri Sörvey kurulları"
+  },
+  {
+    "id": 14,
+    "testIndex": 0,
+    "question": "Denizde yağ kirliliğini fark eden gemici ilk olarak ne yapmalıdır?",
+    "options": [
+      "1) Hemen SOPEP temizleme kitini kullanır",
+      "2) Acenteye durumu rapor eder",
+      "3) Sorumlu vardiya zabitine veya 2. Kaptana veya Baş mühendise olayı rapor eder",
+      "4) Gemi anons devresinden durumu rapor eder",
+      "5) Yağ kirliliği acil istasyonu görevli ekibini görece çağırır"
+    ],
+    "correctAnswer": "3) Sorumlu vardiya zabitine veya 2. Kaptana veya Baş mühendise olayı rapor eder"
+  },
+  {
+    "id": 15,
+    "testIndex": 0,
+    "question": "Deniz Kirliliğini Önleme Acil Planı (SOPEP), MARPOL 73/78 Sözleşmesinin hangi EK'i kapsamında kaç GRT'dan büyük yük gemileri için düzenlenerek gemide bulundurulması gereklidir?",
+    "options": [
+      "1) EK-1, 150 GRT",
+      "2) EK-1,400 GRT",
+      "3) EK-1V, 150 GRT",
+      "4) EK-1V, 400 GRT",
+      "5) EK-V, 400 GRT"
+    ],
+    "correctAnswer": "2) EK-1,400 GRT"
+  },
+  {
+    "id": 16,
+    "testIndex": 0,
+    "question": "Hangisi kalite terminolajisindeki iç müşteriye örnektir?",
+    "options": [
+      "1) Yerli mal kullananlar",
+      "2) Kendi firmasının ürünlerini satın alanlar",
+      "3) Kendi firmasının satılmayıp bedavaya dağıtılan defolu ürünlerini alanlar",
+      "4) Kendi firmasının işçiler için verdiği hizmetlerden ücretsiz yararlanan işçiler",
+      "5) Taşeron veya yan sanayiden mal veya hizmet alan firmalar"
+    ],
+    "correctAnswer": "4) Kendi firmasının işçiler için verdiği hizmetlerden ücretsiz yararlanan işçiler"
+  },
+  {
+    "id": 17,
+    "testIndex": 0,
+    "question": "ISM Kod gereği olarak şirket (donatan) gemilerini, ulusal ve uluslar arası kurallara uygun yeterlikte, gerekli sertifikalara sahip ve...................gemiadamlarıyla donatmalıdır. Noktalı yerlere uygun olanı bulun.",
+    "options": [
+      "1) Tecrübeli",
+      "2) Çalışkan",
+      "3) Bayrak devletinin vatandaşı olan",
+      "4) Sağlıklı",
+      "5) Sabıkasız"
+    ],
+    "correctAnswer": "4) Sağlıklı"
+  },
+  {
+    "id": 18,
+    "testIndex": 0,
+    "question": "ISM Kod'un gereklilikleri aşağıdakilerden hangisine uygulanır?",
+    "options": [
+      "1) Büyük gemilere",
+      "2) Kara ve deniz taşıtlarına",
+      "3) Denizcilik firmalarına",
+      "4) Tüm gemilere",
+      "5) Tüm taşıt araçlarına"
+    ],
+    "correctAnswer": "4) Tüm gemilere"
+  },
+  {
+    "id": 19,
+    "testIndex": 0,
+    "question": "Aşağıdakilerden hangisi hukuken gemide bulunması gereken belgelerden (Borda veya Gemi Evrakı) biri değildir?",
+    "options": [
+      "1) Gemi Tastiknamesi veya Bayrak Şahadetnamesi",
+      "2) Manifesto",
+      "3) Gemi Sicili",
+      "4) Yola ve Denize Elverişlilik Belgeleri",
+      "5) Gemi Jurnali"
+    ],
+    "correctAnswer": "3) Gemi Sicili"
+  },
+  {
+    "id": 20,
+    "testIndex": 0,
+    "question": "TTK.817/l'e göre, aşağıdakilerden hangisi \"Denize Elverişlilik\" denetinde dikkate alınmaz?",
+    "options": [
+      "1) Can kurtarma ve seyir donanımları, Yangından korunma ve yangın söndürme araçları",
+      "2) Tekne",
+      "3) Makine",
+      "4) Kazan",
+      "5) Genel donatım"
+    ],
+    "correctAnswer": "1"
+  }
+]

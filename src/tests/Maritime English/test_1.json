@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 0,
+    "question": "\"The intake valve is open and exhaust valve is closed. The air is drawn into cylinder while the piston is moving downward\" defines;",
+    "options": [
+      "1) power stroke",
+      "2) compression stroke",
+      "3) intake stroke",
+      "4) exhaust stroke",
+      "5) combustion"
+    ],
+    "correctAnswer": "3) intake stroke"
+  },
+  {
+    "id": 2,
+    "testIndex": 0,
+    "question": "On most diesel engines, the governor controls the speed by:",
+    "options": [
+      "1) Controlling the amount of fuel injected into the cylinders",
+      "2) Varying the speed of the turbocharger",
+      "3) Adjusting the compression ratio",
+      "4) Changing the timing of the fuel injection camshaft",
+      "5) Changing the timing of the exhaust valves"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 3,
+    "testIndex": 0,
+    "question": "In two stroke engines, if the engine has exhaust valve(s), it is a .................... scavenged engine.",
+    "options": [
+      "1) cross flow",
+      "2) non-flow",
+      "3) overflow",
+      "4) loop",
+      "5) uniflow"
+    ],
+    "correctAnswer": "5) uniflow"
+  },
+  {
+    "id": 4,
+    "testIndex": 0,
+    "question": ".................... is the control of temperature and humidity in a space together with the circulation, filtering and refreshing of the air.",
+    "options": [
+      "1) Refrigeration",
+      "2) Air conditioning",
+      "3) Ventilation",
+      "4) Cooling",
+      "5) Circulating"
+    ],
+    "correctAnswer": "2) Air conditioning"
+  },
+  {
+    "id": 5,
+    "testIndex": 0,
+    "question": "An overspeeding diesel engine could best be stopped by:",
+    "options": [
+      "1) Disconnecting the battery cables from the starting motor",
+      "2) Draining the cooling water",
+      "3) Draining the hydraulic fluid from the governor sump",
+      "4) Blocking the flow of cooling air to the radiator",
+      "5) Blocking the air intake and securing the fuel supply"
+    ],
+    "correctAnswer": "5) Blocking the air intake and securing the fuel supply"
+  },
+  {
+    "id": 6,
+    "testIndex": 0,
+    "question": "Which one is not treated on board?",
+    "options": [
+      "1) sewage",
+      "2) feed water",
+      "3) freshwater",
+      "4) lube oil",
+      "5) ballast water"
+    ],
+    "correctAnswer": "5) ballast water"
+  },
+  {
+    "id": 7,
+    "testIndex": 0,
+    "question": "Oily water separators are used to separate oil from bilge water ........ the bilge water is pumped ..........",
+    "options": [
+      "1) after / overboard",
+      "2) before / overboard",
+      "3) before / inboard",
+      "4) after / out",
+      "5) when / aboard"
+    ],
+    "correctAnswer": "2) before / overboard"
+  },
+  {
+    "id": 8,
+    "testIndex": 0,
+    "question": "Having an unstarting compressor must make you think the possibiliy of .............",
+    "options": [
+      "1) No charge of liquid in the system",
+      "2) Closed solenoid valves",
+      "3) 1 and 2",
+      "4) None above",
+      "5) Having sufficient amount of air"
+    ],
+    "correctAnswer": "3) 1 and 2"
+  },
+  {
+    "id": 9,
+    "testIndex": 0,
+    "question": "The pump type using a piston or plunger to remove the fluid;",
+    "options": [
+      "1) rotary vane pump",
+      "2) gear pump",
+      "3) reciprocating positive displacement pump",
+      "4) screw pump",
+      "5) centrifugal pump"
+    ],
+    "correctAnswer": "3) reciprocating positive displacement pump"
+  },
+  {
+    "id": 10,
+    "testIndex": 0,
+    "question": "Trawlers, whaling ships and purse seiners are in the category of ............",
+    "options": [
+      "1) pleasure crafts",
+      "2) fishing vessels",
+      "3) passenger ships",
+      "4) naval ships",
+      "5) excursion boats"
+    ],
+    "correctAnswer": "2) fishing vessels"
+  },
+  {
+    "id": 11,
+    "testIndex": 0,
+    "question": "When the separated oil is burnt by an .............., the application is recorded in Oil Record Book.",
+    "options": [
+      "1) oily water separator",
+      "2) ejector",
+      "3) incinerator",
+      "4) chlorinator",
+      "5) aeration chamber"
+    ],
+    "correctAnswer": "3) incinerator"
+  },
+  {
+    "id": 12,
+    "testIndex": 0,
+    "question": "................ the fire pumps are at work. What word can be used instead of underlined part?",
+    "options": [
+      "1) inoperable",
+      "2) operable",
+      "3) in operation",
+      "4) arranged",
+      "5) out of order"
+    ],
+    "correctAnswer": "3) in operation"
+  },
+  {
+    "id": 13,
+    "testIndex": 0,
+    "question": "To remove the impurities and water droplets from oil, .......................... are used on board a ship.",
+    "options": [
+      "1) purifiers",
+      "2) clarifiers",
+      "3) centrifuges",
+      "4) separators",
+      "5) all"
+    ],
+    "correctAnswer": "5) all"
+  },
+  {
+    "id": 14,
+    "testIndex": 0,
+    "question": "The motion of the piston in the cylinder is;",
+    "options": [
+      "1) rotary",
+      "2) axial",
+      "3) bending",
+      "4) fluctuating",
+      "5) reciprocating"
+    ],
+    "correctAnswer": "5) reciprocating"
+  },
+  {
+    "id": 15,
+    "testIndex": 0,
+    "question": "What word is not related to cargo handling equipment?",
+    "options": [
+      "1) filler",
+      "2) derrick",
+      "3) hoisting",
+      "4) jib",
+      "5) crane"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 16,
+    "testIndex": 0,
+    "question": "In the incident of oil fire ..............................",
+    "options": [
+      "1) Get water on deck",
+      "2) Open steam or CO2 smothering system to cargo holds",
+      "3) Close off all ventilation, blowers, doors etc.",
+      "4) Open CO2 smothering system to cargo holds",
+      "5) All above"
+    ],
+    "correctAnswer": "5) All above"
+  },
+  {
+    "id": 17,
+    "testIndex": 0,
+    "question": "The sequence of events in a cycle within 4 stroke diesel engine is:1- The piston is forced down at BDC (Bottom Dead Center) exhaust valve opens2- The piston is at the top of its stroke, TDC (Top Dead Center), inlet valve opens, fresh air is drawn3- Pressure is high in the gases4- Fuel is injected as the piston reaches TDC, to start the combustion5- Inlet valve opens, fresh air drawn as the piston moves down6- At the bottom of the stroke BDC inlet valve closes and the air in cylinder is compressed as the piston rises",
+    "options": [
+      "1) 2-5-6-4-3-1",
+      "2) 2-5-6-4-1-3",
+      "3) 2-6-5-4-3-1",
+      "4) 5-2-4-6-3-1",
+      "5) 5-2-6-4-1-3"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 18,
+    "testIndex": 0,
+    "question": "Any electric motor can be constructed to be .................... prof.",
+    "options": [
+      "1) Short",
+      "2) Ground",
+      "3) Explosion",
+      "4) Overload",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "3) Explosion"
+  },
+  {
+    "id": 19,
+    "testIndex": 0,
+    "question": "The cylinder cover is tightened against liner with studs. What word can be used instead of the underlined word?",
+    "options": [
+      "1) removed",
+      "2) replaced",
+      "3) screwed",
+      "4) slackened",
+      "5) supported"
+    ],
+    "correctAnswer": "3) screwed"
+  },
+  {
+    "id": 20,
+    "testIndex": 0,
+    "question": "While making your rounds, you notice the main lube oil temperature is higher than normal. To remedy this situation, you should:",
+    "options": [
+      "1) Speed up the main lube oil pump",
+      "2) Open the lube oil cooler seawater inlet valve wider",
+      "3) Throttle in on the lube oil cooler seawater discharge valve",
+      "4) Close the lube oil cooler seawater discharge valve wider",
+      "5) Open the lube oil cooler seawater discharge valve wider"
+    ],
+    "correctAnswer": "5) Open the lube oil cooler seawater discharge valve wider"
+  }
+]

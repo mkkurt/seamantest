@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 0,
+    "question": "Bir redyusin valfın çıkış devresinde bulunması gereken valflar aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Glob - geyt",
+      "2) Glob - rilif",
+      "3) Glob-çek",
+      "4) Glob - piston",
+      "5) Glob-İğne"
+    ],
+    "correctAnswer": "2) Glob - rilif"
+  },
+  {
+    "id": 2,
+    "testIndex": 0,
+    "question": "Buhar kondenseri borularının imalinde aşağıdaki malzemelerden hangisi kullanılır?",
+    "options": [
+      "1) Tombak(kızıl pirinç)",
+      "2) Kupro nikel",
+      "3) Titanyum",
+      "4) Admiralti pirinci",
+      "5) Yukarıdakilerin tümü"
+    ],
+    "correctAnswer": "5) Yukarıdakilerin tümü"
+  },
+  {
+    "id": 3,
+    "testIndex": 0,
+    "question": "Bir gemiyi iterek yanaştırmak veya düzeltmek için kullanılan donanıma verilen isim aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Matafora",
+      "2) Kreyn",
+      "3) Baş ırgat",
+      "4) Tov vinci",
+      "5) Kıç ırgat"
+    ],
+    "correctAnswer": "4) Tov vinci"
+  },
+  {
+    "id": 4,
+    "testIndex": 0,
+    "question": "Yağ - yakıt separatörlerinde yağ-yakıt su tarafına geçiyorsa (dışarı veriyorsa) aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "1) Karşı basınç düşüktür",
+      "2) Karşı basınç yüksektir",
+      "3) Gravity disk çok küçüktür",
+      "4) Slaç çıkış tarafı doludur",
+      "5) 3 ve 4"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 5,
+    "testIndex": 0,
+    "question": "Yağ - yakıt separatörlerinde yağ-yakıt su tarafına geçiyorsa (dışarı veriyorsa) aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "1) Gravity disk çok küçük",
+      "2) Siil suyu gelmiyor veya az geliyor",
+      "3) Su çıkışı kapalı",
+      "4) Karşı basınç çok yüksek",
+      "5) Slaç çıkış tarafı dolu"
+    ],
+    "correctAnswer": "2) Siil suyu gelmiyor veya az geliyor"
+  },
+  {
+    "id": 6,
+    "testIndex": 0,
+    "question": "Ambarlarında parlayıcı yükler taşıyan gemilerde bu ambarlar aşağıdaki sistemlerin hangisi ile donatılmalıdırlar?",
+    "options": [
+      "1) Yaş spinkler sistemi ile",
+      "2) Inter gaz sistemi ile",
+      "3) Kuru spinkler sistemi ile",
+      "4) CO2 sistemi ile",
+      "5) Soda - asit sistemi ile"
+    ],
+    "correctAnswer": "2) Inter gaz sistemi ile"
+  },
+  {
+    "id": 7,
+    "testIndex": 0,
+    "question": "Bir separatörün klarifayer olarak kullanılması sonucu elde edilen yabancı maddeler aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Katı partiküller ve su karışımı",
+      "2) Sadece katı partiküller",
+      "3) Sadece su",
+      "4) Yakıt ve su karışımı",
+      "5) Yakıt ve katı partiküller"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 8,
+    "testIndex": 0,
+    "question": "Borulu bir konderser normal şartlarda hangi zaman aralığında kaynatılmalıdır?",
+    "options": [
+      "1) 5 yılda bir",
+      "2) 4 yılda bir",
+      "3) 2-3 yılda bir",
+      "4) Her yıl",
+      "5) Kaynatılmaz"
+    ],
+    "correctAnswer": "3) 2-3 yılda bir"
+  },
+  {
+    "id": 9,
+    "testIndex": 0,
+    "question": "Sitinde yara olan valfı alıştırmak için aşağıdakilerden hangisi kullanılır?",
+    "options": [
+      "1) Yağ",
+      "2) Gasket macunu",
+      "3) Alıştırma macunu",
+      "4) Permateks",
+      "5) Devkon"
+    ],
+    "correctAnswer": "3) Alıştırma macunu"
+  },
+  {
+    "id": 10,
+    "testIndex": 0,
+    "question": "Tek etkili pistonlu bir pompada silindir ile plancer arasında oluşan bir sızıntı neye yol açar?",
+    "options": [
+      "1) Silindir içerisinde vakum düşmesi sonucu emişi etkiler",
+      "2) Pompa disçarcını yükseltir",
+      "3) Pompa verimi yükseltir",
+      "4) Pompa hedini yükseltir",
+      "5) Pompa disçarcında vuruntulara neden olur"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 11,
+    "testIndex": 0,
+    "question": "Aşağıdakilerden hangisi besleme suyu sistemi elemanı değildir?",
+    "options": [
+      "1) Kimyasal madde besleme tankı",
+      "2) Ana buster pompası",
+      "3) Türbofit",
+      "4) Ana yoğuşum devirdaim termostatik valfı",
+      "5) Ekonomayzer"
+    ],
+    "correctAnswer": "4) Ana yoğuşum devirdaim termostatik valfı"
+  },
+  {
+    "id": 12,
+    "testIndex": 0,
+    "question": "Basıncı (supply) ve emici (egzoz) havalandırmada dikkat edilecek husus yaşam yerleri için nasıl olmalıdır?",
+    "options": [
+      "1) Basıcı ve emici fanlar birbirine eşit olmalı ve aynı zamanda çalıştırılmalıdır",
+      "2) Basıcı fanlar her zaman %20 daha fazla hava basmalıdır",
+      "3) Emici fanlar her zaman %20 daha fazla hava emmelidir",
+      "4) Sadece basıcı fan yeterlidir",
+      "5) Sadece emici fan yeterlidir"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 13,
+    "testIndex": 0,
+    "question": "Gemi manevralarında aborda veya kıçtan kara olurken insan gücünün yetmediği yerde halat manevrası aşağıdakilerden hangisi ile olur?",
+    "options": [
+      "1) Sahilden çekme ile",
+      "2) Gemi vasıtası ile",
+      "3) Kontrollü ırgatlar ile",
+      "4) Gemi düdüğü ile",
+      "5) Açavela ile"
+    ],
+    "correctAnswer": "3) Kontrollü ırgatlar ile"
+  },
+  {
+    "id": 14,
+    "testIndex": 0,
+    "question": "Her iki yönde bağlanabilen ve akışkanın geri kaçmasını engellemeyen valf aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Çek valf",
+      "2) Glob valf",
+      "3) Geyt valf",
+      "4) Çalpara valf",
+      "5) Solenoid valf"
+    ],
+    "correctAnswer": "3) Geyt valf"
+  },
+  {
+    "id": 15,
+    "testIndex": 0,
+    "question": "Tek akışlı bir vidalı pompada eksenel sıratsı önlemek için genellikle aşağıdakilerin hangisi yapılır?",
+    "options": [
+      "1) Vidaların içine boylu boyunca ince bir kanal açılır",
+      "2) Vidaların bir ucuna sırast yatağı konur",
+      "3) Tek akış bir bafıl ile ikiye bölünür",
+      "4) Disçarc basıncı düşürülür",
+      "5) Pompanın devri çok düşük tutulur"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 16,
+    "testIndex": 0,
+    "question": "Alev borulu kazanlarda buhar tutma süresi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) 1 � 1,5 saat",
+      "2) 2,5 saat",
+      "3) 10-20 saat",
+      "4) 5-10 saat",
+      "5) 4 saat"
+    ],
+    "correctAnswer": "3) 10-20 saat"
+  },
+  {
+    "id": 17,
+    "testIndex": 0,
+    "question": "Bir gemide kıç pik tankına alınan safra ile aşağıdakilerden hangisi önlenir?",
+    "options": [
+      "1) Geminin yalpaya düşmesi",
+      "2) Geminin draftı",
+      "3) Pervanenin srast etkisi",
+      "4) Geminin meyli",
+      "5) Geminin başa trimi"
+    ],
+    "correctAnswer": "2) Geminin draftı"
+  },
+  {
+    "id": 18,
+    "testIndex": 0,
+    "question": "Genleşme boru bağlantıları için aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "1) Uzun buhar devrelerinde kullanılırlar",
+      "2) Uygun aralıklarla birden fazla kullanılırlar",
+      "3) Alçak basınçlı su sistemlerinde de kullanılırlar",
+      "4) Yüksek basınç ve yüksek sıcaklıktaki buhar devreleri için tercih edilir",
+      "5) Sıcaklık değişiklilerinden dolayı kırılıp bükülmeleri önlemek için kullanılırlar"
+    ],
+    "correctAnswer": "3) Alçak basınçlı su sistemlerinde de kullanılırlar"
+  },
+  {
+    "id": 19,
+    "testIndex": 0,
+    "question": "Kazan besleme suyunun havasının alınma işlemi aşağıdaki hangi elemanda nasıl gerçekleşir?",
+    "options": [
+      "1) Deaeratör tankta ısıtarak",
+      "2) Kondenserde ısıtarak",
+      "3) Ecekterde soğutarak",
+      "4) Ana besleme pompası ile basıncını arttırarak",
+      "5) Konderserde soğutarak"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 20,
+    "testIndex": 0,
+    "question": "Çift taraftan emme yapan impellerin santrifüj pompalarda kullanılma avantajı aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Hidrolik sırast bertaraf edilir",
+      "2) Radyal kleners ayarlanır",
+      "3) Pompa hedi düşük olur",
+      "4) Pompa disçarcı düşük olur",
+      "5) Emiş devresinde vakum oluşur"
+    ],
+    "correctAnswer": "1"
+  }
+]

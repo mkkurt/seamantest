@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 29,
+    "question": "Mazot hiterleri fuel oil sıcaklığını hangi sınırlar içinde tutmak zorundadır?",
+    "options": [
+      "1) 60°C - 70°C",
+      "2) 70°C - 80°C",
+      "3) 80°C - 100°C",
+      "4) 90°C - 150°C",
+      "5) 50°C - 60°C"
+    ],
+    "correctAnswer": "4) 90°C - 150°C"
+  },
+  {
+    "id": 2,
+    "testIndex": 29,
+    "question": "Krank şaftlardan deflekşın ölçülerinin alınmasında kullanılan alet aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Sentil (filer geyç)",
+      "2) Deflekşın geyç",
+      "3) Çap mikrometresi",
+      "4) Briç geyç",
+      "5) Plasti geyç"
+    ],
+    "correctAnswer": "2) Deflekşın geyç"
+  },
+  {
+    "id": 3,
+    "testIndex": 29,
+    "question": "Modern dizel makinelerinin p-t diyagramlarında üst ölü noktadan önce başlayan, yakıt püskürtmeye ilişkin olaylar aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Püskürtme gecikmesi",
+      "2) Tutuşma gecikmesi",
+      "3) Hızlı basınç yükselmesi",
+      "4) Kontrolsüz yanma",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "5) 1 ve 2"
+  },
+  {
+    "id": 4,
+    "testIndex": 29,
+    "question": "Makinenin overolu sırasında, konnektin rodlar yerlerinden çıkarılmamışken deflakşm için krank kollarından kaç ölçü alınabilir?",
+    "options": [
+      "1) 8 ölçü",
+      "2) 6 ölçü",
+      "3) 5 ölçü",
+      "4) 4 ölçü",
+      "5) 3 ölçü"
+    ],
+    "correctAnswer": "3) 5 ölçü"
+  },
+  {
+    "id": 5,
+    "testIndex": 29,
+    "question": "Bir dizel makinesinin krank veblerinden sancak-iskele yönünde ölçülen deflekşın aşağıda belirtilenlerden hangisidir?",
+    "options": [
+      "1) Yatay deflekşın",
+      "2) Negatif deflekşın",
+      "3) Pozitif deflekşın",
+      "4) Dikey deflekşın",
+      "5) Nötr deflekşın"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 6,
+    "testIndex": 29,
+    "question": "Kuru laynerler için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "1) Isıyı daha iyi iletirler",
+      "2) Daha pahalı yağlama yağı gerektirirler",
+      "3) Daha soğuk çalışırlar",
+      "4) Servis ömürleri daha uzundur",
+      "5) Motor verimleri daha yüksektir"
+    ],
+    "correctAnswer": "2) Daha pahalı yağlama yağı gerektirirler"
+  },
+  {
+    "id": 7,
+    "testIndex": 29,
+    "question": "Dizel makinelerinde krank kollarının birbirine paralel olmaları gerekir. Parelelliğin yok olması neyin belirtisidir?",
+    "options": [
+      "1) Deflekşının",
+      "2) Veb deplasmanının",
+      "3) Yatak boşluğunun",
+      "4) Yatak aşınma miktarının",
+      "5) 1 ve 2'nin"
+    ],
+    "correctAnswer": "5) 1 ve 2'nin"
+  },
+  {
+    "id": 8,
+    "testIndex": 29,
+    "question": "Yüksek güçlü, ağır devirli ve çift etkili makinelere hangi süpürme türü uygulanır?",
+    "options": [
+      "1) Port ve valflı süpürme",
+      "2) İlmek süpürme",
+      "3) Basit portlu",
+      "4) Çek valflı",
+      "5) Doğru akımlı süpürme"
+    ],
+    "correctAnswer": "2) İlmek süpürme"
+  },
+  {
+    "id": 9,
+    "testIndex": 29,
+    "question": "Termodinamik veya teorik diyagramlarda sıkıştırma veya genişleme eğrileri nasıl bir durum değişikliği gösterir?",
+    "options": [
+      "1) Adyabatik",
+      "2) Politropik",
+      "3) İzotermik",
+      "4) İzobarik",
+      "5) İzokorik"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 10,
+    "testIndex": 29,
+    "question": "Bir genleşme tankının hacminin, tüm soğutma sistemi hacminin yüzde kaçı olması öğütlenir?",
+    "options": [
+      "1) %2",
+      "2) %3",
+      "3) %4",
+      "4) %10",
+      "5) %50"
+    ],
+    "correctAnswer": "4) %10"
+  },
+  {
+    "id": 11,
+    "testIndex": 29,
+    "question": "Dizel makinelerinin krank kollarından üst ve alt ölü noktalar arasında ölçülen deflekşın ya da veb deplasmanı aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Yatay deflekşın",
+      "2) Negatif deflekşın",
+      "3) Pozitif deflekşın",
+      "4) Dikey deflekşın",
+      "5) Nötr deflekşın"
+    ],
+    "correctAnswer": "4) Dikey deflekşın"
+  },
+  {
+    "id": 12,
+    "testIndex": 29,
+    "question": "Süperşarjlı dizel makinelerinde valf overlepinin krank açısı türünden süresi, süperşarjsız makinelere göre, aşağıdakilerden hangisi ile ifade edilir?",
+    "options": [
+      "1) Daha küçüktür",
+      "2) Birbirine eşittir",
+      "3) Çok daha büyüktür",
+      "4) Çok az küçüktür",
+      "5) Çok az büyüktür"
+    ],
+    "correctAnswer": "3) Çok daha büyüktür"
+  },
+  {
+    "id": 13,
+    "testIndex": 29,
+    "question": "Yeni, dört stroklu makinelerde deflekşının müsaade edilir maksimum değeri nedir?",
+    "options": [
+      "1) 0,08 mm",
+      "2) 0,07 mm",
+      "3) 0,06 mm",
+      "4) 0,05 mm",
+      "5) 0,04 mm"
+    ],
+    "correctAnswer": "5) 0,04 mm"
+  },
+  {
+    "id": 14,
+    "testIndex": 29,
+    "question": "Dört zamanlı dizel makinelerinin gerçek diyagramlarında, atmosfer çizgisi etrafındaki küçük alan neyi belirtir?",
+    "options": [
+      "1) Pompalama kayıplarını",
+      "2) Havanın silindire emilişi için tüketilen gücü",
+      "3) Egzoz gazlarının silindirden atılışını gerektiren gücü",
+      "4) Faydalı işe dönüştürülen alanı",
+      "5) 4 dışında tümünü"
+    ],
+    "correctAnswer": "5) 4 dışında tümünü"
+  },
+  {
+    "id": 15,
+    "testIndex": 29,
+    "question": "Ters akımlı, basit port süpürmeli dizel makinelerinde önemli sakıncalardan biri aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Yüksek maksimum basınç",
+      "2) Yüksek maksimum sıcaklık",
+      "3) Aşırı miktarda hava dolgusu",
+      "4) Dolgu kayıpları",
+      "5) Yüksek ortalama basınçlar"
+    ],
+    "correctAnswer": "4) Dolgu kayıpları"
+  },
+  {
+    "id": 16,
+    "testIndex": 29,
+    "question": "Makinenin overolu sırasında konnektin rotlar yerlerinden çıkarıldığı zaman deflakşın için krank kollarından kaç ölçü alınmalıdır?",
+    "options": [
+      "1) 8 ölçü",
+      "2) 6 ölçü",
+      "3) 5 ölçü",
+      "4) 4 ölçü",
+      "5) 3 ölçü"
+    ],
+    "correctAnswer": "4) 4 ölçü"
+  },
+  {
+    "id": 17,
+    "testIndex": 29,
+    "question": "Modern dizel makinelerinin gerçek pV diyagramlarında, sıkıştırma ve genişleme eğrileri hangi durum değişikliğini gösterirler?",
+    "options": [
+      "1) Adyabatik",
+      "2) Politropik",
+      "3) İzotermik",
+      "4) İzobarik",
+      "5) İzokorik"
+    ],
+    "correctAnswer": "2) Politropik"
+  },
+  {
+    "id": 18,
+    "testIndex": 29,
+    "question": "6 silindirli, dört zamanlı bir dizel motorunda piston yağ kanalları tıkanırsa egzoz dumanının rengi ne olur?",
+    "options": [
+      "1) Siyah",
+      "2) Mavi",
+      "3) Beyaz",
+      "4) Gri",
+      "5) Kahverengi"
+    ],
+    "correctAnswer": "2) Mavi"
+  },
+  {
+    "id": 19,
+    "testIndex": 29,
+    "question": "Kullanılmış dört stroklu makinelerde deflekşının müsaade edilir maksimum sayısal değeri nedir?",
+    "options": [
+      "1) 1,00 mm",
+      "2) 0,09 mm",
+      "3) 0,07 mm",
+      "4) 0,06 mm",
+      "5) 0,04 mm"
+    ],
+    "correctAnswer": "4) 0,06 mm"
+  },
+  {
+    "id": 20,
+    "testIndex": 29,
+    "question": "Deflekşın geyicin uygulandığı bölgede, krank kolları birbirlerine yaklaşır veya kapalı bir durum alırlarsa, bu deflekşın aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Yatay deflekşın",
+      "2) Negatif deflekşın",
+      "3) Dikey deflekşın",
+      "4) Pozitif deflekşın",
+      "5) Nötr deflekşın"
+    ],
+    "correctAnswer": "2) Negatif deflekşın"
+  }
+]

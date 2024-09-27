@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 32,
+    "question": "İçten yanmalı makinelerin kuramsal diyagramlarında sıkıştırma ve genişleme eğrileri aşağıdaki hangi matematik ifadeye uymaktadır?",
+    "options": [
+      "1) p.V= C",
+      "2) p.V(k)= C",
+      "3) p.V(n)= C",
+      "4) p=C",
+      "5) V = C"
+    ],
+    "correctAnswer": "2) p.V(k)= C"
+  },
+  {
+    "id": 2,
+    "testIndex": 32,
+    "question": "Stroku 305 mm olan ve 900 rpm'de çalıştırılan bir makinenin ortalama piston hızı aşağıdakilerden hangisidir?",
+    "options": [
+      "1) 10,15 m/s",
+      "2) 9,15 m/s",
+      "3) 7,45 m/s",
+      "4) 12,34 m/s",
+      "5) 10,00 m/s"
+    ],
+    "correctAnswer": "2) 9,15 m/s"
+  },
+  {
+    "id": 3,
+    "testIndex": 32,
+    "question": "Modern dizel makinelerinin tümü hangi kuramsal çevrime göre çalışmaktadır?",
+    "options": [
+      "1) Diesel çevrimi",
+      "2) Sabathe çevrimi",
+      "3) Otto çevrimi",
+      "4) Joule çevrimi",
+      "5) Carnot çevrimi"
+    ],
+    "correctAnswer": "2) Sabathe çevrimi"
+  },
+  {
+    "id": 4,
+    "testIndex": 32,
+    "question": "Yağlama yağı pompaları aşağıdaki tiplerden hangisidir?",
+    "options": [
+      "1) Dikey 3 vidalı, çift devirli",
+      "2) Dikey 3 kademeli, tek devirli",
+      "3) Yatay 3 vidalı, çift devirli",
+      "4) Yatay 2 vidalı, tek devirli",
+      "5) Dikey 2 vidalı, çift devirli"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 5,
+    "testIndex": 32,
+    "question": "Krank şaft veb deplasmanını ölçmek için hangi cihaz kullanılır?",
+    "options": [
+      "1) Filer geyç",
+      "2) Sentil",
+      "3) İç kompas",
+      "4) Deflekşın geyç",
+      "5) Derinlik mikrometresi"
+    ],
+    "correctAnswer": "4) Deflekşın geyç"
+  },
+  {
+    "id": 6,
+    "testIndex": 32,
+    "question": "Endikatör diyagramında p(c) (kompresyon basıncı) normalden düşük gözüküyor ise, aşağıdakilerden hangisi doğru olabilir?",
+    "options": [
+      "1) Piston segmanları aşınmıştır",
+      "2) Blover filtreleri tıkanmıştır",
+      "3) Valf klerensleri bozulmuştur",
+      "4) Segmanlar takoz olmuştur",
+      "5) Hepsi olabilir"
+    ],
+    "correctAnswer": "5) Hepsi olabilir"
+  },
+  {
+    "id": 7,
+    "testIndex": 32,
+    "question": "Buhar türbini ile sevk edilen bir geminin manevrası sırasında türbin devir sayısının aniden yükseltilmesi aşağıdakilerden hangisine neden olabilir?",
+    "options": [
+      "1) Kazan kaynamasına ve türbine su yürümesine",
+      "2) Sabit kanatların rotor şafta sürtmesine",
+      "3) Hareketli kanatların keyse sürtmesine",
+      "4) Yatak sıcaklıklarının artmasına",
+      "5) Yağ basınçlarının düşmesine"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 8,
+    "testIndex": 32,
+    "question": "Glendler ne işe yararlar?",
+    "options": [
+      "1) Şaftın aşınmamasını sağlarlar",
+      "2) Eksenel kuvveti yok ederler",
+      "3) Radyal kuvveti yok ederler",
+      "4) Şaftı soğutmaya yararlar",
+      "5) Sızdırmazlığı sağlarlar"
+    ],
+    "correctAnswer": "5) Sızdırmazlığı sağlarlar"
+  },
+  {
+    "id": 9,
+    "testIndex": 32,
+    "question": "Gemilerde ilk hareket için kullanılan havanın tüplerdeki basıncı genel olarak kaç bar'dır?",
+    "options": [
+      "1) 10 bar",
+      "2) 20 bar",
+      "3) 25 bar",
+      "4) 35 bar",
+      "5) 40 bar"
+    ],
+    "correctAnswer": "4) 35 bar"
+  },
+  {
+    "id": 10,
+    "testIndex": 32,
+    "question": "Türbinlerde buharın hızını arttırmak suretiyle onun ısıl enerjisini hareket enerjisine çeviren eleman aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Türbin kanatları",
+      "2) Diyaframlar",
+      "3) Nozullar",
+      "4) Pistonlar",
+      "5) Yataklar"
+    ],
+    "correctAnswer": "3) Nozullar"
+  },
+  {
+    "id": 11,
+    "testIndex": 32,
+    "question": "Rotor şaftı üzerine tesir eden her türlü eksenel kuvveti karşılamak için aşağıdakilerden hangisi kullanılır?",
+    "options": [
+      "1) Kayıcı ayaklar",
+      "2) Rotorşaft yatakları",
+      "3) Srast yatakları",
+      "4) Esnek kaplinler",
+      "5) Hidrolik kaplinler"
+    ],
+    "correctAnswer": "3) Srast yatakları"
+  },
+  {
+    "id": 12,
+    "testIndex": 32,
+    "question": "Ana makine olarak kullanılan ağır devirli yüksek güçlü dizel makinelerinde, deniz suyu doğrudan nereyi soğutur?",
+    "options": [
+      "1) Silindir başlıklarını",
+      "2) Egzoz valflarını",
+      "3) Süperşarj havasını",
+      "4) Enjektörleri",
+      "5) Egzoz manifoldunu"
+    ],
+    "correctAnswer": "3) Süperşarj havasını"
+  },
+  {
+    "id": 13,
+    "testIndex": 32,
+    "question": "Türbinlerin ısıtılmasında rotor şaft yatak yağ sıcaklığı en az kaç derece olmalıdır?",
+    "options": [
+      "1) 5°C",
+      "2) 10°C",
+      "3) 18°C",
+      "4) 20°C",
+      "5) 49°C"
+    ],
+    "correctAnswer": "4) 20°C"
+  },
+  {
+    "id": 14,
+    "testIndex": 32,
+    "question": "Aşağıdakilerden hangisi dizel motorlarında yağlama yağının görevi değildir?",
+    "options": [
+      "1) Motorun soğutulmasına katkı",
+      "2) Mekanik aşınmaları önleme",
+      "3) Asitlerden gelen aşınmayı önleme",
+      "4) Enjektör iğne valfını yağlama ve soğutma",
+      "5) Yatakların korunması"
+    ],
+    "correctAnswer": "4) Enjektör iğne valfını yağlama ve soğutma"
+  },
+  {
+    "id": 15,
+    "testIndex": 32,
+    "question": "Silindir laynerlerinde kullanılan O-ringlerin görevleri nelerdir?",
+    "options": [
+      "1) Layner ile makine bloku arasında sızdırmazlık sağlamak",
+      "2) Laynerin küçük miktarda laynsızlığına müsaade etmek",
+      "3) Yağlama yağının karterden kaçmasını önlemek",
+      "4) Karterin havalandırılmasını sağlamak",
+      "5) Layner ile silindir bloku arasında düzgün bir sıcaklık sağlamak"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 16,
+    "testIndex": 32,
+    "question": "Gemideki egzoz gaz kazanının kirlenmesinin makinenin çalışmasına etkisi nasıl olur?",
+    "options": [
+      "1) Motor fazla yakıt yakar",
+      "2) Motorda vuruntu olur",
+      "3) Makinenin karşı basıncı artar",
+      "4) Yakıt püskürtme bozulur",
+      "5) Motorun devri düşer"
+    ],
+    "correctAnswer": "3) Makinenin karşı basıncı artar"
+  },
+  {
+    "id": 17,
+    "testIndex": 32,
+    "question": "Körtis-Parsons türbini ne tip bir türbindir?",
+    "options": [
+      "1) Basit impals türbini",
+      "2) Reaksiyon/reaksiyon kombine türbin",
+      "3) Aksiyon/aksiyon kombine türbin",
+      "4) Reaksiyon kombine türbin",
+      "5) Aksiyon/reaksiyon (kombine) türbini"
+    ],
+    "correctAnswer": "5) Aksiyon/reaksiyon (kombine) türbini"
+  },
+  {
+    "id": 18,
+    "testIndex": 32,
+    "question": "Devir sayısı 280 rpm olan ağır devirli iki zamanlı bir makinede 1 dakikada kaç iş çevrimi oluşur?",
+    "options": [
+      "1) 360",
+      "2) 721",
+      "3) 420",
+      "4) 280",
+      "5) 180"
+    ],
+    "correctAnswer": "4) 280"
+  },
+  {
+    "id": 19,
+    "testIndex": 32,
+    "question": "Saatteki yakıt tüketimi 650 kg olan bir dizel makinesinin gücü 4800 bhp olduğuna göre, bu makinenin fren özgül yakıt tüketimi ne kadardır?",
+    "options": [
+      "1) 155 g/bhp.saat",
+      "2) 145 g/bhp.saat",
+      "3) 135 g/bhp.saat",
+      "4) 125 g/bhp.saat",
+      "5) 165 g/bhp.saat"
+    ],
+    "correctAnswer": "3) 135 g/bhp.saat"
+  },
+  {
+    "id": 20,
+    "testIndex": 32,
+    "question": "Dizel makinelerinde süpap klerenslerinin maksimum sayısal değeri aşağıdakilerden hangisidir?",
+    "options": [
+      "1) 0,3 mm",
+      "2) 0,4 mm",
+      "3) 0,6 mm",
+      "4) 0,8 mm",
+      "5) 1,0 mm"
+    ],
+    "correctAnswer": "5) 1,0 mm"
+  }
+]

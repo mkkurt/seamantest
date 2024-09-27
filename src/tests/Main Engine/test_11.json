@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 10,
+    "question": "Bir dizel makinesinin ilk hareketinden önce, daima denetlenmesi gereken nedir?",
+    "options": [
+      "1) Pirometre denetlenir",
+      "2) Yağlama yağının seviyesi kontrol edilir",
+      "3) Yakıt streyneri değiştirilir",
+      "4) Hava filtresi temizlenir",
+      "5) 3 ve 4"
+    ],
+    "correctAnswer": "2) Yağlama yağının seviyesi kontrol edilir"
+  },
+  {
+    "id": 2,
+    "testIndex": 10,
+    "question": "Bir dizel makinesinin soğutma sisteminde kavitasyon, çoğu zaman pompa impelerinden başka makinenin neresinde görülür?",
+    "options": [
+      "1) Yakıt püskürtme valfı taşıyıcısında",
+      "2) Egzoz valf gayıtlarında",
+      "3) Silindir laynerlerinin su tarafında",
+      "4) Makine egzoz manifoldunda",
+      "5) Giriş havası manifoldunda"
+    ],
+    "correctAnswer": "3) Silindir laynerlerinin su tarafında"
+  },
+  {
+    "id": 3,
+    "testIndex": 10,
+    "question": "Bir dizel makinesinin aşırı şekilde düşük sıcaklıktaki soğutma suyu ile çalıştırılmasının sonucu, aşağıdakilerden hangisi oluşacaktır?",
+    "options": [
+      "1) Tutuşma gecikmesi süreci kısalacaktır",
+      "2) Yakıt ekonomisi çoğalacaktır",
+      "3) Yağlama yağı viskozitesi azalacaktır",
+      "4) Yakıt vuruntusu artacaktır",
+      "5) Sıkıştırma sıcaklığı artacaktır"
+    ],
+    "correctAnswer": "4) Yakıt vuruntusu artacaktır"
+  },
+  {
+    "id": 4,
+    "testIndex": 10,
+    "question": "Gemi dizel makinelerinde kapalı soğutma sisteminin kullanılmasının sebebi nedir?",
+    "options": [
+      "1) Soğutma suyunun ıslah edilmesine gerek yoktur",
+      "2) Soğutma suyu giriş-çıkış sıcaklığı farkı daha yüksektir",
+      "3) Soğutma suyu pompası doğrudan tornistanhdır",
+      "4) Ceket suyu sıcaklığı daha kolay denetlenir",
+      "5) İlk tesis masrafları daha küçüktür"
+    ],
+    "correctAnswer": "4) Ceket suyu sıcaklığı daha kolay denetlenir"
+  },
+  {
+    "id": 5,
+    "testIndex": 10,
+    "question": "Doğrudan tornistanlı gemi ana dizel makinelerine uygulanan ilk hareket sistemi aşağıda belirtilenlerden hangisidir?",
+    "options": [
+      "1) Hidrotor sistemi",
+      "2) Elektrikli marş motoru sistemi",
+      "3) Yardımcı benzin motorlu sistem",
+      "4) Basınçlı hava ile ilk hareket sistemi",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümü"
+  },
+  {
+    "id": 6,
+    "testIndex": 10,
+    "question": "Eğer bir dizel makinesinin soğutma sisteminde ceket suyu sıcaklığı normalden küçük ise beklenen neden, aşağıdakilerden hangisi olabilir?",
+    "options": [
+      "1) Makine soğutma sistemindeki hava",
+      "2) Su ile soğutulan egzoz manifoldunda kırılma",
+      "3) Tıkalı soğutucu",
+      "4) Termostatın hatalı çalışması",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "4) Termostatın hatalı çalışması"
+  },
+  {
+    "id": 7,
+    "testIndex": 10,
+    "question": "Bazı dizel makinelerinde silindir ceketlerine elektrikli ısıtıcı donatılmasının sebebi nedir?",
+    "options": [
+      "1) Yağlama yağı viskozitesini yükselterek soğuk havalarda daha kolay ilk hareket sağlar",
+      "2) Giriş havası sıcaklığını yükseltir",
+      "3) Kompresyon oranını yükseltir",
+      "4) Ceket suyu sıcaklığını yükselterek soğuk havalarda daha kolay ilk hareket sağlar",
+      "5) x - x - x"
+    ],
+    "correctAnswer": "4) Ceket suyu sıcaklığını yükselterek soğuk havalarda daha kolay ilk hareket sağlar"
+  },
+  {
+    "id": 8,
+    "testIndex": 10,
+    "question": "Bir dizel makinesinin, ilk hareketten önce silindir endikatör (endikeyter) musluklarının açık olarak döndürülmesinin amacı nedir?",
+    "options": [
+      "1) İlk hareket sistemini denetlemek",
+      "2) Ceket suyundan hava küreciklerini çıkarmaktır",
+      "3) Yağlama sisteminde basınç yükselmesi sağlamaktır",
+      "4) Silindirlerde yabancı madde olup olmadığını denetlemektir",
+      "5) Makinenin ısıtılmasına yardımcı olmaktır"
+    ],
+    "correctAnswer": "4) Silindirlerde yabancı madde olup olmadığını denetlemektir"
+  },
+  {
+    "id": 9,
+    "testIndex": 10,
+    "question": "Kapalı soğutma sistemli bir dizel makinesinin, uzun bir süre normal dizayn sıcaklığının altındaki bir sıcaklıkta çalıştırılması, aşağıdakilerden hangisine neden olur?",
+    "options": [
+      "1) Sülfürik asit oluşumuna",
+      "2) Yağlama yağı viskozitesinin azalmasına",
+      "3) Soğutma suyu pH mm azalmasına",
+      "4) Termostat arızasına",
+      "5) Yukardakilerin tümüne"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 10,
+    "testIndex": 10,
+    "question": "Kışır katmanı nedeniyle silindir laynerinin uygun bir şekilde soğutulamaması neye neden olur?",
+    "options": [
+      "1) Normalden düşük kompresyon basıncına",
+      "2) Pistonun silindirde sıkışmasına",
+      "3) Yağlama yağı tüketiminin artmasına",
+      "4) Segmanlarla silindir duvarı arasında zayıf temasa",
+      "5) Normalden düşük kompresyon sıcaklığına"
+    ],
+    "correctAnswer": "2) Pistonun silindirde sıkışmasına"
+  },
+  {
+    "id": 11,
+    "testIndex": 10,
+    "question": "Kapalı soğutma sistemli gemi dizel makinelerinde genel kural olarak önerilen ceket soğutma suyu sıcaklığı hangi sınırlar arasındadır?",
+    "options": [
+      "1) 49 - 60°C",
+      "2) 60 - 70°C",
+      "3) 71 - 85°C",
+      "4) 82 - 92°C",
+      "5) 92 - 107°C"
+    ],
+    "correctAnswer": "3) 71 - 85°C"
+  },
+  {
+    "id": 12,
+    "testIndex": 10,
+    "question": "Yardımcı bir disel makinesinde 50�C soğutma suyu sıcaklığı yerine 82�C sıcaklığında su kullanılması aşağıdakilerden hangisine neden olur?",
+    "options": [
+      "1) Malzemede kısır oluşumu azalır",
+      "2) Sıvı sülfürik asit oluşması olasılığı azalır",
+      "3) Makinede daha küçük su pasajları oluşmasına müsaade eder",
+      "4) Beygirgücü basma saatteki yakıt sarfiyatı çoğalır",
+      "5) 3 ve 4 oluşur"
+    ],
+    "correctAnswer": "2) Sıvı sülfürik asit oluşması olasılığı azalır"
+  },
+  {
+    "id": 13,
+    "testIndex": 10,
+    "question": "Dört stroklu dizel makinelerinde tornistan kemleri, geri hareket durumuna nasıl getirilir?",
+    "options": [
+      "1) Kem 180 derece döndürülerek",
+      "2) Kemşaft eksenel olarak kaydırılarak",
+      "3) Kem takipçisi 180 derece döndürülerek",
+      "4) Zincir donanımmdaki boşta çalışma sproketi (dişlisi) hareket ettirilerek",
+      "5) Zincir donanımı bir miktar gerilerek"
+    ],
+    "correctAnswer": "2) Kemşaft eksenel olarak kaydırılarak"
+  },
+  {
+    "id": 14,
+    "testIndex": 10,
+    "question": "Küçük güçlü, yüksek devirli bir dizel makinesinde, ilk hareketin ardından hemen yapılması gereken kontrol işlemi aşağıdakilerden hangisi olmalıdır?",
+    "options": [
+      "1) Soğutma suyu sıcaklığı",
+      "2) Yağlama yağının sıcaklığı",
+      "3) Yakıt basıncı",
+      "4) Yağlama yağı basıncı",
+      "5) Soğutma suyu basıncı"
+    ],
+    "correctAnswer": "4) Yağlama yağı basıncı"
+  },
+  {
+    "id": 15,
+    "testIndex": 10,
+    "question": "Eğer, yardımcı bir dizel makinesinin ilk hareketi oluşturulamıyorsa, bunun sebebi nedir?",
+    "options": [
+      "1) Egzoz karşı basıncının düşük olması",
+      "2) Krankın yeterli olmayan hızı",
+      "3) Yüksek yağlama yağı sıcaklığı",
+      "4) Aşırı yakıt püskürtme",
+      "5) Yüksek ilk hareket havası basınç"
+    ],
+    "correctAnswer": "2) Krankın yeterli olmayan hızı"
+  },
+  {
+    "id": 16,
+    "testIndex": 10,
+    "question": "Bir dizel jeneratör makinesi serbest olarak dönüyor, fakat düzgün ateşleme yapmıyorsa, sebep ne olabilir?",
+    "options": [
+      "1) Aşırı sıkıştırma basıncı",
+      "2) Yakıtta su",
+      "3) Yüksek yakıt basıncı",
+      "4) Aşırı yük",
+      "5) Aşırı sıkıştırma sıcaklığı"
+    ],
+    "correctAnswer": "Answer not found"
+  },
+  {
+    "id": 17,
+    "testIndex": 10,
+    "question": "Tornaçark operasyonları sırasında, aşağıdakilerden hangisi açılmalıdır?",
+    "options": [
+      "1) Yakıt devresi",
+      "2) Ekspenşın tank",
+      "3) Silindir kontrol valfları",
+      "4) Deniz suyu valfları",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "3) Silindir kontrol valfları"
+  },
+  {
+    "id": 18,
+    "testIndex": 10,
+    "question": "Orta devirli ana dizel makinelerinin büyük bir bölümünde ilk hareketten önce, aşağıda belirtilenlerden hangisi uygulanmalıdır?",
+    "options": [
+      "1) Genişleme tankı doldurulmalıdır",
+      "2) Suyu termostatik olarak düzenleyen valf el ile açılmalıdır",
+      "3) Yakıt filtreleri değiştirilmelidir",
+      "4) Makine, endikatör muslukları açık olarak döndürülmelidir",
+      "5) 1 ve 2 uygulanmalıdır"
+    ],
+    "correctAnswer": "4) Makine, endikatör muslukları açık olarak döndürülmelidir"
+  },
+  {
+    "id": 19,
+    "testIndex": 10,
+    "question": "Bakım veya oveholun ardından tornagire bağlanan yüksek güçlü, ağır devirli ve kroshetli bir dizel makinesinde ilk hareketten önce yapılması gerekenler nelerdir?",
+    "options": [
+      "1) Silindirleri düzgün yağ akımı sağlanmalıdır",
+      "2) Tüm hava devresi dreyn valfları açılmalıdır",
+      "3) Tüm endikatör valfları açılmalıdır",
+      "4) Hava tüpleri şarj edilmelidir",
+      "5) Yukardakilerin tümü sağlanmalıdır"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümü sağlanmalıdır"
+  },
+  {
+    "id": 20,
+    "testIndex": 10,
+    "question": "Klas kuruluşlarının kurallarına göre, emercensi dizel jeneratörlerin ilk hareket sistemleri, en az kaç ilk hareket sağlayacak kapasitede olmalıdır?",
+    "options": [
+      "1) 3 sürekli ilk hareket",
+      "2) Birbirini takip eden (ardıl) 6 ilk hareket",
+      "3) Yük altında 9 tekrarlanan ilk hareket",
+      "4) Herbiri 5 saniye süren 12 periyot",
+      "5) Herbiri 3 saniye süren 12 periyot"
+    ],
+    "correctAnswer": "2) Birbirini takip eden (ardıl) 6 ilk hareket"
+  }
+]

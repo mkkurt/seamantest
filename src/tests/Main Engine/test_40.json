@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 39,
+    "question": "Tornaçark aşağıdakilerden hangisinde devreye alınmaz?",
+    "options": [
+      "1) Pervane üzerinde bakım yapılırken",
+      "2) Rotari valf ayarı yapılırken",
+      "3) Deflekşın alınırken",
+      "4) Starting valf ayarı yapılırken",
+      "5) Valf ayarı yapılırken"
+    ],
+    "correctAnswer": "4) Starting valf ayarı yapılırken"
+  },
+  {
+    "id": 2,
+    "testIndex": 39,
+    "question": "Eğer aşırı doldurucunun gaz türbini, dizel makinesinin egzoz gazıyla çahştırılıyorsa, bu tür süperşarj sistemi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Mekanik süperşarj",
+      "2) Kısmi süperşarj",
+      "3) Türboşarj",
+      "4) Aşırı doldurma",
+      "5) Skavencin"
+    ],
+    "correctAnswer": "3) Türboşarj"
+  },
+  {
+    "id": 3,
+    "testIndex": 39,
+    "question": "Ters akımlı basit portlu süpürmenin en önemli sakıncası aşağıda belirtilenlerden hangisidir?",
+    "options": [
+      "1) Yüksek genel verim",
+      "2) Düşük özgül yakıt sarfiyatı",
+      "3) Süpürme havasının kısa devre yapması",
+      "4) Yüksek endike ortalama verim",
+      "5) Çok düşük atık gaz miktarı"
+    ],
+    "correctAnswer": "3) Süpürme havasının kısa devre yapması"
+  },
+  {
+    "id": 4,
+    "testIndex": 39,
+    "question": "Yüksek güçlü, ağır devirli makinelerde korozyon oluşturan hava, soğutma devresindeki sudan hangi cihaz yardımı ile çıkartılır?",
+    "options": [
+      "1) Hava pompası",
+      "2) Deaeratör",
+      "3) Isıtıcı",
+      "4) Soğutucu",
+      "5) Hava sondansörü"
+    ],
+    "correctAnswer": "2) Deaeratör"
+  },
+  {
+    "id": 5,
+    "testIndex": 39,
+    "question": "Krank şaftının devir sayısı dakikada 400 olan iki zamanlı bir dizel motorunda kem şaftın devri aşağıdakilerden hangisidir?",
+    "options": [
+      "1) 1600 dev/dak",
+      "2) 1200 dev/dak",
+      "3) 800 dev/dak",
+      "4) 400 dev/dak",
+      "5) 200 dev/dak"
+    ],
+    "correctAnswer": "4) 400 dev/dak"
+  },
+  {
+    "id": 6,
+    "testIndex": 39,
+    "question": "Elektrikli marş devrelerinde kullanılan marş motorları, karakteristikleri açısından hangi tür elektrik motorudur?",
+    "options": [
+      "1) Seri motor",
+      "2) Şönt motor",
+      "3) Kampavunt motor",
+      "4) Senkron motor",
+      "5) Asenkron motor"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 7,
+    "testIndex": 39,
+    "question": "Gemilerde fuel oil veya bunker yakıtının depolanmasında kullanılan tankların adı nedir?",
+    "options": [
+      "1) Ving tank",
+      "2) Servis tankı",
+      "3) Dinlendirme tankı",
+      "4) Dabılbotum tankları",
+      "5) Kıç pik tank"
+    ],
+    "correctAnswer": "4) Dabılbotum tankları"
+  },
+  {
+    "id": 8,
+    "testIndex": 39,
+    "question": "Dizel makinelerinde sıkıştırma strokunun sonuna doğru silindirlere püskürtülen yakıt partiküllerinin çaplan hangi sınırlar içindedir?",
+    "options": [
+      "1) 40 - 50 mm",
+      "2) 10 - 15 mikron",
+      "3) 10 - 15 mm",
+      "4) 10 - 15 milimikron",
+      "5) 5 - 7 mikron"
+    ],
+    "correctAnswer": "2) 10 - 15 mikron"
+  },
+  {
+    "id": 9,
+    "testIndex": 39,
+    "question": "Bir dizel makinesinin herhangi bir silindirinde kompresyon başıncındaki ani düşmeye aşağıdakilerden hangisi neden olabilir ?",
+    "options": [
+      "1) Sızdıran bir enjektör memesi",
+      "2) Tıkalı hava filtresi",
+      "3) Yakıtın çok erken püskürtülmesi",
+      "4) Valfların (süpapların) görevlerini iyi yapmamaları",
+      "5) Yakıtın çok geç püskürtülmesi"
+    ],
+    "correctAnswer": "4) Valfların (süpapların) görevlerini iyi yapmamaları"
+  },
+  {
+    "id": 10,
+    "testIndex": 39,
+    "question": "Bir dizel makinesinin silindirinin yanma odasında, tutuşmadan kısa bir süre sonra ve piston üst ölü noktaya erişmeden önce meydana gelen nedir?",
+    "options": [
+      "1) Sabit hacimde hızlı basınç yükselmesi",
+      "2) Sabit sıcaklıkta hızlı basınç yükselmesi",
+      "3) Basınç ve sıcaklıkta hızlı yükselme",
+      "4) Hacimde çoğalma ve basınçta azalma",
+      "5) Basınç ve sıcaklıkta hafif yükselme"
+    ],
+    "correctAnswer": "3) Basınç ve sıcaklıkta hızlı yükselme"
+  },
+  {
+    "id": 11,
+    "testIndex": 39,
+    "question": "Ağır devirli bir dizel makinesinde palamar yataklarının alt yarım parçalarının aşınma miktarı hangi cihaz ile ölçülür?",
+    "options": [
+      "1) Dial endikatör",
+      "2) Dış kompas",
+      "3) Briç geyiç",
+      "4) Plasti geyiç",
+      "5) İç kompas"
+    ],
+    "correctAnswer": "3) Briç geyiç"
+  },
+  {
+    "id": 12,
+    "testIndex": 39,
+    "question": "Eğer bir dizel makinesinin piston stroku 267 mm ve krankşaftın devir sayısı dakikada 720 ise, pistonun ortalama hızı kaç m/s dir?",
+    "options": [
+      "1) 6,408 m/s",
+      "2) 7,408 m/s",
+      "3) 6,717 m/s",
+      "4) 7,154 m/s",
+      "5) 6,512 m/s"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 13,
+    "testIndex": 39,
+    "question": "Günümüzde tüm özelliklerini geliştirmek için yağlama yağlarına, aşağıda isimleri verilen kimyasallardan hangisi katılır?",
+    "options": [
+      "1) Oleik asit",
+      "2) Stearik asit",
+      "3) Organo-metalik bileşikler",
+      "4) Sulandırılmış sülfonik asit",
+      "5) % 5'lik tuz asidi çözeltisi"
+    ],
+    "correctAnswer": "3) Organo-metalik bileşikler"
+  },
+  {
+    "id": 14,
+    "testIndex": 39,
+    "question": "Bir gemi dizel makinesi seyre hazırlanıken en önce yapılması gereken işlem aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Valf ayarı",
+      "2) Yağ seviye kontrolü",
+      "3) Skavenç temizliği",
+      "4) Startin valf kontrolü",
+      "5) Enjektör ayarı"
+    ],
+    "correctAnswer": "2) Yağ seviye kontrolü"
+  },
+  {
+    "id": 15,
+    "testIndex": 39,
+    "question": "Yanmanın sıkıştırmayla meydana geldiği motor türü aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Dizel",
+      "2) Benzin",
+      "3) Elektrik",
+      "4) Buhar türbini",
+      "5) Gaz türbini"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 16,
+    "testIndex": 39,
+    "question": "Hangi dizel makinelerinin ilk hareketi elle sağlanabilir?",
+    "options": [
+      "1) Yüksek devirli makinelerin",
+      "2) Gücü 90 - 100 hp arasında olan makinelerin",
+      "3) Gücü 10 - 20 hp arasında olan makinelerin",
+      "4) Gücü 10 - 20 kW arasında olan makinelerin",
+      "5) Gücü 30 - 40 hp arasında olan makinelerin"
+    ],
+    "correctAnswer": "3) Gücü 10 - 20 hp arasında olan makinelerin"
+  },
+  {
+    "id": 17,
+    "testIndex": 39,
+    "question": "Gemi dizel makinelerinde kullanılan soğutma sularının hidrojen iyon konsantrasyonu veya derişimi olarak tanımlanan pH değeri hangi sınırlar arasında olmalıdır?",
+    "options": [
+      "1) 2,0 - 3,0",
+      "2) 3,0 - 4,5",
+      "3) 5,0 - 6,5",
+      "4) 7,0 - 8,5",
+      "5) 9,0 - 9,5"
+    ],
+    "correctAnswer": "4) 7,0 - 8,5"
+  },
+  {
+    "id": 18,
+    "testIndex": 39,
+    "question": "Elektrikli marş motorunun milinde olan ve akım verildiğinde volan çevresindeki dişliye geçerek onun dönmesine ve makinenin ilk hareketine neden olan pinyon dişlinin adı nedir?",
+    "options": [
+      "1) Sonsuz dişli",
+      "2) Düz dişli",
+      "3) Helis dişli",
+      "4) Bendiks dişlisi",
+      "5) Konik dişli"
+    ],
+    "correctAnswer": "4) Bendiks dişlisi"
+  },
+  {
+    "id": 19,
+    "testIndex": 39,
+    "question": "Genişleme tankına yerleştirilen elektrikli ısıtıcıdan amaç nedir?",
+    "options": [
+      "1) Yağlama yağının viskozitesini yükseltmek içindir",
+      "2) Giriş havasının sıcaklığını çoğaltmaktır",
+      "3) Kompresyon oranını yükseltmektir",
+      "4) Basınç artması oranını küçültmektir",
+      "5) Soğuk havalarda ilk hareket kolaylığı sağlamak üzere ceket suyu sıcaklığını yükseltmektir"
+    ],
+    "correctAnswer": "5) Soğuk havalarda ilk hareket kolaylığı sağlamak üzere ceket suyu sıcaklığını yükseltmektir"
+  },
+  {
+    "id": 20,
+    "testIndex": 39,
+    "question": "Ortalama piston hızı 9 m/s olan dizel makinesi aşağıdaki sınıflardan hangisine girer?",
+    "options": [
+      "1) Alçak hızlı makineler",
+      "2) Orta hızlı makineler",
+      "3) Yüksek hızlı makineler",
+      "4) Ağır devirli makine",
+      "5) Orta devirli makine"
+    ],
+    "correctAnswer": "3) Yüksek hızlı makineler"
+  }
+]

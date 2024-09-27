@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 7,
+    "question": "Kükürtlü yakıtların dizel silindirleri içinde yanması sırasında oluşan \"Gaz sülfürik asitin\" çiyleşme noktası aşağıdakilerden hangisidir?",
+    "options": [
+      "1) 200°C",
+      "2) 180°C",
+      "3) 160°C",
+      "4) 150°C",
+      "5) 140°C"
+    ],
+    "correctAnswer": "3) 160°C"
+  },
+  {
+    "id": 2,
+    "testIndex": 7,
+    "question": "Bir dizel makinesinde hafif yüklerde ateşleme olmamasının sebebi ne olabilir?",
+    "options": [
+      "1) Yüksek yağlama yağı sıcaklığı",
+      "2) Alçak yağlama yağı sıcaklığı",
+      "3) Aşırı silindir soğutulması",
+      "4) Yüksek yakıt püskürtme havası basıncı",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "3) Aşırı silindir soğutulması"
+  },
+  {
+    "id": 3,
+    "testIndex": 7,
+    "question": "Bazı dizel yapımcısı firmalar, separasyondan önce ağır fuel oillerin 85�C'nin üzerine kadar ısıtılmamasını önerirler, bu sınırın üstü niçin önemlidir?",
+    "options": [
+      "1) Yakıt tarafından taşınan suyu ayırmada yetersizlik için",
+      "2) Patlama sınırları içinde operasyon yapılmaması bakımından",
+      "3) Aşırı separatör işletme basıncı oluşmasına engel olmak için",
+      "4) Aşırı yakıt viskozitesi dikkate alındığı için",
+      "5) 3 ve 4"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 4,
+    "testIndex": 7,
+    "question": "Gemi dizel makinelerinde kullanılmakta olan deterjan türü yağlama yağları ne zaman değiştirilmelidir?",
+    "options": [
+      "1) Rengi siyaha döndüğü zaman",
+      "2) Yakıtla kirlendiğinde",
+      "3) Egzozda mavi duman görüldüğünde",
+      "4) Rengi sarıya döndüğünde",
+      "5) Yukardakilerin tümünde"
+    ],
+    "correctAnswer": "2) Yakıtla kirlendiğinde"
+  },
+  {
+    "id": 5,
+    "testIndex": 7,
+    "question": "Jeneratör çalıştıran bir dizelin yağlama yağının dreyn edilerek değiştirilmesini gerektiren etken aşağıdakilerden hangisi olarak düşünülmelidir?",
+    "options": [
+      "1) Fevkalade yüksek nötrleştirme sayısı",
+      "2) Fevkalade yüksek birikme - yığma sayısı",
+      "3) Renginin siyaha dönüşmesi",
+      "4) Alevlenme noktasındaki yükselme",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "2) Fevkalade yüksek birikme - yığma sayısı"
+  },
+  {
+    "id": 6,
+    "testIndex": 7,
+    "question": "Ağır devirli, iki zamanlı bir dizel makinesi hafif ve ağır fuel oillerle çalışmak üzere dizayn edilmiştir. Makine alçak devirde çalıştığı zaman, yeterince ısıtılmamış ağır fuel oil ile çalışmada ne renk bir egzoz meydana gelecektir?",
+    "options": [
+      "1) Beyaz",
+      "2) Siyah",
+      "3) Mavimsi",
+      "4) Sarımsı",
+      "5) Renksiz"
+    ],
+    "correctAnswer": "2) Siyah"
+  },
+  {
+    "id": 7,
+    "testIndex": 7,
+    "question": "Yüksek maksimum basınç ve alçak egzoz sıcaklığının oluşmasının sebebi nedir?",
+    "options": [
+      "1) Ölü hacim klerensinin azalması",
+      "2) Egzoz karşı basıncının çoğalması",
+      "3) Erken yakıt püskürtme taymingi",
+      "4) Alçak süpürme havası sıcaklığı",
+      "5) Yakıtın normale göre daha geç püskürtülmesi"
+    ],
+    "correctAnswer": "3) Erken yakıt püskürtme taymingi"
+  },
+  {
+    "id": 8,
+    "testIndex": 7,
+    "question": "Atık yakıt kullanılan gemi dizel makinelerinde birbirlerine seri bağlı iki separator kullanılır. Bu seperatörlerin bağlanış düzeni aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Purifayer + Purifayer",
+      "2) Purifayer + klarifayer",
+      "3) Klarifayer + klarifayer",
+      "4) Purifayer + klarifayer",
+      "5) Klarifayer + purifayer"
+    ],
+    "correctAnswer": "4) Purifayer + klarifayer"
+  },
+  {
+    "id": 9,
+    "testIndex": 7,
+    "question": "Alcap sisteminde yakıtın separasyonu için hangi tür separator kullanılır?",
+    "options": [
+      "1) Purifayer",
+      "2) Klarifayer",
+      "3) Şarples separatörü",
+      "4) Paralel çalışan iki purifayer",
+      "5) 3 ve 4"
+    ],
+    "correctAnswer": "2) Klarifayer"
+  },
+  {
+    "id": 10,
+    "testIndex": 7,
+    "question": "Normal olarak çalışmakta olan bir dizel makinesinde, ani olarak devir sayısının düşmesi ile birlikte siyah renkli bir egzoz görülmüştür. Yakıt rakı maksimum ve devir sayısı elan normal devir sayısının altında seyretmektedir. Olası neden aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Kaçıran valflar",
+      "2) Makine aşırı yükte çalışmaktadır",
+      "3) Takoz olmuş veya yuvasında tutmuş piston segmanları",
+      "4) Alçak püskürtme basıncı",
+      "5) 3 ve 4"
+    ],
+    "correctAnswer": "2) Makine aşırı yükte çalışmaktadır"
+  },
+  {
+    "id": 11,
+    "testIndex": 7,
+    "question": "Tam yolda çalışma ile kıyaslanırsa, yarım yükte çalışan bir dizel makinesinde hava/ yakıt oranı ne olacaktır?",
+    "options": [
+      "1) Küçülecektir",
+      "2) Daha büyük olacaktır",
+      "3) Eşit olacaktır",
+      "4) Doğru orantılı olacaktır",
+      "5) 3 ve 4 olacaktır"
+    ],
+    "correctAnswer": "2) Daha büyük olacaktır"
+  },
+  {
+    "id": 12,
+    "testIndex": 7,
+    "question": "Aşağıdaki ifadelerden hangisi tutuşma gecikmesini gerçekten etkileyen faktörü belirtir?",
+    "options": [
+      "1) Giriş havası sıcaklığının artması tutuşma gecikmesi sürecini arttırır",
+      "2) Soğutucu sıcaklığının artması tutuşma gecikmesi sürecini kısaltır",
+      "3) Yanma odasında türbülansın çoğalması tutuşma gecikmesi sürecini artırır",
+      "4) Kompresyon oranının artması tutuşma gecikmesi periyodunu çoğaltır",
+      "5) 3 ve 4"
+    ],
+    "correctAnswer": "2) Soğutucu sıcaklığının artması tutuşma gecikmesi sürecini kısaltır"
+  },
+  {
+    "id": 13,
+    "testIndex": 7,
+    "question": "Dizel yakıtlarında, genel olarak, daha düşük değerlerde de görülmesine rağmen, yapışma veya stikşın sıcaklığı hangi sınırlar arasındadır?",
+    "options": [
+      "1) 300 - 400°C",
+      "2) 400 - 500°C",
+      "3) 600 - 1200°C",
+      "4) 1100 - 1400°C",
+      "5) 1400 - 1800°C"
+    ],
+    "correctAnswer": "3) 600 - 1200°C"
+  },
+  {
+    "id": 14,
+    "testIndex": 7,
+    "question": "Herhangi bir dizel makinesi kısmi yükte çalıştığı zaman, tam yük ile kıyaslandığında iki durum arasında fark nerede görülecektir?",
+    "options": [
+      "1) Emilen hava miktarında",
+      "2) Yakıt püskürtme basıncında",
+      "3) Güç strokundaki ortalama basınçta",
+      "4) Kompresyon basıncında",
+      "5) Giriş havası basıncında"
+    ],
+    "correctAnswer": "3) Güç strokundaki ortalama basınçta"
+  },
+  {
+    "id": 15,
+    "testIndex": 7,
+    "question": "Geç püskürtme zamanlaması, yanma basıncı ve egzoz sıcaklığı bakımından ne şekilde etkilenir?",
+    "options": [
+      "1) Yüksek egzoz sıcaklığı ve düşük maksimum basınç",
+      "2) Yüksek egzoz sıcaklığı ve yüksek maksimum basınç",
+      "3) Alçak egzoz sıcaklığı ve alçak maksimum basınç",
+      "4) Alçak egzoz sıcaklığı ve yüksek maksimum basınç",
+      "5) Normal egzoz sıcaklığı ve normal maksimum basınç"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 16,
+    "testIndex": 7,
+    "question": "Dizel makinelerinde kullanılan yüksek sodyum içerikli yakıt ne gibi bir sakınca oluşturur?",
+    "options": [
+      "1) Yakıt püskürtme pompalarında korrozyon ve yapışkan maddeler",
+      "2) Egzoz valflarında korrozyon ve oyuklar",
+      "3) Egzoz manifoldunda tuz birikintileri",
+      "4) Yakıt püskürtme donanımında çamur birikintileri",
+      "5) Piston eteklerinde aşınmalar"
+    ],
+    "correctAnswer": "2) Egzoz valflarında korrozyon ve oyuklar"
+  },
+  {
+    "id": 17,
+    "testIndex": 7,
+    "question": "Dizel makinelerinde kullanılmakta olan yağlama yağının alevlenme noktasının yükselmesi neyin belirtisidir?",
+    "options": [
+      "1) Yağın çamur ile kirlendiğinin",
+      "2) Yağın karbonumsu maddeler ile kirlendiğinin",
+      "3) Yağın yakıt ile kirlendiğinin",
+      "4) Yağın su ile kirletildiğinin",
+      "5) Yağın kolloidal karbon tarafından kirletildiğinin"
+    ],
+    "correctAnswer": "3) Yağın yakıt ile kirlendiğinin"
+  },
+  {
+    "id": 18,
+    "testIndex": 7,
+    "question": "Alcap sistemi ile temizlenecek yakıtların yoğunluk sınırları hangi değerler arasında değişmektedir?",
+    "options": [
+      "1) 850 - 900 kg/m3",
+      "2) 900 - 950 kg/m3",
+      "3) 950 - 1000 kg/m3",
+      "4) 991 - 1010 kg/m3",
+      "5) 1020 - 1030 kg/m3"
+    ],
+    "correctAnswer": "4) 991 - 1010 kg/m3"
+  },
+  {
+    "id": 19,
+    "testIndex": 7,
+    "question": "Dizel yakıtların bir boruda akabildiği en düşük sıcaklık kaç derecedir?",
+    "options": [
+      "1) -18°C",
+      "2) -25°C",
+      "3) -29°C",
+      "4) -35°C",
+      "5) -12°C"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 20,
+    "testIndex": 7,
+    "question": "Eğer bir dizel makinesinde maksimum yanma basıncı normal, fakat tüm silindirlerdeki egzoz sıcaklıkları normale göre düşük ise, bu durum nereden kaynaklanmaktadır?",
+    "options": [
+      "1) Aşırı erken püskürtme zamanlamasından",
+      "2) Yanma vuruntusundan",
+      "3) Kaçıran piston segmanlarından",
+      "4) Makinenin hafif yükünden",
+      "5) Geç püskürtmeden"
+    ],
+    "correctAnswer": "4) Makinenin hafif yükünden"
+  }
+]

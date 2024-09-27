@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 16,
+    "question": "Dizel makinelerinde redüksiyon donanımlarında, devir düşürme oranının maksimum değeri nedir?",
+    "options": [
+      "1) 7/1",
+      "2) 6/1",
+      "3) 5/1",
+      "4) 4/1",
+      "5) 3/1"
+    ],
+    "correctAnswer": "3) 5/1"
+  },
+  {
+    "id": 2,
+    "testIndex": 16,
+    "question": "Kroshetli makinelerde piston rodun konnektin roda bağlanmasını sağlayan kısımlar aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Kroshet blok ve kroshet pinler",
+      "2) Salmastra kutusu",
+      "3) Diyafram",
+      "4) Gacın pin",
+      "5) Piston pin"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 3,
+    "testIndex": 16,
+    "question": "Süper yüksek devirli dizel makinelerinin devir sayısı hangi değeri almaktadır?",
+    "options": [
+      "1) 400 - 1000rpm",
+      "2) 70 - 400rpm",
+      "3) 400 - 600rpm",
+      "4) 1000 - 2000rpm",
+      "5) 2000rpm ve daha yüksek"
+    ],
+    "correctAnswer": "5) 2000rpm ve daha yüksek"
+  },
+  {
+    "id": 4,
+    "testIndex": 16,
+    "question": "Yüksek devirli dizel makinelerinin pervaneye bağlanmasında, kullanılması gereken donanım aşağıda verilenlerden hangisidir?",
+    "options": [
+      "1) Redüksiyon donanımı",
+      "2) Ridakşm gir",
+      "3) Devir düşürme donanımı",
+      "4) Tenkiz donanımı",
+      "5) Yukardakiierin tümü"
+    ],
+    "correctAnswer": "5) Yukardakiierin tümü"
+  },
+  {
+    "id": 5,
+    "testIndex": 16,
+    "question": "Trank pistonlu makinelerde hareket donanımı, sırasıyla hangi kısımlardan oluşmaktadır?",
+    "options": [
+      "1) Piston, krankşaft, pistonrot",
+      "2) Piston, gacin pin, konnektin rot ve krankşaft",
+      "3) Piston, piston rot, kroshet ve sliperi, konnektin rot ve krankşaft",
+      "4) Piston, kroshet pin, piston rot ve krankşaft",
+      "5) Piston rot, kroshet, kroshet pin yatakları, konnektin rot ve krankşaft"
+    ],
+    "correctAnswer": "2) Piston, gacin pin, konnektin rot ve krankşaft"
+  },
+  {
+    "id": 6,
+    "testIndex": 16,
+    "question": "Gücü 3000 kW olan bir makine kaç beygirgücü üretir?",
+    "options": [
+      "1) 6020 hp",
+      "2) 5020 hp",
+      "3) 4020 hp",
+      "4) 3020 hp",
+      "5) 4080 hp"
+    ],
+    "correctAnswer": "3) 4020 hp"
+  },
+  {
+    "id": 7,
+    "testIndex": 16,
+    "question": "Yüksek ve orta devirli dizel makinelerinde redüksiyon donanımı kullanıldığı taktirde, makine ile redüksiyon donanımı arasına konulması gereken cihaz aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Hidrolik kaplin",
+      "2) Elektromanyetik kaplin",
+      "3) Esnek kaplin",
+      "4) Fleksibıl kaplin",
+      "5) Yukardakiierin tümü"
+    ],
+    "correctAnswer": "5) Yukardakiierin tümü"
+  },
+  {
+    "id": 8,
+    "testIndex": 16,
+    "question": "Çalışmakta olan bir dizel makinesinin gücü 2750 bhp bulunmuştur. Acaba bu makinenin ürettiği güç kaç kW'dır?",
+    "options": [
+      "1) 4052 kW",
+      "2) 3052 kW",
+      "3) 2022 kW",
+      "4) 2622 kW",
+      "5) 2052 kW"
+    ],
+    "correctAnswer": "5) 2052 kW"
+  },
+  {
+    "id": 9,
+    "testIndex": 16,
+    "question": "Yüksek devirli dizel makinelerinde, devir sayısı hangi sınırlar arasındadır?",
+    "options": [
+      "1) 400 - 1000rpm",
+      "2) 70 - 400rpm",
+      "3) 400 - 600rpm",
+      "4) 1000 - 2000rpm",
+      "5) 2000rpm ve daha yüksek"
+    ],
+    "correctAnswer": "4) 1000 - 2000rpm"
+  },
+  {
+    "id": 10,
+    "testIndex": 16,
+    "question": "Ağır devirli dizel makinelerinde devir sayısı hangi sınırlar arasındadır?",
+    "options": [
+      "1) 400 - 1000rpm",
+      "2) 70 - 400rpm",
+      "3) 1000 - 2000rpm",
+      "4) 400 - 600rpm",
+      "5) 2000rpm ve daha yüksek"
+    ],
+    "correctAnswer": "2) 70 - 400rpm"
+  },
+  {
+    "id": 11,
+    "testIndex": 16,
+    "question": "Trank pistonlu ve yüksek devirli dizel makinelerinin pistonları üzerinde maksimum kaç tane kompresyon segmanı bulunabilir?",
+    "options": [
+      "1) 9 adet",
+      "2) 8 adet",
+      "3) 6 adet",
+      "4) 3 adet",
+      "5) 7 adet"
+    ],
+    "correctAnswer": "4) 3 adet"
+  },
+  {
+    "id": 12,
+    "testIndex": 16,
+    "question": "Kroshetli dizel makineleri devir sayıları bakımından hangi sınıfa girmektedirler?",
+    "options": [
+      "1) Ağır devirli",
+      "2) Orta devirli",
+      "3) Yüksek devirli",
+      "4) Süper yüksek devirli",
+      "5) Aşırı yüksek devirli"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 13,
+    "testIndex": 16,
+    "question": "Kroshetli dizel makinelerinde silindirlerin yağlanmasında hangi cihaz kullanılır?",
+    "options": [
+      "1) Lubrikeyter",
+      "2) Lubrikatör",
+      "3) Mekanik yağdanlık",
+      "4) Yağ otamatiği",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümü"
+  },
+  {
+    "id": 14,
+    "testIndex": 16,
+    "question": "Trank pistonlu makinelerde çalışma sırasında, piston pinin yuvasından çıkarak silindir laynerini bozmaması için ne kullanılır?",
+    "options": [
+      "1) Yay segman",
+      "2) Piston pin",
+      "3) Gacın pin",
+      "4) Snep ring",
+      "5) 1 ve 4"
+    ],
+    "correctAnswer": "5) 1 ve 4"
+  },
+  {
+    "id": 15,
+    "testIndex": 16,
+    "question": "Trank pistonlu makinelerin silindir laynerlerinin ovalleşmesinin sebebi nedir?",
+    "options": [
+      "1) Normal kuvvet",
+      "2) Ortalama endike basınç",
+      "3) Maksimum basınç",
+      "4) Sıkıştırma basıncı",
+      "5) Maksimum gaz basınç kuvveti"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 16,
+    "testIndex": 16,
+    "question": "Kroshetli dizel makinelerinde normal kuvvetten gelen aşınma, makinenin hangi kısmını etkiler?",
+    "options": [
+      "1) Silindir layneri yüzeyini",
+      "2) Palamar yataklarını",
+      "3) Krankpin yataklarını",
+      "4) Kroshet pin yataklarını",
+      "5) Sliper gayıtlarını"
+    ],
+    "correctAnswer": "5) Sliper gayıtlarını"
+  },
+  {
+    "id": 17,
+    "testIndex": 16,
+    "question": "Orta devirli dizel makinelerinde devir sayısı hangi sınırlar arasındadır?",
+    "options": [
+      "1) 400 - 1000rpm",
+      "2) 70 - 400rpm",
+      "3) 400 - 600rpm",
+      "4) 1000 - 2000rpm",
+      "5) 2000rpm ve daha yüksek"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 18,
+    "testIndex": 16,
+    "question": "Pistonları gacın pin yardımıyla doğrudan konnektin rod veya biyele bağlanan motorların adı nedir?",
+    "options": [
+      "1) Kroshetli makine",
+      "2) Doğru akımlı makine",
+      "3) Ters akımlı makine",
+      "4) Trank pistonlu makine",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "4) Trank pistonlu makine"
+  },
+  {
+    "id": 19,
+    "testIndex": 16,
+    "question": "Orta ve yüksek devirli dizel makinelerinde redüksiyon donanımları kaç kademelidir?",
+    "options": [
+      "1) 1 kademeli",
+      "2) 2 kademeli",
+      "3) 3 kademeli",
+      "4) 4 kademeli",
+      "5) 5 kademeli"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 20,
+    "testIndex": 16,
+    "question": "Kroshetli bir makinenin hareket mekanizması sırasıyla hangi parçalardan oluşmaktadır?",
+    "options": [
+      "1) Piston, gacm pin, piston rot, konnektin rod ve krankşaft",
+      "2) Piston, piston rot, kroshet ve sliperi, kroshet pin yatakları, konnektin rot ve krankşaft",
+      "3) Piston, kroshed pin yatakları, konnektin rot ve krankşaft",
+      "4) Trank piston, piston pin, piston rot ve konnektin rot",
+      "5) Barıl piston, gacın pin, konnektin rot ve krankşaf"
+    ],
+    "correctAnswer": "2) Piston, piston rot, kroshet ve sliperi, kroshet pin yatakları, konnektin rot ve krankşaft"
+  }
+]

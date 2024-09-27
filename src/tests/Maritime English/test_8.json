@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 7,
+    "question": "The lubricant is expected to have the qualities of ............................",
+    "options": [
+      "1) Preventing metal-to metal contact",
+      "2) Causing metal to metal contact",
+      "3) Decrease friction",
+      "4) Decrease friction wear",
+      "5) All expect 2"
+    ],
+    "correctAnswer": "5) All expect 2"
+  },
+  {
+    "id": 2,
+    "testIndex": 7,
+    "question": "The heat which is used to change a liquid to a gas or vapor is called latent heat of .......................",
+    "options": [
+      "1) Absorption",
+      "2) Fusion",
+      "3) Liquid",
+      "4) Evaporization",
+      "5) Fission"
+    ],
+    "correctAnswer": "4) Evaporization"
+  },
+  {
+    "id": 3,
+    "testIndex": 7,
+    "question": "How often should the emergency diesel be run under load?",
+    "options": [
+      "1) Once a year",
+      "2) Once a month",
+      "3) Once a week",
+      "4) At survey time only",
+      "5) At drydock"
+    ],
+    "correctAnswer": "2) Once a month"
+  },
+  {
+    "id": 4,
+    "testIndex": 7,
+    "question": "The upper section of a piston is called the:",
+    "options": [
+      "1) Land",
+      "2) Skirt",
+      "3) Crown",
+      "4) Plate",
+      "5) Disk"
+    ],
+    "correctAnswer": "3) Crown"
+  },
+  {
+    "id": 5,
+    "testIndex": 7,
+    "question": ".......................... should be considered as a hazard on the propeller and a thorough examination and repair will be carried out when the vessel is in dry dock.",
+    "options": [
+      "1) Bent blades",
+      "2) Signs of cracks on the blade edge",
+      "3) Deep pits and holes",
+      "4) Edge cracks",
+      "5) All above"
+    ],
+    "correctAnswer": "5) All above"
+  },
+  {
+    "id": 6,
+    "testIndex": 7,
+    "question": "When starting ballasting .......... valve should be opened last.",
+    "options": [
+      "1) Seacock",
+      "2) Pump discharge valve",
+      "3) Deck filling valve",
+      "4) Tank suction valve",
+      "5) None above"
+    ],
+    "correctAnswer": "5) None above"
+  },
+  {
+    "id": 7,
+    "testIndex": 7,
+    "question": "................................... is the first to do when securing an AC generator.",
+    "options": [
+      "1) Tripping the generator circuit breaker",
+      "2) Switching the voltage regulator to manual",
+      "3) Decreasing the field excitation to minumum",
+      "4) Reducing the load on the unit",
+      "5) Increasing the load on the unit"
+    ],
+    "correctAnswer": "4) Reducing the load on the unit"
+  },
+  {
+    "id": 8,
+    "testIndex": 7,
+    "question": "Fire detecting and extinguishing equipment is required on all ................",
+    "options": [
+      "1) Cargo vessels",
+      "2) Passenger vessels on international voyage",
+      "3) Vessels over 150 feet in length",
+      "4) Vessels over 450 feet in length",
+      "5) Cruise boats"
+    ],
+    "correctAnswer": "3) Vessels over 150 feet in length"
+  },
+  {
+    "id": 9,
+    "testIndex": 7,
+    "question": "Emulsification of oil will ocur when mixed with:",
+    "options": [
+      "1) Air",
+      "2) Water",
+      "3) Black oil",
+      "4) Ice cream",
+      "5) Oxygen"
+    ],
+    "correctAnswer": "2) Water"
+  },
+  {
+    "id": 10,
+    "testIndex": 7,
+    "question": "The suction control switch on the compressor is a ..........................",
+    "options": [
+      "1) Thermal element",
+      "2) Thermostat",
+      "3) Pressure element",
+      "4) None above",
+      "5) All of above"
+    ],
+    "correctAnswer": "3) Pressure element"
+  },
+  {
+    "id": 11,
+    "testIndex": 7,
+    "question": "........................ should be followed as a procedure, if it is necessary to pump bilges while a vessel is in port.",
+    "options": [
+      "1) Pumping only if discharge is led to a shore tank or barge",
+      "2) Pumping only during the hours of darkness",
+      "3) Pumping only on the outgoing tide",
+      "4) Pumping only as much as is necessary",
+      "5) Pumping only the day hours"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 12,
+    "testIndex": 7,
+    "question": "In case of burning of radio equipments on the bridge the extinguishers should be the same as the ones to be used in ......................... fires, keeping in mind that the fire will turn out to be a ......................... fire when starting firefighting takes long.",
+    "options": [
+      "1) Class E / Class A",
+      "2) Class E / Class B",
+      "3) Class B / Class A",
+      "4) Class C / CIass A",
+      "5) Class C / Class E"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 13,
+    "testIndex": 7,
+    "question": "The main characteristics of a diesel engine is:",
+    "options": [
+      "1) internal combustion engine; the fuel is burned external of the cylinders",
+      "2) producing high power of energy",
+      "3) either 2 or 4 stroke, fuel is burned inside the cylinders",
+      "4) economical in compare with the steam engines, but hard maintenance",
+      "5) fixed sequence of events within its unique type"
+    ],
+    "correctAnswer": "3) either 2 or 4 stroke, fuel is burned inside the cylinders"
+  },
+  {
+    "id": 14,
+    "testIndex": 7,
+    "question": "On a diesel engine, a freshwater heat exchanger is used rather than a saltwater to:",
+    "options": [
+      "1) Maintain fuel oil temperature",
+      "2) Maintain lube oil temperature",
+      "3) Cut down on rust and corrosion",
+      "4) Keep the engine block from freezing in cold weather",
+      "5) Maintain air temperature"
+    ],
+    "correctAnswer": "3) Cut down on rust and corrosion"
+  },
+  {
+    "id": 15,
+    "testIndex": 7,
+    "question": "As Freon leaves the expansion valve ..........................",
+    "options": [
+      "1) Pressure increases - Volume increases",
+      "2) Pressure decreases - Volume increases",
+      "3) Pressure decreases - Volume decreases",
+      "4) Pressure increases - Volume decreases",
+      "5) Pressure increases - No change in the volume"
+    ],
+    "correctAnswer": "2) Pressure decreases - Volume increases"
+  },
+  {
+    "id": 16,
+    "testIndex": 7,
+    "question": "An overheated bearing in the main propulsion unit is indicated by:",
+    "options": [
+      "1) Bubbles in the sight glass",
+      "2) Sludge in the strainers",
+      "3) A high oil level in the sump",
+      "4) Low temperature of the lube oil leaving the bearing",
+      "5) High temperature of the lube oil leaving the bearing"
+    ],
+    "correctAnswer": "5) High temperature of the lube oil leaving the bearing"
+  },
+  {
+    "id": 17,
+    "testIndex": 7,
+    "question": "Considering the fuel, ignition quality is determined by .......................",
+    "options": [
+      "1) Cetane number",
+      "2) Diesel index",
+      "3) Calculated cetane index",
+      "4) Flashpoint",
+      "5) All except 4"
+    ],
+    "correctAnswer": "5) All except 4"
+  },
+  {
+    "id": 18,
+    "testIndex": 7,
+    "question": ".................... is hardly the cause of a smoky diesel engine exhaust.",
+    "options": [
+      "1) Overload",
+      "2) Malfunctioned injector",
+      "3) Choked exhaust pipe",
+      "4) Inappropriate amount of fuel",
+      "5) Appropriate amount of fuel"
+    ],
+    "correctAnswer": "4) Inappropriate amount of fuel"
+  },
+  {
+    "id": 19,
+    "testIndex": 7,
+    "question": "The system used for breaking scale from the evaporator coil while the evaporator is in operation is called:",
+    "options": [
+      "1) Recirculating",
+      "2) Blowing down",
+      "3) Cracking off",
+      "4) Dumping",
+      "5) None of above"
+    ],
+    "correctAnswer": "3) Cracking off"
+  },
+  {
+    "id": 20,
+    "testIndex": 7,
+    "question": "The liner which has no direct contact with the cooling water is what kind of a liner",
+    "options": [
+      "1) Wet",
+      "2) Dry",
+      "3) Integral",
+      "4) None of the above",
+      "5) Cooled with lubrication oil"
+    ],
+    "correctAnswer": "2) Dry"
+  }
+]

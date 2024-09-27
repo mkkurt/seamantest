@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 5,
+    "question": "Su borulu bir kazanda dip blöfü için uygun buhar basıncı aşağıdakilerin hangisidir?",
+    "options": [
+      "1) 7,5 bar",
+      "2) 5 bar",
+      "3) 3 bar",
+      "4) 1,5 bar",
+      "5) 0,5 bar"
+    ],
+    "correctAnswer": "4) 1,5 bar"
+  },
+  {
+    "id": 2,
+    "testIndex": 5,
+    "question": "Kazan besleme suyu devrelerinde kazana yakın olan valf aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Musluk valf",
+      "2) Geyt valf",
+      "3) Çek valf",
+      "4) Glob valf",
+      "5) Piston valf"
+    ],
+    "correctAnswer": "3) Çek valf"
+  },
+  {
+    "id": 3,
+    "testIndex": 5,
+    "question": "Bir hava ısıtıcısının temizliği seyirdeki bir gemide hangi sıklıkla ve ne kullanılarak yapılmalıdır?",
+    "options": [
+      "1) Her gün - yaş buharla",
+      "2) Gün aşırı - suyla",
+      "3) Gün aşırı - deterjanlı suyla",
+      "4) Her gün - kurum üfleyici ile",
+      "5) Haftada bir - kuru buharla"
+    ],
+    "correctAnswer": "4) Her gün - kurum üfleyici ile"
+  },
+  {
+    "id": 4,
+    "testIndex": 5,
+    "question": "İki kademeli pistonlu bir hava kompresöründe birinci kademe emme valfının sızdırması aşağıdakilerden hangisine neden olur?",
+    "options": [
+      "1) Birinci kademe silindirine daha az hava emilir",
+      "2) Birinci kademenin disçarç basıncı çoğalır",
+      "3) Kompresörün çalışma süresi artar",
+      "4) Kompresör devrinin yüksek olması",
+      "5) Yağlama yağı basıncının düşük olması"
+    ],
+    "correctAnswer": "3) Kompresörün çalışma süresi artar"
+  },
+  {
+    "id": 5,
+    "testIndex": 5,
+    "question": "Santrifüj bir pompada kavitasyomm nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Pompayı dizayn kapasitesinde çalıştırmamak",
+      "2) Emme akımmdaki buhar ve hava cepleri",
+      "3) Salmastra kutusundan hava emilmesi",
+      "4) Aşınma ringlerinin erozyana uğraması",
+      "5) Pompa mil yataklarının bozulması"
+    ],
+    "correctAnswer": "2) Emme akımmdaki buhar ve hava cepleri"
+  },
+  {
+    "id": 6,
+    "testIndex": 5,
+    "question": "Inert (inertgen) gazlar aşağıdaki hangi gazların kombinasyonuna verilen isimdir?",
+    "options": [
+      "1) Nitrojen + Argon + Karbon dioksit",
+      "2) Nitrojen + Argon + Karbon monoksit",
+      "3) Nitrojen",
+      "4) Argon + Asetilen + Karbon dioksit",
+      "5) Argon + Asetilen + karbon monoksit"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 7,
+    "testIndex": 5,
+    "question": "Vakumun tanımı aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Atmosfer basıncının üstündeki basınçlara denir",
+      "2) Atmosfer basıncı altındaki basınçlara denir",
+      "3) Atmosfer basmca vakum denir",
+      "4) Kapalı bir kaptaki basıncın artması ile vakum elde edilir",
+      "5) Kapalı bir kabın çeperlerine uygulanan basınçtır"
+    ],
+    "correctAnswer": "2) Atmosfer basıncı altındaki basınçlara denir"
+  },
+  {
+    "id": 8,
+    "testIndex": 5,
+    "question": "Çift volütlü santrifüj bir pompada aşağıdakilerden hangisi oluşmaz?",
+    "options": [
+      "1) Kavitasyon ve titreşim",
+      "2) İmpellerde radyal sarsat",
+      "3) Disçarçdan emmeye kaçak",
+      "4) Atmosferden hava emme",
+      "5) Verdide azalma"
+    ],
+    "correctAnswer": "2) İmpellerde radyal sarsat"
+  },
+  {
+    "id": 9,
+    "testIndex": 5,
+    "question": "Aşağıdakilerden hangisi ana makine yardımcısı değildir?",
+    "options": [
+      "1) Yağlama yağı pompası",
+      "2) Enjektör soğutma suyu pompası",
+      "3) Yakıt pompası",
+      "4) Sintine pompası",
+      "5) Serküleytin pompası"
+    ],
+    "correctAnswer": "4) Sintine pompası"
+  },
+  {
+    "id": 10,
+    "testIndex": 5,
+    "question": "Açık besleme suyu sisteminde kondenserde oluşan su nereye basılır?",
+    "options": [
+      "1) Kazana",
+      "2) Besleme ve filtre tankına",
+      "3) Sintineye",
+      "4) Denize",
+      "5) Gözlem tankına"
+    ],
+    "correctAnswer": "2) Besleme ve filtre tankına"
+  },
+  {
+    "id": 11,
+    "testIndex": 5,
+    "question": "Bir inert gaz sisteminde kullanılan gaz aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Karbon dioksit gazı",
+      "2) Karbon monoksit",
+      "3) Karbon tetraklorür gazı",
+      "4) Halon gazı",
+      "5) Freon gazı"
+    ],
+    "correctAnswer": "4) Halon gazı"
+  },
+  {
+    "id": 12,
+    "testIndex": 5,
+    "question": "Rejeneratif besleme suyu ısıtıcısında besleme suyu nasıl ısıtılır?",
+    "options": [
+      "1) Besleme suyu kangal borulu bir ısıtıcıda buhar ile ısıtılır",
+      "2) Besleme suyu paralel akımlı bir ısıtıcıda yağ ile ısıtılır",
+      "3) Besleme suyu türbinden çekilen buhar ile ısıtılır",
+      "4) Besleme suyu süperhiterden çekilen buhar ile ısıtılır",
+      "5) Besleme suyu elektrikli ısıtıcı ile ısıtılır"
+    ],
+    "correctAnswer": "3) Besleme suyu türbinden çekilen buhar ile ısıtılır"
+  },
+  {
+    "id": 13,
+    "testIndex": 5,
+    "question": "Kondenser borularının dış yüzeylerinin temizliği aşağıdakilerden hangisi ile yapılır?",
+    "options": [
+      "1) Hidrokolik asit ile",
+      "2) Soda ile",
+      "3) Sabunlu su ile",
+      "4) Motorin ile",
+      "5) Sülfürik asit ile"
+    ],
+    "correctAnswer": "2) Soda ile"
+  },
+  {
+    "id": 14,
+    "testIndex": 5,
+    "question": "Aşağıdakilerden hangisi kapalı besleme suyu sistemi elemanı değildir?",
+    "options": [
+      "1) İçme suyu pompası",
+      "2) Besleme suyu pompası",
+      "3) Dearatör",
+      "4) Ecekter",
+      "5) Vent kondenseri"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 15,
+    "testIndex": 5,
+    "question": "Kontrollü süperhiter için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "1) Buhar üretici borular arasında bulunurlar",
+      "2) Apteykete ekonomayzerin hemen altında bulunurlar",
+      "3) Apteykte erhiterin hemen üzerinde bulunurlar",
+      "4) Kazanda ayrı bir ocakta bulunurlar ve briilörleri ayrıdır",
+      "5) Kazanın iç ve dış zarfının arasında bulunurlar"
+    ],
+    "correctAnswer": "4) Kazanda ayrı bir ocakta bulunurlar ve briilörleri ayrıdır"
+  },
+  {
+    "id": 16,
+    "testIndex": 5,
+    "question": "Normal durumlar altında kondenser 2-3 yılda bir kaynatılmalıdır.Bu kaynatma işleminde aşağıdakilerden hangisi anlatıldığı şekilde yapılmaz?",
+    "options": [
+      "1) Tüm valflar v hava pompası ya da eksrakşm pompası alıcı kapatılır",
+      "2) Kondenser hazırlanan karışım veya çözelti ile boruları örtecek bir biçimde doldurulmalıdır",
+      "3) Kondensere buhar açılarak karışım atmosfer basıncında buharlaşma noktasına kadar kaynatılmalıdır",
+      "4) Kaynama süresi buharlaşma noktasının üstünde olmak koşulu ile 22 saattir",
+      "5) Kaynama süreci tamamlandıktan sonra kondenser sintine veya MARPOL'a uygun bir şekilde dreyn edilmeli veya boşaltılmalıdır"
+    ],
+    "correctAnswer": "4) Kaynama süresi buharlaşma noktasının üstünde olmak koşulu ile 22 saattir"
+  },
+  {
+    "id": 17,
+    "testIndex": 5,
+    "question": "Boru devrelerinde akışın yönünü ve miktarını kontrol eden valf aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Stop çek valf",
+      "2) Sülüs valf",
+      "3) Nıdıl valf",
+      "4) Lift çek valf",
+      "5) küresel çek valf"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 18,
+    "testIndex": 5,
+    "question": "Yağ yakıt separatörlerinde devir tutmuyor ya da geç tutuyorsa aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "1) Fren takılı kalmıştır",
+      "2) Devir balata pad'leri aşınmış ya da yağlıdır",
+      "3) Voltaj düşüktür",
+      "4) Rulmanlarda hasar vardır",
+      "5) Yukarıdakilerin tümü"
+    ],
+    "correctAnswer": "5) Yukarıdakilerin tümü"
+  },
+  {
+    "id": 19,
+    "testIndex": 5,
+    "question": "Ana hava ecekterinin görevi aşağıdakilerden hangisi değildir?",
+    "options": [
+      "1) Kondenserdeki yoğuşmayan gazları emer",
+      "2) Kondenserde vakum yaratır",
+      "3) Kondenserdeki yoğuşmaya yardımcı olur",
+      "4) Kondenserdeki havayı emerek vakum oluşturur",
+      "5) Deniz suyunun kondenserden geçişini sağlar"
+    ],
+    "correctAnswer": "5) Deniz suyunun kondenserden geçişini sağlar"
+  },
+  {
+    "id": 20,
+    "testIndex": 5,
+    "question": "Besi suyu sistemlerindeki buster pompaları çoğu zaman hangi türden pompalardır?",
+    "options": [
+      "1) Dişli pompa",
+      "2) Vidalı pompa",
+      "3) Paletli pompa",
+      "4) Diyaframlı pompa",
+      "5) Santrifüj pompa"
+    ],
+    "correctAnswer": "5) Santrifüj pompa"
+  }
+]

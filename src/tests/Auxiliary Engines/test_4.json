@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 3,
+    "question": "Bir gemiye yük almak veya yükü tahliye etmek için kullanılan donanım aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Baş ırgat",
+      "2) Matafora",
+      "3) Kreyn",
+      "4) Kıç ırgat",
+      "5) Tov vinci"
+    ],
+    "correctAnswer": "3) Kreyn"
+  },
+  {
+    "id": 2,
+    "testIndex": 3,
+    "question": "Uzun borulu evaporatörlerde kışır giderme için aşağıdaki yöntemlerden hangisi uygulanır?",
+    "options": [
+      "1) Fırçalar ile temizlemek",
+      "2) Isıl şoklama",
+      "3) Raspalama",
+      "4) Çekiçleme",
+      "5) Basınçlı su geçirme"
+    ],
+    "correctAnswer": "2) Isıl şoklama"
+  },
+  {
+    "id": 3,
+    "testIndex": 3,
+    "question": "Kapalı basınç altında çalışan fit suyu sisteminde kamin devresinin görevi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Ana kondenserin suyunu tahliye etmek",
+      "2) Yoğuşum pompasına su temin etmek",
+      "3) Yoğuşumları kazana iletmek",
+      "4) Ana kondenseri susuz bırakmamak",
+      "5) Deaeratöre buhar temin etmek"
+    ],
+    "correctAnswer": "4) Ana kondenseri susuz bırakmamak"
+  },
+  {
+    "id": 4,
+    "testIndex": 3,
+    "question": "Aşağıdaki hangi evaporatörde işletme basıncı en yüksektir?",
+    "options": [
+      "1) Ters osmoz",
+      "2) Borulu",
+      "3) Vakumlu",
+      "4) Flaş",
+      "5) Kompresörlü"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 5,
+    "testIndex": 3,
+    "question": "Dizayn kapasitesinde çalıştırılamayan santrifüj bir pompada aşağıdakilerden hangisi oluşur?",
+    "options": [
+      "1) Mil aşırı ısınır",
+      "2) Impallerde radval sırsat oluşur",
+      "3) Keyste aşırı ısınma meydana gelir",
+      "4) Gövdede titreşim olur",
+      "5) Aşınma ringi kaçırır"
+    ],
+    "correctAnswer": "2) Impallerde radval sırsat oluşur"
+  },
+  {
+    "id": 6,
+    "testIndex": 3,
+    "question": "Yüksek basınçlı devrelerde tek yönlü akım sağlayan valf aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Yükselen çek valf",
+      "2) Swing (flaper) çek valf",
+      "3) Stop - çek valf",
+      "4) Kelebek - çek valf",
+      "5) İğne çek valf"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 7,
+    "testIndex": 3,
+    "question": "Aşağıdakilerden hangisi iklimlendirme sisteminin bir elemanıdır?",
+    "options": [
+      "1) Enjektör",
+      "2) Oksijen tüpü",
+      "3) Kurutucu",
+      "4) Metil alkol",
+      "5) Distribütör"
+    ],
+    "correctAnswer": "3) Kurutucu"
+  },
+  {
+    "id": 8,
+    "testIndex": 3,
+    "question": "Pis su devrelerinde kullanılması tavsiye edilen stop valf aşağıdakilerden hangisidir?",
+    "options": [
+      "1) İğne valf",
+      "2) Ralf valf",
+      "3) Piston valf",
+      "4) Redyusin valf",
+      "5) Musluk valf"
+    ],
+    "correctAnswer": "3) Piston valf"
+  },
+  {
+    "id": 9,
+    "testIndex": 3,
+    "question": "Aşağıdakilerden hangisi bir buhar dramının iç donanımı değildir?",
+    "options": [
+      "1) Yüzey blöf nozulu",
+      "2) Yalpa saçı",
+      "3) Besi suyu regülatör şamandırası",
+      "4) Buhar bafılı",
+      "5) Hava musluğu"
+    ],
+    "correctAnswer": "5) Hava musluğu"
+  },
+  {
+    "id": 10,
+    "testIndex": 3,
+    "question": "Su çemberli pompalar genellikle aşağıdaki amaçlardan hangisi için kullanılırlar?",
+    "options": [
+      "1) Su basmak için",
+      "2) Vakum tutmada",
+      "3) Viskoz akışkan basmak için",
+      "4) Asit basmak için",
+      "5) Yakıt basmak için"
+    ],
+    "correctAnswer": "2) Vakum tutmada"
+  },
+  {
+    "id": 11,
+    "testIndex": 3,
+    "question": "Vakumu 28,5 inç Hg olan bir kondenserin iç basıncı aşağıdakilerden hangisidir? (latm=30 inç Hg)",
+    "options": [
+      "1) 0,02 atm",
+      "2) 0,04 atm",
+      "3) 0,05 atm",
+      "4) 0,06 atm",
+      "5) 0,08 atm"
+    ],
+    "correctAnswer": "3) 0,05 atm"
+  },
+  {
+    "id": 12,
+    "testIndex": 3,
+    "question": "Bazı motorların kaverleri ile silindir bloğu arasında aşağıda belirtilen contalardan hangisi kullanılır?",
+    "options": [
+      "1) Bakır conta",
+      "2) Lastik conta",
+      "3) Klingerit conta",
+      "4) Telli lastik conta",
+      "5) Teflon conta"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 13,
+    "testIndex": 3,
+    "question": "Bir gemide kıç ırgatın görevi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Demirin funda veya vira edilmesi",
+      "2) Gemiden sahile verilen halatlarm boşunun alınması",
+      "3) Gemiye yük almak veya tahliye etmek",
+      "4) Filikaların bandosu ve virası",
+      "5) Gemiyi itmek"
+    ],
+    "correctAnswer": "2) Gemiden sahile verilen halatlarm boşunun alınması"
+  },
+  {
+    "id": 14,
+    "testIndex": 3,
+    "question": "Eğer bir separator çalışırken sadece bir dizçarçı varsa bu separator aşağıdaki hangi şekilde çalıştırılıyordur?",
+    "options": [
+      "1) Klarifayer",
+      "2) Pürifayer",
+      "3) Lübrikeyter",
+      "4) Ekonomayzer",
+      "5) Transmiter"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 15,
+    "testIndex": 3,
+    "question": "Seyfti valf nereye açılır?",
+    "options": [
+      "1) Yüksek basınç dreynine",
+      "2) Atmosfere",
+      "3) Sintineye",
+      "4) Yardımcı egzost devresinde",
+      "5) Buhar dönüş devresinde"
+    ],
+    "correctAnswer": "2) Atmosfere"
+  },
+  {
+    "id": 16,
+    "testIndex": 3,
+    "question": "Sıcak mevsimlerde gemi kamaraları ve yaşam yerlerinin serinletilmesi ve yaşam mahali neminin düzenlenmesini sağlayan cihaza ne ad verilir?",
+    "options": [
+      "1) Isıtıcı veya hiyter",
+      "2) Soğutucu veya kuler",
+      "3) Fan",
+      "4) Klima sistemi",
+      "5) Havalandırıcı"
+    ],
+    "correctAnswer": "4) Klima sistemi"
+  },
+  {
+    "id": 17,
+    "testIndex": 3,
+    "question": "Yarı kapalı besleme sisteminde kullanılan tankın adı aşağıdakilerden hangisidir?",
+    "options": [
+      "1) DA'tank",
+      "2) SÖRÇ tank",
+      "3) FW tank",
+      "4) SAMPtank",
+      "5) FILITRE tank"
+    ],
+    "correctAnswer": "2) SÖRÇ tank"
+  },
+  {
+    "id": 18,
+    "testIndex": 3,
+    "question": "Aşağıdakilerden hangisi yüksek basınçlı saf su yapma sisteminin dezavantanjlarından değildir?",
+    "options": [
+      "1) Isıtma için yüksek basınçlı buhar gerekir",
+      "2) Yüksek sıcaklıkta kısır daha çok oluşur",
+      "3) Sistemin kuruluş maliyeti yükselir",
+      "4) Vakum için yüksek basınçlı buhar gerekir",
+      "5) Bakım ve işletme maliyeti yükselir"
+    ],
+    "correctAnswer": "4) Vakum için yüksek basınçlı buhar gerekir"
+  },
+  {
+    "id": 19,
+    "testIndex": 3,
+    "question": "Santrifüj bir pompa disçarç valfı açık olarak çalıştırılırsa aşağıdakilerden hangisi oluşur?",
+    "options": [
+      "1) Motif ünite devreden yaklaşık iki kat fazla akım çeker",
+      "2) Akışkan pompalanamaz",
+      "3) Pompa keysi ısınır",
+      "4) Dişçarçta gürültü oluşur",
+      "5) Emmede kavitasyon oluşur"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 20,
+    "testIndex": 3,
+    "question": "Pelensnkli şaft kovanlarının boğazlarında aşağıdaki hangi tür salmastra kullanılır?",
+    "options": [
+      "1) Grafitili",
+      "2) Kauçuklu",
+      "3) Amyantlı",
+      "4) Kurşunlu",
+      "5) Don yağlı"
+    ],
+    "correctAnswer": "5) Don yağlı"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 34,
+    "question": "Ana makinesi dizel olan bir gemide egzoz sıcaklıkları yükseliyor ise, aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "1) Makine aşırı yükte çalışmaktadır",
+      "2) Hava giriş filtresi bloke olmuştur",
+      "3) Türbo şarjer arızalanmıştır",
+      "4) Akıntıya girilmiştir",
+      "5) Makine dairesi ortam sıcaklığı düşmüştür"
+    ],
+    "correctAnswer": "5) Makine dairesi ortam sıcaklığı düşmüştür"
+  },
+  {
+    "id": 2,
+    "testIndex": 34,
+    "question": "Kapalı soğutma sistemlerinde makineye verilen ve makineden çıkan tatlı suyun sıcaklığı hangi sınırlar içindedir?",
+    "options": [
+      "1) 80°C - 90°C",
+      "2) 50°C - 65°C",
+      "3) 50°C - 85°C",
+      "4) 40°C - 50°C",
+      "5) 30°C - 40°C"
+    ],
+    "correctAnswer": "3) 50°C - 85°C"
+  },
+  {
+    "id": 3,
+    "testIndex": 34,
+    "question": "Enjektörlerde meme ve iğne valf aşırı bir biçimde aşındığı zaman yapılması gereken aşağıdakilerden hangisi olmalıdır?",
+    "options": [
+      "1) İğne valf yüzeyi alıştırılır",
+      "2) İğne valf barılı alıştırılır",
+      "3) Sadece iğne valf değiştirilir",
+      "4) Sadece iğne valf barılı değiştirilir",
+      "5) Bir takım olarak ikisi birden değiştirilir"
+    ],
+    "correctAnswer": "5) Bir takım olarak ikisi birden değiştirilir"
+  },
+  {
+    "id": 4,
+    "testIndex": 34,
+    "question": "Çevresinde bir sıra hareketli kanat bulunan bir rotor ve birkaç nozuldan oluşan türbin aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Parson",
+      "2) Hero",
+      "3) Rato",
+      "4) Körtis",
+      "5) De Laval"
+    ],
+    "correctAnswer": "5) De Laval"
+  },
+  {
+    "id": 5,
+    "testIndex": 34,
+    "question": "Gemi dizel makinelerinde fuel oiller minimum kaç dereceye kadar ısıtılırlar?",
+    "options": [
+      "1) 50°C",
+      "2) 60°C",
+      "3) 70°C",
+      "4) 90°C",
+      "5) 110°C"
+    ],
+    "correctAnswer": "4) 90°C"
+  },
+  {
+    "id": 6,
+    "testIndex": 34,
+    "question": "Bir dizel makinesinde yapılan hesaplamalar sonucu endike ortalama basınç 13,8 bar ve mekanik verim 0,90 olarak bulunmuştur. Sözü edilen makinenin kayıplarına uyan ortalama basınç kaç bar olacaktır?",
+    "options": [
+      "1) 2,38 bar",
+      "2) 3,38 bar",
+      "3) 4,38 bar",
+      "4) 1,38 bar",
+      "5) 5,38 bar"
+    ],
+    "correctAnswer": "4) 1,38 bar"
+  },
+  {
+    "id": 7,
+    "testIndex": 34,
+    "question": "Yüksek devirli dizel makinelerinde fazla hava katsayısının maksimum sayısal değeri ne kadardır?",
+    "options": [
+      "1) 2,2",
+      "2) 2,0",
+      "3) 1,7",
+      "4) 1,6",
+      "5) 1,3"
+    ],
+    "correctAnswer": "3) 1,7"
+  },
+  {
+    "id": 8,
+    "testIndex": 34,
+    "question": "Bir dizel makinesinin mekanik veriminde en büyük etkiye aşağıdaki etkenlerden hangisi sahiptir?",
+    "options": [
+      "1) Giriş havasının sıcaklığı",
+      "2) Makinedeki sürtünme kayıpları",
+      "3) Süperşarjerin mekanik durumu",
+      "4) Türboşarjerin mekanik durumu",
+      "5) Havalandırma veya vantilasyon kayıpları"
+    ],
+    "correctAnswer": "2) Makinedeki sürtünme kayıpları"
+  },
+  {
+    "id": 9,
+    "testIndex": 34,
+    "question": "Modern dizel makineleri için uygulamalı termodinamikte kullanılan çevrim, aşağıda belirtilenlerden hangisidir?",
+    "options": [
+      "1) Sabathe çevrimi",
+      "2) Seiliger çevrimi",
+      "3) Karışık çevrim",
+      "4) Çift yanmalı çevrim",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 10,
+    "testIndex": 34,
+    "question": "Kombine türbin tarifi aşağıdakilerden hangisini belirtir?",
+    "options": [
+      "1) Körtis + De Laval",
+      "2) Körtis + Körtis",
+      "3) Körtis + Parsons",
+      "4) Körtis + Rato",
+      "5) De Laval + Rato"
+    ],
+    "correctAnswer": "3) Körtis + Parsons"
+  },
+  {
+    "id": 11,
+    "testIndex": 34,
+    "question": "Dizel makinelerinde silindirlere verilen gerçek hava miktarının kuramsal hava miktarına oranı neyi ifade eder?",
+    "options": [
+      "1) Basınç artması oranını",
+      "2) Hava fazlalık katsayısını",
+      "3) Adyabatik sıkıştırmayı",
+      "4) Kritik fazla hava katsayısını",
+      "5) Toplam fazla hava katsayısını"
+    ],
+    "correctAnswer": "2) Hava fazlalık katsayısını"
+  },
+  {
+    "id": 12,
+    "testIndex": 34,
+    "question": "Aşağıdaki hangi türbinin kanatları egzozuna doğru büyür?",
+    "options": [
+      "1) Hero",
+      "2) De Laval",
+      "3) Rato",
+      "4) Körtis",
+      "5) Parsons"
+    ],
+    "correctAnswer": "5) Parsons"
+  },
+  {
+    "id": 13,
+    "testIndex": 34,
+    "question": "Ağır devirli, iki zamanlı bir dizel makinesi hafif ve ağır fuel oillerle çalışmak üzere dizayn edilmiştir. Makine alçak devirde çalıştığı zaman, yeterince ısıtılmamış ağır fuel oil ile çalışmada ne renk bir egzoz meydana gelecektir?",
+    "options": [
+      "1) Beyaz",
+      "2) Siyah",
+      "3) Mavimsi",
+      "4) Sarımsı",
+      "5) Renksiz"
+    ],
+    "correctAnswer": "2) Siyah"
+  },
+  {
+    "id": 14,
+    "testIndex": 34,
+    "question": "Doğal emişli, ağır devirli dizel makinelerindeki valf overlepinin yaklaşık değeri aşağıdakilerden hangisidir?",
+    "options": [
+      "1) 35°/krank",
+      "2) 110°/krank",
+      "3) 130°/krank",
+      "4) 150°/krank",
+      "5) 140°/krank"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 15,
+    "testIndex": 34,
+    "question": "Bir buhar türbininin ısıtılması esnasında rotor şaft yatak yağı sıcaklığı en az aşağıdakilerin hangisi kadar olmalıdır?",
+    "options": [
+      "1) 50°C",
+      "2) 45°C",
+      "3) 39°C",
+      "4) 20°C",
+      "5) 10°C"
+    ],
+    "correctAnswer": "4) 20°C"
+  },
+  {
+    "id": 16,
+    "testIndex": 34,
+    "question": "Küçük güçlü gemi dizel makinelerinde samp tanktan yağı alan pompa ne tür pompadır?",
+    "options": [
+      "1) Diyaframlı pompa",
+      "2) Santrifüj pompa",
+      "3) Pozitif deplasmanlı pompa",
+      "4) Elektrik motoru ile çalıştırılan bir pompa",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "3) Pozitif deplasmanlı pompa"
+  },
+  {
+    "id": 17,
+    "testIndex": 34,
+    "question": "Bir Parsons türbininin rotor şaft yataklarını terk eden yağlama yağının sıcaklığı normal şartlarda ne kadar olmalıdır?",
+    "options": [
+      "1) 55°C",
+      "2) 65°C",
+      "3) 70°C",
+      "4) 80°C",
+      "5) 90°C"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 18,
+    "testIndex": 34,
+    "question": "Gemi dizel makinelerinin büyük çoğunluğunda ne tür laynerler kullanılır?",
+    "options": [
+      "1) Birleşik layner",
+      "2) Yaş layner",
+      "3) Kompozit layner",
+      "4) Kuru layner",
+      "5) Yatak Iayneri"
+    ],
+    "correctAnswer": "2) Yaş layner"
+  },
+  {
+    "id": 19,
+    "testIndex": 34,
+    "question": "Mekanik süperşarjlı, orta ve yüksek demirli makinelerde valf overlepi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) 50 - 60°/krank",
+      "2) 20 - 30°/krank",
+      "3) 10 - 15°/krank",
+      "4) 30 - 40°/krank",
+      "5) 100 - 110°/krank"
+    ],
+    "correctAnswer": "5) 100 - 110°/krank"
+  },
+  {
+    "id": 20,
+    "testIndex": 34,
+    "question": "Orta devirli ana dizel makinelerinin büyük bir bölümünde ilk hareketten önce, aşağıda belirtilenlerden hangisi uygulanmalıdır?",
+    "options": [
+      "1) Genişleme tankı doldurulmalıdır",
+      "2) Suyu termostatik olarak düzenleyen valf el ile açılmalıdır",
+      "3) Yakıt filtreleri değiştirilmelidir",
+      "4) Makine, endikatör muslukları açık olarak döndürülmelidir",
+      "5) 1 ve 2 uygulanmalıdır"
+    ],
+    "correctAnswer": "4) Makine, endikatör muslukları açık olarak döndürülmelidir"
+  }
+]

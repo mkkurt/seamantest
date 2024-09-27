@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 8,
+    "question": ".......................... are the common parts within the 2 and 4 stroke diesel engines.",
+    "options": [
+      "1) Piston, valves, cylinder, fuel injector",
+      "2) Crankshaft, crosshead, cylinder",
+      "3) Turbocharger, piston, gudgeonpin, cylinder",
+      "4) Crankshaft, connecting rod, pistons",
+      "5) Cylinder, connecting rod, pistons"
+    ],
+    "correctAnswer": "5) Cylinder, connecting rod, pistons"
+  },
+  {
+    "id": 2,
+    "testIndex": 8,
+    "question": "All refrigerator compressor valves are opened and closed via ............................",
+    "options": [
+      "1) Springs",
+      "2) Camshaft",
+      "3) Pressure differential",
+      "4) 1 or 3",
+      "5) None above"
+    ],
+    "correctAnswer": "4) 1 or 3"
+  },
+  {
+    "id": 3,
+    "testIndex": 8,
+    "question": "Which one is not identical with the characteristics of the construction of a-2-stroke diesel engines?",
+    "options": [
+      "1) Instead of valve holes, ports are installed",
+      "2) A cycle is completed in 2 strokes of the piston",
+      "3) Produce high power in compare with 4 stroke engines",
+      "4) The maintenance is simple",
+      "5) A cycle is completed in 2 revolution of the crackcase"
+    ],
+    "correctAnswer": "5) A cycle is completed in 2 revolution of the crackcase"
+  },
+  {
+    "id": 4,
+    "testIndex": 8,
+    "question": "If the flow of water from a centrifugal pump is stopped by closing the discharge valve with the pump running:",
+    "options": [
+      "1) The relief valve will open",
+      "2) The water pressure will stabilize at shut off head",
+      "3) The water pressure will tend tor ise continuously",
+      "4) The driver will be over loaded",
+      "5) The water temperature will tend to decrease continuously"
+    ],
+    "correctAnswer": "2) The water pressure will stabilize at shut off head"
+  },
+  {
+    "id": 5,
+    "testIndex": 8,
+    "question": "In a 4 stroke engine 2 revolution of the crank is completed within the angle of ....................",
+    "options": [
+      "1) 720°",
+      "2) 360°",
+      "3) 180°",
+      "4) 90°",
+      "5) 45°"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 6,
+    "testIndex": 8,
+    "question": "Which factor below is not the cause of vibration and noise in turbines?",
+    "options": [
+      "1) Unbalance",
+      "2) Distortion of casing",
+      "3) Loose couplings",
+      "4) Tight couplings",
+      "5) Any above"
+    ],
+    "correctAnswer": "5) Any above"
+  },
+  {
+    "id": 7,
+    "testIndex": 8,
+    "question": "Pre-ignition can be caused by .................... in an operating diesel engine.",
+    "options": [
+      "1) Excessively late fuel injection",
+      "2) Oil in the air charge",
+      "3) Water in the fuel",
+      "4) Injection continuing after the fuel charge is ignited",
+      "5) None above"
+    ],
+    "correctAnswer": "2) Oil in the air charge"
+  },
+  {
+    "id": 8,
+    "testIndex": 8,
+    "question": "A spring bearing on the line shaft is lubricated by:",
+    "options": [
+      "1) The lube oil gravity tank",
+      "2) Water leak off from the stern tube",
+      "3) An oil ring and scraper",
+      "4) The main lube oil pump",
+      "5) Any above"
+    ],
+    "correctAnswer": "2) Water leak off from the stern tube"
+  },
+  {
+    "id": 9,
+    "testIndex": 8,
+    "question": "............................. is a process, in which the temperature of a space on whatever takes place in, is reduced below that of their surroundings.",
+    "options": [
+      "1) Refrigeration",
+      "2) Air conditioning",
+      "3) Ventilation",
+      "4) Heating",
+      "5) Freezing"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 10,
+    "testIndex": 8,
+    "question": "Flashlights used aboard tankers must be ................",
+    "options": [
+      "1) Waterproof",
+      "2) Of the three cell type",
+      "3) Approved by the Board of fire underwriters",
+      "4) All above",
+      "5) 1 and 3"
+    ],
+    "correctAnswer": "2) Of the three cell type"
+  },
+  {
+    "id": 11,
+    "testIndex": 8,
+    "question": "One horsepower equals ....................",
+    "options": [
+      "1) 1000 watts",
+      "2) 746 watts",
+      "3) 100 watts",
+      "4) 940 watts",
+      "5) 786 watts"
+    ],
+    "correctAnswer": "2) 746 watts"
+  },
+  {
+    "id": 12,
+    "testIndex": 8,
+    "question": "The second effect on a two pass evaporator receives its steam from:",
+    "options": [
+      "1) De-superheated steam",
+      "2) Vapors from first effect",
+      "3) Auxiliary back pressure",
+      "4) Auxiliary forward pressure",
+      "5) None of the above"
+    ],
+    "correctAnswer": "2) Vapors from first effect"
+  },
+  {
+    "id": 13,
+    "testIndex": 8,
+    "question": "The purpose of an evaporator is to .......................",
+    "options": [
+      "1) Transmit the latent heat of fusion",
+      "2) Transmit the latent heat of evaporation",
+      "3) Absorb the latent heat of evaporation",
+      "4) Absorb the latent heat of fusion",
+      "5) Any above"
+    ],
+    "correctAnswer": "3) Absorb the latent heat of evaporation"
+  },
+  {
+    "id": 14,
+    "testIndex": 8,
+    "question": "Which of the following is not one of the parts of D/G overhaul?",
+    "options": [
+      "1) Valve rotator",
+      "2) Valve sprindle",
+      "3) Intake valve",
+      "4) Valve seat",
+      "5) Starting valve"
+    ],
+    "correctAnswer": "2) Valve sprindle"
+  },
+  {
+    "id": 15,
+    "testIndex": 8,
+    "question": "What will happen to a small diesel engine that is equipped with an \"auto type\" thermostat if the bellows develop a hole in it?",
+    "options": [
+      "1) The engine will overheat",
+      "2) The engine will remain cold",
+      "3) The engine will remain not start",
+      "4) The cooling water will \"by pass\" the engine",
+      "5) None of the above"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 16,
+    "testIndex": 8,
+    "question": "When distilling salt water the cooling-water discharge from the distiller is fed back to the evaporator as feedwater:",
+    "options": [
+      "1) To cut down on the amount of cooling water needed",
+      "2) To prevent an excess amount of cooling water from being discharged to the bilges",
+      "3) To supply hot water to the evaporator for more economical operation",
+      "4) To supply sufficient amount of sea water",
+      "5) None of the above"
+    ],
+    "correctAnswer": "3) To supply hot water to the evaporator for more economical operation"
+  },
+  {
+    "id": 17,
+    "testIndex": 8,
+    "question": "Which of the following actions should you take to correct a low condensing pressure in a refrigeration system?",
+    "options": [
+      "1) Purge the condenser",
+      "2) Remove refrigerant",
+      "3) Adjust the thermostatic expansion valve",
+      "4) Increase the compressor speed",
+      "5) Add refrigerant"
+    ],
+    "correctAnswer": "5) Add refrigerant"
+  },
+  {
+    "id": 18,
+    "testIndex": 8,
+    "question": "This gauge measures both inlet and outlet pressures of a strainer:",
+    "options": [
+      "1) A compound gauge",
+      "2) A duplex gauge",
+      "3) A biogauge",
+      "4) Pressure / Vacuum gauge",
+      "5) None of the above"
+    ],
+    "correctAnswer": "2) A duplex gauge"
+  },
+  {
+    "id": 19,
+    "testIndex": 8,
+    "question": "Emergency generators are placed .......................",
+    "options": [
+      "1) Near the machinery space",
+      "2) Above the bulkhead or freeboard deck whichever the higher",
+      "3) Midships near the engine room casing",
+      "4) Above the deep load line",
+      "5) None above"
+    ],
+    "correctAnswer": "2) Above the bulkhead or freeboard deck whichever the higher"
+  },
+  {
+    "id": 20,
+    "testIndex": 8,
+    "question": "A ball bearing will overheated if:",
+    "options": [
+      "1) Completely full of grease",
+      "2) Half full of grease",
+      "3) In us efor a long time",
+      "4) Operated at high speed",
+      "5) Operated at high speed"
+    ],
+    "correctAnswer": "1"
+  }
+]

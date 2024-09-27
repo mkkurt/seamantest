@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 4,
+    "question": "Motorlarda yatak vuruntusu nasıl anlaşılır ve ne yapılır?",
+    "options": [
+      "1) Motorda güç düşer; yakıt arttırılır",
+      "2) Madeni bir ses duyulur; motor hemen stop ettirilir",
+      "3) Yağ sıcaklığı artar; kuler soğutması arttırılır",
+      "4) Motor soğutma suyu sıcaklığı artar; termostat ayarı değiştirilir",
+      "5) Alarm tablosunda ses ve ışık uyarısı olur; motor durdurulur"
+    ],
+    "correctAnswer": "2) Madeni bir ses duyulur; motor hemen stop ettirilir"
+  },
+  {
+    "id": 2,
+    "testIndex": 4,
+    "question": "Dört stroklu bir dizel makinesinde genişleme stroku ne zaman sona erer?",
+    "options": [
+      "1) Alt ölü noktadan sonra",
+      "2) Tam alt ölü noktada",
+      "3) Alt ölü noktadan 20°-45° önce",
+      "4) Üst ölü noktadan hemen sonra",
+      "5) Alt ölü noktadan 20°-45° sonra"
+    ],
+    "correctAnswer": "3) Alt ölü noktadan 20°-45° önce"
+  },
+  {
+    "id": 3,
+    "testIndex": 4,
+    "question": "Stop halindeki makine silindirlerin içinde suyun birikmesi nedeni aşağıda belirtilenlerden hangisi olabilir ?",
+    "options": [
+      "1) Soğutma suyu pompası makine ile birlikte stop etmemiştir",
+      "2) Ceket suyu termostatı arızalanmıştır",
+      "3) Silindir layneri çatlamış olabilir",
+      "4) Sert su pompası, makinenin stop edilmesinden hemen önce aşırı bir biçimde hızlanmıştır",
+      "5) Yağ ile soğutulan pistonun kafası çatlamış olabilir"
+    ],
+    "correctAnswer": "3) Silindir layneri çatlamış olabilir"
+  },
+  {
+    "id": 4,
+    "testIndex": 4,
+    "question": "Fren özgül yakıt sarfiyatının birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) gram/bhp.saat",
+      "2) gram/ihp.saat",
+      "3) gram/mhp.saat",
+      "4) gram/fhp.saat",
+      "5) gram/php.saat"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 5,
+    "testIndex": 4,
+    "question": "Bir dizel makinesi pistonuna segmanlar donatılacağı zaman ilk önce ne kontrol edilmelidir?",
+    "options": [
+      "1) Çap yönündeki tansiyonu",
+      "2) Uç klerensi",
+      "3) Radyal kalınlığı",
+      "4) Yüzey kalınlığı",
+      "5) Radyal klerensi"
+    ],
+    "correctAnswer": "2) Uç klerensi"
+  },
+  {
+    "id": 6,
+    "testIndex": 4,
+    "question": "Bir dizel motorunda silindirlerin içinde bulunduğu bölüme ne ad verilir?",
+    "options": [
+      "1) Rokerarm",
+      "2) Kaver",
+      "3) Silindir bloku",
+      "4) Türboşarjer",
+      "5) Bedpleyt"
+    ],
+    "correctAnswer": "3) Silindir bloku"
+  },
+  {
+    "id": 7,
+    "testIndex": 4,
+    "question": "Eğer ana makine olarak kullanılan bir dizel motorunun silindirlerinden birinin rilif valfı atar ve makineyi stop edemezseniz, yapılması gereken aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Tüm makineye verilen soğutma suyu miktarı çoğaltılır",
+      "2) O silindire verilen yakıt kesilir",
+      "3) Rilif valfın yayının tansiyonu azaltılarak atma basıncının düşürülmesi sağlanır",
+      "4) Püskürtme zamanlaması yeniden düzenlenir",
+      "5) O silindire verilen soğutma suyu kesilir"
+    ],
+    "correctAnswer": "2) O silindire verilen yakıt kesilir"
+  },
+  {
+    "id": 8,
+    "testIndex": 4,
+    "question": "Ağır devirli gemi dizel makinelerinde her silindire yağlama yağı ne zaman verilir?",
+    "options": [
+      "1) Güç stroku sırasında",
+      "2) Kompresyon stroku sırasında",
+      "3) Sadece hafif yüklü operasyonlarda",
+      "4) Standbay operasyonunda",
+      "5) Egzoz stroku başlangıcında"
+    ],
+    "correctAnswer": "2) Kompresyon stroku sırasında"
+  },
+  {
+    "id": 9,
+    "testIndex": 4,
+    "question": "Krank şaftlar üzerinde bulunan ve iki krank veb ile bir krank pinden oluşan kısmın adı nedir?",
+    "options": [
+      "1) Krank",
+      "2) Krank kolu",
+      "3) Krank jurnal",
+      "4) Fillet",
+      "5) Deflekşın"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 10,
+    "testIndex": 4,
+    "question": "Motorlarda yakıt püskürtme valfinin elemanı nasıl yenilenir?",
+    "options": [
+      "1) Meme ve iğneciği birlikte (komple) yenilenir",
+      "2) Aşınan parça yenilenir",
+      "3) İğnecik yenilenir",
+      "4) Nozul yenilenir",
+      "5) İğnecik yayı yenilenir"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 11,
+    "testIndex": 4,
+    "question": "Aşağıdakilerden hangisi dizel makinelerinde kullanılan silindir yağlarının görevlerinden birisidir?",
+    "options": [
+      "1) Pistonları soğutmaktır",
+      "2) Yatakların yağlanmasını temin etmektir",
+      "3) Yanma asitlerini nötrleştirmektir",
+      "4) Süper gayıtlarını yağlamaktır",
+      "5) Salmastra kutusunu soğutmaktır"
+    ],
+    "correctAnswer": "3) Yanma asitlerini nötrleştirmektir"
+  },
+  {
+    "id": 12,
+    "testIndex": 4,
+    "question": "Dizel makinelerinde kullanılan fuel oil'in setan sayısı neyi belirtir?",
+    "options": [
+      "1) Viskoziteyi",
+      "2) Asit içeriğini",
+      "3) Isı değerini",
+      "4) Tutuşma niteliğini",
+      "5) Akma noktasını"
+    ],
+    "correctAnswer": "4) Tutuşma niteliğini"
+  },
+  {
+    "id": 13,
+    "testIndex": 4,
+    "question": "Bir dizel makinesinde piston segmanlarının aşırı bir biçimde aşınmasının sonucu aşağıdakilerden hangisi olabilir?",
+    "options": [
+      "1) Yüksek yağlama yağı viskozitesi",
+      "2) Çok fazla yağlama yağı harcama",
+      "3) Düşük yağlama yağı sıcaklığı",
+      "4) Yüksek yağ basıncı",
+      "5) Yüksek yanma basıncı"
+    ],
+    "correctAnswer": "2) Çok fazla yağlama yağı harcama"
+  },
+  {
+    "id": 14,
+    "testIndex": 4,
+    "question": "Gavernörlerde yükü sınırlama nasıl sağlanır?",
+    "options": [
+      "1) Püskütrülen yakıt miktarı azaltılarak",
+      "2) Ortalama endike basınç sınırlanarak",
+      "3) Yakıt püskürtme basıncı düşürülerek",
+      "4) Pompa plenceri döndürülerek",
+      "5) Pompa plencerinin stroku değiştirilerek"
+    ],
+    "correctAnswer": "2) Ortalama endike basınç sınırlanarak"
+  },
+  {
+    "id": 15,
+    "testIndex": 4,
+    "question": "İlmek süpürmeii makinelerde dolgu kayıplarını yok etmek için kullanılan valflar aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Ekzoz valfı",
+      "2) Osileytin valf",
+      "3) İnlet valfı",
+      "4) İnteyk valfı",
+      "5) Yukarıdakilerin tümü"
+    ],
+    "correctAnswer": "2) Osileytin valf"
+  },
+  {
+    "id": 16,
+    "testIndex": 4,
+    "question": "Yüksek güçlü, ağır devirli bir makinede, eğer enjektör meme deliklerinin çevresinde karbon birikintileri oluştuğu anlaşılırsa, aşağıdakilerden hangisi uygulanarak daha fazla birikinti oluşması önlenir?",
+    "options": [
+      "1) Yakıt püskürtme basıncı yükseltilir",
+      "2) Yakıtın ön ısıtma sıcaklığı arttırılır",
+      "3) Regülatörde yük sınırı azaltılır",
+      "4) Enjektör soğutma suyu sıcaklığı yükseltilir",
+      "5) Enjektör soğutma suyu sıcaklığı azaltılır"
+    ],
+    "correctAnswer": "4) Enjektör soğutma suyu sıcaklığı yükseltilir"
+  },
+  {
+    "id": 17,
+    "testIndex": 4,
+    "question": "Keysinin egzostuna doğru genişlediği bir türbinde, aşağıdakilerden hangisi doğru değildir?",
+    "options": [
+      "1) Bu türbin çift akımlı ise dami pistonu bulunmaz",
+      "2) Rotor şaft çapı egzoza doğru büyür",
+      "3) Türbin sabit kanatları bir nozul görevi yapar",
+      "4) Türbin kanatları düşey eksenlerine göre simetriktirler",
+      "5) Rotor şaftının içi çoğunlukla boştur"
+    ],
+    "correctAnswer": "4) Türbin kanatları düşey eksenlerine göre simetriktirler"
+  },
+  {
+    "id": 18,
+    "testIndex": 4,
+    "question": "Çift akımlı bir Parsons türbininde kanatların radyal klerenslerinin artması yanında eksenel klerenslerinin azalmasına neden aşağıdakilerden hangisi olabilir?",
+    "options": [
+      "1) Rotor şaft yatağı ve sırast yatağı aşınmıştır",
+      "2) Daraltıcı parça aşınmış ve dami piston arızalanmıştır",
+      "3) Rotor şaft yatağı aşınmış ve dami piston aşınmıştır",
+      "4) Sırast yatağı ve dami piston aşınmıştır",
+      "5) Türbin keysi aşınmış ve dami piston arızalanmıştır"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 19,
+    "testIndex": 4,
+    "question": "Bir dizel makinesinde egzoz gazlarında karbon monoksit oluşumu nasıl engellenebilir?",
+    "options": [
+      "1) Düzgün yanma ve süpürme sürdürülerek",
+      "2) Egzoz susturucusuna su püskürtülerek",
+      "3) Egzozda karbon birikintisine engel olunarak",
+      "4) Yanma sıcaklığı 2000°C'ın üzerine çıkartılarak",
+      "5) Kompresyon oranı küçültülerek"
+    ],
+    "correctAnswer": "2) Egzoz susturucusuna su püskürtülerek"
+  },
+  {
+    "id": 20,
+    "testIndex": 4,
+    "question": "Manevra valfı arızasında aşağıdakilerden hangisi yapılır?",
+    "options": [
+      "1) Makine devreden çıkartılır",
+      "2) Makine şaftı derhal durdurulur",
+      "3) Makine derhal tornaçarka bağlanır",
+      "4) Makine derhal gardiyan valf kontrole geçirilir",
+      "5) Derhal manevra valfı onarımı yapılır"
+    ],
+    "correctAnswer": "4) Makine derhal gardiyan valf kontrole geçirilir"
+  }
+]

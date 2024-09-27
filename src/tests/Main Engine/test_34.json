@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 33,
+    "question": "Sıvı yakıtlarda genel olarak uçuculuk neden önemlidir?",
+    "options": [
+      "1) Borularda yakıt akışının kolaylıkla sağlanması açısından",
+      "2) Yakıtın tanklarda güvenle taşınması bakımından",
+      "3) Yakıtın iyi yanması bakımından",
+      "4) Yakıtın, yanma odasmda buharlaşması açısından",
+      "5) Yakıt tüketimini azaltması açısından"
+    ],
+    "correctAnswer": "4) Yakıtın, yanma odasmda buharlaşması açısından"
+  },
+  {
+    "id": 2,
+    "testIndex": 33,
+    "question": "Günümüz dizel makinelerinde en çok uygulanan yakıt püskürtme yöntemi aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Komon reyl sistem",
+      "2) Distribütör yöntemi",
+      "3) Havasız hidrolik püskürtme yöntemi",
+      "4) Hidrolik püskürtme sistemi",
+      "5) 3 ve 4"
+    ],
+    "correctAnswer": "5) 3 ve 4"
+  },
+  {
+    "id": 3,
+    "testIndex": 33,
+    "question": "Motorlara yağlama yağı seçerken hangi temel şart dikkate alınır?",
+    "options": [
+      "1) Yatakta yeterli kalınlıkta film meydana getirmesi",
+      "2) Uygun viskozitede olması",
+      "3) Yeterli miktarda olması",
+      "4) Yağdaki katkı maddesinin fazla olması",
+      "5) Yukandakilerin tümü"
+    ],
+    "correctAnswer": "5) Yukandakilerin tümü"
+  },
+  {
+    "id": 4,
+    "testIndex": 33,
+    "question": "Yakıtın püskürtülmesi ile tutuşması arasında, dizel makinesinin krank şaftı hangi periyot kadar döner?",
+    "options": [
+      "1) Vuruntu periyodu kadar",
+      "2) Ateşleme süreci kadar",
+      "3) Genişleme periyodu kadar",
+      "4) Tutuşma gecikmesi periyodu kadar",
+      "5) 45 derecelik bir açı kadar"
+    ],
+    "correctAnswer": "4) Tutuşma gecikmesi periyodu kadar"
+  },
+  {
+    "id": 5,
+    "testIndex": 33,
+    "question": "Modern dizel makinelerinde şarj ya da dolgu veriminin sayısal değeri hangi sınırlar içindedir?",
+    "options": [
+      "1) 0,50-0,60",
+      "2) 0,60-0,70",
+      "3) 0,73-0,80",
+      "4) 0,83-1,10",
+      "5) 1,30-1,50"
+    ],
+    "correctAnswer": "4) 0,83-1,10"
+  },
+  {
+    "id": 6,
+    "testIndex": 33,
+    "question": "Operasyon sırasında karşılaşılan düşük kompresyon basıncı ve yüksek egzoz sıcaklığının anlamı nedir?",
+    "options": [
+      "1) Kaçıran veya yuvalarına iyi oturmayan supaplar",
+      "2) Kaçıran ya da aşırı aşınmış kompresyon segmanları",
+      "3) Çentikli veya aşınmış laynerler",
+      "4) Makinenin aşırı soğutulması",
+      "5) Yukarıda verilenlerin tümü"
+    ],
+    "correctAnswer": "5) Yukarıda verilenlerin tümü"
+  },
+  {
+    "id": 7,
+    "testIndex": 33,
+    "question": "Çalışmakta olan bir dizel makinesinde yakıt püskürtme pompası ve enjektör arasındaki yüksek basınçlı boruda (kamçıda) bir kaçak görüldüğünde aşağıdakilerden hangisi yapılmalıdır?",
+    "options": [
+      "1) Makine kapatılıncaya kadar kerye uygulanmalıdır",
+      "2) Onarım yapılıncaya kadar dikkatle incelenmelidir",
+      "3) Yangın tehlikesi nedeni ile makine derhal stop edilmelidir",
+      "4) O silindirin yakıtı azaltılmalıdır",
+      "5) Makine limana kadar aynı devirle çalıştırılmalıdır"
+    ],
+    "correctAnswer": "3) Yangın tehlikesi nedeni ile makine derhal stop edilmelidir"
+  },
+  {
+    "id": 8,
+    "testIndex": 33,
+    "question": "Normal değerine göre, düşük setan sayılı yakıt neye sebep olabilir?",
+    "options": [
+      "1) Soğuk havalarda kolay ilk harekete",
+      "2) Aşırı yakıt harcanmasına",
+      "3) Tutuşma gecikmesinin azalmasına",
+      "4) Makinenin daha yumuşak çalışmasına",
+      "5) Tutuşma gecikmesi sürecinin küçülmesine"
+    ],
+    "correctAnswer": "2) Aşırı yakıt harcanmasına"
+  },
+  {
+    "id": 9,
+    "testIndex": 33,
+    "question": "Layneri ve segmanları aşırı aşınmış bir dizel makinesinin egzozu hangi renkte gözükür?",
+    "options": [
+      "1) Beyazımsı",
+      "2) Koyu gri veya siyah",
+      "3) Mavimsi",
+      "4) Uçuk kahverengi",
+      "5) Uçuk gri"
+    ],
+    "correctAnswer": "2) Koyu gri veya siyah"
+  },
+  {
+    "id": 10,
+    "testIndex": 33,
+    "question": "Aşağıdakilerden hangisi 4 zamanlı modern bir dizel makinesinin maksimum süperşarj basmcı olabilir?",
+    "options": [
+      "1) 1,5 bar",
+      "2) 1,5 atü",
+      "3) 3,0 bar",
+      "4) 24 ata",
+      "5) Hepsi"
+    ],
+    "correctAnswer": "3) 3,0 bar"
+  },
+  {
+    "id": 11,
+    "testIndex": 33,
+    "question": "Çalışmakta olan bir dizel makinesinin bir silindirden alınan endikatör diyagramından kompresyon basıncının normalden yüksek olduğu anlaşılmıştır. Bu makinede egzoz sıcaklığı normalden düşük olduğuna göre sorun nedir?",
+    "options": [
+      "1) Kompresyon oranı çok küçüktür",
+      "2) Palamar yatakları aşın ısınmıştır",
+      "3) Kompresyon oranı çok büyüktür",
+      "4) Mekanik klerensler çok büyüktür",
+      "5) Bir çevrimde silindire püskürtülen yakıt miktarı normale göre daha fazladır"
+    ],
+    "correctAnswer": "3) Kompresyon oranı çok büyüktür"
+  },
+  {
+    "id": 12,
+    "testIndex": 33,
+    "question": "Makineden hareket alarak çalışan bir bloverin sağladığı hava ile uygulanan aşırı doldurmaya ne ad verilir?",
+    "options": [
+      "1) Türboşarj",
+      "2) Kısmi süperşarj",
+      "3) Mekanik süperşarj",
+      "4) Aşırı süperşarj",
+      "5) Süpürme"
+    ],
+    "correctAnswer": "3) Mekanik süperşarj"
+  },
+  {
+    "id": 13,
+    "testIndex": 33,
+    "question": "Gücü 4500 kW olan bir makine saatte 675 kg yakıt tüketmektedir. Makinenin mekanik verimi 0,93 olduğuna göre, fren özgül yakıt tüketimi ne kadardır?",
+    "options": [
+      "1) 0,190 kg yakıt/kW saat",
+      "2) 0,181 kg yakıt/kW saat",
+      "3) 0,171 kg yakıt/kW saat",
+      "4) 0,161 kg yakıt/kW saat",
+      "5) 0,151 kg yakıt/kW saat"
+    ],
+    "correctAnswer": "4) 0,161 kg yakıt/kW saat"
+  },
+  {
+    "id": 14,
+    "testIndex": 33,
+    "question": "Soğutma suyu sıcaklığının 140�C'ı geçmesi halinde, gri renkli, ısıyı geçirmeyen ve sert kışır katmanı oluşturan ve suda çözünmüş olarak bulunan kimyasal madde aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Kalsiyum karbonat",
+      "2) Magnezyum karbonat",
+      "3) Kalsiyum sülfat",
+      "4) Magnezyum klorür",
+      "5) Sodyum klorür"
+    ],
+    "correctAnswer": "3) Kalsiyum sülfat"
+  },
+  {
+    "id": 15,
+    "testIndex": 33,
+    "question": "Bir gemi ana makinesinde tornistan hangi yöntemle gerçekleştirilmez?",
+    "options": [
+      "1) Şanzıman",
+      "2) Kem şaftın eksenel kaydırılması",
+      "3) Kem şaftın döndürülmesi",
+      "4) Torna çark",
+      "5) Piç kontrol"
+    ],
+    "correctAnswer": "4) Torna çark"
+  },
+  {
+    "id": 16,
+    "testIndex": 33,
+    "question": "Dizel makinelerinde aşırı doldurma neden yapılır?",
+    "options": [
+      "1) Yanma verimini arttırmak için",
+      "2) Sürtünme kaybını azaltmak için",
+      "3) Motor ana ölçüleri değişmeden daha fazla güç üretmek için",
+      "4) Motorun devir sayısını arttırmak için",
+      "5) Dolgu verimini arttırmak için"
+    ],
+    "correctAnswer": "3) Motor ana ölçüleri değişmeden daha fazla güç üretmek için"
+  },
+  {
+    "id": 17,
+    "testIndex": 33,
+    "question": "İlmik süpürme, süpürmenin hangi genel sınıfına girmektedir?",
+    "options": [
+      "1) Doğru akımlı süpürme",
+      "2) Tek pistonlu doğru akımlı süpürme",
+      "3) İki pistonlu doğru akımlı süpürme",
+      "4) Ters akımlı süpürme",
+      "5) Basit portlu süpürme"
+    ],
+    "correctAnswer": "4) Ters akımlı süpürme"
+  },
+  {
+    "id": 18,
+    "testIndex": 33,
+    "question": "Çalışmakta olan bir gemi dizel makinesinin 3 numaralı silindirinden alman endikatör diyagramının alanı 625 mm2, diyagramın stroku 70 mm ve endikatör cihazının yay ölçeği 0,952 mm/at olarak bulunmuştur. Sözü edilen silindire ait endike ortalama basıncın sayısal değeri ne olacaktır?",
+    "options": [
+      "1) 10,378 at",
+      "2) 9,378 at",
+      "3) 8,378 at",
+      "4) 11,378 at",
+      "5) 12,378 at"
+    ],
+    "correctAnswer": "2) 9,378 at"
+  },
+  {
+    "id": 19,
+    "testIndex": 33,
+    "question": "Püskürtme gecikmesi ana sebebi aşağıda verilenlerden hangisidir?",
+    "options": [
+      "1) Yakıt pompasının normale göre daha yüksek yakıt basıncı sağlaması",
+      "2) Çizilmiş plencer ve barılı",
+      "3) Yakıtın küçük bir miktarda sıkıştırılabilir oluşu",
+      "4) Aşırı hava türbülansı",
+      "5) Düşük hava türbülansı"
+    ],
+    "correctAnswer": "3) Yakıtın küçük bir miktarda sıkıştırılabilir oluşu"
+  },
+  {
+    "id": 20,
+    "testIndex": 33,
+    "question": "İlmek süpürmeli makinelerde dolgu kayıplarını yok etmek için kullanılan valflar aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Egzoz valfı",
+      "2) Osileytin valf",
+      "3) İnlet valfı",
+      "4) İnteyk valfı",
+      "5) Yukarıdakilerin tümü"
+    ],
+    "correctAnswer": "2) Osileytin valf"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 35,
+    "question": "Portlarla donatılmış iki zamanlı makinelerde kayıp strokun boyu neye eşittir?",
+    "options": [
+      "1) Egzoz portlarınm yüksekliğine",
+      "2) Süpürme portlarınm yüksekliğine",
+      "3) İki sıra süpürme portlu makinelerde, üst sıra portlarm yüksekliğine",
+      "4) Alt sıra süpürme portlarınm yüksekliğine",
+      "5) Egzoz portlarınm yarı yüksekliğine"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 2,
+    "testIndex": 35,
+    "question": "İlk hareketle basınçlı hava ile yapıldığı bir makinede, ilk hareketten hemen önce yapılması gereken ne olmalıdır?",
+    "options": [
+      "1) Makinenin türlü yerlerindeki cıvata ve somunlar denetlenmelidir",
+      "2) Yağlama yağının sıcaklığı 60°C'nin üzerine çıkarılmalıdır",
+      "3) Lubrikeyterlerin damla sayısı en az %50 artırılmalıdır",
+      "4) Silindir soğutma suyu valfları tümüyle kapatılmalıdır",
+      "5) Yukardakilerin tümü uygulanmalıdır"
+    ],
+    "correctAnswer": "3) Lubrikeyterlerin damla sayısı en az %50 artırılmalıdır"
+  },
+  {
+    "id": 3,
+    "testIndex": 35,
+    "question": "Sıkıştırma basınçları, modern dizel makinelerinin sıkıştırma basınçlarının yarısı kadar olan motorlara ne isim verilir?",
+    "options": [
+      "1) Tam dizel makine",
+      "2) İki zamanlı dizel makinesi",
+      "3) Sömi dizel makinesi",
+      "4) Dört zamanlı dizel makinesi",
+      "5) Kroshedli dizel makinesi"
+    ],
+    "correctAnswer": "3) Sömi dizel makinesi"
+  },
+  {
+    "id": 4,
+    "testIndex": 35,
+    "question": "Dört zamanlı dizel makinelerinin gerçek diyagramlarında, atmosfer çizgisi etrafındaki küçük alan neyi belirtir?",
+    "options": [
+      "1) Pompalama kayıplarını",
+      "2) Havanın silindire emiiişi için tüketilen gücü",
+      "3) Egzoz gazlarının silindirden atılışını gerektiren gücü",
+      "4) Faydalı işe dönüştürülen alanı",
+      "5) 4 dışında tümünü"
+    ],
+    "correctAnswer": "5) 4 dışında tümünü"
+  },
+  {
+    "id": 5,
+    "testIndex": 35,
+    "question": "720� krank açısında bir iş oluşturan motor kaç zamanlıdır?",
+    "options": [
+      "1) 1",
+      "2) 2",
+      "3) 3",
+      "4) 4",
+      "5) 5"
+    ],
+    "correctAnswer": "4) 4"
+  },
+  {
+    "id": 6,
+    "testIndex": 35,
+    "question": "Süperşarjlı dizel makinelerinde valf overlepinin krank açısı türünden süresi, süperşarjsız makinelere göre, aşağıdakilerden hangisi ile ifade edilir?",
+    "options": [
+      "1) Daha küçüktür",
+      "2) Birbirine eşittir",
+      "3) Çok daha büyüktür",
+      "4) Çok az küçüktür",
+      "5) Çok az büyüktür"
+    ],
+    "correctAnswer": "3) Çok daha büyüktür"
+  },
+  {
+    "id": 7,
+    "testIndex": 35,
+    "question": "Yaş laynerlerin en önemli sakıncası aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Isıyı daha az iletirler",
+      "2) Daha az dayanıklıdırlar",
+      "3) Daha sıcak çalışırlar",
+      "4) Servis ömürleri daha kısadır",
+      "5) Yağlama yağma su karışmasına neden olurlar"
+    ],
+    "correctAnswer": "5) Yağlama yağma su karışmasına neden olurlar"
+  },
+  {
+    "id": 8,
+    "testIndex": 35,
+    "question": "Dört stroklu bir dizel makinesinde giriş veya emme valfı için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "1) Üst ölü noktadan önce açılır ve ali ölü noktadan sonra kapanır",
+      "2) Üst ölü noktadan sonra açılır ve alt ölü noktadan sonra kapanır",
+      "3) Üst ölü noktadan önce açılır ve üst ölü noktadan sonra kapanır",
+      "4) Üst ölü noktadan sonra açılır ve üst ölü noktadan önce kapanır",
+      "5) Tam üst ölü noktada açılır ve alt ölü noktada kapanır"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 9,
+    "testIndex": 35,
+    "question": "Dört zamanlı bir makinede egzoz stroku alt ölü noktadan 30� önce başlamakta ve üst ölü noktadan 20� sonra sona ermektedir. Bu durumda egzoz stroku krank açısı türünden kaç derecelik bir süre içinde oluşmaktadır?",
+    "options": [
+      "1) 230°",
+      "2) 235°",
+      "3) 245°",
+      "4) 255°",
+      "5) 265°"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 10,
+    "testIndex": 35,
+    "question": "Günümüzde modern dizel makinelerinin tümü Diesel ve Otto çevrimlerinin birleşimi olan karışık çevrimle çalışmaktadırlar. Bu çevrimde sıkıştırma ile yanma nasıl gerçekleşir?",
+    "options": [
+      "1) Sabit hacimde",
+      "2) Sabit basınçta",
+      "3) Sabit sıcaklıkta",
+      "4) Sabit entropide",
+      "5) Sabit entalpide"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 11,
+    "testIndex": 35,
+    "question": "Normal veya aşırı olmayan süperşarjda bir dizel makinesinin gücü hangi oranlarda artar?",
+    "options": [
+      "1) %100 - %120",
+      "2) %75- %100",
+      "3) %50 - %60",
+      "4) %30 - %40",
+      "5) %10 - %20"
+    ],
+    "correctAnswer": "3) %50 - %60"
+  },
+  {
+    "id": 12,
+    "testIndex": 35,
+    "question": "Dört zamanlı bir dizel motorunun valf ayarı aşağıdaki hangi periyotta yapılmalıdır?",
+    "options": [
+      "1) Egzoz",
+      "2) Genişleşme / İş",
+      "3) Emme",
+      "4) Sıkıştırma sonunda",
+      "5) Overlep"
+    ],
+    "correctAnswer": "4) Sıkıştırma sonunda"
+  },
+  {
+    "id": 13,
+    "testIndex": 35,
+    "question": "Krank şaftlardan deflekşın ölçülerinin alınmasında kullanılan alet aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Sentil (filer geyç)",
+      "2) Deflekşın geyç",
+      "3) Çap mikrometresi",
+      "4) Briç geyç",
+      "5) Plasti geyç"
+    ],
+    "correctAnswer": "2) Deflekşın geyç"
+  },
+  {
+    "id": 14,
+    "testIndex": 35,
+    "question": "Saatteki yakıt tüketimi 650 kg olan bir dizel makinesinin gücü 4800 bhp olduğuna göre, bu makinenin fren özgül yakıt tüketimi ne kadardır?",
+    "options": [
+      "1) 155 g/bhp.saat",
+      "2) 145 g/bhp.saat",
+      "3) 135 g/bhp.saat",
+      "4) 125 g/bhp.saat",
+      "5) 165 g/bhp.saat"
+    ],
+    "correctAnswer": "3) 135 g/bhp.saat"
+  },
+  {
+    "id": 15,
+    "testIndex": 35,
+    "question": "Pistonlarının hem alt ve hem de üst yüzünde iş oluşturan makineler aşağıdakilerden hangisidir?",
+    "options": [
+      "1) Tek etkili makine",
+      "2) Çift etkili makine",
+      "3) İki zamanlı makine",
+      "4) Dört zamanlı makine",
+      "5) Delta makine"
+    ],
+    "correctAnswer": "2) Çift etkili makine"
+  },
+  {
+    "id": 16,
+    "testIndex": 35,
+    "question": "Yüksek devirli dizel motorlarının devir düşürücülerinde, devir düşürme oranının maksimum değeri ne kadardır?",
+    "options": [
+      "1) 5/1",
+      "2) 6/1",
+      "3) 8/1",
+      "4) 9/1",
+      "5) 2/1"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 17,
+    "testIndex": 35,
+    "question": "Makinenin operasyonu sırasında yağlama yağı pompasının yağı samp tanktan alamaması veya devrede gerekli basmcı oluşturamamasmın nedeni nedir?",
+    "options": [
+      "1) Yağlama yağının çok soğuk olması",
+      "2) Yağlama yağının viskoz olması",
+      "3) Emme borusuna hava girmesi",
+      "4)  Samp tankta yağ seviyesinin önemli şekilde düşmesi",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümü"
+  },
+  {
+    "id": 18,
+    "testIndex": 35,
+    "question": "Kroshetli bir makinenin hareket mekanizması sırasıyla hangi parçalardan oluşmaktadır?",
+    "options": [
+      "1) Piston, gacın pin, piston rot, konnektin rod ve krankşaft",
+      "2) Piston, piston rot, kroshet ve sliperi, kroshet pin yatakları, konnektin rot ve krankşaft",
+      "3) Piston, kroshed pin yatakları, konnektin rot ve krankşaft",
+      "4) Trank piston, piston pin, piston rot ve konnektin rot",
+      "5) Banıl piston, gacın pin, konnektin rot ve krankşaft"
+    ],
+    "correctAnswer": "2) Piston, piston rot, kroshet ve sliperi, kroshet pin yatakları, konnektin rot ve krankşaft"
+  },
+  {
+    "id": 19,
+    "testIndex": 35,
+    "question": "Silindir laynerlerinde kullanılan O-ringlerin görevleri nelerdir?",
+    "options": [
+      "1) Layner ile makine bloku arasında sızdırmazlık sağlamak",
+      "2) Laynerin küçük miktarda Iaynsızhğma müsaade etmek",
+      "3) Yağlama yağının karterden kaçmasını önlemek",
+      "4) Karterin havalandırılmasını sağlamak",
+      "5) Layner ile silindir bloku arasmda düzgün bir sıcaklık sağlamak"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 20,
+    "testIndex": 35,
+    "question": "Doğru akımh süpürmeli bir dizel motorunda egzoz yanma sonucu oluşan gazlar aşağıdaki elemanlardan hangisi i�e silindir dışına atılır?",
+    "options": [
+      "1) Rilif valf",
+      "2) Egzoz valfı",
+      "3) Egzoz portu",
+      "4) Deflektör",
+      "5) Emme valfı"
+    ],
+    "correctAnswer": "2) Egzoz valfı"
+  }
+]

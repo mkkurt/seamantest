@@ -1,0 +1,120 @@
+import React, { useState } from "react";
+import { ChevronRight } from "lucide-react";
+import { useStore } from "../store";
+import { useTranslation } from "react-i18next";
+
+const Sidebar = ({ onSelectTest }) => {
+  const { state } = useStore();
+  const { categories, selectedCategory, selectedTest } = state;
+  const [expandedCategories, setExpandedCategories] = useState({});
+  const [expandedTests, setExpandedTests] = useState(false);
+  const toggleCategory = (category) => {
+    setExpandedCategories((prev) => ({
+      ...prev,
+      [category]: !prev[category],
+    }));
+  };
+
+  const { t, i18n } = useTranslation();
+
+  return (
+    <div className="w-64 bg-white shadow-xl sticky top-0 overflow-y-auto h-full">
+      <div className="p-6">
+        <h2 className="text-l font-bold mb-6 text-gray-800">
+          {t("categories")}
+        </h2>
+        <ul className="space-y-2">
+          {categories &&
+            Object.entries(categories).map(([category, { tests }]) => (
+              <li key={category} className="mb-2">
+                <button
+                  className={`w-full text-left p-2 rounded-md flex items-center justify-between ${
+                    selectedCategory === category
+                      ? "bg-blue-100 text-blue-700"
+                      : "hover:bg-gray-100"
+                  }`}
+                  onClick={() => toggleCategory(category)}
+                >
+                  {/* <span>{category}</span> */}
+                  <span>
+                    {category === "Auxiliary Engines"
+                      ? t("auxEngines")
+                      : category === "Main Engine"
+                      ? t("mainEngine")
+                      : category === "Maritime English"
+                      ? t("maritimeEnglish")
+                      : category === "Maritime Law"
+                      ? t("maritimeLaw")
+                      : ""}
+                  </span>
+                  <ChevronRight
+                    size={20}
+                    className={`transition-transform duration-200 ${
+                      expandedCategories[category] ? "transform rotate-90" : ""
+                    }`}
+                  />
+                </button>
+                {expandedCategories[category] && (
+                  <ul className="ml-4 mt-2 space-y-1">
+                    <li key="all-questions">
+                      <button
+                        className={`w-full text-left p-2 rounded-md text-sm ${
+                          selectedTest === "All Questions" &&
+                          selectedCategory === category
+                            ? "bg-blue-50 text-blue-600"
+                            : "hover:bg-gray-50"
+                        }`}
+                        onClick={() => onSelectTest(category, "All Questions")}
+                      >
+                        {t("allQuestions")}
+                      </button>
+                    </li>
+                    <li key={category} className="mb-2">
+                      <button
+                        className={`w-full text-left p-2 rounded-md text-sm flex items-center justify-between ${
+                          expandedTests ? " text-blue-700" : "hover:bg-gray-100"
+                        }`}
+                        onClick={() => setExpandedTests(!expandedTests)}
+                      >
+                        <span>{t("tests")}</span>
+                        <ChevronRight
+                          size={20}
+                          className={`transition-transform duration-200 ${
+                            expandedTests ? "transform rotate-90" : ""
+                          }`}
+                        />
+                      </button>
+                      {expandedTests && (
+                        <div className="relative">
+                          <ul className="ml-4 mt-2 space-y-1 max-h-40 overflow-y-scroll scroll-shadow">
+                            {tests &&
+                              Object.keys(tests).map((test) => (
+                                <li key={test}>
+                                  <button
+                                    className={`w-full text-left p-2 rounded-md text-sm ${
+                                      selectedTest === test &&
+                                      selectedCategory === category
+                                        ? "bg-blue-50 text-blue-600"
+                                        : "hover:bg-gray-50"
+                                    }`}
+                                    onClick={() => onSelectTest(category, test)}
+                                  >
+                                    {test}
+                                  </button>
+                                </li>
+                              ))}
+                          </ul>
+                          <div className="absolute bottom-0 left-0 right-0 h-4 bg-gradient-to-t from-gray-100 to-transparent pointer-events-none" />
+                        </div>
+                      )}
+                    </li>
+                  </ul>
+                )}
+              </li>
+            ))}
+        </ul>
+      </div>
+    </div>
+  );
+};
+export default Sidebar;

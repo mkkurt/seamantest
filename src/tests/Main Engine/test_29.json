@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 28,
+    "question": "Normal yük altında çalışmakta olan dizel makinelerinde kısıtlı egzoz manifoldu, aşağıda verilenlerden hangisine neden olur?",
+    "options": [
+      "1) Alçak yanma basıncı ve alçak egzoz sıcaklığı",
+      "2) Alçak yanma basıncı ve yüksek egzoz sıcaklığı",
+      "3) Yüksek yanma basıncı ve alçak egzoz sıcaklığı",
+      "4) Yüksek yanma basıncı ve yüksek egzoz sıcaklığı",
+      "5) Normal yanma basıncı ve alçak egzoz sıcaklığı"
+    ],
+    "correctAnswer": "2) Alçak yanma basıncı ve yüksek egzoz sıcaklığı"
+  },
+  {
+    "id": 2,
+    "testIndex": 28,
+    "question": "Dizel makinelerinin egzoz gazlarında korbon monoksit oluşumu nasıl önlenir?",
+    "options": [
+      "1) Egzoz borusuna su püskürtülerek",
+      "2) Egzoz sisteminde korbon birikintisi oluşturmayarak",
+      "3) Silindirlerde düzgün yanma ve süpürme sürdürerek",
+      "4) Makinenin hafif yüklerde çalıştırılmasından kaçınarak",
+      "5) Bir çevrimde silindire püskürtülecek yakıt miktarını azaltarak"
+    ],
+    "correctAnswer": "3) Silindirlerde düzgün yanma ve süpürme sürdürerek"
+  },
+  {
+    "id": 3,
+    "testIndex": 28,
+    "question": "Dizel makinesinin ilk harekete getirilmesinden ne kadar önce yağlama yağı pompasının çalıştırılması makine yapımcıları tarafından önerilmektedir?",
+    "options": [
+      "1) 10 saat önce",
+      "2) 8 saat önce",
+      "3) 6 saat önce",
+      "4) 4 saat önce",
+      "5) 2 saat önce"
+    ],
+    "correctAnswer": "3) 6 saat önce"
+  },
+  {
+    "id": 4,
+    "testIndex": 28,
+    "question": "Eğer makine ilk hareket havası verilmesine rağmen çalışmıyorsa bunun sebebi aşağıdaki şıklardan hangisidir?",
+    "options": [
+      "1) Kaçıran veya sızdıran contalar",
+      "2) Çatlak hava boruları",
+      "3) İlk hareket havası basıncının düşük olması",
+      "4) Aşırı aşınmış segman ve silindirler",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümü"
+  },
+  {
+    "id": 5,
+    "testIndex": 28,
+    "question": "Modern bir dizel makinesinde, tutuşmadan kısa bir süre sonra ve piston üst ölü noktaya erişmeden önce yanma odasında ne meydana gelir?",
+    "options": [
+      "1) Sabit basınçta hızlı sıcaklık yükselmesi",
+      "2) Sabit sıcaklıkta hızlı bir basınç yükselmesi",
+      "3) Hızlı basınç ve sıcaklık yükselmesi",
+      "4) Hızlı hacim büyümesi ve basınç düşümü",
+      "5) Yavaş veya kontrollü yanma"
+    ],
+    "correctAnswer": "3) Hızlı basınç ve sıcaklık yükselmesi"
+  },
+  {
+    "id": 6,
+    "testIndex": 28,
+    "question": "Tüplerde basınçlı hava olmaması nedeniyle, küçük güçlü makinelerde ilk hareketin temini için aşağıdakilerden hangisi kullanılmalıdır?",
+    "options": [
+      "1) İçinde sıvı karbon dioksit bulunan tüpler",
+      "2) İçinde hava bulunan çelik tüpler",
+      "3) İçinde sıvı oksijen bulunan çelik tüpler",
+      "4) İçinde Freon 12 bulunan çelik tüpler",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "5) 1 ve 2"
+  },
+  {
+    "id": 7,
+    "testIndex": 28,
+    "question": "İlk hareketi basınçlı hava ile yapılan bakımlı bir dizel makinesinde krankşaftın hangi devirleri arasında yanma oluşur?",
+    "options": [
+      "1) 8 - 10 rpm",
+      "2) 6 - 8 rpm",
+      "3) 4 - 6 rpm",
+      "4) 2 - 4 rpm",
+      "5) 10 - 12 rpm"
+    ],
+    "correctAnswer": "4) 2 - 4 rpm"
+  },
+  {
+    "id": 8,
+    "testIndex": 28,
+    "question": "Çalışmakta olan bir dizel makinesinin bir silindirinin aşırı yükte çalıştığının saptanması için ne yapılır?",
+    "options": [
+      "1) Egzozda siyah duman araştırılır",
+      "2) Silindirde yanma vuruntusu dinlenir",
+      "3) Her bir silindirin yakıtı kesilerek enjektör gözden geçirilir",
+      "4) Sık sık silindir egzoz sıcaklığı denetlenir",
+      "5) Sık sık kontrol muslukları iie denetleme yapılır"
+    ],
+    "correctAnswer": "4) Sık sık silindir egzoz sıcaklığı denetlenir"
+  },
+  {
+    "id": 9,
+    "testIndex": 28,
+    "question": "İlk hareketi basınçlı hava ile yapılan dizel makinelerinde ilk hareketten önce makinenin sıcak tutulmasının sebebi nedir?",
+    "options": [
+      "1) Makinenin ilk hareketinin kolayca sağlanmasıdır",
+      "2) Daha az miktarda basınçlı hava kullanmaktır",
+      "3) Makinenin ilk hareket devir sayısını yükseltmektir",
+      "4) İlk hareketten hemen sonra makinenin tam yol üretmesidir",
+      "5) 1 ve 2'dir"
+    ],
+    "correctAnswer": "5) 1 ve 2'dir"
+  },
+  {
+    "id": 10,
+    "testIndex": 28,
+    "question": "Yüksek güçlü, ağır devirli bir a�a makinenin çalışması sırasında hangi parça gerilme etkisi altındadır?",
+    "options": [
+      "1) Bedpleyt veya alt kerter",
+      "2) Freymler",
+      "3) Tansiyon cıvataları",
+      "4) Tayrodlar",
+      "5) 3 ve 4"
+    ],
+    "correctAnswer": "5) 3 ve 4"
+  },
+  {
+    "id": 11,
+    "testIndex": 28,
+    "question": "Bir dizel makinesinde kısmen tıkanmış egzoz portları, aşağıdakilerden hangisine neden olur?",
+    "options": [
+      "1) Makinenin aşırı ısınmasına",
+      "2) Yüksek egzoz sıcaklığına",
+      "3) Makinenin yavaş çalışmasına",
+      "4) Üretilen gücün azalmasına",
+      "5) Yukardakilerin tümüne"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümüne"
+  },
+  {
+    "id": 12,
+    "testIndex": 28,
+    "question": "Dizel makinelerinde egzoz sıcaklığı neyi belirtir?",
+    "options": [
+      "1) Kaçıran egzoz valflarını",
+      "2) Aşırı yüklü silindiri",
+      "3) Tıkalı enjektör memesini",
+      "4) Tavlanmış egzoz valflarını",
+      "5) Yukardakilerin tümünü"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümünü"
+  },
+  {
+    "id": 13,
+    "testIndex": 28,
+    "question": "Hidrolik püskürtme ile çalıştırılan modern dizel makinelerinin termodinamik çevrimi aşağıda verilenlerden hangisidir?",
+    "options": [
+      "1) Sabit basınçlı çevrim veya diesel çevrimi",
+      "2) Sabit hacimli çevrim veya otto çevrtimi",
+      "3) Sabit hacim ve sabit basınçlı çevrim veya sabathe çevrimi",
+      "4) Sabit sıcaklık ve sabit basınçlı çevrim",
+      "5) Brayton çevrimi"
+    ],
+    "correctAnswer": "3) Sabit hacim ve sabit basınçlı çevrim veya sabathe çevrimi"
+  },
+  {
+    "id": 14,
+    "testIndex": 28,
+    "question": "İlk hareketin basınçlı hava ile yapıldığı bir makinede, ilk hareketten hemen önce yapılması gereken ne olmalıdır?",
+    "options": [
+      "1) Makinenin türlü yerlerindeki cıvata ve somunlar denetlenmelidir",
+      "2) Yağlama yağının sıcaklığı 60°C nin üzerine çıkarılmalıdır",
+      "3) Lubrikeyterlerin damla sayısı en az %50 artırılmalıdır",
+      "4) Silindir soğutma suyu valfları tümüyle kapatılmalıdır",
+      "5) Yukardakilerin tümü uygulanmalıdır"
+    ],
+    "correctAnswer": "3) Lubrikeyterlerin damla sayısı en az %50 artırılmalıdır"
+  },
+  {
+    "id": 15,
+    "testIndex": 28,
+    "question": "Makinenin operasyonu sırasında yağlama yağı pompasının yağı samp tanktan alamaması veya devrede gerekli basıncı oluşturamamasının nedeni nedir?",
+    "options": [
+      "1) Yağlama yağının çok soğuk olması",
+      "2) Yağlama yağının viskoz olması",
+      "3) Emme borusuna hava girmesi",
+      "4) Samp tankta yağ seviyesinin önemli şekilde düşmesi",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümü"
+  },
+  {
+    "id": 16,
+    "testIndex": 28,
+    "question": "Alçak silindir basıncı ile yüksek egzoz sıcaklığı neyi belirtir?",
+    "options": [
+      "1) Erken yakıt püskürtme zamanlamasını",
+      "2) Kaçıran veya sızdıran süpapları",
+      "3) Tıkalı hava girişini",
+      "4) Alçak soğutma suyu sıcaklığını",
+      "5) Normal sıkıştırma basıncını"
+    ],
+    "correctAnswer": "2) Kaçıran veya sızdıran süpapları"
+  },
+  {
+    "id": 17,
+    "testIndex": 28,
+    "question": "İki zamanlı bir dizel makinesinin egzoz aortlarında kurum birikmesinin sebebi nedir?",
+    "options": [
+      "1) Yüksek püskürtme basıncı",
+      "2) Yüksek yanma basıncı",
+      "3) Yüksek sıkıştırma basıncı",
+      "4) Aşırı egzoz sıcaklığı",
+      "5) İlk hareket devresinde aşırı ısınma"
+    ],
+    "correctAnswer": "4) Aşırı egzoz sıcaklığı"
+  },
+  {
+    "id": 18,
+    "testIndex": 28,
+    "question": "Makine ilk harekete getirildikten sonra ne zamana kadar silindirlere normalden fazla yağ verilmesine devam edilmelidir?",
+    "options": [
+      "1) İlk hareketin hemen aramda silindir yağı miktarı normale indirilmelidir",
+      "2) Gemi seyire başlayıncaya dek fazla silindir yağma devam edilmelidir",
+      "3) İlk hareketten hemen sonra yağ miktarı normal miktarın altına indirilmelidir",
+      "4) Seyir başlayıncaya dek yağ miktarı önemli bir şekilde artırılmaya devam edilmelidir",
+      "5) 3 ve 4 uygulanmalıdır"
+    ],
+    "correctAnswer": "2) Gemi seyire başlayıncaya dek fazla silindir yağma devam edilmelidir"
+  },
+  {
+    "id": 19,
+    "testIndex": 28,
+    "question": "Günümüzde modern dizel makinelerinin tümü Diesel ve Otto çevrimlerinin birleşimi olan karışık çevrimle çalışmaktadırlar. Bu çevrimde sıkıştırma ile yanma nasıl gerçekleşir?",
+    "options": [
+      "1) Sabit hacimde",
+      "2) Sabit basınçta",
+      "3) Sabit sıcaklıkta",
+      "4) Sabit entropide",
+      "5) Sabit entalpide"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 20,
+    "testIndex": 28,
+    "question": "İki zamanlı bir dizel makinesinde tümüyle veya kısmen tıkalı egzoz portları neye neden olur?",
+    "options": [
+      "1) Makinenin aşırı hızına",
+      "2) Makinenin kapama sorunlarına",
+      "3) Silindir rilif valfının atmasına",
+      "4) Hidrolik gavörnörün arızalanmasına",
+      "5) Makinenin ürettiği gücün artmasına"
+    ],
+    "correctAnswer": "3) Silindir rilif valfının atmasına"
+  }
+]

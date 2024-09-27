@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 2,
+    "question": "Yağ sızıntısının olduğu tespit edilmiştir. Aşağıdakilerden hangisi Baş Mühendisin yapması gerekenlerden değildir?",
+    "options": [
+      "1) Yağ sızıntısının olduğu noktayı belirler",
+      "2) Sızıntının nedenini araştırır",
+      "3) P&I temsilcisine haber verir",
+      "4) Gemiden dökülen yağın yaklaşık miktarını belirler",
+      "5) Olayı Kaptana rapor eder"
+    ],
+    "correctAnswer": "3) P&I temsilcisine haber verir"
+  },
+  {
+    "id": 2,
+    "testIndex": 2,
+    "question": "Aşağıdakilerden hangisi kaptanın yolculuk bittikten sonraki işlemlerinden değildir?",
+    "options": [
+      "1) Varma limanında resmi muameleleri yapmak",
+      "2) Dönüş yolculuğu için yük aramak",
+      "3) Yükü usulü dairesinde boşaltmak",
+      "4) Yolculuk hakkında donatana bilgi vermek",
+      "5) Gemiyi yeni sefer için hazırlamak"
+    ],
+    "correctAnswer": "2) Dönüş yolculuğu için yük aramak"
+  },
+  {
+    "id": 3,
+    "testIndex": 2,
+    "question": "Aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "1) Gemiadamının şikayet etmesi işverene iş akdini bozma hakkı vermez",
+      "2) Gemiadamının şikayete başvurması işverene işten çıkarma hakkı verir",
+      "3) İşveren yasada belirtilen koşulların gereklerine uyarak gemiadamının hizmet akdine son verebilir",
+      "4) İşçinin sendikaya üye olması işverene işten çıkarma hakkı vermez",
+      "5) İş saatleri dışında işçi sendikaları faaliyetlerine katılmaları işverene işçiyi işten çıkarma hakkı vermez"
+    ],
+    "correctAnswer": "2) Gemiadamının şikayete başvurması işverene işten çıkarma hakkı verir"
+  },
+  {
+    "id": 4,
+    "testIndex": 2,
+    "question": "İşveren işçiyi kötü niyetli olarak işten çıkarırsa,",
+    "options": [
+      "1) 2 aylık tazminat",
+      "2) 6 aylık tazminat",
+      "3) 6 aylıktan az olmayan tazminat",
+      "4) 1 yıllık tazminat",
+      "5) 1 yıllıktan az olmayan tazminat ödemek durumunda kalır"
+    ],
+    "correctAnswer": "4) 1 yıllık tazminat"
+  },
+  {
+    "id": 5,
+    "testIndex": 2,
+    "question": "Aşağıdakilerden hangisi müşterek avarya şartlarından değildir?",
+    "options": [
+      "1) Tehlike unsuru",
+      "2) Fevkalade fedakarlık",
+      "3) Müşterek bir deniz sergüzeştine atılmış gemi veya yük",
+      "4) Makul hareket tarzı",
+      "5) Olağandışı masraf"
+    ],
+    "correctAnswer": "3) Müşterek bir deniz sergüzeştine atılmış gemi veya yük"
+  },
+  {
+    "id": 6,
+    "testIndex": 2,
+    "question": "Aşağıdakilerden hangisi, TTK md. 1230 gereği; makineli gemilerde kaptanın kurtarma alacağının miktarını gösterir?",
+    "options": [
+      "1) Kazanılan kurtarma yardım ücretinden masraflar çıkarılmadan 1/8",
+      "2) Kazanılan kurtarma yardım ücretinden masraflar çıkarıldıktan sonra 1/2",
+      "3) Kazanılan kurtarma yardım ücretinden masraflar çıkarıldıktan sonra 1/3",
+      "4) Kazanılan kurtarma yardım ücretinden masraflar çıkarıldıktan sonra 1/6",
+      "5) Kazanılan kurtarma yardım ücretinden masraflar çıkarıldıktan sonra %10"
+    ],
+    "correctAnswer": "4) Kazanılan kurtarma yardım ücretinden masraflar çıkarıldıktan sonra 1/6"
+  },
+  {
+    "id": 7,
+    "testIndex": 2,
+    "question": "400 GRT'dan büyük yük gemileri için makine daireleri sintinelerinde oluşan kirlenmeyi önlemek üzere EK-1 gereği bu gemilerde bulunması gereken teçhizat aşağıdakilerden hangisidir?",
+    "options": [
+      "1) IOPP sertifikası",
+      "2) Yüklü su hattı üzerinde balast tahliyesi cihazı",
+      "3) Petrol atıklarını izleme ve kontrol cihazı",
+      "4) Sintine separatörü, 15 ppm alarm otomatik stop aleti",
+      "5) Atıklar için slop tank"
+    ],
+    "correctAnswer": "4) Sintine separatörü, 15 ppm alarm otomatik stop aleti"
+  },
+  {
+    "id": 8,
+    "testIndex": 2,
+    "question": "Fazla çalışma süresi günde kaç saati geçemez?",
+    "options": [
+      "1) 5",
+      "2) 6",
+      "3) 2",
+      "4) 3",
+      "5) 7"
+    ],
+    "correctAnswer": "4) 3"
+  },
+  {
+    "id": 9,
+    "testIndex": 2,
+    "question": "Gemi herhangi bir sebeple seferden,",
+    "options": [
+      "1) 30 günden fazla kaldırıldığında hizmet sözleşmesi önelsiz sona erdirilir",
+      "2) 20 günden fazla kaldırıldığında hizmet sözleşmesi önelsiz sona erdirilir",
+      "3) 15 günden fazla kaldırıldığında hizmet sözleşmesi önelsiz sona erdirilir",
+      "4) 35 günden fazla kaldırıldığında hizmet sözleşmesi önelsiz sona erdirilir",
+      "5) 40 günden fazla kaldırıldığında hizmet sözleşmesi önelsiz sona erdirilir"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 10,
+    "testIndex": 2,
+    "question": "Aşağıdakilerden hangisi deniz sigorta muafiyetleri (deductible) ile ilgilidir?",
+    "options": [
+      "1) Hasarlı muafiyet, hasarsız muafiyet",
+      "2) İşlemi muafiyet, işlemsiz muafiyet",
+      "3) Tekne muafiyeti, yük muafiyeti",
+      "4) Tenzili muafiyet, entegral muafiyet",
+      "5) Gerçek muafiyet, hükmi muafiyet"
+    ],
+    "correctAnswer": "4) Tenzili muafiyet, entegral muafiyet"
+  },
+  {
+    "id": 11,
+    "testIndex": 2,
+    "question": "Gemi kendi makinesi ile ilerlerken özel alanlar haricinde karadan 12 mil açıktan itibaren pis sular geminin hızı..............knots dan az olmamak koşuluyla denize tahliye edilebilir.",
+    "options": [
+      "1) 4 knot",
+      "2) 6 knot",
+      "3) 7 knot",
+      "4) 10 knot",
+      "5) 12 knot"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 12,
+    "testIndex": 2,
+    "question": "\"Denize Elverişlilik\" belgesi olmayan veya süresi biten gemi:",
+    "options": [
+      "1) Hiçbir şekilde hareket edemez",
+      "2) Yük taşıyamaz",
+      "3) Yolcu taşıyamaz",
+      "4) Yük taşır, yolcu taşıyamaz",
+      "5) Ticari faaliyette bulunamaz"
+    ],
+    "correctAnswer": "5) Ticari faaliyette bulunamaz"
+  },
+  {
+    "id": 13,
+    "testIndex": 2,
+    "question": "TTK'nın 821. maddesi uyarınca aşağıdakilerden hangisi gemi adamlarından değildir?",
+    "options": [
+      "1) Kaptan",
+      "2) Tayfa",
+      "3) Gemi zabitleri",
+      "4) Kılavuz",
+      "5) Çamaşırcı"
+    ],
+    "correctAnswer": "4) Kılavuz"
+  },
+  {
+    "id": 14,
+    "testIndex": 2,
+    "question": "Aşağıdakilerden hangisi kaptanın kanuni temsil yetkisine dayanarak yapamayacağı muamelelerden değildir?",
+    "options": [
+      "1) Gemiyi, navlun ve yükü sigorta ettirmek",
+      "2) Donatan adına kambiyo taahhüdünde bulunmak",
+      "3) Donatan tarafından akdedilmiş taşıma sözleşmelerini feshetmek",
+      "4) Yükü, gemi ve navlunla karşılık göstererek deniz ödüncü almak",
+      "5) Gemiye tayfa almak"
+    ],
+    "correctAnswer": "4) Yükü, gemi ve navlunla karşılık göstererek deniz ödüncü almak"
+  },
+  {
+    "id": 15,
+    "testIndex": 2,
+    "question": "TTK'nın kaptanın hakları ile ilgili düzenlemelerine, aşağıdakilerden hangisi aykırıdır ?",
+    "options": [
+      "1) Hastalanması halinde tedavi ve ilaç giderlerini donatan öder",
+      "2) Kaptan, donatanın izni olmadan kendi hesabına yük taşıyamaz",
+      "3) Kaptan, yükle ilgililerden gerekirse prim ikramiye alabilir",
+      "4) Belirli durumlarda yurda dönüş masraflarını donatan öder",
+      "5) Gemide iaşe edilme hakla vardır"
+    ],
+    "correctAnswer": "3) Kaptan, yükle ilgililerden gerekirse prim ikramiye alabilir"
+  },
+  {
+    "id": 16,
+    "testIndex": 2,
+    "question": "Aşağıdakilerden hangisi kaptanın sorumluluğu hakkında gerçeği yansıtmaz?",
+    "options": [
+      "1) Sevk ve idare kusurlarından sorumluluk",
+      "2) Sınırsız sorumluluk",
+      "3) 1. Derece sorumluluk",
+      "4) Donatanın talimatı üzerine hareket etmiş olmak sorumsuzluk sebebidir",
+      "5) Haksız fiil sorumluluğu"
+    ],
+    "correctAnswer": "3) 1. Derece sorumluluk"
+  },
+  {
+    "id": 17,
+    "testIndex": 2,
+    "question": "Aşağıdakilerden hangisi, TTK md. 1230 gereği; makinalı gemilerde kaptan hariç, baş mühendis dahil, gemi adamlarının tümünün kurtarma yardım alacağının miktarını gösterir?",
+    "options": [
+      "1) Kazanılan kurtarma yardım ücretinden masraflar çıkarıldıktan sonra %10",
+      "2) Kazanılan kurtarma yardım ücretinden masraflar çıkarıldıktan sonra 1/2",
+      "3) Kazanılan kurtarma yardım ücretinden masraflar çıkarıldıktan sonra 1/3",
+      "4) Kazanılan kurtarma yardım ücretinden masraflar çıkarılmadan 1/8",
+      "5) Kazanılan kurtarma yardım ücretinden masraflar çıkarıldıktan sonra 1/6"
+    ],
+    "correctAnswer": "5) Kazanılan kurtarma yardım ücretinden masraflar çıkarıldıktan sonra 1/6"
+  },
+  {
+    "id": 18,
+    "testIndex": 2,
+    "question": "Türk Bayrağı çekme hakkını yurt dışında elde eden gemi bu hakkını aşağıdakilerden hangisi ile belgeler?",
+    "options": [
+      "1) Gemi Tasdiknamesi",
+      "2) Bayrak Şahadetnamesi",
+      "3) Bayrak çekme müsaade belgesi",
+      "4) Gemi jurnalinin tasdikli örneği",
+      "5) Gemi kayıt defteri"
+    ],
+    "correctAnswer": "2) Bayrak Şahadetnamesi"
+  },
+  {
+    "id": 19,
+    "testIndex": 2,
+    "question": "Donatanın çevre kirliliğinden doğan sorumluluğunun hukuki niteliği hangisidir ?",
+    "options": [
+      "1) Sınırsız",
+      "2) Sınırlı ayni",
+      "3) Sınırlı şahsi",
+      "4) Sınırsız ayni",
+      "5) Sorumluluğu yoktur"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 20,
+    "testIndex": 2,
+    "question": "Aşağıdakilerin hangisi kurtarma yardımın unsurlarından değildir?",
+    "options": [
+      "1) Tehlike unsuru",
+      "2) İradilik unsuru",
+      "3) Hizmetin konusu kurtarılan ve yardım gören",
+      "4) Kurtarma yardım hizmeti",
+      "5) Faydalı ve başarılı sonuç unsuru"
+    ],
+    "correctAnswer": "2) İradilik unsuru"
+  }
+]

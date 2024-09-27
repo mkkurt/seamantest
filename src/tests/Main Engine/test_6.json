@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "testIndex": 5,
+    "question": "Dizel makinelerinde türbobloverlerin temizlenmesinde nelerden yararlanılır?",
+    "options": [
+      "1) Su",
+      "2) Gasoil",
+      "3) Hafif fuel oil",
+      "4) Marin fuel oil",
+      "5) 1 ve 2"
+    ],
+    "correctAnswer": "5) 1 ve 2"
+  },
+  {
+    "id": 2,
+    "testIndex": 5,
+    "question": "Dizel makinelerinde, süperşarj havası basıncı hangi değerden küçük olduğunda iç soğutucu veya interkulere gerek yoktur?",
+    "options": [
+      "1) 1,50 bar",
+      "2) 1,45 bar",
+      "3) 1,35 bar",
+      "4) 1,30 bar",
+      "5) 1,25 bar"
+    ],
+    "correctAnswer": "3) 1,35 bar"
+  },
+  {
+    "id": 3,
+    "testIndex": 5,
+    "question": "Türbobloverde sıkıştırılarak basınç ve sıcaklığı yükseltilen hava nerede soğutulur?",
+    "options": [
+      "1) İç soğutucuda",
+      "2) Interkulerde",
+      "3) Hava kulerinde",
+      "4) Hava soğutucusunda",
+      "5) Tümünde"
+    ],
+    "correctAnswer": "5) Tümünde"
+  },
+  {
+    "id": 4,
+    "testIndex": 5,
+    "question": "Dört stroklu dizel makinelerinde süperşarj havası basıncı hangi sınırlar arasında değişir?",
+    "options": [
+      "1) 4,00 - 5,00 bar",
+      "2) 1,15 - 1,55 bar",
+      "3) 1,20 - 3,00 bar",
+      "4) 3,00 - 4,00 bar",
+      "5) 2,00 - 3,00 bar"
+    ],
+    "correctAnswer": "3) 1,20 - 3,00 bar"
+  },
+  {
+    "id": 5,
+    "testIndex": 5,
+    "question": "Klas kuruluşları, dizel makinelerinin yakıt sistemlerindeki su ve yabancı maddeleri çıkarmak amacıyla makine dairelerine dreyn valfları donatılmasına müsaade ederler. Bu valflar nasıl olmalıdır?",
+    "options": [
+      "1) Kaçakları önlemek için küresel çek valflı olmalıdır",
+      "2) Kaçakları önlemek için kapak veya tapa ile donatılmalıdır",
+      "3) Bir solenoid ile otomatik olarak kapanmalıdır",
+      "4) Sülyüz valf olmalıdır",
+      "5) Tank tavanına monte edilmelidir"
+    ],
+    "correctAnswer": "2) Kaçakları önlemek için kapak veya tapa ile donatılmalıdır"
+  },
+  {
+    "id": 6,
+    "testIndex": 5,
+    "question": "Dört stroklu dizel makinelerinde kullanılan süperşarj havası soğutucularının boruları hangi malzemeden yapılır?",
+    "options": [
+      "1) Titanyumdan",
+      "2) Kupronikelden",
+      "3) Admiralti pirincinden",
+      "4) Alüminyum pirincinden",
+      "5) Tümünden"
+    ],
+    "correctAnswer": "5) Tümünden"
+  },
+  {
+    "id": 7,
+    "testIndex": 5,
+    "question": "Aşağıdaki durumlardan hangisi, onarım için türboşarjerin sökülmesini gerektirir?",
+    "options": [
+      "1) Kırılmış kanatlar",
+      "2) Çentiklenmiş kanatlar",
+      "3) Kanatların deforme olması",
+      "4) Kanat uçlarında oluşan kışır katmanı",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümü"
+  },
+  {
+    "id": 8,
+    "testIndex": 5,
+    "question": "Dizel makinelerinin yüksek basınçlı yakıt devrelerinde conta olarak hangi tür malzeme kullanılmalıdır?",
+    "options": [
+      "1) Neopren",
+      "2) Levha asbestos",
+      "3) Yumuşak bakır",
+      "4) Fiber levha",
+      "5) Yapay kauçuk"
+    ],
+    "correctAnswer": "3) Yumuşak bakır"
+  },
+  {
+    "id": 9,
+    "testIndex": 5,
+    "question": "Türboşarjlı, iki stroklu ve ağır devirli dizel makinelerinde süperşarj havasının maksimum basıncı kaç bardır?",
+    "options": [
+      "1) 10 bar",
+      "2) 08 bar",
+      "3) 06 bar",
+      "4) 04 bar",
+      "5) 02 bar"
+    ],
+    "correctAnswer": "3) 06 bar"
+  },
+  {
+    "id": 10,
+    "testIndex": 5,
+    "question": "Aşağıdakilerden hangisi, türboşarjer türbininin kanatlarında kurum birikimine neden olur?",
+    "options": [
+      "1) Zayıf yanma",
+      "2) Yüksek silindir yağı harcama",
+      "3) Kaçıran egzoz valfları",
+      "4) Zayıf kompresyon",
+      "5) Yukardakilerin tümü"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümü"
+  },
+  {
+    "id": 11,
+    "testIndex": 5,
+    "question": "Dört stroklu, doğal emişli bir makineye göre, dört zamanlı türboşarjlı bir dizel makinesinde daha büyük valf overlepi kullanılmasının sebebi nedir?",
+    "options": [
+      "1) Egzoz gazlarının sıcaklığını yükseltmek",
+      "2) Türboşarjere sağlanan enerjiyi çoğaltmak",
+      "3) Türboşarjerin tükettiği enerjiyi azaltmak",
+      "4) Egzoz valflarının soğutulmasını sağlamak",
+      "5) Giriş manifoldundaki havanın basıncını yükseltmek"
+    ],
+    "correctAnswer": "4) Egzoz valflarının soğutulmasını sağlamak"
+  },
+  {
+    "id": 12,
+    "testIndex": 5,
+    "question": "Yüksek viskoziteli bir yakıtla çalıştırılan ağır devirli, yüksek güçlü bir dizel makinesinin, uzun süren bir stoptan sonra ilk hareketi için ne yapılmalıdır?",
+    "options": [
+      "1) Yakıta ısıtma işlemi uygulanmalıdır",
+      "2) Enjektör memesi soğutma suyu ısıtılmalıdır",
+      "3) Makineye ön ısıtma işlemi uygulanması gereksizdir",
+      "4) Yukardakilerin hiç biri yapılmamalıdır",
+      "5) 1 ve 2 uygulanmalıdır"
+    ],
+    "correctAnswer": "5) 1 ve 2 uygulanmalıdır"
+  },
+  {
+    "id": 13,
+    "testIndex": 5,
+    "question": "Türboşarjer ile donatılmış bir dizel makinesinde, hava filtresi temizlenirken hangi önlem alınmalıdır?",
+    "options": [
+      "1) Filtre çıkarılmadan önce makinenin devir sayısı boşta çalışma devir sayısına kadar düşürülmelidir",
+      "2) Sadece kirli filtrenin kerosene sokulması yeterlidir",
+      "3) Filtre çıkarıldıktan sonra hava girişi örtülmelidir",
+      "4) Hava girişine, basınçlı hava üflenmelidir",
+      "5) 1 ve 2 uygulanmalıdır"
+    ],
+    "correctAnswer": "3) Filtre çıkarıldıktan sonra hava girişi örtülmelidir"
+  },
+  {
+    "id": 14,
+    "testIndex": 5,
+    "question": "Dört stroklu, doğal emişli makinelerde, genel olarak giriş valfı, piston üst ölü noktaya 20� kala açılır. Bu işlem dört stroklu süperşarjlı makinelerde ne zaman gerçekleştirilir?",
+    "options": [
+      "1) Doğal emişli makinelerdeki gibi",
+      "2) Tam üst ölü noktada",
+      "3) Doğal emişli makinelere göre çok erken",
+      "4) Doğal emişli makinelere göre çok geç",
+      "5) 2 ve 4"
+    ],
+    "correctAnswer": "3) Doğal emişli makinelere göre çok erken"
+  },
+  {
+    "id": 15,
+    "testIndex": 5,
+    "question": "Tüm dizel makinelerinde süperşarj havası sıcaklığının sayısal değeri 25�-50�C arasında tutulmaktadır. Eğer süperşarj havası sıcaklığı sözü edilen minimum değerden çok daha küçük olursa, izlenenlerden hangisi oluşur?",
+    "options": [
+      "1) Makinenin endike ısıl verimi azalır",
+      "2) Ortalama basınçlar küçülür",
+      "3) Yüksek sıcaklık korrozyonu oluşur",
+      "4) Alçak sıcaklık korrozyonu oluşur",
+      "5) 2 ve 3 gerçekleşir"
+    ],
+    "correctAnswer": "4) Alçak sıcaklık korrozyonu oluşur"
+  },
+  {
+    "id": 16,
+    "testIndex": 5,
+    "question": "Yüksek güçlü dizel makinelerinde türboşarjer gaz türbinlerinin temizlenmesinde, aşağıda verilen maddelerden hangisi kullanılır?",
+    "options": [
+      "1) Diesel oil",
+      "2) Solar oil",
+      "3) Su",
+      "4) Katı granül",
+      "5) 3 ve 4"
+    ],
+    "correctAnswer": "5) 3 ve 4"
+  },
+  {
+    "id": 17,
+    "testIndex": 5,
+    "question": "Seyir sırasında daha sıcak bir su veya denize giren bir geminin bacasında duman görülmesinin sebebi nedir?",
+    "options": [
+      "1) Süperşarj havası miktarının çoğalması",
+      "2) Süperşarj havası yoğunluğunun artması",
+      "3) Süperşarj havası yoğunluğunun sabit kalması",
+      "4) Süperşarj havası sıcaklığının yükselmesi",
+      "5) Süperşarj havası sıcaklığının azalması"
+    ],
+    "correctAnswer": "4) Süperşarj havası sıcaklığının yükselmesi"
+  },
+  {
+    "id": 18,
+    "testIndex": 5,
+    "question": "Seyir sırasında daha sıcak bir su veya denize giren bir geminin ana makinesinde ne gibi sorunlar oluşur?",
+    "options": [
+      "1) Makinenin devir sayısı yükselir",
+      "2) Makinenin devir sayısı düşer",
+      "3) Makinenin ürettiği güç azalır",
+      "4) Silindirlerde zayıf yanma oluşur",
+      "5) 1 dışındakilerin tümü"
+    ],
+    "correctAnswer": "5) 1 dışındakilerin tümü"
+  },
+  {
+    "id": 19,
+    "testIndex": 5,
+    "question": "Doğal emişli dizel makinelerine süperşarj uygulandığı zaman, aşağıda belirtilenlerden hangisi gerçekleşir?",
+    "options": [
+      "1) Makinenin ürettiği güç artar",
+      "2) Özgül endike yakıt tüketimi azalır",
+      "3) Beygirgücü başına düşen makine ağırlığı azalır",
+      "4) Makinenin işgal ettiği hacim küçülür",
+      "5) Yukardakilerin tümü sağlanır"
+    ],
+    "correctAnswer": "5) Yukardakilerin tümü sağlanır"
+  },
+  {
+    "id": 20,
+    "testIndex": 5,
+    "question": "İki stroklu dizel makinelerine aşırı doldurma nasıl uygulanabilir?",
+    "options": [
+      "1) Sadece türboşarjer ile",
+      "2) Sadece mekanik süperşarjer ile",
+      "3) Türboşarjer ve onunla seri çalışan süpürme havası pompası ile",
+      "4) Türboşarjer ve onunla paralel çalışan süpürme havası pompası ile",
+      "5) 3 ve 4 ile"
+    ],
+    "correctAnswer": "5) 3 ve 4 ile"
+  }
+]
