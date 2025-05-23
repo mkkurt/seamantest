@@ -45,6 +45,8 @@ const Sidebar = ({ onSelectTest }) => {
                       ? t("maritimeEnglish")
                       : category === "Maritime Law"
                       ? t("maritimeLaw")
+                      : category === "Maritime Safety"
+                      ? t("maritimeSafety")
                       : ""}
                   </span>
                   <ChevronRight

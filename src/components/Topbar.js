@@ -124,6 +124,8 @@ const Topbar = ({ onSelectTest }) => {
                 ? t("maritimeEnglish")
                 : selectedCategory === "Maritime Law"
                 ? t("maritimeLaw")
+                : selectedCategory === "Maritime Safety"
+                ? t("maritimeSafety")
                 : t("selectCategory")}
             </span>
             {isDropdownOpen ? (
@@ -157,6 +159,8 @@ const Topbar = ({ onSelectTest }) => {
                         ? t("maritimeEnglish")
                         : category === "Maritime Law"
                         ? t("maritimeLaw")
+                        : category === "Maritime Safety"
+                        ? t("maritimeSafety")
                         : ""}
                     </button>
                     {expandedCategory === category && (
