@@ -126,8 +126,8 @@
       "a)  Kimyasal madde ile bulaşmış giysiler çıkarılır",
       "b)  Kimyasal madde toz türü bir madde ise deriden uzaklaştırıldıktan sonra yıkanır",
       "c)  Hepsi",
-      "d)  Kimyasal madde toz türü bir madde ise önce toz madde fırçayla deriden",
-      "e)  Kimyasal madde en kısa sürede, tazyiksiz akar su altında en az 15-20 dk. bol su"
+      "d)  Kimyasal madde toz türü bir madde ise önce toz madde fırçayla deriden uzaklaştırılır,",
+      "e)  Kimyasal madde en kısa sürede, tazyiksiz akar su altında en az 15-20 dk. bol su ve sabunla yıkanarak deriden uzaklaştırılır"
     ],
     "correctAnswer": "c)  Hepsi"
   },
@@ -399,13 +399,13 @@
     "id": 34,
     "question": "Gemilerde Duck keel neresidir?",
     "options": [
-      "a)  Makine dairesinden baş kasaraya kadar ambar altından gidişi sağlayan",
+      "a)  Makine dairesinden baş kasaraya kadar ambar altından gidişi sağlayan geçit",
       "b)  Kaptan kamarasından köprüüstüne yapılan bağlantı",
       "c)  Tanklar arasındaki bağlantı",
       "d)  Ambarlar ile baş pik arasındaki bağlantı",
       "e)  Köprüüstünden baş kasaraya açılan geçit"
     ],
-    "correctAnswer": "a)  Makine dairesinden baş kasaraya kadar ambar altından gidişi sağlayan"
+    "correctAnswer": "a)  Makine dairesinden baş kasaraya kadar ambar altından gidişi sağlayan geçit"
   },
   {
     "id": 35,
@@ -699,13 +699,13 @@
     "id": 59,
     "question": "Can Simidinin yüzdürme özelliği ne olmalıdır?",
     "options": [
-      "a)  Tatlı suda en az 15,5 kg ağırlığındaki demiri 18 saat boyunca yüzdürebilecek",
-      "b)  Tatlı suda en az 14,5 kg ağırlığındaki demiri 24 saat boyunca",
-      "c)  Tatlı suda en az 16,5 kg ağırlığındaki demiri 24 saat boyunca yüzdürebilecek",
-      "d)  Tatlı suda en az 12,5 kg ağırlığındaki demiri 24 saat boyunca yüzdürebilecek",
-      "e)  Tatlı suda en az 13,5 kg ağırlığındaki demiri 18 saat boyunca yüzdürebilecek"
+      "a)  Tatlı suda en az 15,5 kg ağırlığındaki demiri 18 saat boyunca yüzdürebilecek güçte olmalıdırlar.",
+      "b)  Tatlı suda en az 14,5 kg ağırlığındaki demiri 24 saat boyunca yüzdürebilecek güçte olmalıdırlar.",
+      "c)  Tatlı suda en az 16,5 kg ağırlığındaki demiri 24 saat boyunca yüzdürebilecek güçte olmalıdırlar.",
+      "d)  Tatlı suda en az 12,5 kg ağırlığındaki demiri 24 saat boyunca yüzdürebilecek güçte olmalıdırlar.",
+      "e)  Tatlı suda en az 13,5 kg ağırlığındaki demiri 18 saat boyunca yüzdürebilecek güçte olmalıdırlar."
     ],
-    "correctAnswer": "b)  Tatlı suda en az 14,5 kg ağırlığındaki demiri 24 saat boyunca"
+    "correctAnswer": "b)  Tatlı suda en az 14,5 kg ağırlığındaki demiri 24 saat boyunca yüzdürebilecek güçte olmalıdırlar."
   },
   {
     "id": 60,
@@ -807,7 +807,7 @@
     "id": 68,
     "question": "Aşağıdakilerden hangisi sargı uygulamaları için yanlıştır",
     "options": [
-      "a)  Sarılan yerin üzerinde,kemik ve mafsal çıkıntısı gibi yerlerin üstünde sargı",
+      "a)  Sarılan yerin üzerinde,kemik ve mafsal çıkıntısı gibi yerlerin üstünde sargı sonlandırılmaz , düğüm atılmaz",
       "b)  Kanamayı durdurmak için sargı sarılıyorsa gevşek bırakılmalıdır",
       "c)  Başlangıçta sargı birkaç kez üst üste sarılır",
       "d)  Sargıya yara üzerinden başlanır",
@@ -1099,9 +1099,9 @@
       "b)  Ceket gibi giyilip boyuna takılanlar",
       "c)  Hem belde hem de boyunda ceket tipinde olanlar",
       "d)  Boyuna takılıp kemeri bağlananlar ve sırta ceket şeklinde giyilip belde taşınanlar",
-      "e)  Boyuna takılıp kemeri bağlananlar (mantar tipi), belde taşınıp istenildiğinde"
+      "e)  Boyuna takılıp kemeri bağlananlar (mantar tipi), belde taşınıp istenildiğinde gerek tüpüyle, gerek ağızla şişirilebilenler (Şişme tip)"
     ],
-    "correctAnswer": "e)  Boyuna takılıp kemeri bağlananlar (mantar tipi), belde taşınıp istenildiğinde"
+    "correctAnswer": "e)  Boyuna takılıp kemeri bağlananlar (mantar tipi), belde taşınıp istenildiğinde gerek tüpüyle, gerek ağızla şişirilebilenler (Şişme tip)"
   },
   {
     "id": 93,
@@ -1132,7 +1132,7 @@
     "question": "Aşağıdakilerden hangisi can kurtarma botları için yanlış bir ifadedir?",
     "options": [
       "a)  En az 5 oturmuş ve 1 yatar durumdaki insanı taşıyabilmelidir.",
-      "b)  500 gros tondan büyük yolcu gemilerinde, geminin her bir tarafında en az bir",
+      "b)  500 gros tondan büyük yolcu gemilerinde, geminin her bir tarafında en az bir kurtarma botu bulunmalıdır.",
       "c)  500 gros tondan küçük yolcu gemilerinde en az bir kurtarma botu bulunmalıdır.",
       "d)  Yük gemilerinde, en az bir adet kurtarma botu bulundurulması gerekmektedir.",
       "e)  Boyları 3,8-28,5 metre arasında değişmektedir."
@@ -1192,10 +1192,10 @@
     "question": "Batmaz duman işaretleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
     "options": [
       "a)  Dalgalı havalarda batmamalıdır",
-      "b)  Suyun altına 100 mm battığı zaman en az 10 saniye duman vermeye devam",
+      "b)  Suyun altına 100 mm battığı zaman en az 10 saniye duman vermeye devam etmelidir",
       "c)  Su geçirgenliği olmalıdır",
       "d)  Duman salınım süresince herhangi bir alev yaymamalıdır",
-      "e)  Durgun suda yüzerken, en az üç dakika yüksek görünürlüklü bir renkte ve aynı"
+      "e)  Durgun suda yüzerken, en az üç dakika yüksek görünürlüklü bir renkte ve aynı miktarda duman vermelidir"
     ],
     "correctAnswer": "c)  Su geçirgenliği olmalıdır"
   },
@@ -1228,12 +1228,12 @@
     "question": "“Gemiyi Terk Yerlerine” alarmı verildiğinde terk yerine gidilirken yapılması gerekenler ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
     "options": [
       "a)  Çabuk, telaş etmeden ve panik yapmadan gidilir",
-      "b)  Hareket kabiliyetini aşırı kısıtlamadan, mümkün olduğunca sıkı şekilde giyinmiş",
+      "b)  Hareket kabiliyetini aşırı kısıtlamadan, mümkün olduğunca sıkı şekilde giyinmiş olarak gidilir",
       "c)  Bağırarak ve çevredekilere haber vererek gidilir",
-      "d)  Kamarayı, kapısı kapalı ve kancası takılmış, ışıkları sönük vaziyette",
+      "d)  Kamarayı, kapısı kapalı ve kancası takılmış, ışıkları sönük vaziyette bırakarak gidilir",
       "e)  Çok iyi bir yüzücü olunsa bile, can yeleğini kuşanmış olarak gidilir"
     ],
-    "correctAnswer": "d)  Kamarayı, kapısı kapalı ve kancası takılmış, ışıkları sönük vaziyette"
+    "correctAnswer": "d)  Kamarayı, kapısı kapalı ve kancası takılmış, ışıkları sönük vaziyette bırakarak gidilir"
   },
   {
     "id": 104,
@@ -1288,10 +1288,10 @@
     "question": "Aşağıdakilerden hangisi tıkanmayı kalp krizinden ayırıcı özelliklerinden biri değildir?",
     "options": [
       "a)  Tıkanan kişinin rengi sararır ve oksijen azlığından bilinci hızla açılır.",
-      "b)  Tıkanan kişi konuşamaz veya nefes alamaz; kalp krizi geçiren kişilerde durum",
+      "b)  Tıkanan kişi konuşamaz veya nefes alamaz; kalp krizi geçiren kişilerde durum böyle değildir.",
       "c)  Tıkanan kişinin yemek yerken görülmüş olması",
       "d)  Tıkanan kişinin rengi morarır ve oksijen azlığından bilinci hızla kapanır.",
-      "e)  Tıkanan kişi konuşamadığı için derdini başparmak ve parmağıyla boynunu"
+      "e)  Tıkanan kişi konuşamadığı için derdini başparmak ve parmağıyla boynunu göstererek anlatır."
     ],
     "correctAnswer": "a)  Tıkanan kişinin rengi sararır ve oksijen azlığından bilinci hızla açılır."
   },
@@ -1383,10 +1383,10 @@
     "id": 116,
     "question": "Üzerinden elektrik akımı geçerek elektriğe çarpılan bir kimseye uygulanacak ilk yardım tedbirleri aşağıdakilerden hangisidir?",
     "options": [
-      "a)  Yardımcıların da hayatı tehlikeye düşmeyecek şekilde kazazede tehlike altından",
-      "b)  Kazazedenin maruz kaldığı hatalı akım devresi derhal kesilir; bunu için mesela",
+      "a)  Yardımcıların da hayatı tehlikeye düşmeyecek şekilde kazazede tehlike altından uzaklaştırılır.",
+      "b)  Kazazedenin maruz kaldığı hatalı akım devresi derhal kesilir; bunu için mesela anahtar açılır, fiş prizden çekilir, sigorta çıkarılır.",
       "c)  Suni teneffüs yaptırılır.",
-      "d)  Kazazedeye yalıtkan cisimler yardımı ile(kuru elbise, kuru tahta vb.) veya",
+      "d)  Kazazedeye yalıtkan cisimler yardımı ile(kuru elbise, kuru tahta vb.) veya elbisesinden çekerek gerilim altında bulunan kısımlardan uzaklaştırılır.",
       "e)  Hepsi"
     ],
     "correctAnswer": "e)  Hepsi"
@@ -1407,13 +1407,13 @@
     "id": 118,
     "question": "Yüksek genleşmeli sentetik köpükle ilgili olarak, aşağıdaki şıklardan hangisi doğrudur?",
     "options": [
-      "a)  Kolay buharlaştığından, ortamın Oksijen oranını azaltarak söndürmeye",
-      "b)  Daha ziyade, alev alma sıcaklıkları yüksek ve suda eriyen sıvı yangınlarında",
+      "a)  Kolay buharlaştığından, ortamın Oksijen oranını azaltarak söndürmeye yardımcı olur",
+      "b)  Daha ziyade, alev alma sıcaklıkları yüksek ve suda eriyen sıvı yangınlarında kullanılır",
       "c)  Genleşme katsayısı 1 / 250’dir",
       "d)  Uzak mesafelere sıkılabilir",
       "e)  Açık güverte yangınlarında kullanılır"
     ],
-    "correctAnswer": "a)  Kolay buharlaştığından, ortamın Oksijen oranını azaltarak söndürmeye"
+    "correctAnswer": "a)  Kolay buharlaştığından, ortamın Oksijen oranını azaltarak söndürmeye yardımcı olur"
   },
   {
     "id": 119,
@@ -1687,7 +1687,7 @@
       "b)  Can halatına bağlı bir can simidi hazırlanır.",
       "c)  Can yelekleri ve başlıkların doğru giyilip giyilmediği tek tek kontrol edilir.",
       "d)  Role kartlarına göre görev dağılımı yapılmaz ve görev yerlerine geçilmez.",
-      "e)  Önce role kartlarına göre yoklama yapılarak herkesin gelip gelmediği kontrol edilir"
+      "e)  Önce role kartlarına göre yoklama yapılarak herkesin gelip gelmediği kontrol edilir ve köprü üstüne rapor edilir."
     ],
     "correctAnswer": "d)  Role kartlarına göre görev dağılımı yapılmaz ve görev yerlerine geçilmez."
   },
@@ -1839,13 +1839,13 @@
     "id": 154,
     "question": "Hipotermiye maruz kalan kişiye aşağıdaki işlemlerden hangisi uygulanmaz?",
     "options": [
-      "a)  Isıtma yöntemi olarak, sıcaklığı başlangıçta 57 derece olan sıcak su",
+      "a)  Isıtma yöntemi olarak, sıcaklığı başlangıçta 57 derece olan sıcak su banyosunu kullanmalıdır",
       "b)  Hasta sadece maksimum 43-44 derecelik suyla temas etmelidir",
       "c)  Kazazedenin şuuru yerine gelinceye kadar banyoda tutulmalıdır",
       "d)  Kazazede nabız yoksa suni solunumla birlikte kalp masajı uygulanmalıdır",
       "e)  Kazazede nefes almıyorsa suni solunuma başlanmalı"
     ],
-    "correctAnswer": "a)  Isıtma yöntemi olarak, sıcaklığı başlangıçta 57 derece olan sıcak su"
+    "correctAnswer": "a)  Isıtma yöntemi olarak, sıcaklığı başlangıçta 57 derece olan sıcak su banyosunu kullanmalıdır"
   },
   {
     "id": 155,
@@ -2165,11 +2165,11 @@
     "options": [
       "a)  Beklenen personel sayısına göre değişebilir.",
       "b)  Yukarıdakilerden Hepsi",
-      "c)  Diğer araç personel ve yolcusunun hayatlarının ciddi anlamda, içinde",
+      "c)  Diğer araç personel ve yolcusunun hayatlarının ciddi anlamda, içinde bulunulan acil durumdan dolayı riske girmeye başladığı andır.",
       "d)  Bulunan mevkiin sahile olan mesafesine göre değişebilir.",
       "e)  Vardiya Zabitinin kararına göre değişebilir."
     ],
-    "correctAnswer": "c)  Diğer araç personel ve yolcusunun hayatlarının ciddi anlamda, içinde"
+    "correctAnswer": "c)  Diğer araç personel ve yolcusunun hayatlarının ciddi anlamda, içinde bulunulan acil durumdan dolayı riske girmeye başladığı andır."
   },
   {
     "id": 182,
@@ -2273,11 +2273,11 @@
     "options": [
       "a)  Gemideki ilaçlar SOLAS’a göre temin edilip istiflenmelidir.",
       "b)  Gemideki ilaçlar STCW’ e göre temin edilip istiflenmelidir.",
-      "c)  Gemideki ilaçlar ‘’Uluslararası İşaret Kod Kitabındaki ‘’ numaralama",
+      "c)  Gemideki ilaçlar ‘’Uluslararası İşaret Kod Kitabındaki ‘’ numaralama sistemine göre istiflenmelidir",
       "d)  Gemideki ilaçlar II’İinci kaptanın direktifine göre istif edilmelidir.",
       "e)  Gemideki ilaçlar Training Manuel’e göre istiflenmelidir"
     ],
-    "correctAnswer": "c)  Gemideki ilaçlar ‘’Uluslararası İşaret Kod Kitabındaki ‘’ numaralama"
+    "correctAnswer": "c)  Gemideki ilaçlar ‘’Uluslararası İşaret Kod Kitabındaki ‘’ numaralama sistemine göre istiflenmelidir"
   },
   {
     "id": 191,
@@ -2344,24 +2344,24 @@
     "question": "Kazazedeye daha fazla hasar vermeden güvenli bir yere taşımak gerektiğinde kullanılan taşıma yöntemleri ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
     "options": [
       "a)  Kazazede dar merdivenden indirilirken üç kişiye ihtiyaç vardır",
-      "b)  İki kişi ile uygulanabilen “Uzunlamasına Taşıma Yöntemi”, alçak yerler için en",
-      "c)  Üç el taşımada kurtarıcılardan birine ait serbest kol ve eli ile kazazedenin sırtına",
-      "d)  Kazazede merdivenlerden indirilirken bir kişinin de kazazedenin bacaklarından",
-      "e)  Alçak yerden kurtarmada kazazedenin bağlı kolları kurtarıcının nefes"
+      "b)  İki kişi ile uygulanabilen “Uzunlamasına Taşıma Yöntemi”, alçak yerler için en uygun yöntemdir",
+      "c)  Üç el taşımada kurtarıcılardan birine ait serbest kol ve eli ile kazazedenin sırtına destek sağlanır",
+      "d)  Kazazede merdivenlerden indirilirken bir kişinin de kazazedenin bacaklarından tutması gerekir",
+      "e)  Alçak yerden kurtarmada kazazedenin bağlı kolları kurtarıcının nefes almasını engeller"
     ],
-    "correctAnswer": "e)  Alçak yerden kurtarmada kazazedenin bağlı kolları kurtarıcının nefes"
+    "correctAnswer": "e)  Alçak yerden kurtarmada kazazedenin bağlı kolları kurtarıcının nefes almasını engeller"
   },
   {
     "id": 197,
     "question": "Kazazedenin karnında delinme veya yarılma yoluyla oluşmuş bir yarada iç organların dışarı çıktığı tespit edildiğinde yapılması gereken işlem aşağıdaki hangi seçenekte doğru olarak verilmiştir?",
     "options": [
-      "a)  İç organlar dışarı çıkmışsa kesinlikle içeri sokulmamalı ve yardım gelene",
+      "a)  İç organlar dışarı çıkmışsa kesinlikle içeri sokulmamalı ve yardım gelene kadar beklenmelidir",
       "b)  İç organlar içeri sokularak yaraya dikiş atılmalıdır",
       "c)  İç organlar içeri sokularak üzerine sıkı tampon yapılmalıdır",
       "d)  İç organlar içeri sokulmadan üzerine sıkı tampon yaparak baskı yapılmalıdır",
       "e)  İç organlar sadece içeri sokulmalı ve yardım gelene kadar beklenmelidir"
     ],
-    "correctAnswer": "a)  İç organlar dışarı çıkmışsa kesinlikle içeri sokulmamalı ve yardım gelene"
+    "correctAnswer": "a)  İç organlar dışarı çıkmışsa kesinlikle içeri sokulmamalı ve yardım gelene kadar beklenmelidir"
   },
   {
     "id": 198,
@@ -2380,8 +2380,8 @@
     "question": "Solunumu durmuş bir kazazedeyi geri getirmek için uygulanan suni solunum yöntemleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
     "options": [
       "a)  Yastık veya başka bir malzemeyle başı yükseltilir",
-      "b)  Kazazedenin akciğerlerinden havanın çıkması için vücut ağırlığı ileri verilerek",
-      "c)  Silvester metodunda kazazedenin akciğerlerine hava girişini sağlamak için kolları",
+      "b)  Kazazedenin akciğerlerinden havanın çıkması için vücut ağırlığı ileri verilerek kazazedenin diyaframına baskı yapılır",
+      "c)  Silvester metodunda kazazedenin akciğerlerine hava girişini sağlamak için kolları olabildiğince geri çekilerek bastırılır",
       "d)  Kazazedenin akciğerlerindeki hava boşaldıktan sonra vücut ağırlığı geri alınır",
       "e)  Kazazede sert zemin üzerine sırt üstü yatırılır"
     ],
@@ -2706,7 +2706,7 @@
       "a)  Kaportaları Kapatıldığında filika su geçirmez hale gelir",
       "b)  Dışı ve içi uzaktan iyi görülebilen turuncu renktedir",
       "c)  Filika içindekileri sıcak ve soğuktan korur",
-      "d)  İçindekileri, motorun çalışmasının meydana getireceği tehlikeli alçak hava basınç",
+      "d)  İçindekileri, motorun çalışmasının meydana getireceği tehlikeli alçak hava basınç şartlarının etkisinden koruyacak şekildedir",
       "e)  Kendi kendine doğrulabilir"
     ],
     "correctAnswer": "b)  Dışı ve içi uzaktan iyi görülebilen turuncu renktedir"
@@ -2751,13 +2751,13 @@
     "id": 230,
     "question": "Can filikaları yapılışlarına göre hangi sınıflara ayrılır?",
     "options": [
-      "a)  Yarı kapalı - kendi kendine doğrulabilen yarı kapalı - dizel makineli - soğuktan",
-      "b)  Yarı kapalı - kendi kendine doğrulabilen yarı kapalı - tam kapalı - kendinden",
-      "c)  Yarı kapalı - kendi kendine doğrulabilen yarı kapalı - nikel destekli - tam kapalı -",
-      "d)  Yarı kapalı - kendi kendine doğrulabilen yarı kapalı - içten motorlu - soğuktan",
-      "e)  Yarı kapalı - kendi kendine doğrulabilen yarı kapalı - tam kapalı - soğuktan"
+      "a)  Yarı kapalı - kendi kendine doğrulabilen yarı kapalı - dizel makineli - soğuktan korumalı - tam kapalı",
+      "b)  Yarı kapalı - kendi kendine doğrulabilen yarı kapalı - tam kapalı - kendinden hava destekli - yangından korumalı",
+      "c)  Yarı kapalı - kendi kendine doğrulabilen yarı kapalı - nikel destekli - tam kapalı - kendinden hava destekli",
+      "d)  Yarı kapalı - kendi kendine doğrulabilen yarı kapalı - içten motorlu - soğuktan korumalı - tam kapalı",
+      "e)  Yarı kapalı - kendi kendine doğrulabilen yarı kapalı - tam kapalı - soğuktan korumalı - kendinden hava destekli"
     ],
-    "correctAnswer": "b)  Yarı kapalı - kendi kendine doğrulabilen yarı kapalı - tam kapalı - kendinden"
+    "correctAnswer": "b)  Yarı kapalı - kendi kendine doğrulabilen yarı kapalı - tam kapalı - kendinden hava destekli - yangından korumalı"
   },
   {
     "id": 231,
@@ -2872,12 +2872,12 @@
     "question": "Bilinci kaybolmuş bir kazazedenin solunum yolunun tıkanarak boğulmasının sebebi ile ilgili olarak aşağıdaki ifadelerden hangisi doğrudur?",
     "options": [
       "a)  Bilincin kaybolması sonucunda çenenin kilitlenmesi",
-      "b)  Dilin gevşeyerek soluk yolu üzerine kayması sonucunda soluk yolunun",
+      "b)  Dilin gevşeyerek soluk yolu üzerine kayması sonucunda soluk yolunun kapanması",
       "c)  Burunda meydana gelen kanama nedeni ile soluk yolunun tıkanması",
       "d)  Bilincin kaybolması sonucunda vücudun kasılması",
       "e)  Başın arkaya eğilmesi sonucunda soluk yolunun tıkanması"
     ],
-    "correctAnswer": "b)  Dilin gevşeyerek soluk yolu üzerine kayması sonucunda soluk yolunun"
+    "correctAnswer": "b)  Dilin gevşeyerek soluk yolu üzerine kayması sonucunda soluk yolunun kapanması"
   },
   {
     "id": 241,
@@ -3147,11 +3147,11 @@
     "id": 263,
     "question": "Gemilerde personelin özel iş ayakkabısı giymesi zorunludur. Bu ayakkabılar aşağıda belirtilen özelliklerden hangilerine sahip olmalıdır?",
     "options": [
-      "a)  İç tabanı ortopedik ve anti bakteriyel malzemeden yapılmalı, uzun süre",
-      "b)  Burun kısımları çelik korumalı olmalı ve üzerine düşen ağır cisimlerden ayak",
-      "c)  Tabanları kalın ve iç tarafları hava yastıklı olmalı ve yüksekten atlama ve",
+      "a)  İç tabanı ortopedik ve anti bakteriyel malzemeden yapılmalı, uzun süre kullanımda yorgunluğa sebep olmamalı ve mantar oluşumuna müsaade etmemelidir.",
+      "b)  Burun kısımları çelik korumalı olmalı ve üzerine düşen ağır cisimlerden ayak parmaklarını korumalıdır.",
+      "c)  Tabanları kalın ve iç tarafları hava yastıklı olmalı ve yüksekten atlama ve zemindeki darbe gibi durumlarda ayağı şoklardan korumalıdır.",
       "d)  Hepsi doğrudur.",
-      "e)  Taban kalın ve özel lastikten yapılmalı, kaymalara ve elektrik çarpmasına karşı"
+      "e)  Taban kalın ve özel lastikten yapılmalı, kaymalara ve elektrik çarpmasına karşı korumalıdır."
     ],
     "correctAnswer": "d)  Hepsi doğrudur."
   },
@@ -3327,25 +3327,25 @@
     "id": 278,
     "question": "SART cihazı nedir? Aşağıdakilerden doğru cevabı bulunuz.",
     "options": [
-      "a)  Arama Kurtarma çalışmalarında sadece transmitter(gönderici) olarak kullanılan",
-      "b)  Arama Kurtarma çalışmalarında hem gönderici hem de cevaplayıcı olarak",
-      "c)  Arama Kurtarma çalışmalarında sadece responder(cevaplayıcı) olarak kullanılan",
+      "a)  Arama Kurtarma çalışmalarında sadece transmitter(gönderici) olarak kullanılan bir cihazdır.",
+      "b)  Arama Kurtarma çalışmalarında hem gönderici hem de cevaplayıcı olarak kullanılan cihazdır",
+      "c)  Arama Kurtarma çalışmalarında sadece responder(cevaplayıcı) olarak kullanılan bir cihazdır.",
       "d)  Sadece uçaklara arama işlevinde yardımcı olan bir cihazdır.",
       "e)  Sadece sahile yardım talebinde bulunan bir vericidir."
     ],
-    "correctAnswer": "b)  Arama Kurtarma çalışmalarında hem gönderici hem de cevaplayıcı olarak"
+    "correctAnswer": "b)  Arama Kurtarma çalışmalarında hem gönderici hem de cevaplayıcı olarak kullanılan cihazdır"
   },
   {
     "id": 279,
     "question": "Gemiyi ıslanmadan terk etmek amacıyla kullanılabilecek çarmıhların isimleri nelerdir?",
     "options": [
-      "a)  Şeytan çarmıhı - pilot çarmıhı - filika çarmıhı - gemiyi terk çarmıhı - borda ağ",
-      "b)  Borda ağ çarmıhı - erzak çarmıhı - gemiye çıkma çarmıhı - filika çarmıhı - pilot",
-      "c)  Pilot çarmıhı - hasta indirme çarmıhı - şeytan çarmıhı - filika çarmıhı - borda ağ",
-      "d)  Cansalı çarmıhı - borda ağ çarmıhı - gemiye çıkma çarmıhı - pilot çarmıhı -",
-      "e)  Şeytan çarmıhı - pilot çarmıhı - filika çarmıhı - gemiye çıkma çarmıhı - borda"
+      "a)  Şeytan çarmıhı - pilot çarmıhı - filika çarmıhı - gemiyi terk çarmıhı - borda ağ çarmıhı",
+      "b)  Borda ağ çarmıhı - erzak çarmıhı - gemiye çıkma çarmıhı - filika çarmıhı - pilot çarmıhı",
+      "c)  Pilot çarmıhı - hasta indirme çarmıhı - şeytan çarmıhı - filika çarmıhı - borda ağ çarmıhı",
+      "d)  Cansalı çarmıhı - borda ağ çarmıhı - gemiye çıkma çarmıhı - pilot çarmıhı - şeytan çarmıhı",
+      "e)  Şeytan çarmıhı - pilot çarmıhı - filika çarmıhı - gemiye çıkma çarmıhı - borda ağ çarmıhı"
     ],
-    "correctAnswer": "e)  Şeytan çarmıhı - pilot çarmıhı - filika çarmıhı - gemiye çıkma çarmıhı - borda"
+    "correctAnswer": "e)  Şeytan çarmıhı - pilot çarmıhı - filika çarmıhı - gemiye çıkma çarmıhı - borda ağ çarmıhı"
   },
   {
     "id": 280,
@@ -3365,11 +3365,11 @@
     "options": [
       "a)  İçine girilerek, suya atlanır,",
       "b)  İki elle baş üzerinde tutulur, arka üstü atlanır,",
-      "c)  İki elle, vücuda dik olarak ve su ile 45 derece açı yaparak tutulup ileri",
+      "c)  İki elle, vücuda dik olarak ve su ile 45 derece açı yaparak tutulup ileri atlanır,",
       "d)  İki elle sarılıp göğüste tutularak atlanır",
       "e)  Bir elle tutulur diğer el ile suya uzanılır"
     ],
-    "correctAnswer": "c)  İki elle, vücuda dik olarak ve su ile 45 derece açı yaparak tutulup ileri"
+    "correctAnswer": "c)  İki elle, vücuda dik olarak ve su ile 45 derece açı yaparak tutulup ileri atlanır,"
   },
   {
     "id": 282,
@@ -3450,10 +3450,10 @@
       "a)  Yaraya tuz basmak",
       "b)  Merhem sürerek bandajlamak",
       "c)  Alkol ile temizlemek",
-      "d)  Yarayı bandajlamak (Tamponlama) veya avuç içiyle kanama yerine",
+      "d)  Yarayı bandajlamak (Tamponlama) veya avuç içiyle kanama yerine doğrudan basınç uygulamaktır.",
       "e)  Bulunan bez parçası ile bağlamak"
     ],
-    "correctAnswer": "d)  Yarayı bandajlamak (Tamponlama) veya avuç içiyle kanama yerine"
+    "correctAnswer": "d)  Yarayı bandajlamak (Tamponlama) veya avuç içiyle kanama yerine doğrudan basınç uygulamaktır."
   },
   {
     "id": 289,
@@ -3663,10 +3663,10 @@
     "id": 306,
     "question": "Gemilerde sıklıkla kullanılan “ Deniz bağlarının vurulması” ifadesinden ne anlıyorsunuz?",
     "options": [
-      "a)  Ambar, güverte ve depolarda bulunan hareketli ağır yük ve malzemelerin",
+      "a)  Ambar, güverte ve depolarda bulunan hareketli ağır yük ve malzemelerin bağlanması",
       "b)  Hepsi doğru",
       "c)  Sandalyelerin deniz bağı zincirlerinin takılması",
-      "d)  Küçük hareketli malzemelerin dolap ve masa çekmecelerine konup, tüm kapak ve",
+      "d)  Küçük hareketli malzemelerin dolap ve masa çekmecelerine konup, tüm kapak ve çekmecelerin kilitlenmesi",
       "e)  Raf malzemelerinin raflara konup korkuluklarının takılması"
     ],
     "correctAnswer": "b)  Hepsi doğru"
@@ -3699,11 +3699,11 @@
     "id": 309,
     "question": "Acil durumlarda can kurtarma ile ilgili donanımların gerektiği şekilde çalışması ve görevlerini yerine getirmesi için aşağıdaki deneme ve kontrollerden hangisi doğrudur?",
     "options": [
-      "a)  Can filikaları ve kurtarma botlarındaki bütün motorlar, her hafta en az 15 dakika",
-      "b)  Şişirilebilir can salları ve can yeleklerinin bakımı, 18 ayda bir uzman olan",
+      "a)  Can filikaları ve kurtarma botlarındaki bütün motorlar, her hafta en az 15 dakika olmak üzere ileri-geri çalıştırılır.",
+      "b)  Şişirilebilir can salları ve can yeleklerinin bakımı, 18 ayda bir uzman olan onaylanmış bakım istasyonunda yapılmalıdır.",
       "c)  Genel alarm sistemi her hafta denenmelidir.",
-      "d)  Hidrostatik bırakma kilitlerinin bakımı 18 ayda uzman olan bakım istasyonlarında",
-      "e)  Tüm can kurtarma araçları, kurtarma botları ve denize indirme donanımlarının 2"
+      "d)  Hidrostatik bırakma kilitlerinin bakımı 18 ayda uzman olan bakım istasyonlarında yapılmalıdır.",
+      "e)  Tüm can kurtarma araçları, kurtarma botları ve denize indirme donanımlarının 2 ayda bir gözle kontrolü yapılır,"
     ],
     "correctAnswer": "c)  Genel alarm sistemi her hafta denenmelidir."
   },
@@ -3715,9 +3715,9 @@
       "b)  M.C) harfleriyle uluslararası tehlike işaret kod flamalarının gösterilmesi",
       "c)  Kısa aralıklarla yeşil ışık saçan fişek atılması",
       "d)  Yaklaşık 3 dakika ara ile patlatılan bir top veya patlayıcı sesi,",
-      "e)  Mors kodu ile SOS işaretinin telsiz, telgraf veya başka bir işaret yöntemi ile"
+      "e)  Mors kodu ile SOS işaretinin telsiz, telgraf veya başka bir işaret yöntemi ile verilmesi,"
     ],
-    "correctAnswer": "e)  Mors kodu ile SOS işaretinin telsiz, telgraf veya başka bir işaret yöntemi ile"
+    "correctAnswer": "e)  Mors kodu ile SOS işaretinin telsiz, telgraf veya başka bir işaret yöntemi ile verilmesi,"
   },
   {
     "id": 311,
@@ -3799,7 +3799,7 @@
       "b)  Yanma süresi 3 dakikadan az olmayacak",
       "c)  Işık şiddeti 15.000 (cd) mumdan az olmayacak",
       "d)  Parlak kırmızı renkte yanacak",
-      "e) Suyun 100 mm altında 10 sn batırıldıktan sonra su yüzeyine çıkartıldığında"
+      "e) Suyun 100 mm altında 10 sn batırıldıktan sonra su yüzeyine çıkartıldığında yanmaya devam edecek"
     ],
     "correctAnswer": "b)  Yanma süresi 3 dakikadan az olmayacak"
   },
@@ -3892,7 +3892,7 @@
     "question": "Aşağıdakilerden hangisi gemiyi terk ettikten hemen sonra dikkat edilmesi gereken hususlardan değildir?",
     "options": [
       "a)  Gemiyi terk ettikten sonra gemiden en az 50 metre uzaklaşmak gerekir.",
-      "b)  Batan gemi yardım istemiş ise, yardım çağrısına gelecek gemiler için ilk 24 saat",
+      "b)  Batan gemi yardım istemiş ise, yardım çağrısına gelecek gemiler için ilk 24 saat mevkii muhafazası yapılır.",
       "c)  Gemiden uzaklaşarak mesafeye bakılmaksızın en yakın sahile doğru gidilir.",
       "d)  Can sallarının arasındaki mesafe en az 10-15 metre olmalıdır.",
       "e)  Diğer sallar ile bir araya toplanılır."
@@ -3928,10 +3928,10 @@
     "question": "Aşağıdakilerden hangisi burun kanamasında yapılmamalıdır?",
     "options": [
       "a)  2 gün içinde burun kuvvetlice sümkürmelidir.",
-      "b)  Kanama devam ediyorsa, burnun yumuşak kısmını 10 dak. daha sıkılır ve",
+      "b)  Kanama devam ediyorsa, burnun yumuşak kısmını 10 dak. daha sıkılır ve yavaşça bırakılır. 20 dak. sonra kanama hala devam ediyorsa, burnun kanayan tarafını gazlı bezle tampolamak gerekebilir.",
       "c)  Kazazede 4 saat boyunca burnunu sümkürmemelidir.",
-      "d)  Baş öne doğru lavabo veya leğene iyice eğili vaziyette iken, burnun yumuşak",
-      "e)  10 dakika sonra basınç yavaş yavaş kaldırılır ve lavabo veya leğen içinde kan"
+      "d)  Baş öne doğru lavabo veya leğene iyice eğili vaziyette iken, burnun yumuşak kısmı 10 dakika sıkıca tutulur.",
+      "e)  10 dakika sonra basınç yavaş yavaş kaldırılır ve lavabo veya leğen içinde kan damlası olup olmadığını kontrol edilir. Kanın yokluğu kanamanın durduğunu gösterir"
     ],
     "correctAnswer": "a)  2 gün içinde burun kuvvetlice sümkürmelidir."
   },
@@ -3988,12 +3988,12 @@
     "question": "İlk yardım ile ilgili temel prensip aşağıdakilerden hangisidir?",
     "options": [
       "a)  Gözlenebilen tek bir yaraya göre değerlendirme yapmak",
-      "b)  Bütün uygulamalarda ilk yardımcı, yaşamsal destek için gerekli olandan",
-      "c)  Yaralı ya da aniden hastalanmış bir kişi, bulunduğu ortamda ikincil bir kazaya",
-      "d)  Bulunduğu ortamda başka bir kazaya neden olacak herhangi bir durum varsa,",
+      "b)  Bütün uygulamalarda ilk yardımcı, yaşamsal destek için gerekli olandan daha fazlasını yapmaktan kaçınmalıdır.",
+      "c)  Yaralı ya da aniden hastalanmış bir kişi, bulunduğu ortamda ikincil bir kazaya neden olacak herhangi bir durum yoksa, kaldırıp hareket ettirilmelidir.",
+      "d)  Bulunduğu ortamda başka bir kazaya neden olacak herhangi bir durum varsa, hastayı olduğu yerde bırakmak.",
       "e)  Acil yardım ekibi ulaşıncaya kadar bir müdahalede bulunmamak."
     ],
-    "correctAnswer": "b)  Bütün uygulamalarda ilk yardımcı, yaşamsal destek için gerekli olandan"
+    "correctAnswer": "b)  Bütün uygulamalarda ilk yardımcı, yaşamsal destek için gerekli olandan daha fazlasını yapmaktan kaçınmalıdır."
   },
   {
     "id": 334,
@@ -4445,11 +4445,11 @@
     "options": [
       "a)  Sıcaklıkla",
       "b)  Mor ötesi ışınla",
-      "c)  Yangın saptandığında söndürmek için sisteme bağlı CO2 devresinden",
+      "c)  Yangın saptandığında söndürmek için sisteme bağlı CO2 devresinden yararlanır",
       "d)  Kızılötesi sistemle",
       "e)  Yukarıdakilerin hepsi yanlıştır."
     ],
-    "correctAnswer": "c)  Yangın saptandığında söndürmek için sisteme bağlı CO2 devresinden"
+    "correctAnswer": "c)  Yangın saptandığında söndürmek için sisteme bağlı CO2 devresinden yararlanır"
   },
   {
     "id": 372,
@@ -4515,10 +4515,10 @@
     "id": 377,
     "question": "Acil durumlarda mümkün olduğunca aşağıdakilerden hangisini yapmamalıdır?",
     "options": [
-      "a)  Yalnız müdahale etmekten mümkün olduğunca kaçınarak, durum diğer",
+      "a)  Yalnız müdahale etmekten mümkün olduğunca kaçınarak, durum diğer mürettebata bildirilir",
       "b)  Acil durum ilan edildiğinde can yeleği giyilerek role kartındaki görev yerine gidilir",
       "c)  Hiç bir acil durumda kaptan emri olmadan gemi terk edilmemelidir",
-      "d)  Gerek can gerekse mal güvenliğini sağlayabilmek amacıyla bilgi, tecrübe ve ekip",
+      "d)  Gerek can gerekse mal güvenliğini sağlayabilmek amacıyla bilgi, tecrübe ve ekip halinde disiplin içerisinde çalışılır",
       "e)  Olayı görür görmez yalnız da olunsa hemen müdahale edilir"
     ],
     "correctAnswer": "e)  Olayı görür görmez yalnız da olunsa hemen müdahale edilir"
@@ -4599,10 +4599,10 @@
     "id": 384,
     "question": "Gemiyi Terkten sonra uyulması gereken kurallardan doğru olanı işaretleyiniz",
     "options": [
-      "a)  Eğer, kazaya uğramış bir gemiden denize dökülen akaryakıt içerisinde",
-      "b)  Eğer grup şeklinde bulunuluyorsa, iyi yüzme bilenler başa geçerek sızıntı",
-      "c)  Su içerisinde bulunan kişilerin, patlamalardan sakınmak için, gemiden sırt üstü",
-      "d)  imyasalların denize yayılan kısımlarından veya bunların buharlarından veya",
+      "a)  Eğer, kazaya uğramış bir gemiden denize dökülen akaryakıt içerisinde yüzülüyorsa, hafif ve yavaş kulaçlarla kurbağalama stilinde yüzülmelidir.",
+      "b)  Eğer grup şeklinde bulunuluyorsa, iyi yüzme bilenler başa geçerek sızıntı bölgesinde, kulaçlarla kanal açıp ilerlenmelidir.",
+      "c)  Su içerisinde bulunan kişilerin, patlamalardan sakınmak için, gemiden sırt üstü yüzerek uzaklaşmalıdır.",
+      "d)  imyasalların denize yayılan kısımlarından veya bunların buharlarından veya yanmalarıyla oluşturdukları ısı ve dumandan kaçınmak için gemiden hemen uzaklaşmak gerekir.",
       "e)  Hepsi doğru"
     ],
     "correctAnswer": "e)  Hepsi doğru"
@@ -4612,8 +4612,8 @@
     "question": "Yangın talimlerinde aşağıdaki hususlardan hangisi kontrol edilmez?",
     "options": [
       "a)  Yangın sahasının hava ile izolasyonunun sağlaması",
-      "b)  Su geçirmez kapıların, yangın kapılarının ve yangın damperlerinin çalışmasının",
-      "c)  Talim sırasında en az iki su jetiyle çalışan yangın pompasını devreye alınması,",
+      "b)  Su geçirmez kapıların, yangın kapılarının ve yangın damperlerinin çalışmasının kontrolü,",
+      "c)  Talim sırasında en az iki su jetiyle çalışan yangın pompasını devreye alınması, hortumların denenmesi,",
       "d)  Yangın elbiseleri, diğer kişisel kurtarma donanımlarının kontrolü,",
       "e)  Yakıt sarnıçları ve sintinede bulunan yanıcı madde miktarı."
     ],
@@ -4707,13 +4707,13 @@
     "id": 393,
     "question": "Role talimleri ile ilgili olarak aşağıdaki ifadelerden hangisi bir doğrudur?",
     "options": [
-      "a)  Bir önceki talimde gemi mürettebatının %25’inden fazlası bulunmamışsa gemi",
+      "a)  Bir önceki talimde gemi mürettebatının %25’inden fazlası bulunmamışsa gemi limandan ayrıldıktan sonraki 36 saat içinde gemiyi terk talimi yapılmalıdır",
       "b)  Her gemiadamı ayda en az 3 kez yangın ve gemiyi terk talimlerine katılmalıdır",
-      "c)  Bir önceki talimde gemi mürettebatının %35’inden fazlası bulunmamışsa gemi",
-      "d)  Yolcu gemilerinde yolcular bindikten sonraki 24 saat içinde gemiyi terk",
+      "c)  Bir önceki talimde gemi mürettebatının %35’inden fazlası bulunmamışsa gemi limandan ayrıldıktan sonraki 24 saat içinde gemiyi terk talimi yapılmalıdır",
+      "d)  Yolcu gemilerinde yolcular bindikten sonraki 24 saat içinde gemiyi terk talimi yapılmalı ve bu talimler her hafta tekrar edilmelidir",
       "e)  Her gemiadamı ayda en az 2 kez yangın ve gemiyi terk talimlerine katılmalıdır"
     ],
-    "correctAnswer": "d)  Yolcu gemilerinde yolcular bindikten sonraki 24 saat içinde gemiyi terk"
+    "correctAnswer": "d)  Yolcu gemilerinde yolcular bindikten sonraki 24 saat içinde gemiyi terk talimi yapılmalı ve bu talimler her hafta tekrar edilmelidir"
   },
   {
     "id": 394,
@@ -4793,11 +4793,11 @@
     "options": [
       "a)  Hasta/yaralı yüzü yukarı bakacak şekilde sırt üstü yatırılır",
       "b)  Kazazede kanamayan kulak tarafına yatırılır",
-      "c)  Kanayan kulak kepçesi üzerine gaz bezi yerleştirilerek hasta kanayan kulak",
+      "c)  Kanayan kulak kepçesi üzerine gaz bezi yerleştirilerek hasta kanayan kulak tarafına yatırılır.",
       "d)  Hasta/yaralı yüzü aşağı bakacak yüzüstü yatırılır",
       "e)  Kulağa tampon tıkanır"
     ],
-    "correctAnswer": "c)  Kanayan kulak kepçesi üzerine gaz bezi yerleştirilerek hasta kanayan kulak"
+    "correctAnswer": "c)  Kanayan kulak kepçesi üzerine gaz bezi yerleştirilerek hasta kanayan kulak tarafına yatırılır."
   },
   {
     "id": 401,
@@ -4863,7 +4863,7 @@
     "id": 406,
     "question": "İlkyardım için aşağıdakilerden hangisi yanlıştır?",
     "options": [
-      "a)  Herhangi bir kaza durumunda ya da yaşamı tehlikeye düşüren durumlarda",
+      "a)  Herhangi bir kaza durumunda ya da yaşamı tehlikeye düşüren durumlarda yapılır.",
       "b)  Hayatın kurtarılması ya da durumun kötüleşmesini engellemek amacı ile yapılır.",
       "c)  Sağlık görevlisi yardımı sağlanıncaya kadar yapılır",
       "d)  İlk yardıma olay yerinde başlanır",
@@ -5019,13 +5019,13 @@
     "id": 419,
     "question": "Gemide helikopter operasyonlarında olabilecek helikopter kazalarına karşı hazırlanması gereken acil durum planları ile ilgili aşağıdakilerden hangisi yanlıştır?",
     "options": [
-      "a)  Köpük sıkma operasyonu için en az iki adet yangın söndürme donanımlı personel",
+      "a)  Köpük sıkma operasyonu için en az iki adet yangın söndürme donanımlı personel bulunacaktır.",
       "b)  Uygun eldiven ve kauçuk bot giymiş bir kurtarma kancası kullanıcısı bulunacaktır.",
-      "c)  Denize adam düşmesine karşı bir can kurtarma botu indirilmeye hazır",
-      "d)  Kurtarma operasyonu için bir adet yangın söndürme donanımlı personel",
+      "c)  Denize adam düşmesine karşı bir can kurtarma botu indirilmeye hazır bulunacaktır.",
+      "d)  Kurtarma operasyonu için bir adet yangın söndürme donanımlı personel bulunacaktır.",
       "e)  Hepsi doğrudur."
     ],
-    "correctAnswer": "d)  Kurtarma operasyonu için bir adet yangın söndürme donanımlı personel"
+    "correctAnswer": "d)  Kurtarma operasyonu için bir adet yangın söndürme donanımlı personel bulunacaktır."
   },
   {
     "id": 420,
@@ -5153,9 +5153,9 @@
     "options": [
       "a)  Ayaklar birleştirilir, ileriye doğru bakarak ayak üstü (çivileme) atlanır.",
       "b)  Denize atlanacak yere bakmadan denize balıklama atlanır.",
-      "c)  Bir elle burun ve ağız kapatılırken, diğer elle üstten çapraz atılıp can yeleği omuz",
+      "c)  Bir elle burun ve ağız kapatılırken, diğer elle üstten çapraz atılıp can yeleği omuz üstünden bastırılır.",
       "d)  Can yeleği usulünce bağlanmış olmalıdır,",
-      "e)  Şartlar müsait olduğu sürece rüzgar üstünden ve denize en yakın yerden"
+      "e)  Şartlar müsait olduğu sürece rüzgar üstünden ve denize en yakın yerden atlanmalıdır."
     ],
     "correctAnswer": "b)  Denize atlanacak yere bakmadan denize balıklama atlanır."
   },
@@ -5295,13 +5295,13 @@
     "id": 442,
     "question": "Asfekside İlk yardım nasıl yapılır?",
     "options": [
-      "a)  Kazazede temiz havaya çıkartılır. Gerektiğinde, suni solunum ve kalp masajı",
-      "b)  Kazazede temiz havaya çıkartılır. Gerektiğinde, suni solunum ve kalp masajı",
-      "c)  Kazazede temiz havaya çıkartılır. Doktor beklenmelidir. Kapalı bilinç pozisyonuna",
-      "d)  Kazazede temiz havaya çıkartılır. Suni solunum yapılmamalıdır. Kapalı bilinç",
-      "e)  Kazazede kapalı yere alınır. Gerektiğinde, suni solunum ve kalp masajı yapılır."
+      "a)  Kazazede temiz havaya çıkartılır. Gerektiğinde, suni solunum ve kalp masajı yapılır. Kapalı bilinç pozisyonuna getirilir.",
+      "b)  Kazazede temiz havaya çıkartılır. Gerektiğinde, suni solunum ve kalp masajı yapılır. Açık bilinç pozisyonuna getirilir.",
+      "c)  Kazazede temiz havaya çıkartılır. Doktor beklenmelidir. Kapalı bilinç pozisyonuna getirilir.",
+      "d)  Kazazede temiz havaya çıkartılır. Suni solunum yapılmamalıdır. Kapalı bilinç pozisyonuna getirilir.",
+      "e)  Kazazede kapalı yere alınır. Gerektiğinde, suni solunum ve kalp masajı yapılır. Kapalı bilinç pozisyonuna getirilir."
     ],
-    "correctAnswer": "a)  Kazazede temiz havaya çıkartılır. Gerektiğinde, suni solunum ve kalp masajı"
+    "correctAnswer": "a)  Kazazede temiz havaya çıkartılır. Gerektiğinde, suni solunum ve kalp masajı yapılır. Kapalı bilinç pozisyonuna getirilir."
   },
   {
     "id": 443,
@@ -5309,11 +5309,11 @@
     "options": [
       "a)  Leğen kemiği kırıkları büyük damarları etkileyerek iç kanamaya yol açabilir..",
       "b)  İç kanama durumunda kişinin tansiyonu düşer.",
-      "c)  İç kanama geçiren kişiler kendi kendine iyileşebileceği asla",
+      "c)  İç kanama geçiren kişiler kendi kendine iyileşebileceği asla unutulmamalıdır.",
       "d)  İç kanama durumunda acil müdahale için hasta derhal sevk edilmelidir.",
       "e)  En çok iç kanamaya yol açan organ yaralanmaları Karaciğer ve Dalaktır."
     ],
-    "correctAnswer": "c)  İç kanama geçiren kişiler kendi kendine iyileşebileceği asla"
+    "correctAnswer": "c)  İç kanama geçiren kişiler kendi kendine iyileşebileceği asla unutulmamalıdır."
   },
   {
     "id": 444,
@@ -5895,7 +5895,7 @@
     "id": 492,
     "question": "Hangisi can salı kullanırken dikkat edilecek hususlardan değildir?",
     "options": [
-      "a)  Can salında kendiliğinden açılan deniz demiri kullanılmışsa önce deniz demiri",
+      "a)  Can salında kendiliğinden açılan deniz demiri kullanılmışsa önce deniz demiri toplanır, sonra emniyetli mesafeye açılınır",
       "b)  Parima halatı kesilir kürekle emniyetli mesafeye açılınır",
       "c)  Can Salı içerisindeki su boşaltılır",
       "d)  Kesici aletler kullanılabilir",
@@ -5932,7 +5932,7 @@
     "question": "Aşağıdaki görevlerden hangisi role cetvellerinde gösterilmez?",
     "options": [
       "a)  Yangın ekibinin personelle donatılması,",
-      "b)  Can kurtarma vasıtasının ve teçhizatının kullanıma hazır bulundurulması ve",
+      "b)  Can kurtarma vasıtasının ve teçhizatının kullanıma hazır bulundurulması ve donatılması,",
       "c)  Personel veya yolcuların yemek yeme yerleri,",
       "d)  Can kurtarma vasıtasının hazırlanıp, denize indirilmesi,",
       "e) Haberleşme cihazlarının kullanılması,"
@@ -6063,13 +6063,13 @@
     "id": 506,
     "question": "Kan dolaşımının kontrolu nasıl yapılır ve anlaşılır?",
     "options": [
-      "a)  Kırık üstüne bastırmak suretiyle yapılır. Dolaşım normalse tırnak bastırınca",
-      "b)  Kırık üstüne bastırmak suretiyle yapılır. Dolaşım normalse tırnak bastırınca",
-      "c)  Tırnak üstüne bastırmak suretiyle yapılır. Dolaşım normalse tırnak bastırınca",
-      "d)  Tırnak üstüne bastırmak suretiyle yapılır. Dolaşım normalse tırnak bastırınca",
-      "e)  Tırnak üstüne bastırmak suretiyle yapılır. Dolaşım normalse tırnak"
+      "a)  Kırık üstüne bastırmak suretiyle yapılır. Dolaşım normalse tırnak bastırınca beyaza, baskı kalktığında pembeye dönüşür.",
+      "b)  Kırık üstüne bastırmak suretiyle yapılır. Dolaşım normalse tırnak bastırınca kırmızıya, baskı kalktığında pembeye dönüşür.",
+      "c)  Tırnak üstüne bastırmak suretiyle yapılır. Dolaşım normalse tırnak bastırınca beyaza, baskı kalktığında mora dönüşür.",
+      "d)  Tırnak üstüne bastırmak suretiyle yapılır. Dolaşım normalse tırnak bastırınca kırmızıya, baskı kalktığında pembeye dönüşür.",
+      "e)  Tırnak üstüne bastırmak suretiyle yapılır. Dolaşım normalse tırnak bastırınca beyaza, baskı kalktığında pembeye dönüşür."
     ],
-    "correctAnswer": "e)  Tırnak üstüne bastırmak suretiyle yapılır. Dolaşım normalse tırnak"
+    "correctAnswer": "e)  Tırnak üstüne bastırmak suretiyle yapılır. Dolaşım normalse tırnak bastırınca beyaza, baskı kalktığında pembeye dönüşür."
   },
   {
     "id": 507,
@@ -6114,7 +6114,7 @@
       "a)  Kolaylıkla ve hızla yanarlar",
       "b)  Yukarıdakilerin hepsi doğrudur",
       "c)  Karışımın oksijen oranı yüksekse patlama tehlikesi azdır",
-      "d)  Basınç ve ısı faktörleri etkisinde fazla bir hacim değişikliklerine maruz",
+      "d)  Basınç ve ısı faktörleri etkisinde fazla bir hacim değişikliklerine maruz kalmamaları",
       "e)  Yukarıdakilerin hepsi yanlıştır"
     ],
     "correctAnswer": "a)  Kolaylıkla ve hızla yanarlar"
@@ -6231,13 +6231,13 @@
     "id": 520,
     "question": "Aşağıdaki ifadelerden role talimleri ile ilgili doğru olanı seçiniz.",
     "options": [
-      "a)  Her personel, ayda en az bir defa gemiyi terk ve bir defa da yangın talimine",
-      "b)  24 saatten fazla seyir yapılacak ise yolcular, gemi seyre çıktıktan sonra 36 saat",
-      "c)  Personelin %35’inden fazlası katılmamışsa, geminin bulunduğu limanı terk",
-      "d)  Bir gemi adamının gemiye katılmasından sonra iki ayı geçmemek üzere en kısa",
+      "a)  Her personel, ayda en az bir defa gemiyi terk ve bir defa da yangın talimine katılır.",
+      "b)  24 saatten fazla seyir yapılacak ise yolcular, gemi seyre çıktıktan sonra 36 saat içinde gemiyi terk istasyonlarına alınır.",
+      "c)  Personelin %35’inden fazlası katılmamışsa, geminin bulunduğu limanı terk ettikten sonra 24 saat içinde personel ile role talimleri yapılır.",
+      "d)  Bir gemi adamının gemiye katılmasından sonra iki ayı geçmemek üzere en kısa sürede yapılacaktır.",
       "e)  Bütün can filikaları her 6 ayda en az bir defa biraz aşağı mayna edilmelidir."
     ],
-    "correctAnswer": "a)  Her personel, ayda en az bir defa gemiyi terk ve bir defa da yangın talimine"
+    "correctAnswer": "a)  Her personel, ayda en az bir defa gemiyi terk ve bir defa da yangın talimine katılır."
   },
   {
     "id": 521,
@@ -6270,7 +6270,7 @@
       "a)  Araca binen kişilerin listeye göre tamam olduğu",
       "b)  Role cetvelinde yazılı olan getirmesi gerekli malzemelerin getirilmiş olduğu",
       "c)  Can yeleklerinin giyilmiş olduğu",
-      "d)  Araca binenlerin kişisel güvenlik hususlarına dikkat ederek aracın güvenli",
+      "d)  Araca binenlerin kişisel güvenlik hususlarına dikkat ederek aracın güvenli yerlerine oturmuş olduğu",
       "e)  Hepsi doğrudur,"
     ],
     "correctAnswer": "e)  Hepsi doğrudur,"
@@ -6543,13 +6543,13 @@
     "id": 546,
     "question": "Gemi seyir yaparken gemicilerin kendilerine verilen bakım tutum ve diğer işleri yaptıkları zaman periyodu ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
     "options": [
-      "a)  Genelde 08:00-17:00 saatleri arasında olup bu saatler 1.Zabit tarafından",
-      "b)  Genelde 08:00-17:00 saatleri arasında olup bu saatler Reis tarafından",
-      "c)  Genelde 08:00-17:00 saatleri arasında olup bu saatler Kaptan tarafından",
-      "d)  Genelde 08:00-17:00 saatleri arasında olup bu saatler Şirket tarafından",
+      "a)  Genelde 08:00-17:00 saatleri arasında olup bu saatler 1.Zabit tarafından ayarlanabilir",
+      "b)  Genelde 08:00-17:00 saatleri arasında olup bu saatler Reis tarafından ayarlanabilir",
+      "c)  Genelde 08:00-17:00 saatleri arasında olup bu saatler Kaptan tarafından ayarlanabilir",
+      "d)  Genelde 08:00-17:00 saatleri arasında olup bu saatler Şirket tarafından ayarlanabilir",
       "e)  Daima 08:00-17:00 saatleri arasıdır"
     ],
-    "correctAnswer": "c)  Genelde 08:00-17:00 saatleri arasında olup bu saatler Kaptan tarafından"
+    "correctAnswer": "c)  Genelde 08:00-17:00 saatleri arasında olup bu saatler Kaptan tarafından ayarlanabilir"
   },
   {
     "id": 547,
@@ -6799,9 +6799,9 @@
       "b)  Hiçbiri.",
       "c)  Kan damarları daralmış ya da nabız zayıflamışsa cilt sıcak ve pempe renklidir.",
       "d)  Nabız artmışsa cilt soluk ve morumsu olabilir.",
-      "e)  Kan damarları daralmış ya da nabız zayıflamışsa, cilt soluk, lekeli ve"
+      "e)  Kan damarları daralmış ya da nabız zayıflamışsa, cilt soluk, lekeli ve morumsu olabilir."
     ],
-    "correctAnswer": "e)  Kan damarları daralmış ya da nabız zayıflamışsa, cilt soluk, lekeli ve"
+    "correctAnswer": "e)  Kan damarları daralmış ya da nabız zayıflamışsa, cilt soluk, lekeli ve morumsu olabilir."
   },
   {
     "id": 568,
@@ -7000,7 +7000,7 @@
     "question": "Aşağıdakilerden hangisi can kurtarma aracında bölgeden geçen bir gemiye gösterilecek işaretlerden değildir?",
     "options": [
       "a)  Her iki yana doğru açılan kolların ağır ağır ve tekrarlı olarak indirilip kaldırılması,",
-      "b)  Yanan bir katran veya yağ fıçısı veya benzerinden çıkan alevlerin gemi üzerinde",
+      "b)  Yanan bir katran veya yağ fıçısı veya benzerinden çıkan alevlerin gemi üzerinde gösterilmesi,",
       "c)  N.C) harfleriyle Uluslararası Tehlike İşaret kod flamalarının gösterilmesi.",
       "d)  Portakal rengi duman veren bir duman işareti,",
       "e)  Paraşütlü bir işaret fişeği veya BEYAZ ışık gösteren bir el meşalesi,"
@@ -7059,13 +7059,13 @@
     "id": 589,
     "question": "’’DENİZ ANASI’’(Drown proofing) tekniğini aşağıdakilerden hangisi açıklamaktadır?",
     "options": [
-      "a)  Kişinin suda kendini rahat bıraktığı ve nefes alışları arasında başın suya",
+      "a)  Kişinin suda kendini rahat bıraktığı ve nefes alışları arasında başın suya girmesi",
       "b)  Yükü belli bir plana göre istiflemek",
       "c)  Değişik tarzlarda yüzmek",
       "d)  Gemiyi süratli ve planlı olarak terk etmek",
       "e)  Kişinin acil durumda süratli karar verebilmesi"
     ],
-    "correctAnswer": "a)  Kişinin suda kendini rahat bıraktığı ve nefes alışları arasında başın suya"
+    "correctAnswer": "a)  Kişinin suda kendini rahat bıraktığı ve nefes alışları arasında başın suya girmesi"
   },
   {
     "id": 590,
@@ -7099,9 +7099,9 @@
       "b)  Filikaların ağır havalarda oynamamasını sağlamak",
       "c)  Kapalı filikaların mataforaya daha iyi tutunmasını sağlamak",
       "d)  Kurtarma botlarının suya rahat inmelerini sağlamak",
-      "e)  Can sallarının gemi battığında su yüzeyine kendiliğinden çıkmasını"
+      "e)  Can sallarının gemi battığında su yüzeyine kendiliğinden çıkmasını sağlamak"
     ],
-    "correctAnswer": "e)  Can sallarının gemi battığında su yüzeyine kendiliğinden çıkmasını"
+    "correctAnswer": "e)  Can sallarının gemi battığında su yüzeyine kendiliğinden çıkmasını sağlamak"
   },
   {
     "id": 593,
@@ -7134,10 +7134,10 @@
       "a)  Kemik tamlığının bozulmuşsa",
       "b)  Vücut kol veya bacağı ağır bir darbe veya baskı olmuşsa",
       "c)  Bastırınca veya hareket ettirildiğinde o bölgede şiddetli ağrı hissediliyorsa",
-      "d)  Kullanım kaybı olmamışsa - Ağrı nedeniyle hasta, incinmiş kısmı",
+      "d)  Kullanım kaybı olmamışsa - Ağrı nedeniyle hasta, incinmiş kısmı kullanabilir.",
       "e)  Şişme Kırık bölgesi şiş ve / veya çürük olabilir"
     ],
-    "correctAnswer": "d)  Kullanım kaybı olmamışsa - Ağrı nedeniyle hasta, incinmiş kısmı"
+    "correctAnswer": "d)  Kullanım kaybı olmamışsa - Ağrı nedeniyle hasta, incinmiş kısmı kullanabilir."
   },
   {
     "id": 596,
@@ -7327,7 +7327,7 @@
       "b)  İkinci bir şahıs giriş bölgesinde bekletilmelidir.",
       "c)  Kapalı mahal girişinden önce mahal havalandırılmalıdır.",
       "d)  İçeri giren şahıs maske takmalıdır.",
-      "e)  Patlayıcı gaz bulunması ihtimaline karşı parlamaya neden olmayacak türde"
+      "e)  Patlayıcı gaz bulunması ihtimaline karşı parlamaya neden olmayacak türde lamba kullanılmalıdır."
     ],
     "correctAnswer": "a)  Girişten önce kapalı mahal soğutulmalıdır."
   },
@@ -7335,13 +7335,13 @@
     "id": 612,
     "question": "Halatların sürtünme özelliğine bağlı olarak aşağıdakilerden hangisi doğrudur?katsayısı en fazla olup volta edildikleri yerden kolay kolay sıyrılıp kaçmazlar?",
     "options": [
-      "a)  Sürtünme katsayısı yüksek olan yapay halatlar volta edildikleri yerden kolay",
-      "b)  Sürtünme katsayısı düşük olan yapay halatlar volta edildikleri yerden kolay",
-      "c)  Sürtünme katsayısı en fazla olan doğal halatlar volta edildikleri yerden",
-      "d)  Sürtünme katsayısı yüksek olan tel halatlar volta edildikleri yerden kolay sıyrılıp",
-      "e)  Sürtünme katsayısı düşük olan tel halatlar volta edildikleri yerden kolay sıyrılıp"
+      "a)  Sürtünme katsayısı yüksek olan yapay halatlar volta edildikleri yerden kolay sıyrılıp kaçabilirler",
+      "b)  Sürtünme katsayısı düşük olan yapay halatlar volta edildikleri yerden kolay sıyrılıp kaçmazlar",
+      "c)  Sürtünme katsayısı en fazla olan doğal halatlar volta edildikleri yerden kolay kolay sıyrılıp kaçmazlar",
+      "d)  Sürtünme katsayısı yüksek olan tel halatlar volta edildikleri yerden kolay sıyrılıp kaçabilirler",
+      "e)  Sürtünme katsayısı düşük olan tel halatlar volta edildikleri yerden kolay sıyrılıp kaçmazlar"
     ],
-    "correctAnswer": "c)  Sürtünme katsayısı en fazla olan doğal halatlar volta edildikleri yerden"
+    "correctAnswer": "c)  Sürtünme katsayısı en fazla olan doğal halatlar volta edildikleri yerden kolay kolay sıyrılıp kaçmazlar"
   },
   {
     "id": 613,
@@ -7420,10 +7420,10 @@
     "question": "Hangisi can sallarının kaybedilmesine sebep olan hallerden değildir ?",
     "options": [
       "a)  Sal tamamen şiştikten sonra sala binilmesi",
-      "b)  Zayıf halatın açık hava şartlarında vasıflarını kaybetmesi sonucu tüpü",
-      "c)  Parimanın bağlanmasında zayıf halat kullanılmadığında geminin batması halinde",
+      "b)  Zayıf halatın açık hava şartlarında vasıflarını kaybetmesi sonucu tüpü patlatamadan kopması",
+      "c)  Parimanın bağlanmasında zayıf halat kullanılmadığında geminin batması halinde salın gemiden ayrılamaması ve gemi batarken parçalanması",
       "d)  Parimanın bağlanmadan can salının denize atılması",
-      "e)  Can salının pariması çözülmeden taşınması halinde tüpün patlayarak can salının"
+      "e)  Can salının pariması çözülmeden taşınması halinde tüpün patlayarak can salının şişmesi"
     ],
     "correctAnswer": "a)  Sal tamamen şiştikten sonra sala binilmesi"
   },
@@ -7542,10 +7542,10 @@
       "a)  Kazazede nabız yoksa suni solunumla birlikte kalp masajı uygulanmalıdır",
       "b)  Hasta sadece maksimum 43-44 derecelik suyla temas etmelidir",
       "c)  Kazazedenin şuuru yerine gelinceye kadar banyoda tutulmalıdır",
-      "d)  Isıtma yöntemi olarak, sıcaklığı başlangıçta 57 derece olan sıcak su",
+      "d)  Isıtma yöntemi olarak, sıcaklığı başlangıçta 57 derece olan sıcak su banyosunu kullanmalıdır",
       "e)  Kazazede nefes almıyorsa suni solunuma başlanmalı"
     ],
-    "correctAnswer": "d)  Isıtma yöntemi olarak, sıcaklığı başlangıçta 57 derece olan sıcak su"
+    "correctAnswer": "d)  Isıtma yöntemi olarak, sıcaklığı başlangıçta 57 derece olan sıcak su banyosunu kullanmalıdır"
   },
   {
     "id": 630,
@@ -7648,8 +7648,8 @@
     "question": "Hangisi bir geminin su alarak batma nedenlerindendir?",
     "options": [
       "a)  Ağır denizlerde güverteyi aşan dalgalar ve kapatılmayan açıklıklar",
-      "b)  Yaşlılık ve limitler üzerindeki bir gerilimden kaynaklanabilecek saç atması veya",
-      "c)  Gemi üzerindeki ağırlıkların pozitif dengeyi bozacak şekilde yer değişiminden",
+      "b)  Yaşlılık ve limitler üzerindeki bir gerilimden kaynaklanabilecek saç atması veya kırılma",
+      "c)  Gemi üzerindeki ağırlıkların pozitif dengeyi bozacak şekilde yer değişiminden kaynaklanan geminin yatması",
       "d)  Bir çatışma veya oturmadan kaynaklanan geminin karinasındaki yara",
       "e)  Hepsi doğrudur"
     ],
@@ -7731,13 +7731,13 @@
     "id": 645,
     "question": "Can kurtarma araçlarının özelliği ile ilgili olarak aşağıdakilerden hangisi doğrudur ?",
     "options": [
-      "a)  Can kurtarma botları kendi kendilerine doğrulabilmeleri için pozitif bir yüzerliliğe",
-      "b)  Tamamen kapalı tipteki filikalar kendi kendilerine doğrulabilmeleri için",
+      "a)  Can kurtarma botları kendi kendilerine doğrulabilmeleri için pozitif bir yüzerliliğe sahiptirler",
+      "b)  Tamamen kapalı tipteki filikalar kendi kendilerine doğrulabilmeleri için pozitif bir yüzerliliğe sahiptirler",
       "c)  Can salları kendi kendilerine doğrulabilmeleri için pozitif bir yüzerliliğe sahiptirler",
-      "d)  Bütün can kurtarma araçları kendi kendilerine doğrulabilmeleri için pozitif bir",
-      "e)  Hiçbir can kurtarma aracının kendi kendisine doğrulabilmesi için pozitif bir"
+      "d)  Bütün can kurtarma araçları kendi kendilerine doğrulabilmeleri için pozitif bir yüzerliliğe sahiptirler",
+      "e)  Hiçbir can kurtarma aracının kendi kendisine doğrulabilmesi için pozitif bir yüzerliliği yoktur"
     ],
-    "correctAnswer": "b)  Tamamen kapalı tipteki filikalar kendi kendilerine doğrulabilmeleri için"
+    "correctAnswer": "b)  Tamamen kapalı tipteki filikalar kendi kendilerine doğrulabilmeleri için pozitif bir yüzerliliğe sahiptirler"
   },
   {
     "id": 646,
@@ -7779,13 +7779,13 @@
     "id": 649,
     "question": "Aşağıdakilerden hangisi suya atlamada yanlış hal tarzıdır?",
     "options": [
-      "a)  Şartlar müsait olduğu sürece, rüzgâr altından ve denize en yakın yerden",
+      "a)  Şartlar müsait olduğu sürece, rüzgâr altından ve denize en yakın yerden atlanmalıdır.",
       "b)  Şişme can yeleği ile atlanıyorsa, can yeleği suda şişirilmelidir.",
       "c)  Sıkı giyinilmiş olmalıdır.",
-      "d)  Denizde bir akaryakıt yangını varken denize atlamak zorundaysak, can yeleksiz",
+      "d)  Denizde bir akaryakıt yangını varken denize atlamak zorundaysak, can yeleksiz ve akaryakıt olmayan yere atlanmalıdır.",
       "e)  Başta varsa, kask çıkartılmalıdır."
     ],
-    "correctAnswer": "a)  Şartlar müsait olduğu sürece, rüzgâr altından ve denize en yakın yerden"
+    "correctAnswer": "a)  Şartlar müsait olduğu sürece, rüzgâr altından ve denize en yakın yerden atlanmalıdır."
   },
   {
     "id": 650,
@@ -8103,13 +8103,13 @@
     "id": 676,
     "question": "Can sallarını indirme donanımları ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
     "options": [
-      "a)  Mataforadan denize indirilen can salları, ya yaşam yerine yakın bir yerden ya da",
-      "b)  Donanım, can salının içinde taşıyacağı personelin tamamı olduğu zaman veya",
-      "c)  Can salını denize indirmek için kullanılan donanım, can salı denize indirilirken",
-      "d)  Denize indirme sistemi, gemi güvertesi üzerindeki bir mevkiden bir kişi tarafından",
-      "e)  Bu donanım, gemi güç devresinden beslenen güç ile çalışacak şekilde"
+      "a)  Mataforadan denize indirilen can salları, ya yaşam yerine yakın bir yerden ya da can salının denize indirilmeden önce taşındığı bir yerden denize indirilir",
+      "b)  Donanım, can salının içinde taşıyacağı personelin tamamı olduğu zaman veya içinde hiç personel bulunmadığı zaman, 10° ye kadar trime ve 20° ye kadar bir tarafa yattığı durumlarda bile, denize emniyetle indirilebilecek şekilde yapılmıştır.",
+      "c)  Can salını denize indirmek için kullanılan donanım, can salı denize indirilirken zamanından önce serbest bırakmayı önleyecek şekilde yapılmıştır. Can salı suya indiği zaman salı serbest bırakır.",
+      "d)  Denize indirme sistemi, gemi güvertesi üzerindeki bir mevkiden bir kişi tarafından çalıştırılabilecek şekilde dizayn edilmiştir.",
+      "e)  Bu donanım, gemi güç devresinden beslenen güç ile çalışacak şekilde yapılmıştır."
     ],
-    "correctAnswer": "e)  Bu donanım, gemi güç devresinden beslenen güç ile çalışacak şekilde"
+    "correctAnswer": "e)  Bu donanım, gemi güç devresinden beslenen güç ile çalışacak şekilde yapılmıştır."
   },
   {
     "id": 677,
@@ -8178,7 +8178,7 @@
       "a)  Filikanın lavra tapaları kapatılır",
       "b)  Motor çalıştırılır.",
       "c)  Filikayı tutan kanca gemiye bağlanır.",
-      "d)  Bütün kaportalar kapatılır, gerektiği takdirde hava tüpleri açılarak havalandırma",
+      "d)  Bütün kaportalar kapatılır, gerektiği takdirde hava tüpleri açılarak havalandırma başlatılır.",
       "e)  Mürettebat ve yolcular filikaya bindirilir, emniyet kemerleri takılır"
     ],
     "correctAnswer": "c)  Filikayı tutan kanca gemiye bağlanır."
@@ -8299,7 +8299,7 @@
       "b)  Kolonya, amonyak gibi maddeler burnuna koklatılmalıdır.",
       "c)  Bilinci kapalıyken bir şey içirmeye çalışılmaz.",
       "d)  Alnına ıslak havlu koyarak serinletme.",
-      "e)  Bacaklarının altını herhangi bir malzemeyle destekleyerek baş seviyesinden"
+      "e)  Bacaklarının altını herhangi bir malzemeyle destekleyerek baş seviyesinden yukarı olacak şekilde pozisyon verilir."
     ],
     "correctAnswer": "b)  Kolonya, amonyak gibi maddeler burnuna koklatılmalıdır."
   },
@@ -8310,10 +8310,10 @@
       "a)  Yarayı temiz pamukla kapattıktan sonra yara yeri sabit kalacak şekilde nakletmek",
       "b)  Yara üzerine tentürdiyot sürüp yarayı sarmak ve nakletmek",
       "c)  Yara üzerine merhem sürüp yarayı sarmak ve nakletmek",
-      "d)  Yarayı sargı bezi ile kapattıktan sonra yaralı bölge sabit kalacak şekilde",
+      "d)  Yarayı sargı bezi ile kapattıktan sonra yaralı bölge sabit kalacak şekilde nakletmek",
       "e)  Hiçbiri"
     ],
-    "correctAnswer": "d)  Yarayı sargı bezi ile kapattıktan sonra yaralı bölge sabit kalacak şekilde"
+    "correctAnswer": "d)  Yarayı sargı bezi ile kapattıktan sonra yaralı bölge sabit kalacak şekilde nakletmek"
   },
   {
     "id": 694,
@@ -8391,7 +8391,7 @@
     "id": 700,
     "question": "Aşağıdakilerden hangisi deniz kirliliğinin nedenlerindendir ?",
     "options": [
-      "a)  İhmal veya tedbirsizlik veya vasıfsız personel ve malzeme kullanılması sonucu",
+      "a)  İhmal veya tedbirsizlik veya vasıfsız personel ve malzeme kullanılması sonucu meydana gelen denize dökülmeler,",
       "b)  Yalnız (a) ve (c)",
       "c)  Hafifletme çalışmaları nedeni ile zorunlu olarak denize yük atılması,",
       "d)  ( a), (b) ve (c)",
@@ -8403,8 +8403,8 @@
     "id": 701,
     "question": "Petrol Kirliliği Acil Planının (SOPEP-Shipboard Oil Pollution Emergency Plan) asıl amacı nedir?",
     "options": [
-      "a)  Yürürlükteki antlasmaların müsaade ettiği oranın üstünde veya ani olarak bir",
-      "b)  Gemide veya donanımında hasar meydana geldiğinde petrol sızıntısını",
+      "a)  Yürürlükteki antlasmaların müsaade ettiği oranın üstünde veya ani olarak bir kirlenme durumunda, petrol sızıntısını durdurmak veya en aza indirmektir.",
+      "b)  Gemide veya donanımında hasar meydana geldiğinde petrol sızıntısını durdurmak veya en aza indirmek,",
       "c)  Petrol kirliliğinin önlenmesini sağlamak,",
       "d)  Petrol kirliliğinin bildirilmesi ile ilgili haber verme yöntemlerinin belirlenmesi,",
       "e)  Hepsi"
@@ -8431,9 +8431,9 @@
       "b)  Talimlerde ekip eğitimine değil birey eğitimine önem verilir,",
       "c)  Gemi zabitlerinin talime katılmasına gerek yoktur,",
       "d)  Talimlere sadece güverte personeli katılır,",
-      "e)  Role yerlerinde tüm mürettebat can yeleklerini giymiş bir şekilde toplanır ve"
+      "e)  Role yerlerinde tüm mürettebat can yeleklerini giymiş bir şekilde toplanır ve talim boyunca can yelekleri giyili tutulur,"
     ],
-    "correctAnswer": "e)  Role yerlerinde tüm mürettebat can yeleklerini giymiş bir şekilde toplanır ve"
+    "correctAnswer": "e)  Role yerlerinde tüm mürettebat can yeleklerini giymiş bir şekilde toplanır ve talim boyunca can yelekleri giyili tutulur,"
   },
   {
     "id": 704,
@@ -8536,12 +8536,12 @@
     "question": "Su içerisinde bulunan kazazedelerin yapmaları gereken davranış tarzı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "options": [
       "a)  Su içerisinde vücut sıcaklığını arttırmak için sürekli hareket edilmelidir.",
-      "b)  Yakında bir kara yada cansalı bulunmasa dahi kurtulmak ve ısınmak için",
+      "b)  Yakında bir kara yada cansalı bulunmasa dahi kurtulmak ve ısınmak için yüzülmelidir.",
       "c)  Kolları vücuda yapışık ve ayakları bitişik durumda tutulmalıdır.",
       "d)  Kaslara kramp girmiş ise sırtüstü pozisyonda durulmamalıdır.",
-      "e)  Bacaklar suda iken zaman zaman hafifi makas hareketi yapmak krampa neden"
+      "e)  Bacaklar suda iken zaman zaman hafifi makas hareketi yapmak krampa neden olacağından bu hareket yapılmamalıdır."
     ],
-    "correctAnswer": "c)  Kolları vücuda yapışık ve ayakları bitişik durumda tutulmalıdır."
+    "correctAnswer": "e)  Bacaklar suda iken zaman zaman hafifi makas hareketi yapmak krampa neden olacağından bu hareket yapılmamalıdır."
   },
   {
     "id": 713,
@@ -8657,11 +8657,11 @@
     "options": [
       "a)  Avuç içinden yararlanılarak nabız alınır.",
       "b)  Sadece işaret parmağından yararlanılarak nabız alınır.",
-      "c)  Orta ve yüzük parmaklarının üçü yan yana getirilerek bu üç parmağın parmak uç",
-      "d)  İşaret ve yüzük parmaklarının üçü yan yana getirilerek bu üç parmağın parmak",
-      "e)  İşaret, orta ve yüzük parmaklarının üçü yan yana getirilerek bu üç parmağın"
+      "c)  Orta ve yüzük parmaklarının üçü yan yana getirilerek bu üç parmağın parmak uç bölgelerinden yararlanılarak nabız alınır.",
+      "d)  İşaret ve yüzük parmaklarının üçü yan yana getirilerek bu üç parmağın parmak uç bölgelerinden yararlanılarak nabız alınır.",
+      "e)  İşaret, orta ve yüzük parmaklarının üçü yan yana getirilerek bu üç parmağın parmak uç bölgelerinden yararlanılarak nabız alınır."
     ],
-    "correctAnswer": "e)  İşaret, orta ve yüzük parmaklarının üçü yan yana getirilerek bu üç parmağın"
+    "correctAnswer": "e)  İşaret, orta ve yüzük parmaklarının üçü yan yana getirilerek bu üç parmağın parmak uç bölgelerinden yararlanılarak nabız alınır."
   },
   {
     "id": 723,
@@ -8703,10 +8703,10 @@
     "id": 726,
     "question": "Ağız yaralanmalarında ilk yardımda aşağıdakilerden hangisi yapılmamalıdır.",
     "options": [
-      "a)  Dilde bir kesi veya ısırmaya bağlı yaralanma varsa temiz bir bezle basınç",
+      "a)  Dilde bir kesi veya ısırmaya bağlı yaralanma varsa temiz bir bezle basınç uygulanmalıdır.",
       "b)  Ağız içi su, herhangi bir kimyasal madde ya da alkolle çalkalanmalıdır.",
       "c)  Baş geri pozisyonuna yatırılmamalıdır.",
-      "d)  Çenede kırık varsa, çene altından geçirilen bir sargı ile baş üzerinde bağlama ile",
+      "d)  Çenede kırık varsa, çene altından geçirilen bir sargı ile baş üzerinde bağlama ile tespiti sağlanmalıdır.",
       "e)  Kırık diş parçaları ağız içerisinden çıkarılmalıdır."
     ],
     "correctAnswer": "b)  Ağız içi su, herhangi bir kimyasal madde ya da alkolle çalkalanmalıdır."
@@ -8741,11 +8741,11 @@
     "options": [
       "a)  Acil yardım ekibi ulaşıncaya kadar bir müdahalede bulunmamak.",
       "b)  Gözlenebilen tek bir yaraya göre değerlendirme yapmak",
-      "c)  Bütün uygulamalarda ilk yardımcı, yaşamsal destek için gerekli olandan",
-      "d)  Bulunduğu ortamda başka bir kazaya neden olacak herhangi bir durum varsa,",
-      "e)  Yaralı ya da aniden hastalanmış bir kişi, bulunduğu ortamda ikincil bir kazaya"
+      "c)  Bütün uygulamalarda ilk yardımcı, yaşamsal destek için gerekli olandan daha fazlasını yapmaktan kaçınmalıdır.",
+      "d)  Bulunduğu ortamda başka bir kazaya neden olacak herhangi bir durum varsa, hastayı olduğu yerde bırakmak.",
+      "e)  Yaralı ya da aniden hastalanmış bir kişi, bulunduğu ortamda ikincil bir kazaya neden olacak herhangi bir durum yoksa, kaldırıp hareket ettirilmelidir."
     ],
-    "correctAnswer": "c)  Bütün uygulamalarda ilk yardımcı, yaşamsal destek için gerekli olandan"
+    "correctAnswer": "c)  Bütün uygulamalarda ilk yardımcı, yaşamsal destek için gerekli olandan daha fazlasını yapmaktan kaçınmalıdır."
   },
   {
     "id": 730,
@@ -9151,7 +9151,7 @@
       "b)  3",
       "c)  2",
       "d)  8",
-      "e)  6"
+      "e)  6 Denizde Kişisel Cankurtarma Teknikleri"
     ],
     "correctAnswer": "b)  3"
   },
@@ -9183,13 +9183,13 @@
     "id": 766,
     "question": "Aşağıdaki ifadelerden hangisi yanlıştır?",
     "options": [
-      "a)  Filikanın motoru çalıştırılmadığı zamanlarda da, filikanın başını denizlere dik",
-      "b)  Can salının zemini, donatım çantası içinde bulunan pompa ve körükler",
-      "c)  Tropik iklimin hakim olduğu denizlerde, can salının taban kısmını şişirmeyerek",
-      "d)  Herkes can salının içine girdikten sonra, soğuktan ve ıslanmaktan korunmak için",
-      "e)  Dalgalı havalarda, sallar birbirlerine bağlanırsa, aralarındaki mesafe en az"
+      "a)  Filikanın motoru çalıştırılmadığı zamanlarda da, filikanın başını denizlere dik tutmak üzere deniz demiri kullanılır.",
+      "b)  Can salının zemini, donatım çantası içinde bulunan pompa ve körükler kullanılarak, merkezdeki valftan şişirilmelidir.",
+      "c)  Tropik iklimin hakim olduğu denizlerde, can salının taban kısmını şişirmeyerek salın serin olması sağlanır.",
+      "d)  Herkes can salının içine girdikten sonra, soğuktan ve ıslanmaktan korunmak için salın girişleri kapatılmalıdır.",
+      "e)  Dalgalı havalarda, sallar birbirlerine bağlanırsa, aralarındaki mesafe en az beş(5) metre olmalıdır."
     ],
-    "correctAnswer": "e)  Dalgalı havalarda, sallar birbirlerine bağlanırsa, aralarındaki mesafe en az"
+    "correctAnswer": "e)  Dalgalı havalarda, sallar birbirlerine bağlanırsa, aralarındaki mesafe en az beş(5) metre olmalıdır."
   },
   {
     "id": 767,
@@ -9235,7 +9235,7 @@
       "b)  40cm, 80 cm, 2.5 Kg",
       "c)  35cm ,70 cm, 2 Kg",
       "d)  40cm, 70 cm, 2 Kg",
-      "e)  50cm, 90 cm, 5 Kg"
+      "e)  50cm, 90 cm, 5 Kg Temel İlkyardım"
     ],
     "correctAnswer": "b)  40cm, 80 cm, 2.5 Kg"
   },
@@ -9267,13 +9267,13 @@
     "id": 773,
     "question": "Başa alınan darbe sonucu kulaktan kan geliyorsa Aşağıdakilerden hangisi uygulanır?",
     "options": [
-      "a)  Kazazedenin kan akan bölgesi üstte kalacak şekilde yan yatırılır ve kanama",
-      "b)  Kazazedenin kan akan bölgesi altta kalacak şekilde yan yatırılır ve kanama",
+      "a)  Kazazedenin kan akan bölgesi üstte kalacak şekilde yan yatırılır ve kanama engellenir",
+      "b)  Kazazedenin kan akan bölgesi altta kalacak şekilde yan yatırılır ve kanama engellenir",
       "c)  Kazazede sandalyede oturtulur, kulak saılarak kanın dışarı akması engellenir",
       "d)  Kazazede oturtulur, kulağına pamuk tıkanır",
       "e)  Kazazede sırüstü yatırılır,ayakları yukarı kaldırılır"
     ],
-    "correctAnswer": "b)  Kazazedenin kan akan bölgesi altta kalacak şekilde yan yatırılır ve kanama"
+    "correctAnswer": "b)  Kazazedenin kan akan bölgesi altta kalacak şekilde yan yatırılır ve kanama engellenir"
   },
   {
     "id": 774,
@@ -9283,7 +9283,7 @@
       "b)  5:1",
       "c)  50:2",
       "d)  30:2",
-      "e)  10:1"
+      "e)  10:1 Yangın Önleme ve Yangınla Mücadele"
     ],
     "correctAnswer": "d)  30:2"
   },
@@ -9306,7 +9306,7 @@
       "a)  Her gemide taşınamaz",
       "b)  Su sitim köpük gibi söndürücü kullanılması tehlikelidir",
       "c)  Özel donanımlı gemilerde taşınması uygundur",
-      "d)  Bu maddelerin sebep olduğu küçük yangınlar toz veya kum ile nötralize",
+      "d)  Bu maddelerin sebep olduğu küçük yangınlar toz veya kum ile nötralize edilmelidir",
       "e)  Hepsi doğrudur"
     ],
     "correctAnswer": "e)  Hepsi doğrudur"
@@ -9331,9 +9331,9 @@
       "b)  Katı madde",
       "c)  Elektrik",
       "d)  Kimyasal gaz",
-      "e)  Kimyasal katı madde"
+      "e)  Kimyasal katı madde Personel Güvenliği ve Sosyal Sorumluluk"
     ],
-    "correctAnswer": "e)  Kimyasal katı madde"
+    "correctAnswer": "e)  Kimyasal katı madde Personel Güvenliği ve Sosyal Sorumluluk"
   },
   {
     "id": 779,
@@ -9403,7 +9403,7 @@
       "b)  Kırmızı",
       "c)  Siyah",
       "d)  Beyaz",
-      "e)  Yeşil"
+      "e)  Yeşil Cankurtarma Araçlarını Kullanma"
     ],
     "correctAnswer": "a)  Mavi"
   },
@@ -9412,8 +9412,8 @@
     "question": "Kızaklı mataforalı can filikasını denize indirmede yapılacak işlemlerden hangisi yanlıştır?",
     "options": [
       "a)  Gemide kalan indirme görevlisi çarmıh yardımı ile filikaya iner",
-      "b)  Trentileri sabit tutan kastanyolaya kumanda edilerek filika binme güvertesine",
-      "c)  Filikanın içerisine yağmur ve diğer nedenler ile dolan suyun kendi kendine",
+      "b)  Trentileri sabit tutan kastanyolaya kumanda edilerek filika binme güvertesine kadar indirilir",
+      "c)  Filikanın içerisine yağmur ve diğer nedenler ile dolan suyun kendi kendine boşalmasını sağlayan lavra deliklerinin tapaları kapatılır",
       "d)  Matafora kollarını kızak üzerinde sabitlemek için emniyet pimleri takılır",
       "e)  Karanfil halatı üzerindeki can halat rodaları açılır"
     ],
