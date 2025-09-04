@@ -1,7 +1,5 @@
-import React, { useState, useEffect, useCallback, useMemo, useRef } from "react";
+import React, { useState, useEffect, useCallback, useMemo } from "react";
 import { useStore } from "../store";
-import axios from "axios";
-import Markdown from "react-markdown";
 import { useTranslation } from "react-i18next";
 
 const HISTORY_BUFFER_SIZE = 5;
@@ -16,70 +14,80 @@ const RandomQuestionGame = () => {
   const [isCorrect, setIsCorrect] = useState(false);
   const [questionHistory, setQuestionHistory] = useState([]);
   const [historyIndex, setHistoryIndex] = useState(-1);
-  const askedQuestionIds = useRef(new Set());
   const [score, setScore] = useState({
     correct: 0,
     incorrect: 0,
   });
-  const [fetchGeminiData, setFetchGeminiData] = useState(false);
-  const [geminiData, setGeminiData] = useState("");
-  const [isGeminiLoading, setIsGeminiLoading] = useState(false);
-  const [geminiError, setGeminiError] = useState(null);
+  const [questionWeights, setQuestionWeights] = useState({});
 
+  // Load question weights from localStorage
   useEffect(() => {
-    if (fetchGeminiData) {
-      const fetchData = async () => {
-        setIsGeminiLoading(true);
-        setGeminiError(null);
-        const geminiData = `${
-          currentQuestion?.question
-        } ${currentQuestion?.options.join(" ")}\nDoğru Cevap: ${
-          currentQuestion?.correctAnswer
-        }\nSoruyu açıkla.`;
-        try {
-          const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${process.env.REACT_APP_GEMINI_API_KEY}`;
-          const response = await axios.post(url, {
-            contents: [
-              {
-                parts: [{ text: geminiData }],
-              },
-            ],
-          });
-          setGeminiData(response.data.candidates[0].content.parts[0].text);
-          setIsGeminiLoading(false);
-        } catch (error) {
-          setGeminiError(error);
-        } finally {
-          setIsGeminiLoading(false);
-        }
-        setFetchGeminiData(false);
-      };
+    const storedWeights = JSON.parse(localStorage.getItem("questionWeights")) || {};
+    setQuestionWeights(storedWeights);
+  }, []);
 
-      fetchData();
+  // Initialize weights for new questions
+  const getQuestionWeight = useCallback((questionId) => {
+    return questionWeights[questionId] || 1.0; // Default weight is 1.0
+  }, [questionWeights]);
+
+  // Update question weight based on answer result
+  const updateQuestionWeight = useCallback((questionId, isCorrect, isVeryEasy = false) => {
+    setQuestionWeights(prev => {
+      const currentWeight = prev[questionId] || 1.0;
+      let newWeight;
+      
+      if (isCorrect) {
+        if (isVeryEasy) {
+          // Very easy: weight drops significantly (almost retired)
+          newWeight = Math.max(currentWeight * 0.1, 0.01);
+        } else {
+          // Correct: weight decreases
+          newWeight = Math.max(currentWeight * 0.7, 0.1);
+        }
+      } else {
+        // Wrong: weight increases
+        newWeight = Math.min(currentWeight * 1.5, 10.0);
+      }
+      
+      const updated = { ...prev, [questionId]: newWeight };
+      localStorage.setItem("questionWeights", JSON.stringify(updated));
+      return updated;
+    });
+  }, []);
+
+  // Weighted random question selection
+  const getWeightedRandomQuestion = useCallback((questions) => {
+    if (questions.length === 0) return null;
+    
+    // Calculate total weight
+    const totalWeight = questions.reduce((total, question) => {
+      return total + getQuestionWeight(question.id);
+    }, 0);
+
+    if (totalWeight === 0) return questions[0]; // Fallback if all weights are 0
+
+    // Select based on weight
+    let randomWeight = Math.random() * totalWeight;
+    
+    for (const question of questions) {
+      const weight = getQuestionWeight(question.id);
+      randomWeight -= weight;
+      if (randomWeight <= 0) {
+        return question;
+      }
     }
-  }, [fetchGeminiData, currentQuestion]);
+    
+    return questions[0]; // Fallback
+  }, [getQuestionWeight]);
 
   const loadNewQuestion = useCallback(() => {
     if (questions.length === 0) return;
 
-    // Filter out questions that have already been asked in this session
-    const unaskedQuestions = questions.filter(question => !askedQuestionIds.current.has(question.id));
+    // Use weighted selection instead of random selection
+    const newQuestion = getWeightedRandomQuestion(questions);
     
-    let newQuestion;
-
-    // If all questions have been asked, reset and start over
-    if (unaskedQuestions.length === 0) {
-      askedQuestionIds.current = new Set();
-      newQuestion = questions[Math.floor(Math.random() * questions.length)];
-    } else {
-      // Select a random question from unasked questions
-      newQuestion = unaskedQuestions[Math.floor(Math.random() * unaskedQuestions.length)];
-    }
-
     if (!newQuestion) return;
-
-    // Add this question to the asked questions set
-    askedQuestionIds.current.add(newQuestion.id);
 
     setCurrentQuestion(newQuestion);
     setUserAnswer("");
@@ -99,13 +107,7 @@ const RandomQuestionGame = () => {
       return updatedHistory.slice(-HISTORY_BUFFER_SIZE);
     });
     setHistoryIndex((prev) => Math.min(prev + 1, HISTORY_BUFFER_SIZE - 1));
-    setGeminiData("");
-  }, [questions]);
-
-  useEffect(() => {
-    // Reset asked questions when category or questions change
-    askedQuestionIds.current = new Set();
-  }, [selectedCategory, questions]);
+  }, [questions, getWeightedRandomQuestion]);
 
   useEffect(() => {
     loadNewQuestion();
@@ -152,6 +154,9 @@ const RandomQuestionGame = () => {
         incorrect: !isAnswerCorrect ? prev.incorrect + 1 : prev.incorrect,
       }));
 
+      // Update question weight based on answer correctness
+      updateQuestionWeight(currentQuestion.id, isAnswerCorrect);
+
       setQuestionHistory((prev) => {
         const updated = [...prev];
         updated[historyIndex] = {
@@ -163,8 +168,16 @@ const RandomQuestionGame = () => {
         return updated;
       });
     },
-    [currentQuestion, historyIndex, checkAnswerCorrectness]
+    [currentQuestion, historyIndex, checkAnswerCorrectness, updateQuestionWeight]
   );
+
+  // Handle "Very Easy" button click
+  const handleVeryEasy = useCallback(() => {
+    if (currentQuestion && isCorrect) {
+      // Apply additional weight reduction for "very easy" questions
+      updateQuestionWeight(currentQuestion.id, true, true);
+    }
+  }, [currentQuestion, isCorrect, updateQuestionWeight]);
 
   const isQuestionAvailable = useMemo(() => questions.length > 0, [questions]);
 
@@ -240,6 +253,20 @@ const RandomQuestionGame = () => {
               </span>
             </p>
           )}
+          {/* Very Easy button - only shown after correct answers */}
+          {isCorrect && (
+            <div className="mt-3">
+              <button
+                onClick={handleVeryEasy}
+                className="bg-blue-500 dark:bg-blue-600 text-white px-3 py-1 rounded-md text-sm hover:bg-blue-600 dark:hover:bg-blue-700 transition duration-300 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-50"
+              >
+                {t("veryEasy") || "Very Easy"}
+              </button>
+              <p className="text-xs text-gray-500 dark:text-gray-400 mt-1">
+                {t("veryEasyHelper") || "Click if this question was very easy for you"}
+              </p>
+            </div>
+          )}
         </div>
       )}
       <div className="flex justify-between items-center">
@@ -276,7 +303,9 @@ const RandomQuestionGame = () => {
               setScore({ correct: 0, incorrect: 0 });
               setQuestionHistory([]);
               setHistoryIndex(-1);
-              askedQuestionIds.current = new Set();
+              // Clear question weights as well
+              setQuestionWeights({});
+              localStorage.removeItem("questionWeights");
             }}
             className="mt-2 bg-gray-100 dark:bg-gray-700 text-black dark:text-white px-1 py-1 rounded-lg hover:bg-red-600 dark:hover:bg-red-700 transition duration-300 focus:outline-none focus:ring-2 focus:ring-red-400 focus:ring-opacity-50 text-xs my-2"
           >

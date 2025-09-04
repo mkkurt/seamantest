@@ -29,5 +29,7 @@
   "dark": "Koyu",
   "system": "Sistem",
   "appearance": "Görünüm",
-  "language": "Dil"
+  "language": "Dil",
+  "veryEasy": "Çok Kolay",
+  "veryEasyHelper": "Bu soru sizin için çok kolaysa tıklayın"
 }

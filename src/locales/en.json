@@ -29,5 +29,7 @@
   "dark": "Dark",
   "system": "System",
   "appearance": "Appearance",
-  "language": "Language"
+  "language": "Language",
+  "veryEasy": "Very Easy",
+  "veryEasyHelper": "Click if this question was very easy for you"
 }
