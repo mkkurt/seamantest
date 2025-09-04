@@ -29,5 +29,7 @@
   "dark": "Koyu",
   "system": "Sistem",
   "appearance": "Görünüm",
-  "language": "Dil"
+  "language": "Dil",
+  "questionSettings": "Soru Ayarları",
+  "avoidRepeatQuestions": "Tekrarlanan soruları önle"
 }

@@ -3,6 +3,7 @@ import { ChevronDown, ChevronUp, Sun, Moon, Monitor } from "lucide-react";
 import { useStore } from "../store";
 import { useTranslation } from "react-i18next";
 import { useTheme } from "../hooks/useTheme";
+import { useQuestionSettings } from "../hooks/useQuestionSettings";
 
 const Topbar = ({ onSelectTest }) => {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
@@ -15,6 +16,7 @@ const Topbar = ({ onSelectTest }) => {
   const settingsRef = useRef(null);
   const categoriesRef = useRef(null);
   const { theme, setTheme } = useTheme();
+  const { avoidRepeatQuestions, setAvoidRepeatQuestions } = useQuestionSettings();
 
   const { t, i18n } = useTranslation();
 
@@ -252,7 +254,7 @@ const Topbar = ({ onSelectTest }) => {
               </div>
 
               {/* Theme Section */}
-              <div>
+              <div className="mb-4">
                 <h3 className="text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
                   {t("appearance")}
                 </h3>
@@ -271,6 +273,36 @@ const Topbar = ({ onSelectTest }) => {
                       <span>{label}</span>
                     </button>
                   ))}
+                </div>
+              </div>
+
+              {/* Question Settings Section */}
+              <div>
+                <h3 className="text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+                  {t("questionSettings") || "Question Settings"}
+                </h3>
+                <div className="space-y-1">
+                  <button
+                    className={`w-full text-left p-2 rounded-md text-sm transition-colors flex items-center justify-between ${
+                      avoidRepeatQuestions
+                        ? "bg-blue-100 dark:bg-blue-900 text-blue-700 dark:text-blue-300"
+                        : "hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-300"
+                    }`}
+                    onClick={() => setAvoidRepeatQuestions(!avoidRepeatQuestions)}
+                  >
+                    <span>{t("avoidRepeatQuestions") || "Avoid repeat questions"}</span>
+                    <div className={`w-4 h-4 rounded border-2 flex items-center justify-center ${
+                      avoidRepeatQuestions 
+                        ? "bg-blue-600 border-blue-600" 
+                        : "border-gray-300 dark:border-gray-600"
+                    }`}>
+                      {avoidRepeatQuestions && (
+                        <svg className="w-3 h-3 text-white" fill="currentColor" viewBox="0 0 20 20">
+                          <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                        </svg>
+                      )}
+                    </div>
+                  </button>
                 </div>
               </div>
             </div>

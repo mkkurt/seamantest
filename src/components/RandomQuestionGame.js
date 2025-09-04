@@ -3,6 +3,7 @@ import { useStore } from "../store";
 import axios from "axios";
 import Markdown from "react-markdown";
 import { useTranslation } from "react-i18next";
+import { useQuestionSettings } from "../hooks/useQuestionSettings";
 
 const HISTORY_BUFFER_SIZE = 5;
 
@@ -10,6 +11,7 @@ const RandomQuestionGame = () => {
   const { t, i18n } = useTranslation();
   const { state } = useStore();
   const { selectedCategory, questions } = state;
+  const { avoidRepeatQuestions } = useQuestionSettings();
   const [currentQuestion, setCurrentQuestion] = useState(null);
   const [userAnswer, setUserAnswer] = useState("");
   const [showResult, setShowResult] = useState(false);
@@ -62,24 +64,31 @@ const RandomQuestionGame = () => {
   const loadNewQuestion = useCallback(() => {
     if (questions.length === 0) return;
 
-    // Filter out questions that have already been asked in this session
-    const unaskedQuestions = questions.filter(question => !askedQuestionIds.current.has(question.id));
-    
     let newQuestion;
 
-    // If all questions have been asked, reset and start over
-    if (unaskedQuestions.length === 0) {
-      askedQuestionIds.current = new Set();
-      newQuestion = questions[Math.floor(Math.random() * questions.length)];
+    if (avoidRepeatQuestions) {
+      // Filter out questions that have already been asked in this session
+      const unaskedQuestions = questions.filter(question => !askedQuestionIds.current.has(question.id));
+      
+      // If all questions have been asked, reset and start over
+      if (unaskedQuestions.length === 0) {
+        askedQuestionIds.current = new Set();
+        newQuestion = questions[Math.floor(Math.random() * questions.length)];
+      } else {
+        // Select a random question from unasked questions
+        newQuestion = unaskedQuestions[Math.floor(Math.random() * unaskedQuestions.length)];
+      }
     } else {
-      // Select a random question from unasked questions
-      newQuestion = unaskedQuestions[Math.floor(Math.random() * unaskedQuestions.length)];
+      // Select any random question without avoiding repetition
+      newQuestion = questions[Math.floor(Math.random() * questions.length)];
     }
 
     if (!newQuestion) return;
 
-    // Add this question to the asked questions set
-    askedQuestionIds.current.add(newQuestion.id);
+    // Add this question to the asked questions set only if avoiding repetition
+    if (avoidRepeatQuestions) {
+      askedQuestionIds.current.add(newQuestion.id);
+    }
 
     setCurrentQuestion(newQuestion);
     setUserAnswer("");
@@ -100,7 +109,7 @@ const RandomQuestionGame = () => {
     });
     setHistoryIndex((prev) => Math.min(prev + 1, HISTORY_BUFFER_SIZE - 1));
     setGeminiData("");
-  }, [questions]);
+  }, [questions, avoidRepeatQuestions]);
 
   useEffect(() => {
     // Reset asked questions when category or questions change
@@ -276,7 +285,9 @@ const RandomQuestionGame = () => {
               setScore({ correct: 0, incorrect: 0 });
               setQuestionHistory([]);
               setHistoryIndex(-1);
-              askedQuestionIds.current = new Set();
+              if (avoidRepeatQuestions) {
+                askedQuestionIds.current = new Set();
+              }
             }}
             className="mt-2 bg-gray-100 dark:bg-gray-700 text-black dark:text-white px-1 py-1 rounded-lg hover:bg-red-600 dark:hover:bg-red-700 transition duration-300 focus:outline-none focus:ring-2 focus:ring-red-400 focus:ring-opacity-50 text-xs my-2"
           >

@@ -4,6 +4,7 @@ import "./App.css";
 import DynamicTest from "./DynamicTest";
 import { StoreProvider } from "./store";
 import { ThemeProvider } from "./hooks/useTheme";
+import { QuestionSettingsProvider } from "./hooks/useQuestionSettings";
 
 function App() {
   const currentLanguage = i18next.language;
@@ -30,11 +31,13 @@ function App() {
         />
       </Helmet>
       <ThemeProvider>
-        <StoreProvider>
-          <div className="App bg-gray-50 dark:bg-gray-900 min-h-screen transition-colors duration-300">
-            <DynamicTest />
-          </div>
-        </StoreProvider>
+        <QuestionSettingsProvider>
+          <StoreProvider>
+            <div className="App bg-gray-50 dark:bg-gray-900 min-h-screen transition-colors duration-300">
+              <DynamicTest />
+            </div>
+          </StoreProvider>
+        </QuestionSettingsProvider>
       </ThemeProvider>
     </>
   );

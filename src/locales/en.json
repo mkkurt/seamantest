@@ -29,5 +29,7 @@
   "dark": "Dark",
   "system": "System",
   "appearance": "Appearance",
-  "language": "Language"
+  "language": "Language",
+  "questionSettings": "Question Settings",
+  "avoidRepeatQuestions": "Avoid repeat questions"
 }
