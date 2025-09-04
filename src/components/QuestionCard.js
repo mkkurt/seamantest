@@ -19,21 +19,21 @@ const QuestionCard = ({
   };
 
   return (
-    <div className="bg-white rounded-lg shadow-md p-6 mb-6">
-      <h2 className="text-xl font-semibold mb-4">{question}</h2>
+    <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 mb-6 transition-colors duration-300">
+      <h2 className="text-xl font-semibold mb-4 text-gray-900 dark:text-white">{question}</h2>
       <div className="space-y-2">
         {options.map((option, index) => {
           const isCorrect = option === correctAnswer;
           const isSelected = selectedAnswer === option;
 
-          let optionClasses = "text-gray-700";
+          let optionClasses = "text-gray-700 dark:text-gray-300";
           if (isSubmitted) {
             if (isSelected && isCorrect) {
-              optionClasses = "text-green-600 font-semibold";
+              optionClasses = "text-green-600 dark:text-green-400 font-semibold";
             } else if (isSelected && !isCorrect) {
-              optionClasses = "text-red-600 font-semibold";
+              optionClasses = "text-red-600 dark:text-red-400 font-semibold";
             } else if (isCorrect) {
-              optionClasses = "text-green-600 font-semibold";
+              optionClasses = "text-green-600 dark:text-green-400 font-semibold";
             }
           }
 
@@ -63,7 +63,7 @@ const QuestionCard = ({
       <div className="mt-4">
         <button
           onClick={() => setShowAnswer(!showAnswer)}
-          className="flex items-center text-blue-500 hover:text-blue-700"
+          className="flex items-center text-blue-500 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 transition-colors"
         >
           {showAnswer ? (
             <>
@@ -78,7 +78,7 @@ const QuestionCard = ({
           )}
         </button>
         {showAnswer && (
-          <p className="mt-2 text-green-600 font-semibold">{correctAnswer}</p>
+          <p className="mt-2 text-green-600 dark:text-green-400 font-semibold">{correctAnswer}</p>
         )}
       </div>
     </div>

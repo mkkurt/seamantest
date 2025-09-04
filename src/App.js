@@ -3,6 +3,7 @@ import { Helmet } from "react-helmet";
 import "./App.css";
 import DynamicTest from "./DynamicTest";
 import { StoreProvider } from "./store";
+import { ThemeProvider } from "./hooks/useTheme";
 
 function App() {
   const currentLanguage = i18next.language;
@@ -28,11 +29,13 @@ function App() {
           }
         />
       </Helmet>
-      <StoreProvider>
-        <div className="App">
-          <DynamicTest />
-        </div>
-      </StoreProvider>
+      <ThemeProvider>
+        <StoreProvider>
+          <div className="App bg-gray-50 dark:bg-gray-900 min-h-screen transition-colors duration-300">
+            <DynamicTest />
+          </div>
+        </StoreProvider>
+      </ThemeProvider>
     </>
   );
 }

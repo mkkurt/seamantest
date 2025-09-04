@@ -55,7 +55,7 @@ const DynamicTest = () => {
 
         {/* Main content */}
         <main
-          className="flex-1 overflow-y-auto p-4 md:p-8"
+          className="flex-1 overflow-y-auto p-4 md:p-8 bg-gray-50 dark:bg-gray-900 transition-colors duration-300"
           ref={testContentRef}
         >
           {/* Sidebar toggle button */}
@@ -68,7 +68,7 @@ const DynamicTest = () => {
           </button> */}
 
           {state.selectedCategory && state.selectedTest && (
-            <h1 className="text-xl font-bold mb-4 text-gray-800">
+            <h1 className="text-xl font-bold mb-4 text-gray-800 dark:text-white">
               {state.selectedCategory} - {state.selectedTest}
             </h1>
           )}
@@ -81,8 +81,8 @@ const DynamicTest = () => {
                       key={mode}
                       className={`px-4 py-2 rounded transition-colors ${
                         state.quizMode === mode
-                          ? "bg-blue-500 text-white"
-                          : "bg-gray-200 text-gray-700 hover:bg-gray-300"
+                          ? "bg-blue-500 dark:bg-blue-600 text-white"
+                          : "bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-300 dark:hover:bg-gray-600"
                       }`}
                       onClick={() =>
                         dispatch({ type: "SET_QUIZ_MODE", payload: mode })
@@ -110,7 +110,7 @@ const DynamicTest = () => {
               {state.quizMode === "random" && <RandomQuestionGame />}
             </>
           ) : (
-            <p className="text-xl text-gray-600">
+            <p className="text-xl text-gray-600 dark:text-gray-400">
               {/* Select a category and test from the sidebar to begin. */}
               {t("selectAcategoryToBegin")}
             </p>

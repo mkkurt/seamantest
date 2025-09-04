@@ -1,8 +1,8 @@
 import React, { useState, useEffect, useRef } from "react";
-import { ChevronDown, ChevronUp } from "lucide-react";
+import { ChevronDown, ChevronUp, Sun, Moon, Monitor } from "lucide-react";
 import { useStore } from "../store";
 import { useTranslation } from "react-i18next";
-import { use } from "i18next";
+import { useTheme } from "../hooks/useTheme";
 
 const Topbar = ({ onSelectTest }) => {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
@@ -14,10 +14,16 @@ const Topbar = ({ onSelectTest }) => {
   const { categories, selectedCategory, selectedTest } = state;
   const settingsRef = useRef(null);
   const categoriesRef = useRef(null);
+  const { theme, setTheme } = useTheme();
 
   const { t, i18n } = useTranslation();
 
   const languages = ["tr", "en"];
+  const themes = [
+    { key: "light", label: t("light"), icon: Sun },
+    { key: "dark", label: t("dark"), icon: Moon },
+    { key: "system", label: t("system"), icon: Monitor }
+  ];
 
   const toggleDropdown = () => {
     setIsDropdownOpen((prev) => !prev);
@@ -95,10 +101,10 @@ const Topbar = ({ onSelectTest }) => {
 
   return (
     <div
-      className={`w-full bg-white shadow-md h-16 flex items-center px-4 transition-transform duration-300 `}
+      className={`w-full bg-white dark:bg-gray-800 shadow-md h-16 flex items-center px-4 transition-all duration-300`}
     >
       <div className="flex items-center w-full justify-between">
-        <div className="text-xl font-bold text-gray-800">
+        <div className="text-xl font-bold text-gray-800 dark:text-white">
           {t("topBarTitle")}
         </div>
 
@@ -107,8 +113,8 @@ const Topbar = ({ onSelectTest }) => {
           ref={categoriesRef}
         >
           <button
-            className={`text-gray-800 flex items-center space-x-2 p-2 rounded-md ${
-              isDropdownOpen ? "bg-blue-100 text-blue-700" : "hover:bg-gray-100"
+            className={`text-gray-800 dark:text-white flex items-center space-x-2 p-2 rounded-md transition-colors ${
+              isDropdownOpen ? "bg-blue-100 dark:bg-blue-900 text-blue-700 dark:text-blue-300" : "hover:bg-gray-100 dark:hover:bg-gray-700"
             }`}
             onClick={toggleDropdown}
           >
@@ -136,15 +142,15 @@ const Topbar = ({ onSelectTest }) => {
           </button>
 
           {isDropdownOpen && (
-            <div className="absolute top-16 left-0 w-64 bg-white shadow-lg rounded-md z-10">
+            <div className="absolute top-16 left-0 w-64 bg-white dark:bg-gray-800 shadow-lg rounded-md z-10 border dark:border-gray-700">
               <ul className="py-2">
                 {Object.entries(categories).map(([category, { tests }]) => (
                   <li key={category}>
                     <button
-                      className={`w-full text-left p-2 rounded-md ${
+                      className={`w-full text-left p-2 rounded-md text-gray-800 dark:text-white transition-colors ${
                         selectedCategory === category
-                          ? "bg-blue-100 text-blue-700"
-                          : "hover:bg-gray-100"
+                          ? "bg-blue-100 dark:bg-blue-900 text-blue-700 dark:text-blue-300"
+                          : "hover:bg-gray-100 dark:hover:bg-gray-700"
                       }`}
                       onClick={() => {
                         toggleCategory(category);
@@ -167,11 +173,11 @@ const Topbar = ({ onSelectTest }) => {
                       <ul className="ml-4 mt-2 space-y-1 h-32 h-64 overflow-y-scroll">
                         <li>
                           <button
-                            className={`w-full text-left p-2 rounded-md text-sm ${
+                            className={`w-full text-left p-2 rounded-md text-sm transition-colors ${
                               selectedTest === "All Questions"
                                 ? // ? "bg-blue-50 text-blue-600 font-semibold"
-                                  "bg-blue-50 text-blue-600"
-                                : "hover:bg-gray-50"
+                                  "bg-blue-50 dark:bg-blue-900/50 text-blue-600 dark:text-blue-300"
+                                : "hover:bg-gray-50 dark:hover:bg-gray-700/50 text-gray-700 dark:text-gray-300"
                             }`}
                             onClick={() =>
                               handleCategorySelect(category, "All Questions")
@@ -183,11 +189,11 @@ const Topbar = ({ onSelectTest }) => {
                         {Object.keys(tests).map((test) => (
                           <li key={test}>
                             <button
-                              className={`w-full text-left p-2 rounded-md text-sm ${
+                              className={`w-full text-left p-2 rounded-md text-sm transition-colors ${
                                 selectedTest === test &&
                                 selectedCategory === category
-                                  ? "bg-blue-50 text-blue-600"
-                                  : "hover:bg-gray-50"
+                                  ? "bg-blue-50 dark:bg-blue-900/50 text-blue-600 dark:text-blue-300"
+                                  : "hover:bg-gray-50 dark:hover:bg-gray-700/50 text-gray-700 dark:text-gray-300"
                               }`}
                               onClick={() =>
                                 handleCategorySelect(category, test)
@@ -207,8 +213,8 @@ const Topbar = ({ onSelectTest }) => {
         </div>
         <div className="relative flex items-center" ref={settingsRef}>
           <button
-            className={`text-gray-800 flex items-center space-x-2 p-2 rounded-md ${
-              isSettingsOpen ? "bg-blue-100 text-blue-700" : "hover:bg-gray-100"
+            className={`text-gray-800 dark:text-white flex items-center space-x-2 p-2 rounded-md transition-colors ${
+              isSettingsOpen ? "bg-blue-100 dark:bg-blue-900 text-blue-700 dark:text-blue-300" : "hover:bg-gray-100 dark:hover:bg-gray-700"
             }`}
             onClick={toggleSettings}
           >
@@ -221,25 +227,52 @@ const Topbar = ({ onSelectTest }) => {
           </button>
           {isSettingsOpen && (
             <div
-              className="absolute top-16 right-0 w-64 bg-white shadow-lg rounded-md z-10 p-2
-            "
+              className="absolute top-16 right-0 w-64 bg-white dark:bg-gray-800 shadow-lg rounded-md z-10 p-3 border dark:border-gray-700"
             >
-              <ul>
-                {languages.map((lang) => (
-                  <li key={lang} className="my-2">
+              {/* Language Section */}
+              <div className="mb-4">
+                <h3 className="text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+                  {t("language")}
+                </h3>
+                <div className="space-y-1">
+                  {languages.map((lang) => (
                     <button
-                      className={`w-full text-left p-2 rounded-md ${
+                      key={lang}
+                      className={`w-full text-left p-2 rounded-md text-sm transition-colors ${
                         i18n.language === lang
-                          ? "bg-blue-100 text-blue-700"
-                          : "hover:bg-gray-100"
+                          ? "bg-blue-100 dark:bg-blue-900 text-blue-700 dark:text-blue-300"
+                          : "hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-300"
                       }`}
                       onClick={() => handleLanguageChange(lang)}
                     >
                       {lang === "en" ? "English" : "Türkçe"}
                     </button>
-                  </li>
-                ))}
-              </ul>
+                  ))}
+                </div>
+              </div>
+
+              {/* Theme Section */}
+              <div>
+                <h3 className="text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+                  {t("appearance")}
+                </h3>
+                <div className="space-y-1">
+                  {themes.map(({ key, label, icon: Icon }) => (
+                    <button
+                      key={key}
+                      className={`w-full text-left p-2 rounded-md text-sm transition-colors flex items-center space-x-2 ${
+                        theme === key
+                          ? "bg-blue-100 dark:bg-blue-900 text-blue-700 dark:text-blue-300"
+                          : "hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-300"
+                      }`}
+                      onClick={() => setTheme(key)}
+                    >
+                      <Icon size={16} />
+                      <span>{label}</span>
+                    </button>
+                  ))}
+                </div>
+              </div>
             </div>
           )}
         </div>

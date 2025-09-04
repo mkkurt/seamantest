@@ -146,7 +146,7 @@ const RandomQuestionGame = () => {
 
   if (!isQuestionAvailable) {
     return (
-      <div className="text-center py-8 text-xl font-semibold text-gray-600">
+      <div className="text-center py-8 text-xl font-semibold text-gray-600 dark:text-gray-400">
         No questions available for this category.
       </div>
     );
@@ -154,7 +154,7 @@ const RandomQuestionGame = () => {
 
   if (!currentQuestion) {
     return (
-      <div className="text-center py-8 text-xl font-semibold text-gray-600">
+      <div className="text-center py-8 text-xl font-semibold text-gray-600 dark:text-gray-400">
         Loading question...
       </div>
     );
@@ -162,8 +162,8 @@ const RandomQuestionGame = () => {
 
   return (
     <div className="rounded-xl max-w-2xl mx-auto">
-      <div className="bg-white p-6 rounded-lg  mb-6">
-        <h3 className="text-xl font-semibold mb-4 text-gray-800">
+      <div className="bg-white dark:bg-gray-800 p-6 rounded-lg mb-6 transition-colors duration-300">
+        <h3 className="text-xl font-semibold mb-4 text-gray-800 dark:text-white">
           {currentQuestion.question}
         </h3>
         <div className="space-y-3">
@@ -178,18 +178,18 @@ const RandomQuestionGame = () => {
                       option,
                       currentQuestion.correctAnswer
                     )
-                    ? "bg-green-100"
+                    ? "bg-green-100 dark:bg-green-900/30"
                     : checkAnswerCorrectness(option, userAnswer)
-                    ? "bg-red-100"
-                    : "bg-gray-100"
-                  : "hover:bg-indigo-50"
+                    ? "bg-red-100 dark:bg-red-900/30"
+                    : "bg-gray-100 dark:bg-gray-700"
+                  : "hover:bg-indigo-50 dark:hover:bg-indigo-900/30 bg-gray-50 dark:bg-gray-700"
               }`}
             >
               <span
                 className={`text-lg ${
                   showResult && option === currentQuestion.correctAnswer
-                    ? "font-semibold text-green-600"
-                    : "text-gray-700"
+                    ? "font-semibold text-green-600 dark:text-green-400"
+                    : "text-gray-700 dark:text-gray-300"
                 }`}
               >
                 {option}
@@ -202,13 +202,13 @@ const RandomQuestionGame = () => {
         <div className="mb-6">
           <p
             className={`text-lg font-semibold ${
-              isCorrect ? "text-green-600" : "text-red-600"
+              isCorrect ? "text-green-600 dark:text-green-400" : "text-red-600 dark:text-red-400"
             }`}
           >
             {isCorrect ? t("Correct") : t("Incorrect")}
           </p>
           {!isCorrect && (
-            <p className="text-gray-700">
+            <p className="text-gray-700 dark:text-gray-300">
               {t("theCorrectAnswerIs")}:
               <span className="font-semibold">
                 {" "}
@@ -222,27 +222,27 @@ const RandomQuestionGame = () => {
         <button
           onClick={goBackToPreviousQuestion}
           disabled={historyIndex <= 0}
-          className="bg-gray-500 text-white px-4 py-2 rounded-lg hover:bg-gray-600 transition duration-300 focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-opacity-50 disabled:opacity-50 disabled:cursor-not-allowed"
+          className="bg-gray-500 dark:bg-gray-600 text-white px-4 py-2 rounded-lg hover:bg-gray-600 dark:hover:bg-gray-700 transition duration-300 focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-opacity-50 disabled:opacity-50 disabled:cursor-not-allowed"
         >
           Previous Question
         </button>
         {showResult && (
           <button
             onClick={loadNewQuestion}
-            className="bg-green-500 text-white px-4 py-2 rounded-lg hover:bg-green-600 transition duration-300 focus:outline-none focus:ring-2 focus:ring-green-400 focus:ring-opacity-50"
+            className="bg-green-500 dark:bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-600 dark:hover:bg-green-700 transition duration-300 focus:outline-none focus:ring-2 focus:ring-green-400 focus:ring-opacity-50"
           >
             Next Question
           </button>
         )}
         <div className="text-right">
-          <p className="text-sm text-gray-600">
+          <p className="text-sm text-gray-600 dark:text-gray-400">
             {/* Score:{" "} */}
             {t("score")}:{" "}
-            <span className="font-semibold text-green-600">
+            <span className="font-semibold text-green-600 dark:text-green-400">
               {score.correct}
             </span>{" "}
             {t("correct")},{" "}
-            <span className="font-semibold text-red-600">
+            <span className="font-semibold text-red-600 dark:text-red-400">
               {score.incorrect}
             </span>{" "}
             {t("incorrect")}
@@ -253,12 +253,12 @@ const RandomQuestionGame = () => {
               setQuestionHistory([]);
               setHistoryIndex(-1);
             }}
-            className="mt-2 bg-gray-100 text-black px-1 py-1 rounded-lg hover:bg-red-600 transition duration-300 focus:outline-none focus:ring-2 focus:ring-red-400 focus:ring-opacity-50 text-xs my-2"
+            className="mt-2 bg-gray-100 dark:bg-gray-700 text-black dark:text-white px-1 py-1 rounded-lg hover:bg-red-600 dark:hover:bg-red-700 transition duration-300 focus:outline-none focus:ring-2 focus:ring-red-400 focus:ring-opacity-50 text-xs my-2"
           >
             {t("resetScore")}
           </button>
 
-          <p className="text-xs text-gray-600">
+          <p className="text-xs text-gray-600 dark:text-gray-400">
             {/* {questions.length} questions available */}
             {i18n.language === "en"
               ? `${questions.length} questions available`

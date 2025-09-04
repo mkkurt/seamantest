@@ -23,5 +23,11 @@
   "questionsavailable": "questions available",
   "settings": "Settings",
   "selectCategory": "Select Category",
-  "selectAcategoryToBegin": "Select a category and test from the sidebar to begin."
+  "selectAcategoryToBegin": "Select a category and test from the sidebar to begin.",
+  "theme": "Theme",
+  "light": "Light",
+  "dark": "Dark",
+  "system": "System",
+  "appearance": "Appearance",
+  "language": "Language"
 }

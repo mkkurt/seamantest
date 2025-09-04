@@ -23,5 +23,11 @@
   "questionsavailable": "soru mevcut",
   "settings": "Ayarlar",
   "selectCategory": "Kategori Seç",
-  "selectAcategoryToBegin": "Başlamak için kenar çubuğundan bir kategori seçin."
+  "selectAcategoryToBegin": "Başlamak için kenar çubuğundan bir kategori seçin.",
+  "theme": "Tema",
+  "light": "Açık",
+  "dark": "Koyu",
+  "system": "Sistem",
+  "appearance": "Görünüm",
+  "language": "Dil"
 }
