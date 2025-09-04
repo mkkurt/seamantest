@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback, useMemo } from "react";
+import React, { useState, useEffect, useCallback, useMemo, useRef } from "react";
 import { useStore } from "../store";
 import axios from "axios";
 import Markdown from "react-markdown";
@@ -16,6 +16,7 @@ const RandomQuestionGame = () => {
   const [isCorrect, setIsCorrect] = useState(false);
   const [questionHistory, setQuestionHistory] = useState([]);
   const [historyIndex, setHistoryIndex] = useState(-1);
+  const askedQuestionIds = useRef(new Set());
   const [score, setScore] = useState({
     correct: 0,
     incorrect: 0,
@@ -59,8 +60,26 @@ const RandomQuestionGame = () => {
   }, [fetchGeminiData, currentQuestion]);
 
   const loadNewQuestion = useCallback(() => {
-    const newQuestion = questions[Math.floor(Math.random() * questions.length)];
+    if (questions.length === 0) return;
+
+    // Filter out questions that have already been asked in this session
+    const unaskedQuestions = questions.filter(question => !askedQuestionIds.current.has(question.id));
+    
+    let newQuestion;
+
+    // If all questions have been asked, reset and start over
+    if (unaskedQuestions.length === 0) {
+      askedQuestionIds.current = new Set();
+      newQuestion = questions[Math.floor(Math.random() * questions.length)];
+    } else {
+      // Select a random question from unasked questions
+      newQuestion = unaskedQuestions[Math.floor(Math.random() * unaskedQuestions.length)];
+    }
+
     if (!newQuestion) return;
+
+    // Add this question to the asked questions set
+    askedQuestionIds.current.add(newQuestion.id);
 
     setCurrentQuestion(newQuestion);
     setUserAnswer("");
@@ -82,6 +101,11 @@ const RandomQuestionGame = () => {
     setHistoryIndex((prev) => Math.min(prev + 1, HISTORY_BUFFER_SIZE - 1));
     setGeminiData("");
   }, [questions]);
+
+  useEffect(() => {
+    // Reset asked questions when category or questions change
+    askedQuestionIds.current = new Set();
+  }, [selectedCategory, questions]);
 
   useEffect(() => {
     loadNewQuestion();
@@ -252,6 +276,7 @@ const RandomQuestionGame = () => {
               setScore({ correct: 0, incorrect: 0 });
               setQuestionHistory([]);
               setHistoryIndex(-1);
+              askedQuestionIds.current = new Set();
             }}
             className="mt-2 bg-gray-100 text-black px-1 py-1 rounded-lg hover:bg-red-600 transition duration-300 focus:outline-none focus:ring-2 focus:ring-red-400 focus:ring-opacity-50 text-xs my-2"
           >
