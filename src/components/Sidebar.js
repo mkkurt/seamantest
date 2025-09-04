@@ -18,9 +18,9 @@ const Sidebar = ({ onSelectTest }) => {
   const { t, i18n } = useTranslation();
 
   return (
-    <div className="w-64 bg-white shadow-xl sticky top-0 overflow-y-auto h-full">
+    <div className="w-64 bg-white dark:bg-gray-800 shadow-xl sticky top-0 overflow-y-auto h-full transition-colors duration-300">
       <div className="p-6">
-        <h2 className="text-l font-bold mb-6 text-gray-800">
+        <h2 className="text-l font-bold mb-6 text-gray-800 dark:text-white">
           {t("categories")}
         </h2>
         <ul className="space-y-2">
@@ -28,10 +28,10 @@ const Sidebar = ({ onSelectTest }) => {
             Object.entries(categories).map(([category, { tests }]) => (
               <li key={category} className="mb-2">
                 <button
-                  className={`w-full text-left p-2 rounded-md flex items-center justify-between ${
+                  className={`w-full text-left p-2 rounded-md flex items-center justify-between transition-colors ${
                     selectedCategory === category
-                      ? "bg-blue-100 text-blue-700"
-                      : "hover:bg-gray-100"
+                      ? "bg-blue-100 dark:bg-blue-900 text-blue-700 dark:text-blue-300"
+                      : "hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-800 dark:text-gray-200"
                   }`}
                   onClick={() => toggleCategory(category)}
                 >
@@ -60,11 +60,11 @@ const Sidebar = ({ onSelectTest }) => {
                   <ul className="ml-4 mt-2 space-y-1">
                     <li key="all-questions">
                       <button
-                        className={`w-full text-left p-2 rounded-md text-sm ${
+                        className={`w-full text-left p-2 rounded-md text-sm transition-colors ${
                           selectedTest === "All Questions" &&
                           selectedCategory === category
-                            ? "bg-blue-50 text-blue-600"
-                            : "hover:bg-gray-50"
+                            ? "bg-blue-50 dark:bg-blue-900/50 text-blue-600 dark:text-blue-300"
+                            : "hover:bg-gray-50 dark:hover:bg-gray-700/50 text-gray-700 dark:text-gray-300"
                         }`}
                         onClick={() => onSelectTest(category, "All Questions")}
                       >
@@ -73,8 +73,8 @@ const Sidebar = ({ onSelectTest }) => {
                     </li>
                     <li key={category} className="mb-2">
                       <button
-                        className={`w-full text-left p-2 rounded-md text-sm flex items-center justify-between ${
-                          expandedTests ? " text-blue-700" : "hover:bg-gray-100"
+                        className={`w-full text-left p-2 rounded-md text-sm flex items-center justify-between transition-colors ${
+                          expandedTests ? "text-blue-700 dark:text-blue-300" : "hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-300"
                         }`}
                         onClick={() => setExpandedTests(!expandedTests)}
                       >
@@ -93,11 +93,11 @@ const Sidebar = ({ onSelectTest }) => {
                               Object.keys(tests).map((test) => (
                                 <li key={test}>
                                   <button
-                                    className={`w-full text-left p-2 rounded-md text-sm ${
+                                    className={`w-full text-left p-2 rounded-md text-sm transition-colors ${
                                       selectedTest === test &&
                                       selectedCategory === category
-                                        ? "bg-blue-50 text-blue-600"
-                                        : "hover:bg-gray-50"
+                                        ? "bg-blue-50 dark:bg-blue-900/50 text-blue-600 dark:text-blue-300"
+                                        : "hover:bg-gray-50 dark:hover:bg-gray-700/50 text-gray-700 dark:text-gray-300"
                                     }`}
                                     onClick={() => onSelectTest(category, test)}
                                   >
@@ -106,7 +106,7 @@ const Sidebar = ({ onSelectTest }) => {
                                 </li>
                               ))}
                           </ul>
-                          <div className="absolute bottom-0 left-0 right-0 h-4 bg-gradient-to-t from-gray-100 to-transparent pointer-events-none" />
+                          <div className="absolute bottom-0 left-0 right-0 h-4 bg-gradient-to-t from-gray-100 dark:from-gray-800 to-transparent pointer-events-none" />
                         </div>
                       )}
                     </li>
