@@ -1,70 +1,307 @@
-# Getting Started with Create React App
+# Seaman's Test - Maritime Exam Preparation Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, responsive web application for maritime professionals to practice and prepare for certification exams. Built with React and featuring PWA capabilities, multi-language support, and comprehensive accessibility features.
 
-## Available Scripts
+## ✨ Features
 
-In the project directory, you can run:
+### Core Functionality
+- 🧭 **Comprehensive Quiz System**: Practice questions across multiple maritime categories
+- 🌐 **Multi-language Support**: Turkish and English with RTL support
+- 🌙 **Dark/Light Theme**: Automatic system preference detection with manual override
+- 📱 **Progressive Web App**: Offline functionality with service worker caching
+- ♿ **WCAG 2.2 AA Compliant**: Full accessibility support with screen reader compatibility
 
-### `npm start`
+### Quiz Modes
+- 📚 **Standard Mode**: Sequential questions with immediate feedback
+- 🎲 **Random Mode**: Shuffled questions for varied practice
+- 📊 **Progress Tracking**: Score tracking and performance analytics
+- 🔄 **Adaptive Weighting**: Smart question selection based on performance
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Categories
+- ⚙️ **Auxiliary Engines**: Pump systems, auxiliary machinery
+- 🚢 **Main Engine**: Primary propulsion systems
+- 🗣️ **Maritime English**: Communication and terminology
+- ⚖️ **Maritime Law**: Regulations and legal requirements
+- 🦺 **Maritime Safety**: Safety procedures and protocols
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Live Demo
 
-### `npm test`
+Visit the live application: [https://mkkurt.github.io/seamantest](https://mkkurt.github.io/seamantest)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📸 Screenshots
 
-### `npm run build`
+![App Interface](https://github.com/user-attachments/assets/777a9975-d7c9-466f-86a2-24d72e9a9885)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Technology Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Frontend**: React 18.3.1 with Hooks
+- **Styling**: Tailwind CSS with dark mode support
+- **Internationalization**: i18next with browser language detection
+- **Icons**: Lucide React
+- **PWA**: Custom service worker implementation
+- **Testing**: Jest + React Testing Library
+- **CI/CD**: GitHub Actions with Lighthouse CI
+- **Accessibility**: axe-core integration
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📋 Prerequisites
 
-### `npm run eject`
+- Node.js (v16.0.0 or higher)
+- npm (v7.0.0 or higher)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🔧 Installation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/mkkurt/seamantest.git
+   cd seamantest
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3. **Start development server**
+   ```bash
+   npm start
+   ```
 
-## Learn More
+4. **Access the application**
+   Open [http://localhost:3000](http://localhost:3000) in your browser
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🏗️ Build & Deployment
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Development Build
+```bash
+npm run build
+```
 
-### Code Splitting
+### Production Deployment
+```bash
+npm run lighthouse:ci  # Run performance and accessibility audits
+npm run build          # Create production build
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### GitHub Pages Deployment
+The application automatically deploys to GitHub Pages via GitHub Actions when changes are pushed to the main branch.
 
-### Analyzing the Bundle Size
+## 🧪 Testing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Run Tests
+```bash
+npm test                    # Interactive test runner
+npm test -- --coverage     # Run with coverage report
+npm test -- --watchAll=false  # Single run for CI
+```
 
-### Making a Progressive Web App
+### Accessibility Testing
+```bash
+npm start  # axe-core runs automatically in development
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Performance Testing
+```bash
+npm run lighthouse  # Run Lighthouse audit
+```
 
-### Advanced Configuration
+## 🌍 Internationalization
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Supported Languages
+- **Turkish (tr)**: Default language
+- **English (en)**: Secondary language
 
-### Deployment
+### Adding New Languages
+1. Create translation file in `src/locales/{lang}.json`
+2. Update `src/i18n.js` configuration
+3. Add language option in settings component
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Translation Files
+```
+src/
+├── locales/
+│   ├── tr.json    # Turkish translations
+│   └── en.json    # English translations
+└── i18n.js        # i18n configuration
+```
 
-### `npm run build` fails to minify
+## 🎨 Theming
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Available Themes
+- **Light**: Default light theme
+- **Dark**: Dark theme for low-light environments  
+- **System**: Automatically follows system preference
+
+### Theme Configuration
+The theme system supports:
+- CSS custom properties for consistent styling
+- Automatic system preference detection
+- Time-based theme switching (6 AM - 6 PM = light)
+- Local storage persistence
+
+## ♿ Accessibility Features
+
+### WCAG 2.2 AA Compliance
+- ✅ Keyboard navigation support
+- ✅ Screen reader compatibility
+- ✅ High contrast color schemes
+- ✅ Focus management
+- ✅ ARIA labels and roles
+- ✅ Semantic HTML structure
+
+### Testing Tools
+- **axe-core**: Automated accessibility testing in development
+- **Manual testing**: Keyboard and screen reader testing
+- **Lighthouse**: Accessibility audits in CI/CD
+
+## 📊 Performance
+
+### Core Web Vitals
+- **LCP (Largest Contentful Paint)**: < 2.5s
+- **FID (First Input Delay)**: < 100ms
+- **CLS (Cumulative Layout Shift)**: < 0.1
+
+### Optimization Techniques
+- Code splitting with React.lazy()
+- Service worker caching
+- Image optimization
+- Gzip compression
+- Bundle analysis and optimization
+
+## 🔒 Security
+
+### Security Headers
+- X-Content-Type-Options: nosniff
+- X-Frame-Options: DENY
+- X-XSS-Protection: 1; mode=block
+
+### Privacy Features
+- Analytics opt-out functionality
+- No sensitive data collection
+- Local storage for user preferences only
+
+## 🚀 Progressive Web App
+
+### PWA Features
+- ✅ Offline functionality
+- ✅ Install prompt
+- ✅ Background sync
+- ✅ Push notifications (future)
+- ✅ App-like experience
+
+### Service Worker
+- Caches static assets
+- Network-first for dynamic content
+- Graceful offline fallbacks
+
+## 📈 Analytics
+
+### Google Analytics 4
+Set environment variable for analytics:
+```bash
+REACT_APP_GA_MEASUREMENT_ID=G-XXXXXXXXXX
+```
+
+### Tracked Events
+- Quiz starts and completions
+- Answer submissions
+- Theme/language changes
+- Performance metrics
+
+## 🔄 CI/CD Pipeline
+
+### GitHub Actions Workflow
+```yaml
+# .github/workflows/ci-cd.yml
+- Build and test on Node.js 18.x, 20.x
+- Security audit with npm audit
+- Lighthouse CI performance testing
+- Automated deployment to GitHub Pages
+```
+
+### Quality Gates
+- All tests must pass
+- Lighthouse performance score > 80%
+- Accessibility score > 90%
+- No high/critical security vulnerabilities
+
+## 📁 Project Structure
+
+```
+src/
+├── components/          # React components
+│   ├── ErrorBoundary.js # Error handling
+│   ├── QuestionCard.js  # Individual question display
+│   ├── Sidebar.js       # Category navigation
+│   └── ...
+├── hooks/              # Custom React hooks
+│   ├── useTheme.js     # Theme management
+│   ├── useAnalytics.js # Analytics integration
+│   └── ...
+├── locales/            # Translation files
+├── tests/              # Quiz question data
+├── __mocks__/          # Test mocks
+└── ...
+```
+
+## 🤝 Contributing
+
+### Development Workflow
+1. Fork the repository
+2. Create feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit changes (`git commit -m 'Add amazing feature'`)
+4. Push to branch (`git push origin feature/amazing-feature`)
+5. Open Pull Request
+
+### Code Style
+- ESLint configuration with React rules
+- Prettier for code formatting
+- Accessibility linting with jsx-a11y
+- Commit message conventions
+
+### Testing Requirements
+- Unit tests for all components
+- Integration tests for user flows
+- Accessibility tests with axe-core
+- Performance tests with Lighthouse
+
+## 🐛 Issue Reporting
+
+Please use the [GitHub Issues](https://github.com/mkkurt/seamantest/issues) page to report bugs or request features.
+
+### Bug Report Template
+- Environment details
+- Steps to reproduce
+- Expected vs actual behavior
+- Screenshots if applicable
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👥 Acknowledgments
+
+- Maritime professionals who provided domain expertise
+- React community for excellent tooling and libraries
+- Contributors who helped improve accessibility and performance
+
+## 🗺️ Roadmap
+
+See [FEATURE_ROADMAP.md](FEATURE_ROADMAP.md) for detailed feature planning and prioritization.
+
+### Upcoming Features
+- 🤖 AI-powered study assistant
+- 👥 User authentication and profiles
+- 📈 Advanced analytics dashboard
+- 🎯 Adaptive learning algorithms
+- 🌐 Additional language support
+
+## 📞 Support
+
+For technical support or questions:
+- Create an issue on GitHub
+- Check existing documentation
+- Review FAQ section
+
+---
+
+**Built with ❤️ for the maritime community**

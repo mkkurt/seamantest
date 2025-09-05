@@ -23,7 +23,7 @@ const Sidebar = ({ onSelectTest }) => {
         <h2 className="text-l font-bold mb-6 text-gray-800 dark:text-white" id="categories-heading">
           {t("categories")}
         </h2>
-        <ul className="space-y-2" role="list" aria-labelledby="categories-heading">
+        <ul className="space-y-2" aria-labelledby="categories-heading">
           {categories &&
             Object.entries(categories).map(([category, { tests }]) => (
               <li key={category} className="mb-2">
@@ -59,7 +59,7 @@ const Sidebar = ({ onSelectTest }) => {
                   />
                 </button>
                 {expandedCategories[category] && (
-                  <ul className="ml-4 mt-2 space-y-1" id={`category-${category}-content`} role="list">
+                  <ul className="ml-4 mt-2 space-y-1" id={`category-${category}-content`}>
                     <li key="all-questions">
                       <button
                         className={`w-full text-left p-2 rounded-md text-sm transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 focus:ring-offset-gray-800 ${
