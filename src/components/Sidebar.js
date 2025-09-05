@@ -15,25 +15,27 @@ const Sidebar = ({ onSelectTest }) => {
     }));
   };
 
-  const { t, i18n } = useTranslation();
+  const { t } = useTranslation();
 
   return (
-    <div className="w-64 bg-white dark:bg-gray-800 shadow-xl sticky top-0 overflow-y-auto h-full transition-colors duration-300">
+    <div className="w-64 bg-white dark:bg-gray-800 shadow-xl sticky top-0 overflow-y-auto h-full transition-colors duration-300" role="navigation" aria-label="Quiz categories">
       <div className="p-6">
-        <h2 className="text-l font-bold mb-6 text-gray-800 dark:text-white">
+        <h2 className="text-l font-bold mb-6 text-gray-800 dark:text-white" id="categories-heading">
           {t("categories")}
         </h2>
-        <ul className="space-y-2">
+        <ul className="space-y-2" aria-labelledby="categories-heading">
           {categories &&
             Object.entries(categories).map(([category, { tests }]) => (
               <li key={category} className="mb-2">
                 <button
-                  className={`w-full text-left p-2 rounded-md flex items-center justify-between transition-colors ${
+                  className={`w-full text-left p-2 rounded-md flex items-center justify-between transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 focus:ring-offset-gray-800 ${
                     selectedCategory === category
                       ? "bg-blue-100 dark:bg-blue-900 text-blue-700 dark:text-blue-300"
                       : "hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-800 dark:text-gray-200"
                   }`}
                   onClick={() => toggleCategory(category)}
+                  aria-expanded={expandedCategories[category]}
+                  aria-controls={`category-${category}-content`}
                 >
                   {/* <span>{category}</span> */}
                   <span>
@@ -57,16 +59,17 @@ const Sidebar = ({ onSelectTest }) => {
                   />
                 </button>
                 {expandedCategories[category] && (
-                  <ul className="ml-4 mt-2 space-y-1">
+                  <ul className="ml-4 mt-2 space-y-1" id={`category-${category}-content`}>
                     <li key="all-questions">
                       <button
-                        className={`w-full text-left p-2 rounded-md text-sm transition-colors ${
+                        className={`w-full text-left p-2 rounded-md text-sm transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 focus:ring-offset-gray-800 ${
                           selectedTest === "All Questions" &&
                           selectedCategory === category
                             ? "bg-blue-50 dark:bg-blue-900/50 text-blue-600 dark:text-blue-300"
                             : "hover:bg-gray-50 dark:hover:bg-gray-700/50 text-gray-700 dark:text-gray-300"
                         }`}
                         onClick={() => onSelectTest(category, "All Questions")}
+                        aria-current={selectedTest === "All Questions" && selectedCategory === category ? "page" : undefined}
                       >
                         {t("allQuestions")}
                       </button>

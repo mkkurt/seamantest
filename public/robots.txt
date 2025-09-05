@@ -1,4 +1,14 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
-Sitemap: https://www.gemiadamisorulari.com/sitemap.xml
+Allow: /
+
+# Crawling rules
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: /sitemap.xml
+
+# Security
+Disallow: /api/
+Disallow: /.env
+Disallow: /admin/

@@ -29,7 +29,7 @@ export const ThemeProvider = ({ children }) => {
   };
 
   // Auto-detect theme based on system preference and time
-  const getAutoTheme = () => {
+  const getAutoTheme = useCallback(() => {
     const systemTheme = getSystemTheme();
     const timeBasedTheme = getTimeBasedTheme();
     
@@ -41,7 +41,7 @@ export const ThemeProvider = ({ children }) => {
       if (hour >= 20 || hour < 6) return 'dark';
     }
     return systemTheme;
-  };
+  }, []);
 
   // Apply theme to document
   const applyTheme = useCallback((newTheme) => {
@@ -55,14 +55,14 @@ export const ThemeProvider = ({ children }) => {
     
     root.classList.add(themeToApply);
     setResolvedTheme(themeToApply);
-  }, []);
+  }, [getAutoTheme]);
 
   // Initialize theme from localStorage or system
   useEffect(() => {
     const savedTheme = localStorage.getItem('theme') || 'system';
     setTheme(savedTheme);
     applyTheme(savedTheme);
-  }, []);
+  }, [applyTheme]);
 
   // Listen for system theme changes
   useEffect(() => {
@@ -75,7 +75,7 @@ export const ThemeProvider = ({ children }) => {
 
     mediaQuery.addEventListener('change', handleChange);
     return () => mediaQuery.removeEventListener('change', handleChange);
-  }, [theme]);
+  }, [theme, applyTheme]);
 
   // Update theme every hour for time-based detection
   useEffect(() => {
@@ -86,7 +86,7 @@ export const ThemeProvider = ({ children }) => {
 
       return () => clearInterval(interval);
     }
-  }, [theme]);
+  }, [theme, applyTheme]);
 
   const setThemePreference = (newTheme) => {
     setTheme(newTheme);
