@@ -18,18 +18,13 @@ const RandomQuestionGame = () => {
     correct: 0,
     incorrect: 0,
   });
-  const [questionWeights, setQuestionWeights] = useState({});
+  const [questionWeights, setQuestionWeights] = useState({}); // eslint-disable-line no-unused-vars
 
-  // Load question weights from localStorage
+  // Load question weights from localStorage (kept for weight updates)
   useEffect(() => {
     const storedWeights = JSON.parse(localStorage.getItem("questionWeights")) || {};
     setQuestionWeights(storedWeights);
   }, []);
-
-  // Initialize weights for new questions
-  const getQuestionWeight = useCallback((questionId) => {
-    return questionWeights[questionId] || 1.0; // Default weight is 1.0
-  }, [questionWeights]);
 
   // Update question weight based on answer result
   const updateQuestionWeight = useCallback((questionId, isCorrect, isVeryEasy = false) => {
@@ -56,35 +51,20 @@ const RandomQuestionGame = () => {
     });
   }, []);
 
-  // Weighted random question selection
+  // Random question selection (no restrictions on repeating questions)
   const getWeightedRandomQuestion = useCallback((questions) => {
     if (questions.length === 0) return null;
     
-    // Calculate total weight
-    const totalWeight = questions.reduce((total, question) => {
-      return total + getQuestionWeight(question.id);
-    }, 0);
-
-    if (totalWeight === 0) return questions[0]; // Fallback if all weights are 0
-
-    // Select based on weight
-    let randomWeight = Math.random() * totalWeight;
-    
-    for (const question of questions) {
-      const weight = getQuestionWeight(question.id);
-      randomWeight -= weight;
-      if (randomWeight <= 0) {
-        return question;
-      }
-    }
-    
-    return questions[0]; // Fallback
-  }, [getQuestionWeight]);
+    // Select a completely random question without weight restrictions
+    // Note: questionWeights are maintained for UI feedback but not used for selection
+    const randomIndex = Math.floor(Math.random() * questions.length);
+    return questions[randomIndex];
+  }, []);
 
   const loadNewQuestion = useCallback(() => {
     if (questions.length === 0) return;
 
-    // Use weighted selection instead of random selection
+    // Use random selection instead of weighted selection
     const newQuestion = getWeightedRandomQuestion(questions);
     
     if (!newQuestion) return;
