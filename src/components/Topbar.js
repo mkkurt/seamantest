@@ -7,10 +7,8 @@ import { useTheme } from "../hooks/useTheme";
 const Topbar = ({ onSelectTest }) => {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const [expandedCategory, setExpandedCategory] = useState(null);
-  const [isVisible, setIsVisible] = useState(true);
-  const [lastScrollTop, setLastScrollTop] = useState(0);
   const [isSettingsOpen, setIsSettingsOpen] = useState(false);
-  const { state, dispatch } = useStore();
+  const { state } = useStore();
   const { categories, selectedCategory, selectedTest } = state;
   const settingsRef = useRef(null);
   const categoriesRef = useRef(null);

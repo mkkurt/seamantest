@@ -4,7 +4,7 @@ import TestContent from "./components/TestContent";
 import RandomQuestionGame from "./components/RandomQuestionGame";
 import Topbar from "./components/Topbar";
 import { useStore } from "./store";
-import { Menu, X } from "lucide-react";
+
 import { useTranslation } from "react-i18next";
 
 const DynamicTest = () => {
@@ -37,7 +37,6 @@ const DynamicTest = () => {
     setIsSidebarOpen(false);
   };
 
-  const toggleSidebar = () => setIsSidebarOpen(!isSidebarOpen);
 
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col">

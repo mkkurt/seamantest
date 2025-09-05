@@ -15,7 +15,7 @@ const Sidebar = ({ onSelectTest }) => {
     }));
   };
 
-  const { t, i18n } = useTranslation();
+  const { t } = useTranslation();
 
   return (
     <div className="w-64 bg-white dark:bg-gray-800 shadow-xl sticky top-0 overflow-y-auto h-full transition-colors duration-300">
