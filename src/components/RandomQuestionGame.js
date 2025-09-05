@@ -111,7 +111,7 @@ const RandomQuestionGame = () => {
 
   useEffect(() => {
     loadNewQuestion();
-  }, [selectedCategory, questions, loadNewQuestion]);
+  }, [selectedCategory, questions]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const goBackToPreviousQuestion = useCallback(() => {
     if (historyIndex > 0) {
