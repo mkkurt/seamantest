@@ -1,6 +1,8 @@
 import React, { useState, useEffect, useCallback, useMemo } from "react";
 import { useStore } from "../store";
 import { useTranslation } from "react-i18next";
+import useGemini from "../hooks/useGemini";
+import ReactMarkdown from "react-markdown";
 
 const HISTORY_BUFFER_SIZE = 5;
 
@@ -19,6 +21,12 @@ const RandomQuestionGame = () => {
     incorrect: 0,
   });
   const [questionWeights, setQuestionWeights] = useState({});
+  
+  // Gemini AI explanation state
+  const { data: geminiData, loading: geminiLoading, error: geminiError, generateExplanation, reset: resetGemini } = useGemini();
+  const [showExplanation, setShowExplanation] = useState(false);
+  const [geminiAnswer, setGeminiAnswer] = useState("");
+  const [answerMismatch, setAnswerMismatch] = useState(false);
 
   // Load question weights from localStorage
   useEffect(() => {
@@ -93,6 +101,12 @@ const RandomQuestionGame = () => {
     setUserAnswer("");
     setShowResult(false);
     setIsCorrect(false);
+    
+    // Reset Gemini explanation state for new question
+    setShowExplanation(false);
+    setGeminiAnswer("");
+    setAnswerMismatch(false);
+    resetGemini();
 
     setQuestionHistory((prev) => {
       const updatedHistory = [
@@ -107,7 +121,7 @@ const RandomQuestionGame = () => {
       return updatedHistory.slice(-HISTORY_BUFFER_SIZE);
     });
     setHistoryIndex((prev) => Math.min(prev + 1, HISTORY_BUFFER_SIZE - 1));
-  }, [questions, getWeightedRandomQuestion]);
+  }, [questions, getWeightedRandomQuestion, resetGemini]);
 
   useEffect(() => {
     loadNewQuestion();
@@ -178,6 +192,73 @@ const RandomQuestionGame = () => {
       updateQuestionWeight(currentQuestion.id, true, true);
     }
   }, [currentQuestion, isCorrect, updateQuestionWeight]);
+
+  // Handle Gemini explanation request
+  const handleExplanationRequest = useCallback(async () => {
+    if (!currentQuestion) return;
+    
+    setShowExplanation(true);
+    await generateExplanation(currentQuestion.question, currentQuestion.options);
+  }, [currentQuestion, generateExplanation]);
+
+  // Parse Gemini response to extract answer and explanation
+  const parseGeminiResponse = useCallback((geminiText) => {
+    if (!geminiText) return { answer: "", explanation: "" };
+    
+    const lines = geminiText.split('\n');
+    let answer = "";
+    let explanation = "";
+    let isExplanationSection = false;
+    
+    for (const line of lines) {
+      if (line.toLowerCase().startsWith('answer:')) {
+        answer = line.substring(7).trim();
+      } else if (line.toLowerCase().startsWith('explanation:')) {
+        explanation = line.substring(12).trim();
+        isExplanationSection = true;
+      } else if (isExplanationSection) {
+        explanation += '\n' + line;
+      }
+    }
+    
+    return { answer: answer.trim(), explanation: explanation.trim() };
+  }, []);
+
+  // Compare Gemini answer with system answer
+  const compareAnswers = useCallback((geminiAnswer, systemAnswer) => {
+    if (!geminiAnswer || !systemAnswer) return false;
+    
+    // Clean and normalize answers for comparison
+    const cleanAnswer = (answer) => {
+      return answer
+        .toLowerCase()
+        .replace(/^[a-z]\)?\s*/, '') // Remove option prefix like "A)" or "A"
+        .replace(/^\d+\.?\s*/, '') // Remove number prefix like "1." or "1"
+        .trim();
+    };
+    
+    const cleanGemini = cleanAnswer(geminiAnswer);
+    const cleanSystem = cleanAnswer(systemAnswer);
+    
+    // Also check if the option letters match
+    const geminiLetter = geminiAnswer.toLowerCase().match(/^[a-z]/);
+    const systemLetter = systemAnswer.toLowerCase().match(/^[a-z]/);
+    
+    return cleanGemini === cleanSystem || 
+           (geminiLetter && systemLetter && geminiLetter[0] === systemLetter[0]);
+  }, []);
+
+  // Effect to process Gemini response when it arrives
+  useEffect(() => {
+    if (geminiData && currentQuestion) {
+      const { answer } = parseGeminiResponse(geminiData);
+      setGeminiAnswer(answer);
+      
+      // Compare with system answer
+      const mismatch = !compareAnswers(answer, currentQuestion.correctAnswer);
+      setAnswerMismatch(mismatch);
+    }
+  }, [geminiData, currentQuestion, parseGeminiResponse, compareAnswers]);
 
   const isQuestionAvailable = useMemo(() => questions.length > 0, [questions]);
 
@@ -320,24 +401,71 @@ const RandomQuestionGame = () => {
           </p>
         </div>
       </div>
-      {/* {isGeminiLoading ? (
-        <p className="text-gray-700">Generating explanation...</p>
-      ) : (
-        <button
-          onClick={() => setFetchGeminiData(true)}
-          className="mt-2 bg-gray-100 text-black px-1 py-1 rounded-lg hover:bg-blue-600 transition duration-300 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-50 text-xs my-2"
-        >
-          Generate Explanation
-        </button>
-      )}
-      {geminiError && (
-        <p className="text-red-600 text-sm">Failed to generate explanation.</p>
-      )}
-      {geminiData && (
-        <div className="bg-gray-100 p-4 rounded-lg mt-2">
-          <Markdown>{geminiData}</Markdown>
+      
+      {/* Gemini AI Explanation Section */}
+      {showResult && (
+        <div className="bg-white dark:bg-gray-800 p-4 rounded-lg mb-4 transition-colors duration-300">
+          {!showExplanation ? (
+            <button
+              onClick={handleExplanationRequest}
+              disabled={geminiLoading}
+              className="w-full bg-blue-500 dark:bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-600 dark:hover:bg-blue-700 transition duration-300 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-50 disabled:opacity-50 disabled:cursor-not-allowed"
+            >
+              {geminiLoading ? 
+                (i18n.language === "en" ? "Generating AI Explanation..." : "AI Açıklaması Hazırlanıyor...") : 
+                (i18n.language === "en" ? "Get AI Explanation" : "AI Açıklaması Al")
+              }
+            </button>
+          ) : (
+            <div>
+              {geminiLoading && (
+                <div className="text-center py-4">
+                  <div className="inline-block animate-spin rounded-full h-6 w-6 border-b-2 border-blue-500"></div>
+                  <p className="text-sm text-gray-600 dark:text-gray-400 mt-2">
+                    {i18n.language === "en" ? "AI is analyzing the question..." : "AI soruyu analiz ediyor..."}
+                  </p>
+                </div>
+              )}
+              
+              {geminiError && (
+                <div className="bg-red-50 dark:bg-red-900/30 border border-red-200 dark:border-red-800 rounded-lg p-3 mb-3">
+                  <p className="text-red-600 dark:text-red-400 text-sm">
+                    {i18n.language === "en" ? "Failed to generate AI explanation. Please try again." : "AI açıklaması oluşturulamadı. Lütfen tekrar deneyin."}
+                  </p>
+                </div>
+              )}
+              
+              {geminiData && (
+                <div>
+                  {answerMismatch && (
+                    <div className="bg-yellow-50 dark:bg-yellow-900/30 border border-yellow-200 dark:border-yellow-800 rounded-lg p-3 mb-3">
+                      <h4 className="font-semibold text-yellow-800 dark:text-yellow-200 mb-1">
+                        ⚠️ {i18n.language === "en" ? "Answer Mismatch Detected" : "Cevap Uyuşmazlığı Tespit Edildi"}
+                      </h4>
+                      <p className="text-yellow-700 dark:text-yellow-300 text-sm">
+                        {i18n.language === "en" ? 
+                          `AI suggests: "${geminiAnswer}" but our system shows: "${currentQuestion.correctAnswer}". The database answer might need review.` :
+                          `AI önerisi: "${geminiAnswer}" ancak sistemimiz: "${currentQuestion.correctAnswer}" gösteriyor. Veritabanındaki cevap gözden geçirilmeli olabilir.`
+                        }
+                      </p>
+                    </div>
+                  )}
+                  
+                  <div className="bg-gray-50 dark:bg-gray-700 rounded-lg p-4">
+                    <h4 className="font-semibold text-gray-800 dark:text-gray-200 mb-2">
+                      🤖 {i18n.language === "en" ? "AI Explanation" : "AI Açıklaması"}
+                    </h4>
+                    <div className="prose prose-sm dark:prose-invert max-w-none">
+                      <ReactMarkdown>{geminiData}</ReactMarkdown>
+                    </div>
+                  </div>
+                </div>
+              )}
+            </div>
+          )}
         </div>
-      )} */}
+      )}
+      
     </div>
   );
 };
