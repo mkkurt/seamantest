@@ -198,8 +198,8 @@ const RandomQuestionGame = () => {
     if (!currentQuestion) return;
     
     setShowExplanation(true);
-    await generateExplanation(currentQuestion.question, currentQuestion.options);
-  }, [currentQuestion, generateExplanation]);
+    await generateExplanation(currentQuestion.question, currentQuestion.options, i18n.language);
+  }, [currentQuestion, generateExplanation, i18n.language]);
 
   // Parse Gemini response to extract answer and explanation
   const parseGeminiResponse = useCallback((geminiText) => {
@@ -211,10 +211,13 @@ const RandomQuestionGame = () => {
     let isExplanationSection = false;
     
     for (const line of lines) {
-      if (line.toLowerCase().startsWith('answer:')) {
-        answer = line.substring(7).trim();
-      } else if (line.toLowerCase().startsWith('explanation:')) {
-        explanation = line.substring(12).trim();
+      // Handle both English and Turkish response formats
+      if (line.toLowerCase().startsWith('answer:') || line.toLowerCase().startsWith('cevap:')) {
+        const colonIndex = line.indexOf(':');
+        answer = line.substring(colonIndex + 1).trim();
+      } else if (line.toLowerCase().startsWith('explanation:') || line.toLowerCase().startsWith('açıklama:')) {
+        const colonIndex = line.indexOf(':');
+        explanation = line.substring(colonIndex + 1).trim();
         isExplanationSection = true;
       } else if (isExplanationSection) {
         explanation += '\n' + line;

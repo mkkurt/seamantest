@@ -6,14 +6,37 @@ const useGemini = () => {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
 
-  const generateExplanation = useCallback(async (question, options) => {
+  const generateExplanation = useCallback(async (question, options, language = 'en') => {
     setLoading(true);
     setError(null);
     setData(null);
 
     try {
+      // Construct language-specific prompt
+      const languageInstructions = {
+        'en': 'Please respond in English.',
+        'tr': 'Lütfen Türkçe yanıtlayın.'
+      };
+
+      const formatInstructions = {
+        'en': {
+          header: 'Please provide:\n1. The correct answer (just state which option letter/number)\n2. A detailed explanation of why this is the correct answer\n\nFormat your response as:\nAnswer: [correct option]\nExplanation: [detailed explanation]',
+          question: 'Question:',
+          options: 'Options:'
+        },
+        'tr': {
+          header: 'Lütfen şunları sağlayın:\n1. Doğru cevap (sadece hangi seçenek harfi/numarası olduğunu belirtin)\n2. Bunun neden doğru cevap olduğuna dair detaylı açıklama\n\nYanıtınızı şu formatta verin:\nCevap: [doğru seçenek]\nAçıklama: [detaylı açıklama]',
+          question: 'Soru:',
+          options: 'Seçenekler:'
+        }
+      };
+
+      const currentLang = language in languageInstructions ? language : 'en';
+      const instructions = formatInstructions[currentLang];
+      const langInstruction = languageInstructions[currentLang];
+
       // Construct the prompt to ask for explanation and answer
-      const prompt = `Question: ${question}\n\nOptions:\n${options.map((option, index) => `${index + 1}. ${option}`).join('\n')}\n\nPlease provide:\n1. The correct answer (just state which option letter/number)\n2. A detailed explanation of why this is the correct answer\n\nFormat your response as:\nAnswer: [correct option]\nExplanation: [detailed explanation]`;
+      const prompt = `${langInstruction}\n\n${instructions.question} ${question}\n\n${instructions.options}\n${options.map((option, index) => `${index + 1}. ${option}`).join('\n')}\n\n${instructions.header}`;
 
       const requestBody = {
         contents: [
