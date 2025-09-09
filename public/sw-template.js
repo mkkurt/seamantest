@@ -1,33 +1,7 @@
 // Service Worker for PWA functionality
-// Generate dynamic cache name based on build timestamp to ensure cache invalidation
-const BUILD_TIMESTAMP = new Date().getTime();
-const CACHE_NAME = `seamantest-v${BUILD_TIMESTAMP}`;
-
-// Assets to precache - will be updated dynamically from asset manifest
-let STATIC_ASSETS = [
-  '/',
-  '/manifest.json'
-];
-
-// Fetch and cache asset manifest to get actual asset paths
-const fetchAssetManifest = async () => {
-  try {
-    const response = await fetch('/asset-manifest.json');
-    const manifest = await response.json();
-    
-    // Add main assets from manifest to our static assets list
-    if (manifest.files) {
-      if (manifest.files['main.js']) STATIC_ASSETS.push(manifest.files['main.js']);
-      if (manifest.files['main.css']) STATIC_ASSETS.push(manifest.files['main.css']);
-    }
-    
-    console.log('Updated static assets list:', STATIC_ASSETS);
-    return STATIC_ASSETS;
-  } catch (error) {
-    console.log('Failed to fetch asset manifest, using default assets:', error);
-    return STATIC_ASSETS;
-  }
-};
+// This file is a template - the actual service worker is generated during build
+const CACHE_NAME = '__CACHE_NAME__';
+const STATIC_ASSETS = __ASSETS_TO_CACHE__;
 
 // Install event - cache static assets
 self.addEventListener('install', (event) => {
@@ -35,12 +9,10 @@ self.addEventListener('install', (event) => {
   self.skipWaiting();
   
   event.waitUntil(
-    fetchAssetManifest()
-      .then((assets) => {
-        return caches.open(CACHE_NAME);
-      })
+    caches.open(CACHE_NAME)
       .then((cache) => {
         console.log('Caching static assets with cache name:', CACHE_NAME);
+        console.log('Assets to cache:', STATIC_ASSETS);
         return cache.addAll(STATIC_ASSETS);
       })
       .catch((error) => {
@@ -96,54 +68,56 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // For static assets, use cache-first with network update
+  // For static assets, use cache-first with network update for performance
+  // but with a strategy that ensures cache invalidation
   event.respondWith(
     caches.match(event.request)
       .then((response) => {
-        // If we have a cached response, return it but also fetch fresh version in background
-        if (response) {
-          // Background fetch to update cache
-          fetch(event.request)
-            .then((fetchResponse) => {
-              if (fetchResponse && fetchResponse.status === 200 && fetchResponse.type === 'basic') {
-                const responseToCache = fetchResponse.clone();
-                caches.open(CACHE_NAME).then((cache) => {
-                  cache.put(event.request, responseToCache);
-                });
-              }
-            })
-            .catch(() => {}); // Silently fail background updates
-          
-          return response;
-        }
-
-        // If not in cache, fetch from network
-        return fetch(event.request)
-          .then((response) => {
-            // Check if valid response
-            if (!response || response.status !== 200 || response.type !== 'basic') {
-              return response;
-            }
-
-            // Clone the response
-            const responseToCache = response.clone();
-
-            // Cache the response
-            caches.open(CACHE_NAME)
-              .then((cache) => {
+        // Always try to fetch fresh version for static assets with cache names
+        const fetchPromise = fetch(event.request)
+          .then((fetchResponse) => {
+            if (fetchResponse && fetchResponse.status === 200 && fetchResponse.type === 'basic') {
+              const responseToCache = fetchResponse.clone();
+              caches.open(CACHE_NAME).then((cache) => {
                 cache.put(event.request, responseToCache);
               });
-
-            return response;
+            }
+            return fetchResponse;
           })
           .catch(() => {
-            // Return offline page for navigation requests
-            if (event.request.mode === 'navigate') {
-              return caches.match('/');
+            // If network fails, return cached version
+            return response;
+          });
+
+        // For versioned assets (with hash in filename), prefer cached version for speed
+        if (event.request.url.match(/\.[a-f0-9]{8}\.(js|css)$/)) {
+          return response || fetchPromise;
+        }
+
+        // For other assets, prefer fresh version
+        return fetchPromise.catch(() => response);
+      })
+      .catch(() => {
+        // If no cache match, fetch from network
+        return fetch(event.request)
+          .then((response) => {
+            if (response && response.status === 200 && response.type === 'basic') {
+              const responseToCache = response.clone();
+              caches.open(CACHE_NAME).then((cache) => {
+                cache.put(event.request, responseToCache);
+              });
             }
+            return response;
           });
       })
   );
+});
+
+// Handle service worker updates
+self.addEventListener('message', (event) => {
+  if (event.data && event.data.type === 'SKIP_WAITING') {
+    self.skipWaiting();
+  }
 });
 
 // Push event for future notifications
