@@ -20,7 +20,7 @@ const Topbar = ({ onSelectTest }) => {
   const themes = [
     { key: "light", label: t("light"), icon: Sun },
     { key: "dark", label: t("dark"), icon: Moon },
-    { key: "system", label: t("system"), icon: Monitor }
+    { key: "system", label: t("system"), icon: Monitor },
   ];
 
   const toggleDropdown = () => {
@@ -112,7 +112,9 @@ const Topbar = ({ onSelectTest }) => {
         >
           <button
             className={`text-gray-800 dark:text-white flex items-center space-x-2 p-2 rounded-md transition-colors ${
-              isDropdownOpen ? "bg-blue-100 dark:bg-blue-900 text-blue-700 dark:text-blue-300" : "hover:bg-gray-100 dark:hover:bg-gray-700"
+              isDropdownOpen
+                ? "bg-blue-100 dark:bg-blue-900 text-blue-700 dark:text-blue-300"
+                : "hover:bg-gray-100 dark:hover:bg-gray-700"
             }`}
             onClick={toggleDropdown}
           >
@@ -130,6 +132,8 @@ const Topbar = ({ onSelectTest }) => {
                 ? t("maritimeLaw")
                 : selectedCategory === "Maritime Safety"
                 ? t("maritimeSafety")
+                : selectedCategory === "Maritime Safety New"
+                ? t("maritimeSafetyNew")
                 : t("selectCategory")}
             </span>
             {isDropdownOpen ? (
@@ -165,6 +169,8 @@ const Topbar = ({ onSelectTest }) => {
                         ? t("maritimeLaw")
                         : category === "Maritime Safety"
                         ? t("maritimeSafety")
+                        : category === "Maritime Safety New"
+                        ? t("maritimeSafetyNew")
                         : ""}
                     </button>
                     {expandedCategory === category && (
@@ -212,7 +218,9 @@ const Topbar = ({ onSelectTest }) => {
         <div className="relative flex items-center" ref={settingsRef}>
           <button
             className={`text-gray-800 dark:text-white flex items-center space-x-2 p-2 rounded-md transition-colors ${
-              isSettingsOpen ? "bg-blue-100 dark:bg-blue-900 text-blue-700 dark:text-blue-300" : "hover:bg-gray-100 dark:hover:bg-gray-700"
+              isSettingsOpen
+                ? "bg-blue-100 dark:bg-blue-900 text-blue-700 dark:text-blue-300"
+                : "hover:bg-gray-100 dark:hover:bg-gray-700"
             }`}
             onClick={toggleSettings}
           >
@@ -224,9 +232,7 @@ const Topbar = ({ onSelectTest }) => {
             )}
           </button>
           {isSettingsOpen && (
-            <div
-              className="absolute top-16 right-0 w-64 bg-white dark:bg-gray-800 shadow-lg rounded-md z-10 p-3 border dark:border-gray-700"
-            >
+            <div className="absolute top-16 right-0 w-64 bg-white dark:bg-gray-800 shadow-lg rounded-md z-10 p-3 border dark:border-gray-700">
               {/* Language Section */}
               <div className="mb-4">
                 <h3 className="text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">

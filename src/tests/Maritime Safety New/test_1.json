@@ -1,0 +1,990 @@
+[
+  {
+    "id": 1,
+    "question": "Uluslararası denizde can emniyeti sözleşmesi aşağıdakilerden hangisidir?",
+    "options": ["a) MARPOL", "b) STCW", "c) SOLAS", "d) MLC"],
+    "correctAnswer": "c) SOLAS"
+  },
+  {
+    "id": 2,
+    "question": "Bir gemide, can güvenliğine ilişkin bulundurulması zorunlu olan teçhizatın belirlenmesinde aşağıdaki uluslararası sözleşmelerden hangisi en çok etkindir?",
+    "options": ["a) SOLAS", "b) MARPOL", "c) STCW", "d) LOAD LINE"],
+    "correctAnswer": "a) SOLAS"
+  },
+  {
+    "id": 3,
+    "question": "SOLAS sözleşmesinin ana gayelerinden birisi aşağıdakilerden hangisidir?",
+    "options": [
+      "a) Gemi personelinin çalışma saatlerini düzenlemek",
+      "b) Deniz kirliliğini önlemek",
+      "c) Gemi teçhizatı için minimum standartları belirlemek",
+      "d) Gemiadamlarının eğitim standartlarını belirlemek"
+    ],
+    "correctAnswer": "c) Gemi teçhizatı için minimum standartları belirlemek"
+  },
+  {
+    "id": 4,
+    "question": "Denizde acil durum iletişimlerini sağlamak amacıyla kullanılmak üzere geliştirilmiş olan piroteknik malzemelerin sahip olması gereken standartlar, aşağıdaki uluslararası denizcilik konvansiyonlarından hangisinin kapsamında öncelikli olarak ele alınmıştır?",
+    "options": [
+      "a) STCW",
+      "b) MARPOL",
+      "c) International Safety of Life at Sea (SOLAS)",
+      "d) CLC"
+    ],
+    "correctAnswer": "c) International Safety of Life at Sea (SOLAS)"
+  },
+  {
+    "id": 5,
+    "question": "Bir geminin yolcu gemisi olarak kabul edilebilmesi için 12'den fazla yolcu taşıması gerekmektedir. Buna göre yolcu gemisi sayılması için geminin taşıması gereken yolcu sayısı en az kaçtır?",
+    "options": ["a) 11", "b) 12", "c) 13", "d) 24"],
+    "correctAnswer": "c) 13"
+  },
+  {
+    "id": 6,
+    "question": "Gemiadamlarının eğitilmesi, belgelendirilmesi ve vardiya standartları hakkındaki uluslararası sözleşme, aşağıdakilerden hangisidir?",
+    "options": ["a) SOLAS", "b) MARPOL", "c) STCW", "d) MLC"],
+    "correctAnswer": "c) STCW"
+  },
+  {
+    "id": 7,
+    "question": "STCW 2010 kurallarına göre gemiadamlarının haftalık çalışma süresi en fazla ne olmalıdır?",
+    "options": ["a) 48 saat", "b) 98 saat", "c) 72 saat", "d) 84 saat"],
+    "correctAnswer": "c) 72 saat"
+  },
+  {
+    "id": 8,
+    "question": "Bir gemiadamının gemide 24 saatlik bir çalışma periyodunda en az ne kadar süre dinlenmesi gerekir?",
+    "options": ["a) 6 saat", "b) 8 saat", "c) 10 saat", "d) 12 saat"],
+    "correctAnswer": "c) 10 saat"
+  },
+  {
+    "id": 9,
+    "question": "STCW sözleşmesi gereği bir gemiadamı haftada en az kaç saat dinlendirilmelidir?",
+    "options": ["a) 56 saat", "b) 70 saat", "c) 77 saat", "d) 84 saat"],
+    "correctAnswer": "c) 77 saat"
+  },
+  {
+    "id": 10,
+    "question": "Bir söndürme maddesi olan suyun dezavantajı aşağıdakilerden hangisidir?",
+    "options": [
+      "a) Soğutma etkisinin az olması",
+      "b) Çevreye zararlı olması",
+      "c) Su iletkendir ve elektriği iletir",
+      "d) Pahalı olması"
+    ],
+    "correctAnswer": "c) Su iletkendir ve elektriği iletir"
+  },
+  {
+    "id": 11,
+    "question": "Gemi yangınlarında aşırı su kullanıp zamanında tahliye edilememesinde aşağıdaki tehlikelerden hangisi daha fazla önem taşır?",
+    "options": [
+      "a) Güverte hasarı",
+      "b) Korozyon",
+      "c) Stabilitenin tehlikeye düşmesi",
+      "d) Duman oluşumu"
+    ],
+    "correctAnswer": "c) Stabilitenin tehlikeye düşmesi"
+  },
+  {
+    "id": 12,
+    "question": "Yanıcı sıvı yangınları hangi sınıf yangınlardandır?",
+    "options": ["a) A Sınıfı", "b) B Sınıfı", "c) C Sınıfı", "d) D Sınıfı"],
+    "correctAnswer": "b) B Sınıfı"
+  },
+  {
+    "id": 13,
+    "question": "Hangi yangın türünde köpük ve su kesinlikle kullanılmaz?",
+    "options": [
+      "a) Akaryakıt yangını",
+      "b) Ahşap yangını",
+      "c) Elektrik yangını",
+      "d) Gaz yangını"
+    ],
+    "correctAnswer": "c) Elektrik yangını"
+  },
+  {
+    "id": 14,
+    "question": "Aşağıdaki yangın söndürücülerinden hangisi mavi renktedir?",
+    "options": ["a) Su", "b) Köpük", "c) Karbondioksit", "d) Kuru Kimyevi Toz"],
+    "correctAnswer": "d) Kuru Kimyevi Toz"
+  },
+  {
+    "id": 15,
+    "question": "Kuru Kimyasal Tozlu söndürücüler ile ilgili olarak aşağıdakilerden hangisi doğru değildir?",
+    "options": [
+      "a) Elektriği iletmez",
+      "b) Zehirli değildir",
+      "c) B ve C sınıfı yangınlarda etkilidir",
+      "d) Söndürme sonrası tortu bırakmaz"
+    ],
+    "correctAnswer": "d) Söndürme sonrası tortu bırakmaz"
+  },
+  {
+    "id": 16,
+    "question": "Hipotermi, vücut sıcaklığının kaç derecenin altına düşmesidir?",
+    "options": ["a) 38°C", "b) 37°C", "c) 36°C", "d) 35°C"],
+    "correctAnswer": "d) 35°C"
+  },
+  {
+    "id": 17,
+    "question": "Aşağıdakilerden hangisi 'Başlangıç Hipotermisi' belirtisidir?",
+    "options": [
+      "a) Bilinç kaybı",
+      "b) Solunumun durması",
+      "c) Kontrol edilemeyen şiddetli titreme",
+      "d) Nabzın alınamaması"
+    ],
+    "correctAnswer": "c) Kontrol edilemeyen şiddetli titreme"
+  },
+  {
+    "id": 18,
+    "question": "Geminin batması halinde kendiliğinden aktif olan veya personel tarafından elle aktif edilebilen, aktif olduğunda uydular vasıtasıyla yer istasyonlarına geminin mevkisini bildiren cihaz aşağıdakilerden hangisidir?",
+    "options": ["a) SART", "b) EPIRB", "c) AIS", "d) VHF"],
+    "correctAnswer": "b) EPIRB"
+  },
+  {
+    "id": 19,
+    "question": "ISPS Kod hangi tarihte yürürlüğe girmiştir?",
+    "options": [
+      "a) 1 Ocak 2002",
+      "b) 1 Temmuz 2004",
+      "c) 11 Eylül 2001",
+      "d) 1 Temmuz 2005"
+    ],
+    "correctAnswer": "b) 1 Temmuz 2004"
+  },
+  {
+    "id": 20,
+    "question": "ISPS kod gereklerine göre 'Liman Tesisi Uygunluk Belgesi' kaç yıl için geçerlidir?",
+    "options": ["a) 1 yıl", "b) 2 yıl", "c) 5 yıl", "d) 10 yıl"],
+    "correctAnswer": "c) 5 yıl"
+  },
+  {
+    "id": 21,
+    "question": "Aşağıdaki seçeneklerden hangisi 'Asgari Koruma Güvenlik Önlemleri'nin her zaman için sürdürüleceği seviye anlamına gelmektedir?",
+    "options": [
+      "a) Güvenlik Seviyesi 1",
+      "b) Güvenlik Seviyesi 2",
+      "c) Güvenlik Seviyesi 3",
+      "d) Güvenlik Seviyesi 0"
+    ],
+    "correctAnswer": "a) Güvenlik Seviyesi 1"
+  },
+  {
+    "id": 22,
+    "question": "Gemilerde herhangi bir acil durumda personelin ve yolcuların ne yapacağını belirten, iş planlama ve görevlendirmelerinin yazıldığı tablolara ne denir?",
+    "options": [
+      "a) Jurnal Defteri",
+      "b) Gemi Planı",
+      "c) Role Cetveli",
+      "d) Vardiya Çizelgesi"
+    ],
+    "correctAnswer": "c) Role Cetveli"
+  },
+  {
+    "id": 23,
+    "question": "Gemilerde yapılan Role talimlerinde alarm verildiğinde personel nereye gitmelidir?",
+    "options": [
+      "a) Kamarasına",
+      "b) Makine dairesine",
+      "c) Toplanma Yerine",
+      "d) Köprüüstüne"
+    ],
+    "correctAnswer": "c) Toplanma Yerine"
+  },
+  {
+    "id": 24,
+    "question": "Denize adam düştüğünde köprüüstünde aşağıdaki düğmelerden hangisine basılır?",
+    "options": ["a) SOS", "b) DSC", "c) MOB", "d) NAVTEX"],
+    "correctAnswer": "c) MOB"
+  },
+  {
+    "id": 25,
+    "question": "Bir deniz mili kaç metredir?",
+    "options": ["a) 1000 m", "b) 1609 m", "c) 1852 m", "d) 2000 m"],
+    "correctAnswer": "c) 1852 m"
+  },
+  {
+    "id": 26,
+    "question": "Otomatik Tanımlama Sistemi'nin (AIS) tanımı nedir?",
+    "options": [
+      "a) Gemilerin uydu üzerinden telefon görüşmesi yapmasını sağlayan sistemdir.",
+      "b) Gemilerin hava durumunu anlık olarak almasını sağlayan sistemdir.",
+      "c) Denizde güvenliği arttırmak amacıyla gemilerin kimlik, konum, rota ve hız gibi bilgilerini otomatik olarak yayınlamasını sağlayan sistemdir.",
+      "d) Geminin elektronik harita üzerinde rotasını göstermesini sağlayan sistemdir."
+    ],
+    "correctAnswer": "c) Denizde güvenliği arttırmak amacıyla gemilerin kimlik, konum, rota ve hız gibi bilgilerini otomatik olarak yayınlamasını sağlayan sistemdir."
+  },
+  {
+    "id": 27,
+    "question": "Yangın üçgenini oluşturan elemanlar hangileridir?",
+    "options": [
+      "a) Isı, Yanıcı Madde, Zincirleme Reaksiyon",
+      "b) Oksijen, Yanıcı Madde, Su",
+      "c) Isı, Oksijen, Yanıcı Madde",
+      "d) Isı, Oksijen, Karbondioksit"
+    ],
+    "correctAnswer": "c) Isı, Oksijen, Yanıcı Madde"
+  },
+  {
+    "id": 28,
+    "question": "Kağıt, odun, kömür gibi katı yanıcı maddelerin oluşturduğu yangın tipi aşağıdakilerden hangisidir?",
+    "options": ["a) A Sınıfı", "b) B Sınıfı", "c) C Sınıfı", "d) D Sınıfı"],
+    "correctAnswer": "a) A Sınıfı"
+  },
+  {
+    "id": 29,
+    "question": "İlk yardımda 'Bildirme' adımı ne anlama gelir?",
+    "options": [
+      "a) Hastanın durumunu yakınlarına bildirmek.",
+      "b) Olayı en kısa sürede acil yardım numarasına (112) bildirmek.",
+      "c) Olay yerini polise bildirmek.",
+      "d) Olayı sigorta şirketine bildirmek."
+    ],
+    "correctAnswer": "b) Olayı en kısa sürede acil yardım numarasına (112) bildirmek."
+  },
+  {
+    "id": 30,
+    "question": "Kafa ve omurga yaralanmalarında yaralı nasıl taşınmalıdır?",
+    "options": [
+      "a) Kucakta taşınmalıdır.",
+      "b) Sandalye ile taşınmalıdır.",
+      "c) Baş-boyun-gövde ekseni bozulmadan sert bir zemin üzerinde taşınmalıdır.",
+      "d) Omuzda taşınmalıdır."
+    ],
+    "correctAnswer": "c) Baş-boyun-gövde ekseni bozulmadan sert bir zemin üzerinde taşınmalıdır."
+  },
+  {
+    "id": 31,
+    "question": "Dinlenen sağlıklı bir erişkinin dakikadaki normal nabız sayısı aralığı nedir?",
+    "options": ["a) 40-60", "b) 60-80", "c) 90-110", "d) 110-130"],
+    "correctAnswer": "b) 60-80"
+  },
+  {
+    "id": 32,
+    "question": "Birinci derece yanıklarda aşağıdakilerden hangisi görülmez?",
+    "options": [
+      "a) Deride acı",
+      "b) Deride hassasiyet",
+      "c) Deride kızarıklık",
+      "d) Deride içi su dolu kabarcıkların (bül) oluşması"
+    ],
+    "correctAnswer": "d) Deride içi su dolu kabarcıkların (bül) oluşması"
+  },
+  {
+    "id": 33,
+    "question": "Bir çıkık durumunda yapılması gereken ilk yardımda aşağıdakilerden hangisi kesinlikle yapılmamalıdır?",
+    "options": [
+      "a) Çıkığı yerine oturtmaya çalışmak",
+      "b) Nabız kontrolü yapmak",
+      "c) Çıkık bölgeyi hareketsiz hale getirmek",
+      "d) Tıbbi yardım istemek"
+    ],
+    "correctAnswer": "a) Çıkığı yerine oturtmaya çalışmak"
+  },
+  {
+    "id": 34,
+    "question": "Dolaşım sisteminin yetersizliği sonucu hayati organlara yeterli kan gitmemesi durumuna ne ad verilir?",
+    "options": ["a) Koma", "b) Bayılma", "c) Şok", "d) Epilepsi"],
+    "correctAnswer": "c) Şok"
+  },
+  {
+    "id": 35,
+    "question": "SOLAS standartlarına göre ışıklı can simitlerinin ışığı en az ne kadar süreyle yanmalıdır?",
+    "options": ["a) 30 dakika", "b) 1 saat", "c) 2 saat", "d) 8 saat"],
+    "correctAnswer": "c) 2 saat"
+  },
+  {
+    "id": 36,
+    "question": "SOLAS'a uygun bir can simidinin iç ve dış çapı ölçüleri sırasıyla ne olmalıdır?",
+    "options": [
+      "a) iç çapı 30cm'den az - dış çapı 60cm'den çok olmayacak",
+      "b) iç çapı 40cm'den az - dış çapı 80cm'den çok olmayacak",
+      "c) iç çapı 50cm'den az - dış çapı 90cm'den çok olmayacak",
+      "d) iç çapı 60cm'den az - dış çapı 100cm'den çok olmayacak"
+    ],
+    "correctAnswer": "b) iç çapı 40cm'den az - dış çapı 80cm'den çok olmayacak"
+  },
+  {
+    "id": 37,
+    "question": "60 metreden büyük ticari gemilerde en az kaç adet can simidi bulundurulmalıdır?",
+    "options": ["a) 4 Adet", "b) 6 Adet", "c) 8 Adet", "d) 12 Adet"],
+    "correctAnswer": "c) 8 Adet"
+  },
+  {
+    "id": 38,
+    "question": "Can yelekleri yangın sırasında ne kadar süre boyunca yanmamalı ve erimemelidir?",
+    "options": ["a) 1 saniye", "b) 2 saniye", "c) 5 saniye", "d) 10 saniye"],
+    "correctAnswer": "b) 2 saniye"
+  },
+  {
+    "id": 39,
+    "question": "Can yeleği giyilmiş olarak en az kaç metre yükseklikten suya atlandığında, atlayan kişinin üzerinden çıkmamalı ve hasar görmemelidir?",
+    "options": ["a) 2.5 metre", "b) 3.5 metre", "c) 4.5 metre", "d) 5.5 metre"],
+    "correctAnswer": "c) 4.5 metre"
+  },
+  {
+    "id": 40,
+    "question": "Can salları en az kaç personel alacak şekilde imal edilir?",
+    "options": ["a) 4", "b) 6", "c) 8", "d) 10"],
+    "correctAnswer": "b) 6"
+  },
+  {
+    "id": 41,
+    "question": "Can salları her türlü deniz şartında en az kaç gün yüzer halde kalacak şekilde imal edilirler?",
+    "options": ["a) 7 gün", "b) 15 gün", "c) 30 gün", "d) 45 gün"],
+    "correctAnswer": "c) 30 gün"
+  },
+  {
+    "id": 42,
+    "question": "Şişme Can Salı, denizde +18 ile +20 °C arasındaki sıcaklıklarda kaç dakikada şişebilmelidir?",
+    "options": [
+      "a) 1 dakikadan az",
+      "b) 2 dakika",
+      "c) 3 dakika",
+      "d) 5 dakika"
+    ],
+    "correctAnswer": "b) 2 dakika"
+  },
+  {
+    "id": 43,
+    "question": "Şişme Can Salı, denizde -30 °C sıcaklıkta kaç dakikada şişebilmelidir?",
+    "options": ["a) 1 dakika", "b) 2 dakika", "c) 3 dakika", "d) 4 dakika"],
+    "correctAnswer": "c) 3 dakika"
+  },
+  {
+    "id": 44,
+    "question": "Can salının tepesindeki lamba en az kaç saat çalışabilmelidir?",
+    "options": ["a) 4 saat", "b) 6 saat", "c) 8 saat", "d) 12 saat"],
+    "correctAnswer": "d) 12 saat"
+  },
+  {
+    "id": 45,
+    "question": "Parima halatının dayanma gücü 10 kN olan bir can salının taşıma kapasitesi en az kaç kişidir?",
+    "options": ["a) 6 kişi", "b) 9 kişi", "c) 12 kişi", "d) 15 kişi"],
+    "correctAnswer": "b) 9 kişi"
+  },
+  {
+    "id": 46,
+    "question": "Bir can filikası en fazla kaç kişilik olabilir?",
+    "options": ["a) 50 kişi", "b) 75 kişi", "c) 100 kişi", "d) 150 kişi"],
+    "correctAnswer": "d) 150 kişi"
+  },
+  {
+    "id": 47,
+    "question": "Bir can filikasının motorunun yakıtı en az kaç saat yetecek kadar olmalıdır?",
+    "options": ["a) 8 saat", "b) 12 saat", "c) 24 saat", "d) 48 saat"],
+    "correctAnswer": "c) 24 saat"
+  },
+  {
+    "id": 48,
+    "question": "Motorlu bir can filikası, insan ve teçhizatla tam yüklü 25 kişilik bir can salını en az ne kadar süratle yedeklemelidir?",
+    "options": [
+      "a) 2 mil sürat",
+      "b) 4 mil sürat",
+      "c) 6 mil sürat",
+      "d) 8 mil sürat"
+    ],
+    "correctAnswer": "a) 2 mil sürat"
+  },
+  {
+    "id": 49,
+    "question": "Gemi battığında hidrostatik kilit kaç metre derinlikte otomatik olarak açılır?",
+    "options": ["a) 1-2 metre", "b) 2-3 metre", "c) 4 metre", "d) 5-6 metre"],
+    "correctAnswer": "c) 4 metre"
+  },
+  {
+    "id": 50,
+    "question": "Denize adam düştüğünde kullanılan ışıklı ve dumanlı kandil, hangi renkte ve ne kadar süreyle duman çıkartır?",
+    "options": [
+      "a) Beyaz - 10 dakika",
+      "b) Turuncu - 15 dakika",
+      "c) Kırmızı - 10 dakika",
+      "d) Sarı - 15 dakika"
+    ],
+    "correctAnswer": "b) Turuncu - 15 dakika"
+  },
+  {
+    "id": 51,
+    "question": "Aşağıdakilerden hangisi COSPAS-SARSAT uydu EPIRB cihazının bir özelliği değildir?",
+    "options": [
+      "a) 406 MHz üzerinden sinyal gönderebilirler.",
+      "b) Kullanıcılar kendi mesajlarını yükleyip yayınlayamazlar.",
+      "c) Tehlikedeki geminin kimliğini, tehlike türünü ve konumunu hesaplamasını sağlar.",
+      "d) 5 Watt çıkış gücünde bir sinyal yayını yapar."
+    ],
+    "correctAnswer": "b) Kullanıcılar kendi mesajlarını yükleyip yayınlayamazlar."
+  },
+  {
+    "id": 52,
+    "question": "SOLAS'a göre gemilerde bulunan can kurtarma vasıtaları için hangi paket türleri mevcuttur?",
+    "options": [
+      "a) Sadece A-Paket",
+      "b) Sadece B-Paket",
+      "c) A-Paket ve B-Paket",
+      "d) A, B ve C-Paket"
+    ],
+    "correctAnswer": "c) A-Paket ve B-Paket"
+  },
+  {
+    "id": 53,
+    "question": "Aşağıdaki piroteknik malzemelerden hangileri can kurtarma araçlarında bulunur?",
+    "options": [
+      "a) Sadece El maytabı ve Paraşütlü işaret fişeği",
+      "b) Sadece Duman kandili",
+      "c) Sadece SART",
+      "d) El maytabı, Paraşütlü işaret fişeği ve Duman kandili"
+    ],
+    "correctAnswer": "d) El maytabı, Paraşütlü işaret fişeği ve Duman kandili"
+  },
+  {
+    "id": 54,
+    "question": "0°C deniz suyu sıcaklığında suya düşen ve kişisel hazırlığını yapmamış bir kazazedenin yaşama süresi ne kadardır?",
+    "options": ["a) 5 dakika", "b) 15 dakika", "c) 30 dakika", "d) 1 saat"],
+    "correctAnswer": "b) 15 dakika"
+  },
+  {
+    "id": 55,
+    "question": "Can salına bindikten sonra yapılacak ilk iş nedir ve su ne zaman içilmelidir?",
+    "options": [
+      "a) Hemen deniz tutması hapı içilir, ilk 24 saat su içilmez.",
+      "b) Yiyecekler kontrol edilir, su hemen içilir.",
+      "c) İlk yardım çantası kontrol edilir, su 12 saat sonra içilir.",
+      "d) Gözcülük görevi belirlenir, su istenildiği zaman içilir."
+    ],
+    "correctAnswer": "a) Hemen deniz tutması hapı içilir, ilk 24 saat su içilmez."
+  },
+
+  {
+    "id": 41,
+    "question": "Can salları her türlü deniz şartında en az kaç gün yüzer halde kalacak şekilde imal edilirler?",
+    "options": ["a) 7 gün", "b) 15 gün", "c) 30 gün", "d) 45 gün"],
+    "correctAnswer": "c) 30 gün"
+  },
+  {
+    "id": 42,
+    "question": "Şişme Can Salı, denizde +18 ile +20 °C arasındaki sıcaklıklarda kaç dakikada şişebilmelidir?",
+    "options": [
+      "a) 1 dakikadan az",
+      "b) 2 dakika",
+      "c) 3 dakika",
+      "d) 5 dakika"
+    ],
+    "correctAnswer": "b) 2 dakika"
+  },
+  {
+    "id": 43,
+    "question": "Şişme Can Salı, denizde -30 °C sıcaklıkta kaç dakikada şişebilmelidir?",
+    "options": ["a) 1 dakika", "b) 2 dakika", "c) 3 dakika", "d) 4 dakika"],
+    "correctAnswer": "c) 3 dakika"
+  },
+  {
+    "id": 44,
+    "question": "Can salının tepesindeki lamba en az kaç saat çalışabilmelidir?",
+    "options": ["a) 4 saat", "b) 6 saat", "c) 8 saat", "d) 12 saat"],
+    "correctAnswer": "d) 12 saat"
+  },
+  {
+    "id": 45,
+    "question": "Parima halatının dayanma gücü 10 kN olan bir can salının taşıma kapasitesi en az kaç kişidir?",
+    "options": ["a) 6 kişi", "b) 9 kişi", "c) 12 kişi", "d) 15 kişi"],
+    "correctAnswer": "b) 9 kişi"
+  },
+  {
+    "id": 46,
+    "question": "Bir can filikası en fazla kaç kişilik olabilir?",
+    "options": ["a) 50 kişi", "b) 75 kişi", "c) 100 kişi", "d) 150 kişi"],
+    "correctAnswer": "d) 150 kişi"
+  },
+  {
+    "id": 47,
+    "question": "Bir can filikasının motorunun yakıtı en az kaç saat yetecek kadar olmalıdır?",
+    "options": ["a) 8 saat", "b) 12 saat", "c) 24 saat", "d) 48 saat"],
+    "correctAnswer": "c) 24 saat"
+  },
+  {
+    "id": 48,
+    "question": "Motorlu bir can filikası, insan ve teçhizatla tam yüklü 25 kişilik bir can salını en az ne kadar süratle yedeklemelidir?",
+    "options": [
+      "a) 2 mil sürat",
+      "b) 4 mil sürat",
+      "c) 6 mil sürat",
+      "d) 8 mil sürat"
+    ],
+    "correctAnswer": "a) 2 mil sürat"
+  },
+  {
+    "id": 49,
+    "question": "Gemi battığında hidrostatik kilit kaç metre derinlikte otomatik olarak açılır?",
+    "options": ["a) 1-2 metre", "b) 2-3 metre", "c) 4 metre", "d) 5-6 metre"],
+    "correctAnswer": "c) 4 metre"
+  },
+  {
+    "id": 50,
+    "question": "Denize adam düştüğünde kullanılan ışıklı ve dumanlı kandil, hangi renkte ve ne kadar süreyle duman çıkartır?",
+    "options": [
+      "a) Beyaz - 10 dakika",
+      "b) Turuncu - 15 dakika",
+      "c) Kırmızı - 10 dakika",
+      "d) Sarı - 15 dakika"
+    ],
+    "correctAnswer": "b) Turuncu - 15 dakika"
+  },
+  {
+    "id": 51,
+    "question": "Aşağıdakilerden hangisi COSPAS-SARSAT uydu EPIRB cihazının bir özelliği değildir?",
+    "options": [
+      "a) 406 MHz üzerinden sinyal gönderebilirler.",
+      "b) Kullanıcılar kendi mesajlarını yükleyip yayınlayamazlar.",
+      "c) Tehlikedeki geminin kimliğini, tehlike türünü ve konumunu hesaplamasını sağlar.",
+      "d) 5 Watt çıkış gücünde bir sinyal yayını yapar."
+    ],
+    "correctAnswer": "b) Kullanıcılar kendi mesajlarını yükleyip yayınlayamazlar."
+  },
+  {
+    "id": 52,
+    "question": "SOLAS'a göre gemilerde bulunan can kurtarma vasıtaları için hangi paket türleri mevcuttur?",
+    "options": [
+      "a) Sadece A-Paket",
+      "b) Sadece B-Paket",
+      "c) A-Paket ve B-Paket",
+      "d) A, B ve C-Paket"
+    ],
+    "correctAnswer": "c) A-Paket ve B-Paket"
+  },
+  {
+    "id": 53,
+    "question": "Aşağıdaki piroteknik malzemelerden hangileri can kurtarma araçlarında bulunur?",
+    "options": [
+      "a) Sadece El maytabı ve Paraşütlü işaret fişeği",
+      "b) Sadece Duman kandili",
+      "c) Sadece SART",
+      "d) El maytabı, Paraşütlü işaret fişeği ve Duman kandili"
+    ],
+    "correctAnswer": "d) El maytabı, Paraşütlü işaret fişeği ve Duman kandili"
+  },
+  {
+    "id": 54,
+    "question": "0°C deniz suyu sıcaklığında suya düşen ve kişisel hazırlığını yapmamış bir kazazedenin yaşama süresi ne kadardır?",
+    "options": ["a) 5 dakika", "b) 15 dakika", "c) 30 dakika", "d) 1 saat"],
+    "correctAnswer": "b) 15 dakika"
+  },
+  {
+    "id": 55,
+    "question": "Can salına bindikten sonra yapılacak ilk iş nedir ve su ne zaman içilmelidir?",
+    "options": [
+      "a) Hemen deniz tutması hapı içilir, ilk 24 saat su içilmez.",
+      "b) Yiyecekler kontrol edilir, su hemen içilir.",
+      "c) İlk yardım çantası kontrol edilir, su 12 saat sonra içilir.",
+      "d) Gözcülük görevi belirlenir, su istenildiği zaman içilir."
+    ],
+    "correctAnswer": "a) Hemen deniz tutması hapı içilir, ilk 24 saat su içilmez."
+  },
+  {
+    "id": 56,
+    "question": "Solunum yolunda kısmi tıkanıklık yaşayan ve zorla konuşabilen bir kazazedeye yapılması gereken ilk yardım uygulaması nedir?",
+    "options": [
+      "a) Heimlich manevrası uygulanır.",
+      "b) Suni solunum yapılır.",
+      "c) Sırtına vurulur.",
+      "d) Öksürmeye teşvik edilir."
+    ],
+    "correctAnswer": "d) Öksürmeye teşvik edilir."
+  },
+  {
+    "id": 57,
+    "question": "SART (Arama Kurtarma Radar Transponderi) sinyalleri hangi radar bandında izlenir?",
+    "options": ["a) S-Bandı", "b) L-Bandı", "c) X-Bandı", "d) C-Bandı"],
+    "correctAnswer": "c) X-Bandı"
+  },
+  {
+    "id": 58,
+    "question": "AIS-SART cihazı ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "a) Sadece SART sinyali yayar.",
+      "b) Sadece AIS sinyali yayar.",
+      "c) Hem AIS hem de SART sinyali yayarak kazazedenin konumunun yakın mesafeden tespit edilmesini sağlar.",
+      "d) Sadece uydular tarafından algılanan bir sinyal yayar."
+    ],
+    "correctAnswer": "c) Hem AIS hem de SART sinyali yayarak kazazedenin konumunun yakın mesafeden tespit edilmesini sağlar."
+  },
+  {
+    "id": 59,
+    "question": "ISPS Kodu'na göre gemi güvenlik planının hazırlanmasından, uygulanmasından ve gemi ile şirket arasındaki irtibattan sorumlu kişi kimdir?",
+    "options": [
+      "a) Gemi Kaptanı",
+      "b) Liman Tesisi Güvenlik Sorumlusu",
+      "c) Şirket Güvenlik Sorumlusu (CSO)",
+      "d) Gemi Güvenlik Zabiti (SSO)"
+    ],
+    "correctAnswer": "c) Şirket Güvenlik Sorumlusu (CSO)"
+  },
+  {
+    "id": 60,
+    "question": "Yakın bir güvenlik olayının muhtemel veya gerçekleşmek üzere olduğu durumlarda hangi güvenlik seviyesi ilan edilir?",
+    "options": [
+      "a) Güvenlik Seviyesi 0",
+      "b) Güvenlik Seviyesi 1",
+      "c) Güvenlik Seviyesi 2",
+      "d) Güvenlik Seviyesi 3"
+    ],
+    "correctAnswer": "d) Güvenlik Seviyesi 3"
+  },
+  {
+    "id": 61,
+    "question": "Bir kapalı ortama hangi oranda karbondioksit dolduğunda yaşam tehlikesi başlar?",
+    "options": ["a) %5", "b) %10", "c) %15", "d) %20"],
+    "correctAnswer": "d) %20"
+  },
+  {
+    "id": 62,
+    "question": "Gemilerde yapılan bir role talimi çeşidi aşağıdakilerden hangisi değildir?",
+    "options": [
+      "a) Dümen arızası",
+      "b) Yangın",
+      "c) Yük kayması",
+      "d) Gemiyi terk"
+    ],
+    "correctAnswer": "c) Yük kayması"
+  },
+  {
+    "id": 63,
+    "question": "SOLAS'a göre gemilerde acil durumlara hazırlık maksadıyla her mürettebat asgari ne kadar sürede bir yangın talimine katılmalıdır?",
+    "options": [
+      "a) Her hafta",
+      "b) Her ay",
+      "c) Üç ayda bir",
+      "d) Altı ayda bir"
+    ],
+    "correctAnswer": "b) Her ay"
+  },
+  {
+    "id": 64,
+    "question": "Geminin oturması durumunda yapılacaklardan hangisi yanlıştır?",
+    "options": [
+      "a) Makine stop edilir.",
+      "b) Alarm verilir, anons yapılır.",
+      "c) Geminin mevkii belirlenir.",
+      "d) Yük denize tamamen boşaltılarak gemi yüzdürülür."
+    ],
+    "correctAnswer": "d) Yük denize tamamen boşaltılarak gemi yüzdürülür."
+  },
+  {
+    "id": 65,
+    "question": "Bir deniz mili kaç metredir?",
+    "options": [
+      "a) 1000 metre",
+      "b) 1609 metre",
+      "c) 1852 metre",
+      "d) 2000 metre"
+    ],
+    "correctAnswer": "c) 1852 metre"
+  },
+  {
+    "id": 66,
+    "question": "Özel uydu sistemleri aracılığı ile pozisyon tespiti yapan cihazların kısaltılmış ifadesi nedir?",
+    "options": ["a) RADAR", "b) LORAN", "c) AIS", "d) GPS"],
+    "correctAnswer": "d) GPS"
+  },
+  {
+    "id": 67,
+    "question": "Yolcu gemilerinde manevra esnasında geminin en fazla kaç derece yatmasına müsaade edilir?",
+    "options": ["a) 5 derece", "b) 10 derece", "c) 15 derece", "d) 20 derece"],
+    "correctAnswer": "b) 10 derece"
+  },
+  {
+    "id": 68,
+    "question": "Hasarlanma sonucu geminin su alması aşağıdakilerden hangisinin değişmesine neden olmaz?",
+    "options": [
+      "a) Boyuna stabilite",
+      "b) Gemi mukavemeti",
+      "c) Rezerve deplasman",
+      "d) Geminin yakıt kapasitesi"
+    ],
+    "correctAnswer": "d) Geminin yakıt kapasitesi"
+  },
+  {
+    "id": 69,
+    "question": "Kuru havuza alınacak gemi, havuz amirinin istediği havuzlama öncesi balast ve stabilite koşullarına getirilir. Geminin havuza bütünüyle aynı anda oturması için nasıl olması gerekir?",
+    "options": [
+      "a) Meyilli / trimli",
+      "b) Başa trimli",
+      "c) Kıça trimli",
+      "d) Meyilsiz / trimsiz"
+    ],
+    "correctAnswer": "d) Meyilsiz / trimsiz"
+  },
+  {
+    "id": 70,
+    "question": "Potasyum yangını hangi sınıf yangın grubuna girer?",
+    "options": ["a) A Sınıfı", "b) B Sınıfı", "c) C Sınıfı", "d) D Sınıfı"],
+    "correctAnswer": "d) D Sınıfı"
+  },
+  {
+    "id": 71,
+    "question": "Bir solunum cihazının en önemli özelliği nedir?",
+    "options": [
+      "a) Hafif olması",
+      "b) Ucuz olması",
+      "c) İnsan vücudunun ihtiyacı olan %21'lik temiz oksijeni sağlaması",
+      "d) Kolay taşınabilir olması"
+    ],
+    "correctAnswer": "c) İnsan vücudunun ihtiyacı olan %21'lik temiz oksijeni sağlaması"
+  },
+  {
+    "id": 72,
+    "question": "Bir solunum cihazının alarm sisteminin çalışmaya başlaması ne anlama gelir?",
+    "options": [
+      "a) Cihazın arızalandığı",
+      "b) Yangının söndürüldüğü",
+      "c) Derhal yangın mahallinden çıkılması ve tüpün değişmesi gerektiği",
+      "d) Oksijen seviyesinin normale döndüğü"
+    ],
+    "correctAnswer": "c) Derhal yangın mahallinden çıkılması ve tüpün değişmesi gerektiği"
+  },
+  {
+    "id": 73,
+    "question": "6 kilogramlık 2 adet portatif yangın söndürme cihazı, hangi tür teknelerde bulundurulmalıdır?",
+    "options": [
+      "a) 5-10 metre arası tekneler",
+      "b) 8-15 metre arası ticari yatlar",
+      "c) 15-20 metre arası balıkçı tekneleri",
+      "d) Tüm özel tekneler"
+    ],
+    "correctAnswer": "b) 8-15 metre arası ticari yatlar"
+  },
+  {
+    "id": 74,
+    "question": "Aşağıdaki dedektörlerden hangisi gemilerde yangın ihbarında kullanılmaz?",
+    "options": [
+      "a) Alev dedektörü",
+      "b) Duman dedektörü",
+      "c) Isı dedektörü",
+      "d) Basınç dedektörü"
+    ],
+    "correctAnswer": "d) Basınç dedektörü"
+  },
+  {
+    "id": 75,
+    "question": "SOLAS gereği 1000 GRT ve daha üzeri tonajda bulunan gemilerde asgari yangın pompası sayısı doğru olarak verilmiştir?",
+    "options": [
+      "a) En az 1 tane",
+      "b) En az 2 tane",
+      "c) En az 3 tane",
+      "d) En az 4 tane"
+    ],
+    "correctAnswer": "b) En az 2 tane"
+  },
+  {
+    "id": 76,
+    "question": "Herhangi bir gemide en düşük emergency yangın tulumbasının kapasitesi aşağıdakilerden hangisidir?",
+    "options": [
+      "a) 15 m³/saat",
+      "b) 20 m³/saat",
+      "c) 25 m³/saat",
+      "d) 30 m³/saat"
+    ],
+    "correctAnswer": "c) 25 m³/saat"
+  },
+  {
+    "id": 77,
+    "question": "Uluslararası Sahil Bağlantısı'nın (International Shore Connection) kullanım amacı nedir?",
+    "options": [
+      "a) Gemiden sahile atık su basmak",
+      "b) Gemiden sahile yakıt transfer etmek",
+      "c) Gemi yangın devresine gemi dışından su alabilmek",
+      "d) Sahilden gemiye elektrik almak"
+    ],
+    "correctAnswer": "c) Gemi yangın devresine gemi dışından su alabilmek"
+  },
+  {
+    "id": 78,
+    "question": "Parlayıcı ve patlayıcı gaz ortamlarının bulunabileceği yerlerde kullanılmakta olan elektrikli donanımlar hangi özelliğe sahiptir?",
+    "options": [
+      "a) Waterproof (Su geçirmez)",
+      "b) Stainless (Paslanmaz)",
+      "c) Ex-proof (Patlamaya karşı korumalı)",
+      "d) High-voltage (Yüksek voltaj)"
+    ],
+    "correctAnswer": "c) Ex-proof (Patlamaya karşı korumalı)"
+  },
+  {
+    "id": 79,
+    "question": "A-60 sınıfı bölmeler 60 dakika ateşe maruz kaldığında, ateşe maruz kalmayan yüzeylerdeki sıcaklık en fazla kaç santigrat derece olmalıdır?",
+    "options": ["a) 100°C", "b) 125°C", "c) 139°C", "d) 180°C"],
+    "correctAnswer": "c) 139°C"
+  },
+  {
+    "id": 80,
+    "question": "Oksijen konsantrasyonunu yanma için gerekli olan oranın altına düşürmeye ne ad verilir?",
+    "options": ["a) Soğutma", "b) Boğma", "c) Engelleme", "d) Ayırma"],
+    "correctAnswer": "b) Boğma"
+  },
+  {
+    "id": 81,
+    "question": "Seyir halinde bulunan geminin pupa (kıç) üstünde adet yangın çıkmıştır. Bu durumda aşağıdakilerden hangisi uygun bir hareket olur?",
+    "options": [
+      "a) Gemiyi durdurmak",
+      "b) Rüzgarı yandan almak için rota değiştirmek",
+      "c) Rüzgarı kıçtan almak için rota değiştirmek",
+      "d) Rota değiştirilerek rüzgar baş üstünden alınır"
+    ],
+    "correctAnswer": "d) Rota değiştirilerek rüzgar baş üstünden alınır"
+  },
+  {
+    "id": 82,
+    "question": "İlk yardımın temel uygulamaları hangileridir?",
+    "options": [
+      "a) Teşhis, Tedavi, Transport",
+      "b) Koruma, Bildirme, Kurtarma",
+      "c) Kontrol, Müdahale, Nakil",
+      "d) Bak, Dinle, Hisset"
+    ],
+    "correctAnswer": "b) Koruma, Bildirme, Kurtarma"
+  },
+  {
+    "id": 83,
+    "question": "Solunum yolu tam olarak tıkanmış bir kişide aşağıdakilerden hangisi görülür?",
+    "options": [
+      "a) Konuşabilir",
+      "b) Öksürebilir",
+      "c) Nefes alabilir",
+      "d) Konuşamaz, nefes alamaz, morarır"
+    ],
+    "correctAnswer": "d) Konuşamaz, nefes alamaz, morarır"
+  },
+  {
+    "id": 84,
+    "question": "Yılan ısırmasında aşağıdakilerden hangisi yapılmamalıdır?",
+    "options": [
+      "a) Soğuk uygulama yapılır.",
+      "b) Isırılan yer sakinleştirilir.",
+      "c) Isırılan yer bıçakla kesilerek zehir emilir ve tükürülür.",
+      "d) Kol ve bacaklarda ise yara üstünden, dolaşımı engellemeyecek şekilde bandaj uygulanır."
+    ],
+    "correctAnswer": "c) Isırılan yer bıçakla kesilerek zehir emilir ve tükürülür."
+  },
+  {
+    "id": 85,
+    "question": "Atardamar kanamalarında turnike hangi durumlarda uygulanmalıdır?",
+    "options": [
+      "a) Hafif kanamalarda",
+      "b) Tüm kanamalarda",
+      "c) Şiddetli ve durdurulamayan uzuv kanamalarında",
+      "d) Sadece parmak kanamalarında"
+    ],
+    "correctAnswer": "c) Şiddetli ve durdurulamayan uzuv kanamalarında"
+  },
+  {
+    "id": 86,
+    "question": "Yaraya saplanmış bir yabancı cisim varsa ne yapılmalıdır?",
+    "options": [
+      "a) Cisim hemen çıkarılır.",
+      "b) Cisim oynatılmadan sabitlenerek sağlık kuruluşuna götürülür.",
+      "c) Cisim daha derine itilir.",
+      "d) Cisim etrafına baskı uygulanır."
+    ],
+    "correctAnswer": "b) Cisim oynatılmadan sabitlenerek sağlık kuruluşuna götürülür."
+  },
+  {
+    "id": 87,
+    "question": "Merkezi sinir sistemi tahrişleri sonucunda beyinde elektriksel boşalmalara neden olan ve kontrol edilemeyen kas kasılmalarıyla seyreden olaya ne denir?",
+    "options": ["a) Koma", "b) Şok", "c) Bayılma", "d) Havale (Nöbet)"],
+    "correctAnswer": "d) Havale (Nöbet)"
+  },
+  {
+    "id": 88,
+    "question": "Baş-Geri Çene-Yukarı pozisyonunun amacı nedir?",
+    "options": [
+      "a) Kan basıncını ölçmek",
+      "b) Nabzı kontrol etmek",
+      "c) Dil kökünün soluk borusunu kapatmasını önleyerek hava yolunu açmak",
+      "d) Vücut ısısını düşürmek"
+    ],
+    "correctAnswer": "c) Dil kökünün soluk borusunu kapatmasını önleyerek hava yolunu açmak"
+  },
+  {
+    "id": 89,
+    "question": "Yetişkin bir kazazedeye tek kurtarıcı ile temel yaşam desteği uygulanırken kalp masajı ve suni solunum oranı ne olmalıdır?",
+    "options": [
+      "a) 15 masaj, 2 nefes",
+      "b) 30 masaj, 2 nefes",
+      "c) 5 masaj, 1 nefes",
+      "d) 10 masaj, 1 nefes"
+    ],
+    "correctAnswer": "b) 30 masaj, 2 nefes"
+  },
+  {
+    "id": 90,
+    "question": "Can kurtarma filikasının (survival craft) bir parçası olmayan aşağıdakilerden hangisidir?",
+    "options": [
+      "a) Can Salları",
+      "b) Acil filikalar",
+      "c) Palamar botu",
+      "d) Hızlı kurtarma botu"
+    ],
+    "correctAnswer": "c) Palamar botu"
+  },
+  {
+    "id": 91,
+    "question": "Denize adam düşmesi durumunda yapılan aciliyet çağrısı hangi ifadeyle başlar?",
+    "options": [
+      "a) Mayday, Mayday, Mayday",
+      "b) Securite, Securite, Securite",
+      "c) Pan Pan, Pan Pan, Pan Pan",
+      "d) SOS, SOS, SOS"
+    ],
+    "correctAnswer": "c) Pan Pan, Pan Pan, Pan Pan"
+  },
+  {
+    "id": 92,
+    "question": "Denize düşen birini kurtarmak için en hızlı dönüş manevrası aşağıdakilerden hangisidir?",
+    "options": [
+      "a) Williamson Dönüşü",
+      "b) Scharnow Dönüşü",
+      "c) Anderson Dönüşü (Tek Dönüş)",
+      "d) Tek Pervane Dönüşü"
+    ],
+    "correctAnswer": "c) Anderson Dönüşü (Tek Dönüş)"
+  },
+  {
+    "id": 93,
+    "question": "Gemiyi terk etme kararı alındığında personelin toplanacağı yere ne ad verilir?",
+    "options": [
+      "a) Güverte",
+      "b) Köprüüstü",
+      "c) Toplanma mevkii (Muster Station)",
+      "d) Makine dairesi"
+    ],
+    "correctAnswer": "c) Toplanma mevkii (Muster Station)"
+  },
+  {
+    "id": 94,
+    "question": "SOLAS'a göre can kurtarma filikaları ve donanımları en fazla kaç derecelik gemi meyilinde dahi denize indirilebilecek şekilde yapılmalıdır?",
+    "options": ["a) 10 derece", "b) 15 derece", "c) 20 derece", "d) 25 derece"],
+    "correctAnswer": "c) 20 derece"
+  },
+  {
+    "id": 95,
+    "question": "SOLAS kurallarına göre can filikalarında kişi başına düşen içme suyu miktarı en az ne kadardır?",
+    "options": ["a) 1 litre", "b) 1.5 litre", "c) 3 litre", "d) 5 litre"],
+    "correctAnswer": "c) 3 litre"
+  },
+  {
+    "id": 96,
+    "question": "Can kurtarma araçlarında taşınmasına müsaade edilen acil durum yiyecek paketi kişi başına kaç kilojul değerindedir?",
+    "options": ["a) 5.000 kJ", "b) 8.000 kJ", "c) 10.000 kJ", "d) 12.000 kJ"],
+    "correctAnswer": "c) 10.000 kJ"
+  },
+  {
+    "id": 97,
+    "question": "Paraşütlü işaret fişeğinin özellikleri ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "a) Işık kuvveti en az 10.000 kandela, havada en az 100 metre yüksekliğe ulaşır, 20 saniye yanar.",
+      "b) Işık kuvveti en az 20.000 kandela, havada en az 200 metre yüksekliğe ulaşır, 30 saniye yanar.",
+      "c) Işık kuvveti en az 30.000 kandela, havada en az 300 metre yüksekliğe ulaşır, 40 saniye yanar.",
+      "d) Işık kuvveti en az 40.000 kandela, havada en az 400 metre yüksekliğe ulaşır, 60 saniye yanar."
+    ],
+    "correctAnswer": "c) Işık kuvveti en az 30.000 kandela, havada en az 300 metre yüksekliğe ulaşır, 40 saniye yanar."
+  }
+]

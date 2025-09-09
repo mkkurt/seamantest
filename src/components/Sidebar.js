@@ -18,9 +18,16 @@ const Sidebar = ({ onSelectTest }) => {
   const { t } = useTranslation();
 
   return (
-    <div className="w-64 bg-white dark:bg-gray-800 shadow-xl sticky top-0 overflow-y-auto h-full transition-colors duration-300" role="navigation" aria-label="Quiz categories">
+    <div
+      className="w-64 bg-white dark:bg-gray-800 shadow-xl sticky top-0 overflow-y-auto h-full transition-colors duration-300"
+      role="navigation"
+      aria-label="Quiz categories"
+    >
       <div className="p-6">
-        <h2 className="text-l font-bold mb-6 text-gray-800 dark:text-white" id="categories-heading">
+        <h2
+          className="text-l font-bold mb-6 text-gray-800 dark:text-white"
+          id="categories-heading"
+        >
           {t("categories")}
         </h2>
         <ul className="space-y-2" aria-labelledby="categories-heading">
@@ -49,7 +56,9 @@ const Sidebar = ({ onSelectTest }) => {
                       ? t("maritimeLaw")
                       : category === "Maritime Safety"
                       ? t("maritimeSafety")
-                      : ""}
+                      : category === "Maritime Safety New"
+                      ? t("maritimeSafetyNew")
+                      : category}
                   </span>
                   <ChevronRight
                     size={20}
@@ -59,7 +68,10 @@ const Sidebar = ({ onSelectTest }) => {
                   />
                 </button>
                 {expandedCategories[category] && (
-                  <ul className="ml-4 mt-2 space-y-1" id={`category-${category}-content`}>
+                  <ul
+                    className="ml-4 mt-2 space-y-1"
+                    id={`category-${category}-content`}
+                  >
                     <li key="all-questions">
                       <button
                         className={`w-full text-left p-2 rounded-md text-sm transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 focus:ring-offset-gray-800 ${
@@ -69,7 +81,12 @@ const Sidebar = ({ onSelectTest }) => {
                             : "hover:bg-gray-50 dark:hover:bg-gray-700/50 text-gray-700 dark:text-gray-300"
                         }`}
                         onClick={() => onSelectTest(category, "All Questions")}
-                        aria-current={selectedTest === "All Questions" && selectedCategory === category ? "page" : undefined}
+                        aria-current={
+                          selectedTest === "All Questions" &&
+                          selectedCategory === category
+                            ? "page"
+                            : undefined
+                        }
                       >
                         {t("allQuestions")}
                       </button>
@@ -77,7 +94,9 @@ const Sidebar = ({ onSelectTest }) => {
                     <li key={category} className="mb-2">
                       <button
                         className={`w-full text-left p-2 rounded-md text-sm flex items-center justify-between transition-colors ${
-                          expandedTests ? "text-blue-700 dark:text-blue-300" : "hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-300"
+                          expandedTests
+                            ? "text-blue-700 dark:text-blue-300"
+                            : "hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-300"
                         }`}
                         onClick={() => setExpandedTests(!expandedTests)}
                       >
