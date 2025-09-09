@@ -1,0 +1,33 @@
+# Cache headers configuration for static assets
+# This file can be used by various hosting providers for cache control
+
+# Static assets with hash in filename (JS, CSS) - cache for 1 year
+/static/js/*.js
+  Cache-Control: public, max-age=31536000, immutable
+
+/static/css/*.css
+  Cache-Control: public, max-age=31536000, immutable
+
+# HTML files - no cache to ensure users get latest version
+/*.html
+  Cache-Control: no-cache, no-store, must-revalidate
+
+# Root HTML
+/
+  Cache-Control: no-cache, no-store, must-revalidate
+
+# Service worker - no cache
+/sw.js
+  Cache-Control: no-cache, no-store, must-revalidate
+
+# Manifest and other PWA files - short cache
+/manifest.json
+  Cache-Control: public, max-age=3600
+
+# Images and fonts - medium cache
+/static/media/*
+  Cache-Control: public, max-age=86400
+
+# Favicon - medium cache
+/favicon.ico
+  Cache-Control: public, max-age=86400

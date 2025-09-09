@@ -1,0 +1,14 @@
+# Netlify redirects and headers
+/*    /index.html   200
+
+# Cache headers for different types of files
+/static/js/*
+  Cache-Control: public, max-age=31536000, immutable
+/static/css/*
+  Cache-Control: public, max-age=31536000, immutable
+/*.html
+  Cache-Control: no-cache, no-store, must-revalidate
+/sw.js
+  Cache-Control: no-cache, no-store, must-revalidate
+/manifest.json
+  Cache-Control: public, max-age=3600

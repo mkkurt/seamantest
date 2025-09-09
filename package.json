@@ -22,11 +22,12 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && node scripts/generate-sw.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lighthouse": "lhci autorun",
-    "lighthouse:ci": "npm run build && lhci autorun"
+    "lighthouse:ci": "npm run build && lhci autorun",
+    "verify-cache": "node scripts/verify-cache-setup.js"
   },
   "eslintConfig": {
     "extends": [
